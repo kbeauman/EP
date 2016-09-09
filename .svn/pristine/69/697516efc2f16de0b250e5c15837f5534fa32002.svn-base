@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="About the Dashboard Manager"
+  FileLanguage="pt-br"
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Ref2Column.css" />
+    <Link
+      Url="Content/Resources/Snippets/permissions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/DashboardMgr1.flsnp" />
+    <Link
+      Url="Content/Resources/Images/viewDBicon.png" />
+    <Link
+      Url="Content/Resources/Snippets/DMdbOpen.flsnp" />
+    <Link
+      Url="Content/Resources/Images/DashMgrPropDB.png" />
+    <Link
+      Url="Content/Resources/Snippets/DashboardMgr2.flsnp" />
+    <Link
+      Url="Content/c_scores_ww.htm" />
+    <Link
+      Url="Content/c_openends_ww.htm" />
+    <Link
+      Url="Content/c_benchmarks_ww.htm" />
+    <Link
+      Url="Content/Resources/Images/pin_button.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Ref2Column.css" />
+    <Link
+      Url="Content/Resources/Snippets/permissions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/DashboardMgr1.flsnp" />
+    <Link
+      Url="Content/Resources/Images/viewDBicon.png" />
+    <Link
+      Url="Content/Resources/Snippets/DMdbOpen.flsnp" />
+    <Link
+      Url="Content/Resources/Images/DashMgrPropDB.png" />
+    <Link
+      Url="Content/Resources/Snippets/DashboardMgr2.flsnp" />
+    <Link
+      Url="Content/c_scores_ww.htm" />
+    <Link
+      Url="Content/c_openends_ww.htm" />
+    <Link
+      Url="Content/c_benchmarks_ww.htm" />
+    <Link
+      Url="Content/Resources/Images/pin_button.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="DashMgr" />
+    <Anchor
+      Name="DashboardDetails" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Dashboards:Dashboard Manager"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Dashboard Manager"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Dashboard Manager:properties"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Dashboard Manager:delete dashboard"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Dashboards:delete"
+      Conditions=""
+      LocalConditions=""
+      Position="7" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Ref2Column.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

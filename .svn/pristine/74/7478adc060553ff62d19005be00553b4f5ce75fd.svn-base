@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="SelectSettings.flsnp"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="x-flsnp">
+    <header>
+      <skl><external-file
+          href="SelectSettings.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">4</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">2</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>settings icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">settings icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone configurações</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>settings icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">settings icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone configurações</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-body"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Apply<ept
+            id="1">&lt;/span&gt;</ept> and then click the <bpt
+            id="2">&lt;span class="uicontrol"&gt;</bpt>Settings<ept
+            id="2">&lt;/span&gt;</ept> icon (<ph
+            id="1"
+            ctype="image">&lt;img src="../Images/sets_icon.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="2" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>). The <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="3">&lt;/span&gt;</ept> sidebar displays.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Apply<ept
+              id="1">&lt;/span&gt;</ept> and then click the <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Settings<ept
+              id="2">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image">&lt;img src="../Images/sets_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="2" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="3">&lt;/span&gt;</ept> sidebar displays.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique em <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Aplicar<ept
+              id="1">&lt;/span&gt;</ept>, e em seguida, clique no ícone <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Configurações<ept
+              id="2">&lt;/span&gt;</ept> (<ph
+              id="1"
+              ctype="image">&lt;img src="../Images/sets_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="2" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</mrk><mrk
+            mtype="seg"
+            mid="2">A barra lateral <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Configurações<ept
+              id="3">&lt;/span&gt;</ept> será exibida.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="pt-br" MadCap:tocPath="Bem-vindo ao Portal Executivo" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="pt-br" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Visualizador de Painéis</title>
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/MadCapAll.js">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#toc_viewer.htm" style="">Open topic with navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix"> </span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bem-vindo ao Portal Executivo</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Visualizador de Painéis</span>
+        </div>
+        <h1>Visualizador de Painéis</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Resumo: &lt;/i&gt;"><span class="autonumber"><span><i>Resumo: </i></span></span>Esta seção da <span class="wintitle">Ajuda</span> contém informações sobre:</p>
+        <ul>
+            <li value="1"><a href="c_dashboards_about_2.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Como exibir painéis</a>
+            </li>
+            <li value="2"><a href="c_dashboards_about_2.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Como compartilhar um painel</a>
+            </li>
+        </ul>
+        <p>O <span class="wintitle">Visualizador de Painéis</span> é o consumidor ou destinatário dos painéis personalizados pelo <a title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda." href="toc_creator1.htm">Criador de Painéis</a>. Esta seção da <span class="wintitle">Ajuda</span> é específica à função <span class="wintitle">Visualizador de Painéis</span>.</p>
+        <h2><a name="kanchor2"></a>Usabilidade baseada em função</h2>
+        <p>Os recursos e funcionalidades do <span class="wintitle">Portal Executivo</span> são regidos pelas configurações de função de cada usuário. Por exemplo, para navegar pelo sistema, pode ser que você veja um <a href="#Dashboar" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">carrossel de navegação</a> ao longo da parte superior de uma página ou uma <a href="toc_creator1.htm#Side" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">barra de navegação</a> ao longo do lado esquerdo. Além disso, alguns usuários podem <a href="t_share_2.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">compartilhar um painel</a> e outros têm acesso ao <a href="t_dashboard_new.htm#DashMgr" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Gerenciador de Painéis</a>. Sempre que possível, esses recursos baseados em função são indicados em cada tópico da <span class="wintitle">Ajuda</span>.</p>
+        <h2><a name="Dashboard"></a>N<a name="kanchor3"></a>avegação de painéis</h2>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Resumo: &lt;/i&gt;"><span class="autonumber"><span><i>Resumo: </i></span></span>Use o controle de navegação circular para exibir os painéis disponíveis. Clique nos separadores verticais para exibir um painel.</p>
+        <p>O recurso de navegação de painéis é um controle interativo baseado em permissão exibido abaixo da <a href="r_toolbar.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">barra de ferramentas</a> para acesso aos seus painéis. Cada seção contém o nome de um determinado <a href="c_dashboards_about.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">painel</a>, e o canal de dados e o número de blocos que compõem o painel. Clique nos botões de rolagem em uma das extremidades para acessar mais painéis.</p>
+        <p><a class="MCRelatedTopics_0" href="javascript:void(0);" onclick="FMCLinkControl( event, this, null ); return false;" onkeydown="this.MCKeydown = true;" MadCap:topics="Como usar a página de acesso|c_login_2.htm||Sobre a barra de ferramentas do Portal Executivo|r_toolbar_2.htm"><img src="SkinSupport/RelatedTopics.gif" style="border: none;margin-right: 5px;" alt="Temas relacionados" />Temas relacionados</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2013 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

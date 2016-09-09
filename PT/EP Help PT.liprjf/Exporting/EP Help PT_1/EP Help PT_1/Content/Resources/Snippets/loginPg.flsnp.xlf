@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="loginPg.flsnp"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="x-flsnp">
+    <header>
+      <skl><external-file
+          href="loginPg.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">32</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">3</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Login:how to;Password:change;Set Language;Password:reset</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Login:how to</mrk><mrk
+            mtype="seg"
+            mid="2">Password:change</mrk><mrk
+            mtype="seg"
+            mid="3">Set Language</mrk><mrk
+            mtype="seg"
+            mid="4">Password:reset</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Login:how to</mrk><mrk
+            mtype="seg"
+            mid="2">Password:change</mrk><mrk
+            mtype="seg"
+            mid="3">Set Language</mrk><mrk
+            mtype="seg"
+            mid="4">Password:reset</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Language</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Language</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Language</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Feedback</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Feedback</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Feedback</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-h1"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Using the Login Page</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Using the Login Page</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Using the Login Page</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-li"
+        phase-name="pretrans"><source>Access <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1">&lt;/span&gt;</ept> or <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Access <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept> or <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Access <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept> or <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="2">&lt;/span&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-li"
+        phase-name="pretrans"><source>Change your password</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Change your password</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Change your password</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-li"
+        phase-name="pretrans"><source>Change the language of the user interface</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Change the language of the user interface</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Change the language of the user interface</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-li"
+        phase-name="pretrans"><source>Submit feedback</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Submit feedback</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Submit feedback</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1">&lt;/span&gt;</ept> offers a secure login feature which is synchronized with the <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="2">&lt;/span&gt;</ept> to facilitate a single login for both environments. Your session closes automatically after 30 minutes of inactivity.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept> offers a secure login feature which is synchronized with the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="2">&lt;/span&gt;</ept> to facilitate a single login for both environments.</mrk><mrk
+            mtype="seg"
+            mid="2">Your session closes automatically after 30 minutes of inactivity.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept> offers a secure login feature which is synchronized with the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="2">&lt;/span&gt;</ept> to facilitate a single login for both environments.</mrk><mrk
+            mtype="seg"
+            mid="2">Your session closes automatically after 30 minutes of inactivity.</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-div"
+        phase-name="pretrans"><source>Leaving your session unattended allows anyone with access to your device to view your data. Remember to either logout of the session or lock your device while away for extended periods.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Leaving your session unattended allows anyone with access to your device to view your data.</mrk><mrk
+            mtype="seg"
+            mid="2">Remember to either logout of the session or lock your device while away for extended periods.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Leaving your session unattended allows anyone with access to your device to view your data.</mrk><mrk
+            mtype="seg"
+            mid="2">Remember to either logout of the session or lock your device while away for extended periods.</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Login<ept
+            id="1">&lt;/span&gt;</ept> screen allows you to select which portal to view initially. Navigating between portals is available in a single login session.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Login<ept
+              id="1">&lt;/span&gt;</ept> screen allows you to select which portal to view initially.</mrk><mrk
+            mtype="seg"
+            mid="2">Navigating between portals is available in a single login session.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Login<ept
+              id="1">&lt;/span&gt;</ept> screen allows you to select which portal to view initially.</mrk><mrk
+            mtype="seg"
+            mid="2">Navigating between portals is available in a single login session.</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>To login...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">To login...</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">To login...</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-li"
+        phase-name="pretrans"><source>Select the desired portal from the menu.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Select the desired portal from the menu.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Select the desired portal from the menu.</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-li"
+        phase-name="pretrans"><source>Type your Username and password.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Type your Username and password.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Type your Username and password.</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-li"
+        phase-name="pretrans"><source>Optionally, select the desired language from the menu. You can display <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1">&lt;/span&gt;</ept> in the languages listed. However, <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="2">&lt;/span&gt;</ept> is only available in English.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Optionally, select the desired language from the menu.</mrk><mrk
+            mtype="seg"
+            mid="2">You can display <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept> in the languages listed.</mrk><mrk
+            mtype="seg"
+            mid="3">However, <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="2">&lt;/span&gt;</ept> is only available in English.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Optionally, select the desired language from the menu.</mrk><mrk
+            mtype="seg"
+            mid="2">You can display <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept> in the languages listed.</mrk><mrk
+            mtype="seg"
+            mid="3">However, <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="2">&lt;/span&gt;</ept> is only available in English.</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-li"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Log in<ept
+            id="1">&lt;/span&gt;</ept>. The <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+            id="2">&lt;/span&gt;</ept> page displays.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Log in<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+              id="2">&lt;/span&gt;</ept> page displays.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Log in<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+              id="2">&lt;/span&gt;</ept> page displays.</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-div"
+        phase-name="pretrans"><source>It is recommended to periodically change your password to maintain optimal security.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">It is recommended to periodically change your password to maintain optimal security.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">It is recommended to periodically change your password to maintain optimal security.</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>To change or reset your password...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">To change or reset your password...</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">To change or reset your password...</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-li"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Forgot password<ept
+            id="1">&lt;/span&gt;</ept>. The <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Reset Password<ept
+            id="2">&lt;/span&gt;</ept> dialog displays.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Forgot password<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Reset Password<ept
+              id="2">&lt;/span&gt;</ept> dialog displays.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Forgot password<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Reset Password<ept
+              id="2">&lt;/span&gt;</ept> dialog displays.</mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-li"
+        phase-name="pretrans"><source>Type your email address and login user name and click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Submit<ept
+            id="1">&lt;/span&gt;</ept>. The dialog closes and an email message is sent to the entered address with further instructions.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Type your email address and login user name and click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Submit<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The dialog closes and an email message is sent to the entered address with further instructions.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Type your email address and login user name and click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Submit<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The dialog closes and an email message is sent to the entered address with further instructions.</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>Other features available on the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Login<ept
+            id="1">&lt;/span&gt;</ept> page include...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Other features available on the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Login<ept
+              id="1">&lt;/span&gt;</ept> page include...</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Other features available on the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Login<ept
+              id="1">&lt;/span&gt;</ept> page include...</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-th"
+        phase-name="pretrans"><source>Feature</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Feature</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Feature</mrk></target></trans-unit><trans-unit
+        id="23"
+        restype="x-th"
+        phase-name="pretrans"><source>Description</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Description</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Description</mrk></target></trans-unit><trans-unit
+        id="24"
+        restype="x-td"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Language Menu</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Language Menu</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Language Menu</mrk></target></trans-unit><trans-unit
+        id="25"
+        restype="x-td"
+        phase-name="pretrans"><source>Set <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1">&lt;/span&gt;</ept> to display in an available dialect.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Set <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept> to display in an available dialect.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Set <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept> to display in an available dialect.</mrk></target></trans-unit><trans-unit
+        id="26"
+        restype="x-td"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="3" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Feedback</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="3" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Feedback</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="3" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Feedback</mrk></target></trans-unit><trans-unit
+        id="27"
+        restype="x-td"
+        phase-name="pretrans"><source>Display a pre-addressed email note to report a problem with the application or offer suggestions for future versions.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Display a pre-addressed email note to report a problem with the application or offer suggestions for future versions.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Display a pre-addressed email note to report a problem with the application or offer suggestions for future versions.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

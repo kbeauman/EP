@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="buildopenend6.htm"
+    source-language="en-us"
+    target-language="en-gb"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="buildopenend6.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">8</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">4</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Click Stgs.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click Stgs.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click Stgs.</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>Settings</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Settings</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Settings</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-title"
+        phase-name="pretrans"><source>Build Open End 5</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build Open End 5</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Build Open End 5</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-h1"
+        phase-name="pretrans"><source>Build a New Open Ends Tile - Step 5</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build a New Open Ends Tile - Step 5</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Build a New Open Ends Tile - Step 5</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-h3"
+        phase-name="pretrans"><source>Next Step</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Next Step</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Next Step</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="buildopenend7.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="3" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="4" />"&gt;</bpt>Step 6 &gt;<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="buildopenend7.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Step 6 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="buildopenend7.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Step 6 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit></body>
+  </file>
+</xliff>

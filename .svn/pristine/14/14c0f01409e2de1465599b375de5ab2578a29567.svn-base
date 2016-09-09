@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VariableSet>
+    <Variable Name="Variables.CompanyName">MadCap Software</Variable>
+    <Variable Name="Variables.PhoneNumber">858 123 4567</Variable>
+</VariableSet>

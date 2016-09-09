@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="fr-ca" MadCap:ignoredWords="" MadCap:tocPath="Bienvenue au Portail exécutif" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="fr-ca" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Créateur de tableaux de bord</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js">
+        </script>
+        <script src="SkinSupport/MadCapAll.js">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#toc_creator1.htm" style="">Ouvrir la rubrique avec les liens de navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix"> </span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bienvenue au Portail exécutif</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Créateur de tableaux de bord</span>
+        </div>
+        <h1>Créateur de tableaux de bord</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Sommaire: &lt;/i&gt;"><span class="autonumber"><span><i>Sommaire: </i></span></span>Cette section d'<span class="wintitle">Aide</span> contient des renseignements sur:</p>
+        <ul>
+            <li value="1">Mosaïque de tableaux de bord&#160;: <a href="c_scores_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Résultats</a>, <a href="c_benchmarks_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Repères</a> et <a href="c_openends_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Questions ouvertes</a></li>
+            <li value="2"><a href="t_share.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Comment partager un tableau de bord</a>
+            </li>
+        </ul>
+        <p>Le <span class="wintitle">Créateur de tableaux de bord</span> développe et organise des mosaïques dans les tableaux de bord afin de présenter des données au <a href="toc_viewer.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Visiteur de tableaux de bord</a>. Cette section d'<span class="wintitle">Aide</span> est propre au rôle du <span class="wintitle">Créateur de tableaux de bord</span>.</p>
+        <h2><a name="kanchor17"></a>Utilisation basée sur les rôles</h2>
+        <p>Les fonctions et la fonctionnalité du <span class="wintitle">Portail exécutif</span> sont régies par les réglages du rôle de chaque utilisateur. Par exemple, afin de se déplacer dans le système, vous pouvez voir un <a href="toc_viewer.htm#Dashboar" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">carrousel de navigation</a> en haut d'une page ou une <a href="#Side" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">barre de navigation</a> à gauche. De plus, certains utilisateurs ont la possibilité de <a href="t_share_2.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">partager un tableau de bord</a> et certains ont accès au <a href="t_dashboard_new.htm#DashMgr" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Gestionnaire de tableaux de bord</a>. Dans la mesure du possible, ces fonctions basées sur les rôles sont indiquées dans chaque sujet de d'<span class="wintitle">Aide</span>.</p>
+        <h2><a name="Side"></a>Navigation latérale<a name="kanchor18"></a></h2>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Sommaire: &lt;/i&gt;"><span class="autonumber"><span><i>Sommaire: </i></span></span>Utilisez le regroupement d'icônes sur le côté gauche de l'application pour consulter ou créer des tableaux de bord ou des mosaïques.</p>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_558443598_0" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" />détails...</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_558443598_0" style="display: none;">
+                <p>La <span class="wintitle">navigation latérale</span> est une fonction basée sur l'autorisation qui affiche du côté gauche de l'écran des icônes pour se déplacer d'un environnement à un autre en un seul clic. Le but principal de ces environnements est de gérer les tableaux de bord pour la présentation de données. Chaque environnement est décrit brièvement dans le tableau suivant avec un lien pour des renseignements supplémentaires.</p>
+                <p>Un fil d'Ariane s'affiche sous la barre d'outils pour indiquer l'environnement et l'article que vous consultez. Par exemple: Si vous consultez le <span class="wintitle">Tableau de bord ABC</span>, le repère affiche: <span class="systemoutput">Tableaux de bord &gt; ABC</span>.</p>
+                <p>Chaque environnement offre un menu d'une ou plusieurs options au sein de l'environnement. Ce menu s'affiche près de la navigation latérale. Une sélection doit être effectuée dans le menu afin de passer à l'environnement sélectionné.</p>
+                <p>Le tableau suivant décrit chaque élément dans la navigation latérale:</p>
+                <table style="width: 100%;mc-table-style: url('Resources/TableStyles/Ref2Column.css');margin-left: auto;margin-right: auto;" class="TableStyle-Ref2Column" cellspacing="0">
+                    <col class="TableStyle-Ref2Column-Column-Column1" />
+                    <col class="TableStyle-Ref2Column-Column-Column2" />
+                    <thead>
+                        <tr class="TableStyle-Ref2Column-Head-Header1">
+                            <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Élément</th>
+                            <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <img src="Resources/Images/show_icon.png" title="icône afficher" alt="icône afficher" />Afficher/Masquer<a name="kanchor19"></a></td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Chaque environnement comporte un menu d'options à afficher. Cliquez sur l'icône <span class="uicontrol">Masquer</span> (<img src="Resources/Images/hide_icon.png" title="icône masquer" alt="icône masquer" />) pour maximiser votre affichage.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">
+                                <img src="Resources/Images/Dashboard_icon.png" title="icône Tableau de bord" alt="icône Tableau de bord" />Tableaux de bord<a name="kanchor20"></a></td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Un <span class="wintitle">Tableau de bord</span> est un regroupement de gadgets logiciels appelés <span class="term">Mosaïques</span> qui affichent un classement basé sur des types de données sélectionnées telles que les données démographiques, l'environnement ou la satisfaction de la clientèle. Voir <a href="c_dashboards_about.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Consultation des tableaux de bord</a> pour des renseignements supplémentaires.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <img src="Resources/Images/scores_icon.png" title="icône repères" alt="icône repères" />Résultats<a name="kanchor21"></a></td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Un <span class="wintitle">Résultat</span> est une valeur numérique, comprise entre zéro et cent, qui représente une mesure spécifique. Voir <a href="c_scores_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Utilisation des résultats</a> pour des renseignements supplémentaires.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">
+                                <img src="Resources/Images/openEnds_icon.png" title="icône questions ouvertes" alt="icône questions ouvertes" />Questions ouvertes<a name="kanchor22"></a></td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Les <span class="wintitle">Questions ouvertes</span> sont une catégorie de réponses composées des narrations des répondants. Voir <a href="c_openends_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Utilisation des questions ouvertes</a> pour des renseignements supplémentaires.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <img src="Resources/Images/benchmarks_icon.png" title="icône Repères" alt="icône Repères" /><a name="kanchor23"></a>Repères</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Les <span class="wintitle">Repères</span> sont des résultats qui proviennent d'autres clients <span class="wintitle">ForeSee</span> à des fins de comparaison. Voir <a href="c_benchmarks_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Utilisation des repères</a> pour des renseignements supplémentaires.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyB-Column1-Body2">
+                                <img src="Resources/Images/tools_icon.png" title="icône outils" alt="icône outils" /><a name="kanchor24"></a>Outils</td>
+                            <td class="TableStyle-Ref2Column-BodyA-Column2-Body2">Cet environnement héberge le <a href="t_dashboard_new.htm#DashMgr" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Gestionnaire de tableau de bord</a> qui vous permet de créer et contrôler des tableaux de bord personnalisés. Voir <a href="t_dashboard_new.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Ajouter un tableau de bord</a> pour des renseignements supplémentaires.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <p><a class="MCRelatedTopics_0" href="javascript:void(0);" onclick="FMCLinkControl( event, this, null ); return false;" onkeydown="this.MCKeydown = true;" MadCap:topics="Au sujet du Gestionnaire de tableaux de bord|c_dashboard_manager.htm||Consultation des tableaux de bord|c_dashboards_about.htm||La barre d'outils du Portail exécutif|r_toolbar.htm||Sélection d'une période|r_date.htm||Utilisation de la page de connexion|c_login.htm||Utilisation des repères|c_benchmarks_ww.htm||Utilisation des résultats|c_scores_ww.htm||Utiliser les questions ouvertes|c_openends_ww.htm"><img src="SkinSupport/RelatedTopics.gif" style="border: none;margin-right: 5px;" alt="Related Topics Icon" />Sujets apparentés</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

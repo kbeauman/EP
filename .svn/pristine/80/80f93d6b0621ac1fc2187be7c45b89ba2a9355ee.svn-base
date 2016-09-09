@@ -1,0 +1,753 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="c_welcome.htm"
+    source-language="en-us"
+    target-language="fr-ca"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="c_welcome.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">58</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">14</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Help:about</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Help:about</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Help:about</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>dashboard viewer icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">dashboard viewer icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">icône visiteur de tableaux de bord</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>dashboard creator icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">dashboard creator icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Icône du créateur de tableaux de bord</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>foresee logo</source><seg-source><mrk
+            mtype="seg"
+            mid="1">foresee logo</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ForeSee Logo</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-h1"
+        phase-name="pretrans"><source>Welcome to Executive Portal</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Welcome to Executive Portal</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Bienvenue au Portail exécutif</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1">&lt;/span&gt;</ept> is a web based application designed specifically for top level management to organize and view multichannel and multi-measure information provided by <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+            id="2">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept> is a web based application designed specifically for top level management to organize and view multichannel and multi-measure information provided by <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="2">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Le <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Portail exécutif<ept
+              id="1">&lt;/span&gt;</ept> est une application en ligne conçue spécifiquement pour la direction générale permettant d'organiser les renseignements sur de multiples méthodes et mesures fournies par <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="2">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-p"
+        phase-name="pretrans"><source>This is accomplished through customizable dashboards which present your data in a variety of interactive graphics that clearly identify important outliers for decision makers. These graphics also enable you to drill down into data with a single click.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This is accomplished through customizable dashboards which present your data in a variety of interactive graphics that clearly identify important outliers for decision makers.</mrk><mrk
+            mtype="seg"
+            mid="2">These graphics also enable you to drill down into data with a single click.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cela se fait grâce à des tableaux de bord personnalisables présentant vos données dans différents graphiques interactifs qui identifient clairement les observations aberrantes importantes pour les décideurs.</mrk><mrk
+            mtype="seg"
+            mid="2">Ces graphiques vous permettent également d'avoir accès aux données en un seul clic.</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-th"
+        phase-name="pretrans"><source>Dashboard Viewer</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Dashboard Viewer</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Visiteur de tableaux de bord</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-th"
+        phase-name="pretrans"><source>Dashboard Creator</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Dashboard Creator</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Créateur de tableaux de bord</mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-td"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="toc_viewer.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" />"&gt;</bpt>Dashboard Viewer<ept
+            id="1">&lt;/a&gt;</ept> - The consumer or recipient of dashboards who  analyzes the charts, grids, and Open Ends.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="toc_viewer.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Dashboard Viewer<ept
+              id="1">&lt;/a&gt;</ept> - The consumer or recipient of dashboards who analyzes the charts, grids, and Open Ends.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="toc_viewer.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Visiteur de tableaux de bord<ept
+              id="1">&lt;/a&gt;</ept> - Le consommateur ou destinataire des tableaux de bord qui analyse les diagrammes, grilles et questions ouvertes.</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-td"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="toc_creator1.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" />"&gt;</bpt>Dashboard Creator<ept
+            id="1">&lt;/a&gt;</ept> -  Develops and arranges customized tiles into dashboards for the purpose of presenting data.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="toc_creator1.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Dashboard Creator<ept
+              id="1">&lt;/a&gt;</ept> - Develops and arranges customized tiles into dashboards for the purpose of presenting data.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="toc_creator1.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Créateur de tableaux de bord<ept
+              id="1">&lt;/a&gt;</ept> - Il développe et organise des mosaïques dans les tableaux de bord afin de présenter des données.</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-h2"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Getting Help</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Getting Help</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Obtenir de l'aide</mrk></target></trans-unit><trans-unit
+        id="23"
+        restype="x-p"
+        phase-name="pretrans"><source>Information on using this <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Help<ept
+            id="1">&lt;/span&gt;</ept> feature.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Information on using this <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Help<ept
+              id="1">&lt;/span&gt;</ept> feature.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Renseignements sur l'utilisation de la fonction <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Aide<ept
+              id="1">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="24"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+            id="1">&lt;/span&gt;</ept> may be viewed at any time during your login session by clicking <bpt
+            id="2">&lt;span class="uicontrol"&gt;</bpt>Help<ept
+            id="2">&lt;/span&gt;</ept> at the top of the web page.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+              id="1">&lt;/span&gt;</ept> may be viewed at any time during your login session by clicking <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Help<ept
+              id="2">&lt;/span&gt;</ept> at the top of the web page.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>L'aide du Portail exécutif<ept
+              id="1">&lt;/span&gt;</ept> peut être consultée à tout moment durant la session de connexion en cliquant sur <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Aide<ept
+              id="2">&lt;/span&gt;</ept> en haut de la page Web.</mrk></target></trans-unit><trans-unit
+        id="25"
+        restype="x-h3"
+        phase-name="pretrans"><source>Drop-down Text</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Drop-down Text</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Texte déroulant vertical</mrk></target></trans-unit><trans-unit
+        id="26"
+        restype="x-p"
+        phase-name="pretrans"><source>Some topics may show links like this:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Some topics may show links like this:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Certains sujets peuvent afficher des liens comme ceci :</mrk></target></trans-unit><trans-unit
+        id="27"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>Click to view something important...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view something important...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher quelque chose d'important...</mrk></target></trans-unit><trans-unit
+        id="28"
+        restype="x-p"
+        phase-name="pretrans"><source>Click the link again to close this section of text. Generally, the drop-down text feature is used for topics with several paragraphs or multiple step-by-step procedures to offer access to desired information quickly without having to scroll down the page. Drop-down text is expanded (opened) automatically when you print a topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click the link again to close this section of text.</mrk><mrk
+            mtype="seg"
+            mid="2">Generally, the drop-down text feature is used for topics with several paragraphs or multiple step-by-step procedures to offer access to desired information quickly without having to scroll down the page.</mrk><mrk
+            mtype="seg"
+            mid="3">Drop-down text is expanded (opened) automatically when you print a topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez sur le lien à nouveau pour fermer cette section de texte.</mrk><mrk
+            mtype="seg"
+            mid="2">En général, la fonction du texte déroulant vertical est utilisée pour les sujets ayant plusieurs paragraphes ou de multiples procédures systématiques pour permettre un accès rapide aux renseignements désirés sans avoir à défiler vers le bas.</mrk><mrk
+            mtype="seg"
+            mid="3">Le texte déroulant vertical est affiché (ouvert) automatiquement lorsque vous imprimez un sujet.</mrk></target></trans-unit><trans-unit
+        id="29"
+        restype="x-h3"
+        phase-name="pretrans"><source>Labels and Actions</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Labels and Actions</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Étiquettes et actions</mrk></target></trans-unit><trans-unit
+        id="30"
+        restype="x-p"
+        phase-name="pretrans"><source>As you view <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+            id="1">&lt;/span&gt;</ept> you may notice items in <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>bold<ept
+            id="2">&lt;/span&gt;</ept> and <bpt
+            id="3">&lt;span class="uicontrol"&gt;</bpt>bold-italic<ept
+            id="3">&lt;/span&gt;</ept>. This is to help you identify <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Labels<ept
+            id="4">&lt;/span&gt;</ept>, such as a text field label, and <bpt
+            id="5">&lt;span class="uicontrol"&gt;</bpt>Actions<ept
+            id="5">&lt;/span&gt;</ept>, as in a graphical user interface button or link.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">As you view <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+              id="1">&lt;/span&gt;</ept> you may notice items in <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>bold<ept
+              id="2">&lt;/span&gt;</ept> and <bpt
+              id="3">&lt;span class="uicontrol"&gt;</bpt>bold-italic<ept
+              id="3">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">This is to help you identify <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Labels<ept
+              id="4">&lt;/span&gt;</ept>, such as a text field label, and <bpt
+              id="5">&lt;span class="uicontrol"&gt;</bpt>Actions<ept
+              id="5">&lt;/span&gt;</ept>, as in a graphical user interface button or link.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Lorsque vous consultez <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>l'aide du Portail exécutif<ept
+              id="1">&lt;/span&gt;</ept>, vous remarquerez peut-être des éléments en <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>gras<ept
+              id="2">&lt;/span&gt;</ept> et en <bpt
+              id="3">&lt;span class="uicontrol"&gt;</bpt>gras italique<ept
+              id="3">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">Cela vous aide à identifier les <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Étiquettes<ept
+              id="4">&lt;/span&gt;</ept>, telles que les étiquettes de champs et les <bpt
+              id="5">&lt;span class="uicontrol"&gt;</bpt>Actions<ept
+              id="5">&lt;/span&gt;</ept>, comme dans un bouton ou un lien de l'interface utilisateur graphique.</mrk></target></trans-unit><trans-unit
+        id="31"
+        restype="x-h3"
+        phase-name="pretrans"><source>Help Toolbar</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Help Toolbar</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Barre d'outils de l'aide</mrk></target></trans-unit><trans-unit
+        id="32"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+            id="1">&lt;/span&gt;</ept> offers the following features at the top of the web page:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+              id="1">&lt;/span&gt;</ept> offers the following features at the top of the web page:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>L'aide du Portail exécutif<ept
+              id="1">&lt;/span&gt;</ept> offre les fonctions suivantes en haut de la page Web :</mrk></target></trans-unit><trans-unit
+        id="33"
+        restype="x-th"
+        phase-name="pretrans"><source>Feature</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Feature</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Fonction</mrk></target></trans-unit><trans-unit
+        id="34"
+        restype="x-th"
+        phase-name="pretrans"><source>Description</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Description</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Description</mrk></target></trans-unit><trans-unit
+        id="35"
+        restype="x-td"
+        phase-name="pretrans"><source>Click the <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>ForeSee<ept
+            id="1">&lt;/span&gt;</ept> logo to display the <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+            id="2">&lt;/span&gt;</ept> web page in a new tab.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click the <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>ForeSee<ept
+              id="1">&lt;/span&gt;</ept> logo to display the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="2">&lt;/span&gt;</ept> web page in a new tab.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez sur le logo <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>ForeSee<ept
+              id="1">&lt;/span&gt;</ept> pour afficher la page Web <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="2">&lt;/span&gt;</ept> dans un nouvel onglet.</mrk></target></trans-unit><trans-unit
+        id="36"
+        restype="x-td"
+        phase-name="pretrans"><source>Show or hide the left sidebar, which contains the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+            id="1">&lt;/span&gt;</ept>, <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Search<ept
+            id="2">&lt;/span&gt;</ept>, and <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Index<ept
+            id="3">&lt;/span&gt;</ept> for <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Help<ept
+            id="4">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Show or hide the left sidebar, which contains the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+              id="1">&lt;/span&gt;</ept>, <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Search<ept
+              id="2">&lt;/span&gt;</ept>, and <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Index<ept
+              id="3">&lt;/span&gt;</ept> for <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Help<ept
+              id="4">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Affichez ou masquez la barre latérale gauche qui comporte la <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Table des matières<ept
+              id="1">&lt;/span&gt;</ept>, la <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Recherche<ept
+              id="2">&lt;/span&gt;</ept> et l'<bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Index<ept
+              id="3">&lt;/span&gt;</ept> pour l'<bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Aide<ept
+              id="4">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="37"
+        restype="x-td"
+        phase-name="pretrans"><source>Previous</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Previous</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Précédent</mrk></target></trans-unit><trans-unit
+        id="38"
+        restype="x-td"
+        phase-name="pretrans"><source>Step backwards through the 
+					<bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+            id="1">&lt;/span&gt;</ept> to view each topic in reverse order (not to be confused with the <bpt
+            id="2">&lt;span class="uicontrol"&gt;</bpt>Back<ept
+            id="2">&lt;/span&gt;</ept> button of your web browser).</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Step backwards through the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+              id="1">&lt;/span&gt;</ept> to view each topic in reverse order (not to be confused with the <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Back<ept
+              id="2">&lt;/span&gt;</ept> button of your web browser).</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Revenez en arrière dans la <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Table des matières<ept
+              id="1">&lt;/span&gt;</ept> pour consulter chaque sujet dans l'ordre inverse (ne pas confondre avec le bouton <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Précédent<ept
+              id="2">&lt;/span&gt;</ept> de votre navigateur).</mrk></target></trans-unit><trans-unit
+        id="39"
+        restype="x-td"
+        phase-name="pretrans"><source>Next</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Next</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Suivant</mrk></target></trans-unit><trans-unit
+        id="40"
+        restype="x-td"
+        phase-name="pretrans"><source>Step through the 
+						<bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+            id="1">&lt;/span&gt;</ept> to view each topic sequentially as you would when reading a
+					book.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Step through the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+              id="1">&lt;/span&gt;</ept> to view each topic sequentially as you would when reading a book.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Dans la <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Table des matières<ept
+              id="1">&lt;/span&gt;</ept>, passez d'un sujet à l'autre pour les consulter séquentiellement comme si vous lisiez un livre.</mrk></target></trans-unit><trans-unit
+        id="41"
+        restype="x-td"
+        phase-name="pretrans"><source>TOC</source><seg-source><mrk
+            mtype="seg"
+            mid="1">TOC</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">TDM</mrk></target></trans-unit><trans-unit
+        id="42"
+        restype="x-td"
+        phase-name="pretrans"><source>Display the 
+					<bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+            id="1">&lt;/span&gt;</ept> in the left sidebar.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Display the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+              id="1">&lt;/span&gt;</ept> in the left sidebar.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Affichez la <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Table des matières<ept
+              id="1">&lt;/span&gt;</ept> dans la barre latérale gauche.</mrk></target></trans-unit><trans-unit
+        id="43"
+        restype="x-td"
+        phase-name="pretrans"><source>Search</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Search</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Recherche</mrk></target></trans-unit><trans-unit
+        id="44"
+        restype="x-td"
+        phase-name="pretrans"><source>Display a free-form text field in the left sidebar to enter all or part of a specific word. You can also enter word strings in quotations, e.g., <bpt
+            id="1">&lt;span class="userinput"&gt;</bpt>"Open Ends"<ept
+            id="1">&lt;/span&gt;</ept>. The
+						corresponding 
+						<bpt
+            id="2">&lt;span class="uicontrol"&gt;</bpt>Search<ept
+            id="2">&lt;/span&gt;</ept> button returns all topics containing your
+						entry. Click on each topic to view the page with your search criteria
+					highlighted.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Display a free-form text field in the left sidebar to enter all or part of a specific word.</mrk><mrk
+            mtype="seg"
+            mid="2">You can also enter word strings in quotations, e.g., <bpt
+              id="1">&lt;span class="userinput"&gt;</bpt>"Open Ends"<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3">The corresponding <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Search<ept
+              id="2">&lt;/span&gt;</ept> button returns all topics containing your entry.</mrk><mrk
+            mtype="seg"
+            mid="4">Click on each topic to view the page with your search criteria highlighted.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Affichez un champ de texte de format libre dans la barre latérale gauche pour saisir tout ou partie d'un mot spécifique.</mrk><mrk
+            mtype="seg"
+            mid="2">Vous pouvez également saisir la chaîne de mots entre guillemets, par exemple, <bpt
+              id="1">&lt;span class="userinput"&gt;</bpt>« Questions ouvertes »<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3">Le bouton <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Recherche<ept
+              id="2">&lt;/span&gt;</ept> correspondant repère tous les sujets comportant votre saisie.</mrk><mrk
+            mtype="seg"
+            mid="4">Cliquez sur chaque sujet pour consulter la page avec vos critères de recherche en surbrillance.</mrk></target></trans-unit><trans-unit
+        id="45"
+        restype="x-td"
+        phase-name="pretrans"><source>Index</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Index</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Index</mrk></target></trans-unit><trans-unit
+        id="46"
+        restype="x-td"
+        phase-name="pretrans"><source>Display a list of terms which are linked to topics containing the most descriptive information the term.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Display a list of terms which are linked to topics containing the most descriptive information the term.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Affichez une liste de termes qui sont liés aux sujets comportant l'information la plus descriptive du terme.</mrk></target></trans-unit><trans-unit
+        id="47"
+        restype="x-td"
+        phase-name="pretrans"><source>Print</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Print</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Impression</mrk></target></trans-unit><trans-unit
+        id="48"
+        restype="x-td"
+        phase-name="pretrans"><source>Sends the current 
+					topic to your default printer. For pages with drop-down sections, all sections are expanded automatically.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Sends the current topic to your default printer.</mrk><mrk
+            mtype="seg"
+            mid="2">For pages with drop-down sections, all sections are expanded automatically.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Envoie le sujet actuel à votre imprimante par défaut.</mrk><mrk
+            mtype="seg"
+            mid="2">Pour les pages ayant des sections déroulantes, toutes les sections sont affichées automatiquement.</mrk></target></trans-unit><trans-unit
+        id="49"
+        restype="x-td"
+        phase-name="pretrans"><source>Breadcrumb</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Breadcrumb</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Fil d'Ariane</mrk></target></trans-unit><trans-unit
+        id="50"
+        restype="x-p"
+        phase-name="pretrans"><source>Between the toolbar and topic, a breadcrumb displays with links to parent topics.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Between the toolbar and topic, a breadcrumb displays with links to parent topics.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Entre la barre d'outils et le sujet, un fil d'Ariane comportant des liens vers des sujets parents est affiché.</mrk></target></trans-unit><trans-unit
+        id="51"
+        restype="x-div"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="c_welcome.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" />"&gt;</bpt>Welcome to Executive Portal<ept
+            id="1">&lt;/a&gt;</ept> &gt; <bpt
+            id="2"
+            ctype="link">&lt;a href="toc_viewer.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" />"&gt;</bpt>Dashboard Viewer<ept
+            id="2">&lt;/a&gt;</ept> &gt; About the Login Page.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="c_welcome.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Welcome to Executive Portal<ept
+              id="1">&lt;/a&gt;</ept> &gt; <bpt
+              id="2"
+              ctype="link">&lt;a href="toc_viewer.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Dashboard Viewer<ept
+              id="2">&lt;/a&gt;</ept> &gt; About the Login Page.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="c_welcome.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Bienvenue au Portail exécutif<ept
+              id="1">&lt;/a&gt;</ept> &gt; <bpt
+              id="2"
+              ctype="link">&lt;a href="toc_viewer.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Visiteur de tableaux de bord<ept
+              id="2">&lt;/a&gt;</ept> &gt; À propos de la page de connexion.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

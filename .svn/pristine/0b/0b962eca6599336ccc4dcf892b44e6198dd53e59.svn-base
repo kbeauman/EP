@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="buildscore4.htm"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="buildscore4.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">12</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">6</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Set date range.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Set date range.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Estabelecer um intervalo de data.</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>calendar</source><seg-source><mrk
+            mtype="seg"
+            mid="1">calendar</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">calendário</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-title"
+        phase-name="pretrans"><source>Build Score 3</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build Score 3</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Construir de pontuação 3</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-h1"
+        phase-name="pretrans"><source>Build a new Response Score Tile - Step 3</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build a new Response Score Tile - Step 3</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Construir um novo bloco de resposta de pontuação - Passo 3</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-h3"
+        phase-name="pretrans"><source>Additional Information</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Additional Information</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Informações adicionais</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="r_date.htm" target="_parent" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="3" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="4" />"&gt;</bpt>Date Range Selection<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="r_date.htm" target="_parent" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Date Range Selection<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="r_date.htm" target="_parent" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Seleção do intervalo de datas<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-h3"
+        phase-name="pretrans"><source>Next Step</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Next Step</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Próximo passo</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="buildscore5.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="3" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="4" />"&gt;</bpt>Step 4 &gt;<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="buildscore5.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Step 4 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="buildscore5.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Passo 4 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit></body>
+  </file>
+</xliff>

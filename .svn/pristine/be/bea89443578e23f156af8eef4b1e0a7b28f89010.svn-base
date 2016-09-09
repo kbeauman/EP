@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="483" MadCap:lastWidth="926" xml:lang="es" MadCap:ignoredWords="">
+    <head>
+    </head>
+    <body>
+        <h1>Crear un nuevo mosaico de comparación - Paso 2</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/SelectData.flsnp" />
+        </p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildBM1.png" title="Hacer selecciones de datos" alt="Selecciones de datos de comparaciones" />
+        </p>
+        <h3>Paso siguiente</h3>
+        <p><a href="buildbenchmark3.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Paso 3 &gt;</a>
+        </p>
+    </body>
+</html>

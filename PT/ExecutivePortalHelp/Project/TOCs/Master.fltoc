@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="">
+    <TocEntry Title="capa" Link="/Content/cover.htm" BreakType="pageLayout" AutoEndOnLeftPage="disabled" PageType="title" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Cover.flpgl" conditions="Default.PrintOnly" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" />
+    <TocEntry Title="Sumário" Link="/Content/toc_print.htm" conditions="Default.PrintOnly" StartSection="false" BreakType="chapter" AutoEndOnLeftPage="disabled" PageLayout="/Content/Resources/PageLayouts/TOC.flpgl" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="lower-roman" SectionNumberReset="reset" VolumeNumberReset="reset" VolumeNumber="1" VolumeNumberFormat="lower-roman" SectionNumber="1" SectionNumberFormat="lower-roman" PageType="continue" PageNumberReset="reset" PageNumberFormat="lower-roman" PageNumber="1" />
+    <TocEntry Title="Bem-vindo ao Portal Executivo" Link="/Content/c_welcome.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="1" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="decimal" SectionNumberReset="continue" VolumeNumberReset="same" PageNumberFormat="decimal">
+        <TocEntry Title="Visualizador de Painéis" Link="/Content/toc_viewer.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl">
+            <TocEntry Title="Sobre a página de acesso" Link="/Content/c_login.htm">
+            </TocEntry>
+            <TocEntry Title="Sobre a barra de ferramentas do Portal Executivo" Link="/Content/r_toolbar_2.htm" />
+            <TocEntry Title="Como exibir painéis" Link="/Content/c_dashboards_about_2.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" />
+            <TocEntry Title="Sobre pontuações" Link="/Content/c_scores_about.htm" />
+            <TocEntry Title="Sobre perguntas abertas" Link="/Content/c_openends_about.htm" />
+            <TocEntry Title="Sobre parâmetros de referência" Link="/Content/c_benchmarks_about.htm" />
+            <TocEntry Title="Compartilhar um painel" Link="/Content/t_share_2.htm" />
+        </TocEntry>
+        <TocEntry Title="Criador de Painéis" Link="/Content/toc_creator1.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl">
+            <TocEntry Title="Sobre a página de acesso" Link="/Content/c_login_2.htm" />
+            <TocEntry Title="Sobre a barra de ferramentas do Portal Executivo" Link="/Content/r_toolbar.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="decimal" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" SectionNumberReset="continue" VolumeNumberReset="same" />
+            <TocEntry Title="Como trabalhar com painéis" Link="/Content/c_dashboards_about.htm" />
+            <TocEntry Title="Compartilhar um painel" Link="/Content/t_share.htm" />
+            <TocEntry Title="Adicionar um painel" Link="/Content/t_dashboard_new.htm" />
+            <TocEntry Title="Sobre o Gerenciador de Painéis" Link="/Content/c_dashboard_manager.htm" />
+            <TocEntry Title="Como trabalhar com pontuações" Link="/Content/c_scores_ww.htm" />
+            <TocEntry Title="Como trabalhar com perguntas abertas" Link="/Content/c_openends_ww.htm" />
+            <TocEntry Title="Como trabalhar com parâmetros de referência" Link="/Content/c_benchmarks_ww.htm">
+            </TocEntry>
+            <TocEntry Title="Seleção do intervalo de datas" Link="/Content/r_date.htm" />
+        </TocEntry>
+        <TocEntry Title="Guias de Início Rápido" Link="/Content/quickstartmain.htm">
+            <TocEntry Title="Construir um novo bloco de pontuações" Link="/Content/buildscore1.htm">
+                <TocEntry Title="Construir um novo bloco de pontuações - Passo 1" Link="/Content/buildscore2.htm" />
+                <TocEntry Title="Construir um novo bloco de pontuações - Passo 2" Link="/Content/buildscore3.htm" />
+                <TocEntry Title="Construir um novo bloco de pontuações - Passo 3" Link="/Content/buildscore4.htm" />
+                <TocEntry Title="Construir um novo bloco de pontuações - Passo 4" Link="/Content/buildscore5.htm" />
+                <TocEntry Title="Construir um novo bloco de pontuações - Passo 5" Link="/Content/buildscore6.htm" />
+                <TocEntry Title="Construir um novo bloco de pontuações - Passo 6" Link="/Content/buildscore7.htm" />
+                <TocEntry Title="Construir um novo bloco de pontuações - Passo 7" Link="/Content/buildscore8.htm" />
+                <TocEntry Title="Construir um novo bloco de pontuações - Passo 8" Link="/Content/buildscore9.htm" />
+            </TocEntry>
+            <TocEntry Title="Construir um novo bloco de perguntas abertas" Link="/Content/buildopenend1.htm">
+                <TocEntry Title="Construir um novo bloco de perguntas abertas - Passo 1" Link="/Content/buildopenend2.htm" />
+                <TocEntry Title="Construir um novo bloco de perguntas abertas - Passo 2" Link="/Content/buildopenend3.htm" />
+                <TocEntry Title="Construir um novo bloco de perguntas abertas - Passo 3" Link="/Content/buildopenend4.htm" />
+                <TocEntry Title="Construir um novo bloco de perguntas abertas - Passo 4" Link="/Content/buildopenend5.htm" />
+                <TocEntry Title="Construir um novo bloco de perguntas abertas - Passo 5" Link="/Content/buildopenend6.htm" />
+                <TocEntry Title="Construir um novo bloco de perguntas abertas - Passo 6" Link="/Content/buildopenend7.htm" />
+                <TocEntry Title="Construir um novo bloco de perguntas abertas - Passo 7" Link="/Content/buildopenend8.htm" />
+                <TocEntry Title="Construir um novo bloco de perguntas abertas - Passo 8" Link="/Content/buildopenend9.htm" />
+            </TocEntry>
+            <TocEntry Title="Construir um novo bloco de parâmetros de referência" Link="/Content/buildbenchmark1.htm">
+                <TocEntry Title="Construir um novo bloco de Parâmetros de referência - Passo 2" Link="/Content/buildbenchmark2.htm" />
+                <TocEntry Title="Construir um novo bloco de Parâmetros de referência - Passo 3" Link="/Content/buildbenchmark3.htm" />
+                <TocEntry Title="Construir um novo bloco de Parâmetros de referência - Passo 4" Link="/Content/buildbenchmark4.htm" />
+                <TocEntry Title="Construir um novo bloco de Parâmetros de referência - Passo 5" Link="/Content/buildbenchmark5.htm" />
+                <TocEntry Title="Construir um novo bloco de Parâmetros de referência - Passo 6" Link="/Content/buildbenchmark6.htm" />
+                <TocEntry Title="Construir um novo bloco de Parâmetros de referência - Passo 7" Link="/Content/buildbenchmark7.htm" />
+                <TocEntry Title="Opções de exibição lado a lado" Link="/Content/newTileFinal.htm" />
+            </TocEntry>
+            <TocEntry Title="Editar um bloco existente" Link="/Content/edittile1.htm">
+                <TocEntry Title="Editar um bloco existente - Passo 1" Link="/Content/edittile2.htm" />
+            </TocEntry>
+            <TocEntry Title="Construir um novo painel" Link="/Content/builddash1.htm">
+                <TocEntry Title="Usando o botão Fixar &gt;" Link="/Content/builddash2.htm" />
+                <TocEntry Title="Usando o Gerenciador de Painéis " Link="/Content/builddash4.htm" />
+                <TocEntry Title="Construindo um novo painel - Passo 2" Link="/Content/builddash3.htm" />
+                <TocEntry Title="Construindo um novo painel - Passo 3" Link="/Content/builddash5.htm" />
+            </TocEntry>
+            <TocEntry Title="Instalação de Painéis" Link="/Content/editdash1.htm">
+                <TocEntry Title="Instalação de Painéis - Passo 1" Link="/Content/editdash2.htm" />
+                <TocEntry Title="Instalação de Painéis - Passo 2" Link="/Content/editdash3.htm" />
+                <TocEntry Title="Instalação de Painéis - Passo 3" Link="/Content/editdash4.htm" />
+            </TocEntry>
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="fr-ca">
+    <body>
+        <div class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;">Lorsque vous partagez un tableau de bord, le destinataire voit une copie virtuelle contenant des données qui sont gelées au moment où vous cliquez sur l'icône <span class="uicontrol">Partager</span>. La version de la page Web d'un tableau partagé est encore interactive, mais les données ne changent pas.</div>
+    </body>
+</html>

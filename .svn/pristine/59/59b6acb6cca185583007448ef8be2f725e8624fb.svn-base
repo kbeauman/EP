@@ -1,0 +1,665 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="r_date.htm"
+    source-language="en-us"
+    target-language="es"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="r_date.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">55</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">9</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Date Range;Compare</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Date Range</mrk><mrk
+            mtype="seg"
+            mid="2">Compare</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Date Range</mrk><mrk
+            mtype="seg"
+            mid="2">Compare</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Hacer clic para ver este tema de Ayuda.</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Hacer clic para ver este tema de Ayuda.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>settings icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">settings icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">icono Ajustes</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>settings icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">settings icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">icono Ajustes</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Click to enlarge. Click again to close.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to enlarge.</mrk><mrk
+            mtype="seg"
+            mid="2">Click again to close.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Haga clic para ampliar.</mrk><mrk
+            mtype="seg"
+            mid="2">Haga clic nuevamente para cerrar.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>compare calendar</source><seg-source><mrk
+            mtype="seg"
+            mid="1">compare calendar</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">calendario comparar</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>settings icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">settings icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">icono Ajustes</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>settings icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">settings icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">icono Ajustes</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-title"
+        phase-name="pretrans"><source>Date Range Selection</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Date Range Selection</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Selección del rango de fecha</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-h1"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Date Range Selection</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Date Range Selection</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Selección del rango de fecha</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-p"
+        phase-name="pretrans"><source>Use the date range pull-down feature to set the start and end dates for a tile and to display a comparison of two date ranges.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Use the date range pull-down feature to set the start and end dates for a tile and to display a comparison of two date ranges.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Utilice la función desplegable del rango de fecha para establecer las fechas de inicio y finalización de un mosaico y para presentar una comparación de dos rangos de fecha.</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-p"
+        phase-name="pretrans"><source>Selecting the date range for a tile is performed with a pull-down dialog below the <bpt
+            id="1"
+            ctype="link">&lt;a href="r_toolbar.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" />"&gt;</bpt>toolbar<ept
+            id="1">&lt;/a&gt;</ept> and can be identified by the default date range of the previous date, i.e., yesterday. The dialog defaults to the <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Custom<ept
+            id="2">&lt;/span&gt;</ept> tab. However, you can change this default in the <ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/sets_icon.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="4" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="5" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" style="width: 11px;height: 10px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="3">&lt;/span&gt;</ept> tab (see the following section <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Date Range Descriptions<ept
+            id="4">&lt;/span&gt;</ept> for details on each tab.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Selecting the date range for a tile is performed with a pull-down dialog below the <bpt
+              id="1"
+              ctype="link">&lt;a href="r_toolbar.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>toolbar<ept
+              id="1">&lt;/a&gt;</ept> and can be identified by the default date range of the previous date, i.e., yesterday.</mrk><mrk
+            mtype="seg"
+            mid="2">The dialog defaults to the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Custom<ept
+              id="2">&lt;/span&gt;</ept> tab.</mrk><mrk
+            mtype="seg"
+            mid="3">However, you can change this default in the <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/sets_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="4" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="5" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" style="width: 11px;height: 10px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="3">&lt;/span&gt;</ept> tab (see the following section <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Date Range Descriptions<ept
+              id="4">&lt;/span&gt;</ept> for details on each tab.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">La selección del rango de fecha para un mosaico se realiza con un cuadro de diálogo desplegable debajo de la <bpt
+              id="1"
+              ctype="link">&lt;a href="r_toolbar.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>barra de herramientas<ept
+              id="1">&lt;/a&gt;</ept> y se puede identificar mediante el rango de fecha predeterminado del día anterior, es decir, ayer.</mrk><mrk
+            mtype="seg"
+            mid="2">El cuadro de diálogo propone por defecto la pestaña <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Personalizar<ept
+              id="2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3">No obstante, puede cambiar este parámetro predeterminado en la pestaña <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/sets_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="4" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="5" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" style="width: 11px;height: 10px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph><bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Ajustes<ept
+              id="3">&lt;/span&gt;</ept> (ver la sección siguiente <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Descripciones del rango de fecha<ept
+              id="4">&lt;/span&gt;</ept> para obtener información detallada sobre cada pestaña).</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>Compare...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Compare...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Comparar...</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-p"
+        phase-name="pretrans"><source>Each tab has a <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Compare<ept
+            id="1">&lt;/span&gt;</ept> menu to display a side-by-side comparison of the date range and the compare date range. For example: Compare a two-week period with the prior year.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Each tab has a <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Compare<ept
+              id="1">&lt;/span&gt;</ept> menu to display a side-by-side comparison of the date range and the compare date range.</mrk><mrk
+            mtype="seg"
+            mid="2">For example: Compare a two-week period with the prior year.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cada pestaña tiene un menú <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Comparar<ept
+              id="1">&lt;/span&gt;</ept> para mostrar una tabla comparativa del rango de fecha y del rango de fecha a comparar.</mrk><mrk
+            mtype="seg"
+            mid="2">Por ejemplo: Comparar un período de dos semanas con el año anterior.</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-p"
+        phase-name="pretrans"><source>The menu offers different options for each tab. When a chart or grid is generated, the date range and compare range values display side-by-side with a color code key in the tile header.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The menu offers different options for each tab.</mrk><mrk
+            mtype="seg"
+            mid="2">When a chart or grid is generated, the date range and compare range values display side-by-side with a color code key in the tile header.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">El menú ofrece distintas opciones para cada pestaña.</mrk><mrk
+            mtype="seg"
+            mid="2">Cuando se genera un gráfico o una grilla, el rango de fecha y los valores del rango a comparar se presentan en un cuadro comparativo, con una referencia del código de colores en el encabezado del mosaico.</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>Date Range Descriptions...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Date Range Descriptions...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Descripciones del rango de fecha...</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-p"
+        phase-name="pretrans"><source>The following table describes each tab of the dialog in detail:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The following table describes each tab of the dialog in detail:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">La siguiente tabla describe detalladamente cada pestaña del diálogo:</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-th"
+        phase-name="pretrans"><source>Tab</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Tab</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Pestaña</mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-th"
+        phase-name="pretrans"><source>Description</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Description</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Descripción</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-td"
+        phase-name="pretrans"><source>Custom</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Custom</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Personalizar</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Custom<ept
+            id="1">&lt;/span&gt;</ept> offers the following options:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Custom<ept
+              id="1">&lt;/span&gt;</ept> offers the following options:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>La pestaña Personalizar<ept
+              id="1">&lt;/span&gt;</ept> ofrece las siguientes opciones:</mrk></target></trans-unit><trans-unit
+        id="23"
+        restype="x-li"
+        phase-name="pretrans"><source>Text boxes to type in <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Start<ept
+            id="1">&lt;/span&gt;</ept> and <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>End<ept
+            id="2">&lt;/span&gt;</ept> dates.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Text boxes to type in <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Start<ept
+              id="1">&lt;/span&gt;</ept> and <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>End<ept
+              id="2">&lt;/span&gt;</ept> dates.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cuadros de texto para escribir las fechas de <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Inicio<ept
+              id="1">&lt;/span&gt;</ept> y <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Finalización<ept
+              id="2">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="24"
+        restype="x-li"
+        phase-name="pretrans"><source>A calendar showing the current and two subsequent months. You can click a start date and click an end date, or drag from one date to the other. You may also drag to a date which is not displayed by dragging over the side of the calendar container to a previous or subsequent month.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">A calendar showing the current and two subsequent months.</mrk><mrk
+            mtype="seg"
+            mid="2">You can click a start date and click an end date, or drag from one date to the other.</mrk><mrk
+            mtype="seg"
+            mid="3">You may also drag to a date which is not displayed by dragging over the side of the calendar container to a previous or subsequent month.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Un calendario que muestra el mes en curso y los dos meses siguientes.</mrk><mrk
+            mtype="seg"
+            mid="2">Puede hacer clic en una fecha de inicio y en una fecha de finalización, o arrastrar una fecha de un lugar a otro.</mrk><mrk
+            mtype="seg"
+            mid="3">También puede arrastrar una fecha que no aparezcan en pantalla, arrastrando el lateral de la sección del calendario a un mes anterior o a un mes siguiente.</mrk></target></trans-unit><trans-unit
+        id="25"
+        restype="x-td"
+        phase-name="pretrans"><source>Year</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Year</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Año</mrk></target></trans-unit><trans-unit
+        id="26"
+        restype="x-td"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Year<ept
+            id="1">&lt;/span&gt;</ept> offers date range options by years according to the selected calendar*. With the exception of <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Select year<ept
+            id="2">&lt;/span&gt;</ept>, these tiles update automatically at the start of a new year.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Year<ept
+              id="1">&lt;/span&gt;</ept> offers date range options by years according to the selected calendar*.</mrk><mrk
+            mtype="seg"
+            mid="2">With the exception of <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Select year<ept
+              id="2">&lt;/span&gt;</ept>, these tiles update automatically at the start of a new year.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>La pestaña Año<ept
+              id="1">&lt;/span&gt;</ept> ofrece opciones de rangos de fecha por año, de acuerdo con el calendario seleccionado*.</mrk><mrk
+            mtype="seg"
+            mid="2">A excepción de <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Seleccionar año<ept
+              id="2">&lt;/span&gt;</ept>, estos mosaicos se actualizan automáticamente al inicio de un año nuevo.</mrk></target></trans-unit><trans-unit
+        id="27"
+        restype="x-td"
+        phase-name="pretrans"><source>Quarter</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Quarter</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Trimestre</mrk></target></trans-unit><trans-unit
+        id="28"
+        restype="x-td"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Quarter<ept
+            id="1">&lt;/span&gt;</ept> offers date range options by three-month periods according to the selected calendar*. With the exception of <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Select quarter<ept
+            id="2">&lt;/span&gt;</ept>, these tiles update automatically at the start of a new quarter.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Quarter<ept
+              id="1">&lt;/span&gt;</ept> offers date range options by three-month periods according to the selected calendar*.</mrk><mrk
+            mtype="seg"
+            mid="2">With the exception of <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Select quarter<ept
+              id="2">&lt;/span&gt;</ept>, these tiles update automatically at the start of a new quarter.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>La pestaña Trimestre<ept
+              id="1">&lt;/span&gt;</ept> ofrece opciones de períodos trimestrales, de acuerdo con el calendario seleccionado*.</mrk><mrk
+            mtype="seg"
+            mid="2">A excepción de <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Seleccionar trimestre<ept
+              id="2">&lt;/span&gt;</ept>, estos mosaicos se actualizan automáticamente al inicio de un nuevo trimestre.</mrk></target></trans-unit><trans-unit
+        id="29"
+        restype="x-td"
+        phase-name="pretrans"><source>Month</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Month</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Mes</mrk></target></trans-unit><trans-unit
+        id="30"
+        restype="x-td"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Month<ept
+            id="1">&lt;/span&gt;</ept> offers date range options by month according to the selected calendar*. With the exception of <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Select month<ept
+            id="2">&lt;/span&gt;</ept>, these tiles update automatically at the start of a new month.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Month<ept
+              id="1">&lt;/span&gt;</ept> offers date range options by month according to the selected calendar*.</mrk><mrk
+            mtype="seg"
+            mid="2">With the exception of <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Select month<ept
+              id="2">&lt;/span&gt;</ept>, these tiles update automatically at the start of a new month.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>La pestaña Mes<ept
+              id="1">&lt;/span&gt;</ept> ofrece opciones de rangos de fecha por mes, de acuerdo con el calendario seleccionado*.</mrk><mrk
+            mtype="seg"
+            mid="2">A excepción de <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Seleccionar mes<ept
+              id="2">&lt;/span&gt;</ept>, estos mosaicos se actualizan automáticamente al inicio de un nuevo mes.</mrk></target></trans-unit><trans-unit
+        id="31"
+        restype="x-td"
+        phase-name="pretrans"><source>Week</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Week</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Semana</mrk></target></trans-unit><trans-unit
+        id="32"
+        restype="x-td"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Week<ept
+            id="1">&lt;/span&gt;</ept> offers date range options by seven day periods** according to the selected calendar*. With the exception of <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Select week<ept
+            id="2">&lt;/span&gt;</ept>, these tiles update automatically at the start of a new week.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Week<ept
+              id="1">&lt;/span&gt;</ept> offers date range options by seven day periods** according to the selected calendar*.</mrk><mrk
+            mtype="seg"
+            mid="2">With the exception of <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Select week<ept
+              id="2">&lt;/span&gt;</ept>, these tiles update automatically at the start of a new week.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>La pestaña Semana<ept
+              id="1">&lt;/span&gt;</ept> ofrece opciones de rangos de fecha por períodos de siete días**, de acuerdo con el calendario seleccionado*.</mrk><mrk
+            mtype="seg"
+            mid="2">A excepción de <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Seleccionar semana<ept
+              id="2">&lt;/span&gt;</ept>, estos mosaicos se actualizan automáticamente al inicio de una nueva semana.</mrk></target></trans-unit><trans-unit
+        id="33"
+        restype="x-td"
+        phase-name="pretrans"><source>Day</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Day</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Día</mrk></target></trans-unit><trans-unit
+        id="34"
+        restype="x-td"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Day<ept
+            id="1">&lt;/span&gt;</ept> offers date range options by 24 hour periods beginning and ending at 12:00 AM. With the exception of <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Select day<ept
+            id="2">&lt;/span&gt;</ept>, these tiles update automatically each day.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Day<ept
+              id="1">&lt;/span&gt;</ept> offers date range options by 24 hour periods beginning and ending at 12:00 AM.</mrk><mrk
+            mtype="seg"
+            mid="2">With the exception of <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Select day<ept
+              id="2">&lt;/span&gt;</ept>, these tiles update automatically each day.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>La pestaña Día<ept
+              id="1">&lt;/span&gt;</ept> ofrece opciones de rangos de fecha por períodos de 24 horas que comienzan y finalizan a las 12:00 AM.</mrk><mrk
+            mtype="seg"
+            mid="2">A excepción de <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Seleccionar día<ept
+              id="2">&lt;/span&gt;</ept>, estos mosaicos se actualizan automáticamente todos los días.</mrk></target></trans-unit><trans-unit
+        id="35"
+        restype="x-td"
+        phase-name="pretrans"><source><ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/sets_icon.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="4" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="5" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Settings</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/sets_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="4" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="5" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Settings</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/sets_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="4" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="5" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Ajustes</mrk></target></trans-unit><trans-unit
+        id="36"
+        restype="x-p"
+        phase-name="pretrans"><source>The following settings are available:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The following settings are available:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Podrá acceder a los siguientes ajustes...</mrk></target></trans-unit><trans-unit
+        id="37"
+        restype="x-li"
+        phase-name="pretrans"><source>*<bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Calendar<ept
+            id="1">&lt;/span&gt;</ept> - The Gregorian calendar is the default setting. Custom calendars, such as fiscal or model year calendar, are available upon request.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">*<bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Calendar<ept
+              id="1">&lt;/span&gt;</ept> - The Gregorian calendar is the default setting.</mrk><mrk
+            mtype="seg"
+            mid="2">Custom calendars, such as fiscal or model year calendar, are available upon request.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">*<bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Calendario<ept
+              id="1">&lt;/span&gt;</ept> - El calendario Gregoriano es el ajuste predeterminado.</mrk><mrk
+            mtype="seg"
+            mid="2">Los calendarios personalizados, como por ejemplo, el calendario del año fiscal o del año del modelo, están disponibles a pedido.</mrk></target></trans-unit><trans-unit
+        id="38"
+        restype="x-li"
+        phase-name="pretrans"><source>**<bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Week starts<ept
+            id="1">&lt;/span&gt;</ept> - Shows the first day of the week as determined by the selected calendar.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">**<bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Week starts<ept
+              id="1">&lt;/span&gt;</ept> - Shows the first day of the week as determined by the selected calendar.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">**<bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>La semana empieza<ept
+              id="1">&lt;/span&gt;</ept> - Muestra el primer día de la semana, según lo determinado por el calendario seleccionado.</mrk></target></trans-unit><trans-unit
+        id="39"
+        restype="x-li"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Default view<ept
+            id="1">&lt;/span&gt;</ept> - Set the default tab, i.e., which tab shows when you pull down the dialog.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Default view<ept
+              id="1">&lt;/span&gt;</ept> - Set the default tab, i.e., which tab shows when you pull down the dialog.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Vista predeterminada<ept
+              id="1">&lt;/span&gt;</ept> - Establece la pestaña predeterminada, es decir, qué pestaña aparece al desplegar el diálogo.</mrk></target></trans-unit><trans-unit
+        id="40"
+        restype="x-td"
+        phase-name="pretrans"><source>Actions</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Actions</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Acciones</mrk></target></trans-unit><trans-unit
+        id="41"
+        restype="x-p"
+        phase-name="pretrans"><source>The following actions are available:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The following actions are available:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Están disponibles las siguientes acciones...</mrk></target></trans-unit><trans-unit
+        id="42"
+        restype="x-li"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Cancel<ept
+            id="1">&lt;/span&gt;</ept> - Closes the dialog without changes to the date range.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Cancel<ept
+              id="1">&lt;/span&gt;</ept> - Closes the dialog without changes to the date range.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Cancelar<ept
+              id="1">&lt;/span&gt;</ept> - Cierra el diálogo sin efectuar cambios al rango de fecha.</mrk></target></trans-unit><trans-unit
+        id="43"
+        restype="x-li"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Apply<ept
+            id="1">&lt;/span&gt;</ept> - Implements the selected date range and closes the dialog.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Apply<ept
+              id="1">&lt;/span&gt;</ept> - Implements the selected date range and closes the dialog.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Aplicar<ept
+              id="1">&lt;/span&gt;</ept> - Implementa el rango de fecha seleccionado y cierra el diálogo.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

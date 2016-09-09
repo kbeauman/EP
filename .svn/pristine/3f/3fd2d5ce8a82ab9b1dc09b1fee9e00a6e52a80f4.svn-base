@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="418" MadCap:lastWidth="993">
+    <head>
+<!-- Inserted by TRADOS: --><META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8">
+
+        <link href="../TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Sobre a barra de ferramentas</title>
+    </head>
+    <body>
+        <h1>A <MadCap:keyword term="Toolbar" />barra de ferramentas do Portal Executivo</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">&nbsp;</p>
+        <ul>
+            <li>Voltar para a p&aacute;gina do <span class="wintitle">Painel</span></li>
+            <li>Exibir a <span class="wintitle">Ajuda</span></li>
+            <li>Terminar sua sess&atilde;o</li>
+        </ul>
+        <p>A barra de ferramentas &eacute; o cabe&ccedil;alho da p&aacute;gina exibindo o nome da empresa e cont&eacute;m v&aacute;rios comandos descritos na tabela a seguir. A parte superior da barra de ferramentas exibe uma barra de status quando a p&aacute;gina est&aacute; carregando, ou um bloco est&aacute; sendo gerado. </p>
+        <table style="width: 100%;margin-left: auto;margin-right: auto;mc-table-style: url('../TableStyles/Ref2Column.css');" class="TableStyle-Ref2Column" cellspacing="0">
+            <col class="TableStyle-Ref2Column-Column-Column1" />
+            <col class="TableStyle-Ref2Column-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-Ref2Column-Head-Header1">
+                    <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Elemento</th>
+                    <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Descri&ccedil;&atilde;o</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                        <img src="../Images/4cLogoTB.png" MadCap:mediastyle="@media print { width: 89px;height: 40px;max-height: 40px;max-width: 89px; }" title="Logotipo da ForeSee" alt="Logotipo da ForeSee" />
+                    </td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Clique aqui para voltar para a p&aacute;gina padr&atilde;o do <span class="wintitle">Painel</span>, a menos que a sua sess&atilde;o tenha expirado (neste caso a p&aacute;gina de <span class="wintitle">Acesso</span> ser&aacute; exibida).</td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body2">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Ajuda</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Clique em <span class="uicontrol">Ajuda</span> para exibir este guia do usu&aacute;rio em uma nova janela do navegador.</td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                        <MadCap:keyword term="Logout" />Encerrar sess&atilde;o</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Clique em <span class="uicontrol">Encerrar sess&atilde;o</span> para encerrar as sess&otilde;es do <span class="wintitle">Portal Executivo</span> e do <span class="wintitle">Portal Anal&iacute;tico</span> com um &uacute;nico clique.</td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body2">
+                    <td class="TableStyle-Ref2Column-BodyB-Column1-Body2">
+                        <MadCap:keyword term="Username" />Nome de usu&aacute;rio</td>
+                    <td class="TableStyle-Ref2Column-BodyA-Column2-Body2">O propriet&aacute;rio da sess&atilde;o, ou o usu&aacute;rio que iniciou a sess&atilde;o atual.</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

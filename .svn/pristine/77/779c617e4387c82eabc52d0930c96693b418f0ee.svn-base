@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Build Open End 5"
+  FileLanguage="fr-ca"
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Snippets/SelectSettings.flsnp" />
+    <Link
+      Url="Content/Resources/Images/buildtile6.png" />
+    <Link
+      Url="Content/buildopenend7.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Snippets/SelectSettings.flsnp" />
+    <Link
+      Url="Content/Resources/Images/buildtile6.png" />
+    <Link
+      Url="Content/buildopenend7.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

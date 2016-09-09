@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="fr-ca" MadCap:ignoredWords="" MadCap:tocPath="Bienvenue au Portail exécutif|Guide de démarrage rapide" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="fr-ca" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Créer de résultats de principal</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapAll.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#buildscore1.htm" style="">Ouvrir la rubrique avec les liens de navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bienvenue au Portail exécutif</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="quickstartmain.htm">Guide de démarrage rapide</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Créer de résultats de principal</span>
+        </div>
+        <h1>Créer une nouvelle mosaïque de Comparison de réponse</h1>
+        <h2>Comparaison de réponses</h2>
+        <p>Voir les données d’une seule question pour une mesure particulière. Vous pouvez consulter les données dans un graphique circulaire, un diagramme à barres verticales ou horizontales ou une grille de type feuille de calcul.</p>
+        <p><a href="Movies/BuildScore2.mcmvf/html5/BuildScore2.htm" title="Cliquez pour afficher." alt="Cliquez pour afficher.">Vidéo</a>
+        </p>
+        <h3>Renseignements supplémentaires</h3>
+        <p><a href="c_scores_ww.htm" target="_parent" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Utilisation des résultats</a>
+        </p>
+        <h3>Étape suivante</h3>
+        <p><a href="buildscore2.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Étape 1 &gt;</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

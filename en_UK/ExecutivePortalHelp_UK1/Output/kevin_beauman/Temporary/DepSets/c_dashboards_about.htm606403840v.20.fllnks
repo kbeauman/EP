@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Viewing Dashboards"
+  FileLanguage="en-gb"
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Ref2Column.css" />
+    <Link
+      Url="Content/Resources/Snippets/dashboardDesc.flsnp" />
+    <Link
+      Url="Content/Resources/Images/Dashboard_icon.png" />
+    <Link
+      Url="Content/t_dashboard_new.htm" />
+    <Link
+      Url="Content/Resources/Images/viewDBicon.png" />
+    <Link
+      Url="Content/Resources/Snippets/TilesDef.flsnp" />
+    <Link
+      Url="Content/c_scores_ww.htm" />
+    <Link
+      Url="Content/Resources/Snippets/ScoreDesc.flsnp" />
+    <Link
+      Url="Content/c_benchmarks_ww.htm" />
+    <Link
+      Url="Content/Resources/Snippets/Benchmarks.flsnp" />
+    <Link
+      Url="Content/c_openends_ww.htm" />
+    <Link
+      Url="Content/Resources/Snippets/OpenEnds.flsnp" />
+    <Link
+      Url="Content/Resources/Images/expand.png" />
+    <Link
+      Url="Content/Resources/Images/fullScreen.png" />
+    <Link
+      Url="Content/Resources/Snippets/fullScreenDef.flsnp" />
+    <Link
+      Url="Content/Resources/Images/edit.png" />
+    <Link
+      Url="Content/Resources/Images/delete.png" />
+    <Link
+      Url="Content/Resources/Images/share.png" />
+    <Link
+      Url="Content/t_share.htm" />
+    <Link
+      Url="Content/Resources/Snippets/summaryDashboardNew.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Ref2Column.css" />
+    <Link
+      Url="Content/Resources/Snippets/dashboardDesc.flsnp" />
+    <Link
+      Url="Content/Resources/Images/Dashboard_icon.png" />
+    <Link
+      Url="Content/t_dashboard_new.htm#DashMgr" />
+    <Link
+      Url="Content/Resources/Images/viewDBicon.png" />
+    <Link
+      Url="Content/Resources/Snippets/TilesDef.flsnp" />
+    <Link
+      Url="Content/c_scores_ww.htm" />
+    <Link
+      Url="Content/Resources/Snippets/ScoreDesc.flsnp" />
+    <Link
+      Url="Content/c_benchmarks_ww.htm" />
+    <Link
+      Url="Content/Resources/Snippets/Benchmarks.flsnp" />
+    <Link
+      Url="Content/c_openends_ww.htm" />
+    <Link
+      Url="Content/Resources/Snippets/OpenEnds.flsnp" />
+    <Link
+      Url="Content/Resources/Images/expand.png" />
+    <Link
+      Url="Content/Resources/Images/fullScreen.png" />
+    <Link
+      Url="Content/Resources/Snippets/fullScreenDef.flsnp" />
+    <Link
+      Url="Content/Resources/Images/edit.png" />
+    <Link
+      Url="Content/Resources/Images/delete.png" />
+    <Link
+      Url="Content/Resources/Images/share.png" />
+    <Link
+      Url="Content/t_share.htm" />
+    <Link
+      Url="Content/t_dashboard_new.htm" />
+    <Link
+      Url="Content/Resources/Snippets/summaryDashboardNew.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Dashboards:Working with"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Tiles"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Dashboard Options"
+      Conditions=""
+      LocalConditions=""
+      Position="34" />
+    <IndexCacheEntry
+      Term="Share"
+      Conditions=""
+      LocalConditions=""
+      Position="67" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Ref2Column.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

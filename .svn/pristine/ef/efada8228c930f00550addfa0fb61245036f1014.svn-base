@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="pt-br" MadCap:ignoredWords="" MadCap:tocPath="Bem-vindo ao Portal Executivo|Visualizador de Painéis" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="pt-br" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Sobre perguntas abertas</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" MadCap:generated="True" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" MadCap:generated="True" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapAll.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#c_openends_about.htm" style="">Abra Navegação</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bem-vindo ao Portal Executivo</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="toc_viewer.htm">Visualizador de Painéis</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Sobre perguntas abertas</span>
+        </div>
+        <h1>Sobre blocos de perguntas abertas</h1>(missing or bad snippet)<p><span class="wintitle">Abertas</span> é uma categoria de respostas composta de narrativas dos entrevistados. Os blocos mostram a <span class="wintitle">Medida</span> e o intervalo de datas no cabeçalho, com as <span class="wintitle">Perguntas abertas</span> selecionadas e os <span class="wintitle">Detalhes dos comentários</span> de cada entrevistado em um bloco separado. Uma resposta pode conter até três <span class="wintitle">Perguntas abertas</span>, até cinco <span class="wintitle">Detalhes de comentário</span> e a data da resposta.</p><h2>Dados de busca detalhada</h2><p>Clique em uma resposta para exibir informações detalhadas na barra lateral <span class="wintitle">Revisão de comentários de perguntas abertas</span> do entrevistado. Cada bloco de entrevistado está limitado a 300 caracteres para um único comentário e 150 caracteres para dois ou três comentários. Os comentários que ultrapassam esse limite são recolhidos e exibem o ícone<span class="uicontrol">expandir</span> (<img src="Resources/Images/expand.png" title="expandir" alt="ícone expandir" />). Clicar no ícone exibe uma caixa de diálogo com o texto na íntegra.</p><p><MadCap:pageFooter><p class="footer">- © 2014 ForeSee -</p></MadCap:pageFooter></p><script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js"></script></body>
+</html>

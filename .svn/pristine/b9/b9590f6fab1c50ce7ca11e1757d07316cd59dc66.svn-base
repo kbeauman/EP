@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Créer de résultats de principal"
+  FileLanguage="fr-ca"
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Snippets/ResCompDef.flsnp" />
+    <Link
+      Url="../BuildScore.mimovf/Output/flash/BuildScore2.mcmvf/BuildScore2.mcmv" />
+    <Link
+      Url="Content/c_scores_ww.htm" />
+    <Link
+      Url="Content/buildscore2.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Snippets/ResCompDef.flsnp" />
+    <Link
+      Url="../BuildScore.mimovf/Output/flash/BuildScore2.mcmvf/BuildScore2.mcmv" />
+    <Link
+      Url="Content/c_scores_ww.htm" />
+    <Link
+      Url="Content/buildscore2.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="473" MadCap:lastWidth="989" xml:lang="fr-ca" MadCap:ignoredWords="">
+    <head><title>Créer une nouvelle mosaïque de questions ouvertes</title>
+    </head>
+    <body>
+        <h1>Créer une nouvelle mosaïque de questions ouvertes</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/OpenEnds.flsnp" /> <MadCap:snippetText src="Resources/Snippets/OpenEnds2.flsnp" /></p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildopenend4.png" title="La réponse de Questions ouvertes" alt="La réponse de Questions ouvertes" />
+        </p>
+        <h3>Renseignements supplémentaires</h3>
+        <p><a href="c_openends_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Utiliser les questions ouvertes</a></p>
+        <h3>Étape suivante</h3>
+        <p><a href="buildopenend2.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Étape 1 &gt;</a></p>
+    </body>
+</html>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="buildscore1.htm"
+    source-language="en-us"
+    target-language="en-gb"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="buildscore1.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">14</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">6</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view.</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view.</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-title"
+        phase-name="pretrans"><source>Build Score Main</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build Score Main</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Build Score Main</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-h1"
+        phase-name="pretrans"><source>Build a new Response Score Tile</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build a new Response Score Tile</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Build a new Response Score Tile</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-h2"
+        phase-name="pretrans"><source>Response Comparison</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Response Comparison</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Response Comparison</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="../../BuildScore2.mimovf/Output/flash/BuildScore2.mcmvf/BuildScore2.mcmv" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="2" />"&gt;</bpt>Video<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="../../BuildScore2.mimovf/Output/flash/BuildScore2.mcmvf/BuildScore2.mcmv" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Video<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="../../BuildScore2.mimovf/Output/flash/BuildScore2.mcmvf/BuildScore2.mcmv" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Video<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-h3"
+        phase-name="pretrans"><source>Additional Information</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Additional Information</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Additional Information</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="c_scores_ww.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="3" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="4" />"&gt;</bpt>Working with Scores<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="c_scores_ww.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Working with Scores<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="c_scores_ww.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Working with Scores<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-h3"
+        phase-name="pretrans"><source>Next Step</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Next Step</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Next Step</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="buildscore2.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="3" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="4" />"&gt;</bpt>Step 1 &gt;<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="buildscore2.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Step 1 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="buildscore2.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Step 1 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit></body>
+  </file>
+</xliff>

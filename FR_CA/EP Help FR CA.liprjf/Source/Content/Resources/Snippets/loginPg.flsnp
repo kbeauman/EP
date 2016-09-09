@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="762" MadCap:lastWidth="909" xml:space="preserve">
+    <head>
+        <link href="../TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Login:how to;Password:change;Set Language;Password:reset" />Using the Login Page</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;"> </p>
+        <ul>
+            <li>Access <span class="wintitle">Analytics Portal</span>, <span class="wintitle">Executive Portal</span> or <span class="wintitle">Feedback</span></li>
+            <li>Change your password</li>
+            <li>Change the language of the user interface</li>
+            <li>Preview upcoming events, products, and services</li>
+        </ul>
+        <p><span class="wintitle">Executive Portal</span> offers a secure login feature which is synchronized with the <span class="wintitle">Analytics Portal</span> and <span class="wintitle">Feedback</span> to facilitate a single login for each product. Your session closes automatically after 30 minutes of inactivity.</p>
+        <div class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;">Leaving your session unattended allows anyone with access to your device to view your data. Remember to either logout of the session or lock your device while away for extended periods.</div>
+        <p>The <span class="wintitle">Login</span> screen allows you to select which portal to view initially. Navigating between portals is available in a single login session.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>To login...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Select the desired portal from the menu.</li>
+                    <li>Type your<span class="wintitle"> User Name</span> and <span class="wintitle">Password</span>.</li>
+                    <li>Optionally, select the desired language from the menu. You can display <span class="wintitle">Executive Portal</span> in any of the languages listed. However, <span class="wintitle">Analytics Portal</span> and <span class="wintitle">Feedback</span> are only available in English.</li>
+                    <li>Click <span class="uicontrol">Log in</span>. The <span class="wintitle">Dashboards</span> page displays.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <div class="tip" MadCap:autonum="&lt;b&gt;TIP: &lt;/b&gt;">As of January 18, 2015, passwords will expire every 60 days.</div>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>To change or reset your password...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Click <span class="uicontrol">Forgot password/Retrieve User Name</span>. The <span class="wintitle">Reset Password</span> dialog displays.</li>
+                    <li>Type your email address and login user name (if known) and click <span class="uicontrol">Submit</span>. The dialog closes and an email message is sent to the entered address with further instructions.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Other features available on the <span class="wintitle">Login</span> page include...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <table style="width: 100%;margin-left: auto;margin-right: auto;mc-table-style: url('../TableStyles/Ref2Column.css');" class="TableStyle-Ref2Column" cellspacing="0">
+                    <col class="TableStyle-Ref2Column-Column-Column1" />
+                    <col class="TableStyle-Ref2Column-Column-Column2" />
+                    <thead>
+                        <tr class="TableStyle-Ref2Column-Head-Header1">
+                            <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Feature</th>
+                            <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <MadCap:keyword term="Language" />Language Menu</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Set <span class="wintitle">Executive Portal</span> to display in an available dialect. </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Marketing Carousel</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Preview webinars, upcoming events, and access <span class="wintitle">ForeSee</span> product information. </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyB-Column1-Body1">Privacy Policy</td>
+                            <td class="TableStyle-Ref2Column-BodyA-Column2-Body1">Click the link to view <span class="wintitle">ForeSee's</span> policy on protecting your data.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

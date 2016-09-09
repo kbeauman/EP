@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetIndex Count="41">
+    <IndexEntry>
+        <Entries>
+            <IndexEntry Term="Afficher">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Créateur de tableaux de bord" Link="/Content/toc_creator1.htm#kanchor19" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Aide">
+                <Entries>
+                    <IndexEntry Term="au sujet de">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Bienvenue au Portail exécutif" Link="/Content/c_welcome.htm#kanchor1" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                </Entries>
+                <Links />
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Barre d'outils">
+                <Entries />
+                <Links>
+                    <IndexLink Title="La barre d'outils du Portail exécutif" Link="/Content/r_toolbar_2.htm#kanchor7" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="La barre d'outils du Portail exécutif" Link="/Content/r_toolbar.htm#kanchor28" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Catégorie">
+                <Entries />
+                <Links>
+                    <IndexLink Title="À propos des repères" Link="/Content/c_benchmarks_about.htm#kanchor14" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="Utilisation des repères" Link="/Content/c_benchmarks_ww.htm#kanchor42" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Commentaires">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Utilisation de la page de connexion" Link="/Content/c_login.htm#kanchor6" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="Utilisation de la page de connexion" Link="/Content/c_login_2.htm#kanchor27" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Comparer">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Sélection d'une période" Link="/Content/r_date.htm#kanchor45" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="D'une période">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Sélection d'une période" Link="/Content/r_date.htm#kanchor45" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="définir la langue">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Utilisation de la page de connexion" Link="/Content/c_login.htm#kanchor4" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="Utilisation de la page de connexion" Link="/Content/c_login_2.htm#kanchor25" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Fermer la session">
+                <Entries />
+                <Links>
+                    <IndexLink Title="La barre d'outils du Portail exécutif" Link="/Content/r_toolbar_2.htm#kanchor8" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="La barre d'outils du Portail exécutif" Link="/Content/r_toolbar.htm#kanchor29" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Gestionnaire de tableaux de bord">
+                <Entries>
+                    <IndexEntry Term="propriétés">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Au sujet du Gestionnaire de tableaux de bord" Link="/Content/c_dashboard_manager.htm#kanchor38" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                    <IndexEntry Term="Supprimer le(s) tableau(x) de bord">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Au sujet du Gestionnaire de tableaux de bord" Link="/Content/c_dashboard_manager.htm#kanchor38" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                </Entries>
+                <Links>
+                    <IndexLink Title="Au sujet du Gestionnaire de tableaux de bord" Link="/Content/c_dashboard_manager.htm#kanchor38" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Langues">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Utilisation de la page de connexion" Link="/Content/c_login.htm#kanchor5" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="Utilisation de la page de connexion" Link="/Content/c_login_2.htm#kanchor26" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Mosaïques">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Consultation de tableaux de bord" Link="/Content/c_dashboards_about_2.htm#kanchor11" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="Consultation des tableaux de bord" Link="/Content/c_dashboards_about.htm#kanchor32" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Mot de passe">
+                <Entries>
+                    <IndexEntry Term="modifier">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Utilisation de la page de connexion" Link="/Content/c_login.htm#kanchor4" UsedConditions="" LocalConditions="" />
+                            <IndexLink Title="Utilisation de la page de connexion" Link="/Content/c_login_2.htm#kanchor25" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                    <IndexEntry Term="réinitialiser">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Utilisation de la page de connexion" Link="/Content/c_login.htm#kanchor4" UsedConditions="" LocalConditions="" />
+                            <IndexLink Title="Utilisation de la page de connexion" Link="/Content/c_login_2.htm#kanchor25" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                </Entries>
+                <Links />
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Navigation latérale">
+                <Entries>
+                    <IndexEntry Term="Menu">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Créateur de tableaux de bord" Link="/Content/toc_creator1.htm#kanchor18" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                </Entries>
+                <Links>
+                    <IndexLink Title="Créateur de tableaux de bord" Link="/Content/toc_creator1.htm#kanchor18" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Nom d’utilisateur">
+                <Entries />
+                <Links>
+                    <IndexLink Title="La barre d'outils du Portail exécutif" Link="/Content/r_toolbar_2.htm#kanchor9" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="La barre d'outils du Portail exécutif" Link="/Content/r_toolbar.htm#kanchor30" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Options de tableau de bord">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Consultation de tableaux de bord" Link="/Content/c_dashboards_about_2.htm#kanchor12" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="Consultation des tableaux de bord" Link="/Content/c_dashboards_about.htm#kanchor33" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Outils">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Créateur de tableaux de bord" Link="/Content/toc_creator1.htm#kanchor24" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Ouvrir une session">
+                <Entries>
+                    <IndexEntry Term="comment">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Utilisation de la page de connexion" Link="/Content/c_login.htm#kanchor4" UsedConditions="" LocalConditions="" />
+                            <IndexLink Title="Utilisation de la page de connexion" Link="/Content/c_login_2.htm#kanchor25" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                </Entries>
+                <Links />
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Partager">
+                <Entries>
+                    <IndexEntry Term="annuler">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Partager un tableau de bord" Link="/Content/t_share_2.htm#kanchor16" UsedConditions="" LocalConditions="" />
+                            <IndexLink Title="Partager un tableau de bord" Link="/Content/t_share.htm#kanchor35" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                    <IndexEntry Term="rapport">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Partager un tableau de bord" Link="/Content/t_share_2.htm#kanchor16" UsedConditions="" LocalConditions="" />
+                            <IndexLink Title="Partager un tableau de bord" Link="/Content/t_share.htm#kanchor35" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                </Entries>
+                <Links>
+                    <IndexLink Title="Consultation de tableaux de bord" Link="/Content/c_dashboards_about_2.htm#kanchor13" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="Consultation des tableaux de bord" Link="/Content/c_dashboards_about.htm#kanchor34" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Quartiles">
+                <Entries />
+                <Links>
+                    <IndexLink Title="À propos des repères" Link="/Content/c_benchmarks_about.htm#kanchor15" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="Utilisation des repères" Link="/Content/c_benchmarks_ww.htm#kanchor44" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Questions ouvertes">
+                <Entries>
+                    <IndexEntry Term="nouvelle">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Utiliser les questions ouvertes" Link="/Content/c_openends_ww.htm#kanchor40" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                </Entries>
+                <Links>
+                    <IndexLink Title="Créateur de tableaux de bord" Link="/Content/toc_creator1.htm#kanchor22" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="Utiliser les questions ouvertes" Link="/Content/c_openends_ww.htm#kanchor39" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Repères">
+                <Entries>
+                    <IndexEntry Term="nouvelle">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Utilisation des repères" Link="/Content/c_benchmarks_ww.htm#kanchor43" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                </Entries>
+                <Links>
+                    <IndexLink Title="Créateur de tableaux de bord" Link="/Content/toc_creator1.htm#kanchor23" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="Utilisation des repères" Link="/Content/c_benchmarks_ww.htm#kanchor41" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Résultats">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Créateur de tableaux de bord" Link="/Content/toc_creator1.htm#kanchor21" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Tableaux de bord">
+                <Entries>
+                    <IndexEntry Term="Consultation">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Consultation de tableaux de bord" Link="/Content/c_dashboards_about_2.htm#kanchor10" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                    <IndexEntry Term="Gestionnaire de tableaux de bord">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Au sujet du Gestionnaire de tableaux de bord" Link="/Content/c_dashboard_manager.htm#kanchor37" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                    <IndexEntry Term="nouvelle">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Ajouter un tableau de bord" Link="/Content/t_dashboard_new.htm#kanchor36" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                    <IndexEntry Term="Supprimer">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Au sujet du Gestionnaire de tableaux de bord" Link="/Content/c_dashboard_manager.htm#kanchor38" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                    <IndexEntry Term="Utilisation des">
+                        <Entries />
+                        <Links>
+                            <IndexLink Title="Consultation des tableaux de bord" Link="/Content/c_dashboards_about.htm#kanchor31" UsedConditions="" LocalConditions="" />
+                        </Links>
+                        <SeeAlsoLinks />
+                        <IndexControlLinks />
+                        <SortAsLinks />
+                    </IndexEntry>
+                </Entries>
+                <Links>
+                    <IndexLink Title="Créateur de tableaux de bord" Link="/Content/toc_creator1.htm#kanchor20" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+            <IndexEntry Term="Utilisation basée sur les rôles">
+                <Entries />
+                <Links>
+                    <IndexLink Title="Visiteur de tableaux de bord" Link="/Content/toc_viewer.htm#kanchor2" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="Visiteur de tableaux de bord" Link="/Content/toc_viewer.htm#kanchor3" UsedConditions="" LocalConditions="" />
+                    <IndexLink Title="Créateur de tableaux de bord" Link="/Content/toc_creator1.htm#kanchor17" UsedConditions="" LocalConditions="" />
+                </Links>
+                <SeeAlsoLinks />
+                <IndexControlLinks />
+                <SortAsLinks />
+            </IndexEntry>
+        </Entries>
+        <Links />
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+    </IndexEntry>
+</CatapultTargetIndex>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="fr-ca" MadCap:ignoredWords="" MadCap:tocPath="Bienvenue au Portail exécutif|Guide de démarrage rapide|Réglages de la tableaux de bord" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="fr-ca" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Réglages de la tableaux de bord - Étape 1</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapAll.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#editdash2.htm" style="">Ouvrir la rubrique avec les liens de navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bienvenue au Portail exécutif</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="quickstartmain.htm">Guide de démarrage rapide</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="editdash1.htm">Réglages de la tableaux de bord</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Réglages de la tableaux de bord - Étape 1</span>
+        </div>
+        <h1>Réglages de la tableaux de bord - Étape 1</h1>
+        <p>Cliquez sur le tableau de bord voulu.</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/dashboardsetup2.png" title="Cliquez sur le tableau de bord." alt="grille du gestionnaire du tableau de bord" />
+        </p>
+        <h3>Étape suivante</h3>
+        <p><a href="editdash3.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Étape 2 &gt;</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

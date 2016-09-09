@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="579" MadCap:lastWidth="909" xml:lang="fr-ca" xml:space="preserve">
+    <head><title>Build a New Benchmark Tile - Step 3</title>
+    </head>
+    <body>
+        <h1>Build a New Benchmark Tile - Step 3</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/AddSecOption.flsnp" />
+        </p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildbench5.png" title="Add new section or click Apply." alt="Apply" style="mc-float: center;" />
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="buildbenchmark4.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Step 4 &gt;</a>
+        </p>
+    </body>
+</html>

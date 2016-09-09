@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="722" MadCap:lastWidth="967" xml:lang="fr-ca">
+    <head>
+        <link href="../TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1><MadCap:keyword term="Ouvrir une session:comment;Mot de passe:modifier;définir la langue;Mot de passe:réinitialiser" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Utilisation de la page de connexion</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;"> </p>
+        <ul>
+            <li>Accéder au <span class="wintitle">Portail exécutif</span> ou au <span class="wintitle">Portail analytique</span></li>
+            <li>Modifier le mot de passe</li>
+            <li>Modifier la langue de l'interface utilisateur</li>
+            <li>Soumettre des commentaires</li>
+        </ul>
+        <p>Le <span class="wintitle">Portail exécutif</span> offre une fonction de connexion sécurisée qui est synchronisée avec le <span class="wintitle">Portail analytique</span> afin de faciliter une seule connexion pour les deux environnements. Votre session se ferme automatiquement après 30 minutes d'inactivité.</p>
+        <div class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;">Laisser votre session sans surveillance permet à n'importe qui d'accéder à votre appareil pour consulter vos données. N'oubliez pas de fermer votre session ou de verrouiller votre appareil lorsque vous vous absentez durant de longues périodes.</div>
+        <p>L'écran <span class="wintitle">Connexion</span> vous permet de sélectionner le portail que vous souhaitez consulter en premier. La navigation entre les portails est disponible sur une seule session de connexion.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Pour se connecter...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Sélectionnez le portail souhaité dans le menu.</li>
+                    <li>Saisissez votre nom d'utilisateur et votre mot de passe.</li>
+                    <li>Si vous le souhaitez, sélectionnez la langue de votre choix dans le menu. Vous pouvez afficher le <span class="wintitle">Portail exécutif</span> dans les différentes langues indiquées. Cependant, le <span class="wintitle">Portail analytique</span> est seulement disponible en anglais.</li>
+                    <li>Cliquez sur <span class="uicontrol">Ouvrir une session</span>. La page <span class="wintitle">Tableaux de bord</span> s'affiche.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <div class="tip" MadCap:autonum="&lt;b&gt;TIP: &lt;/b&gt;">Il est recommandé de modifier régulièrement votre mot de passe pour maintenir un haut niveau de sécurité.</div>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Pour modifier ou réinitialiser votre mot de passe...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Cliquez sur <span class="uicontrol">Mot de passe oublié</span>. La boîte de dialogue <span class="wintitle">Réinitialiser le mot de passe</span> s'affiche.</li>
+                    <li>Saisissez votre adresse électronique et connectez-vous avec votre nom d'utilisateur puis cliquez sur <span class="uicontrol">Soumettre</span>. La boîte de dialogue se ferme et un courriel est envoyé à l'adresse saisie avec de plus amples instructions.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Les autres fonctions disponibles dans la page <span class="wintitle">Connexion</span> comprennent...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <table style="width: 100%;margin-left: auto;margin-right: auto;mc-table-style: url('../TableStyles/Ref2Column.css');" class="TableStyle-Ref2Column" cellspacing="0">
+                    <col class="TableStyle-Ref2Column-Column-Column1" />
+                    <col class="TableStyle-Ref2Column-Column-Column2" />
+                    <thead>
+                        <tr class="TableStyle-Ref2Column-Head-Header1">
+                            <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Fonction</th>
+                            <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1"><MadCap:keyword term="Langues" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Menu Langues</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Réglez le <span class="wintitle">Portail exécutif</span> pour l'afficher dans un dialecte disponible.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyB-Column1-Body2"><MadCap:keyword term="Commentaires" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Commentaires</td>
+                            <td class="TableStyle-Ref2Column-BodyA-Column2-Body2">Affichez un courriel pré-adressé pour signaler un problème avec l'application ou fournir des suggestions pour des versions ultérieures.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

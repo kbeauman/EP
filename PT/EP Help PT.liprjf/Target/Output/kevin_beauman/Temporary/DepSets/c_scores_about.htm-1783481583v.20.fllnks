@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="About Scores"
+  FileLanguage="pt-br"
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Blind.css" />
+    <Link
+      Url="Content/Resources/Snippets/ScoreSummary.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/ScoreDesc.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/ExpandHeader.flsnp" />
+    <Link
+      Url="Content/Resources/Images/doughnutChart.png" />
+    <Link
+      Url="Content/Resources/Images/pieChart.png" />
+    <Link
+      Url="Content/Resources/Snippets/PieChartBasis.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/SortMenu.flsnp" />
+    <Link
+      Url="Content/Resources/Images/scoreLabel.png" />
+    <Link
+      Url="Content/Resources/Images/barChart.png" />
+    <Link
+      Url="Content/Resources/Images/barChartHorizontal.png" />
+    <Link
+      Url="Content/Resources/Snippets/BarGridSequence.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrendCorDef.flsnp" />
+    <Link
+      Url="Content/Resources/Images/ScoreCorrRevStacked.png" />
+    <Link
+      Url="Content/Resources/Images/ScoreCorrRev.png" />
+    <Link
+      Url="Content/Resources/Images/trendOffset.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Blind.css" />
+    <Link
+      Url="Content/Resources/Snippets/ScoreSummary.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/ScoreDesc.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/ExpandHeader.flsnp" />
+    <Link
+      Url="Content/Resources/Images/doughnutChart.png" />
+    <Link
+      Url="Content/Resources/Images/pieChart.png" />
+    <Link
+      Url="Content/Resources/Snippets/PieChartBasis.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/SortMenu.flsnp" />
+    <Link
+      Url="Content/Resources/Images/scoreLabel.png" />
+    <Link
+      Url="Content/Resources/Images/barChart.png" />
+    <Link
+      Url="Content/Resources/Images/barChartHorizontal.png" />
+    <Link
+      Url="Content/Resources/Snippets/BarGridSequence.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrendCorDef.flsnp" />
+    <Link
+      Url="Content/Resources/Images/ScoreCorrRevStacked.png" />
+    <Link
+      Url="Content/Resources/Images/ScoreCorrRev.png" />
+    <Link
+      Url="Content/Resources/Images/trendOffset.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Blind.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

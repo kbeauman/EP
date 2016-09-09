@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="289" MadCap:lastWidth="860" xml:lang="es" MadCap:ignoredWords="">
+    <head><title>Añadir un tablero</title>
+    </head>
+    <body>
+        <h1><MadCap:keyword term="Tableros:nuevo" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Añadir un tablero</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">
+            <MadCap:snippetText src="Resources/Snippets/summaryDashboardNew.flsnp" />
+        </p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/permissions.flsnp" /> </p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/dashboardDesc.flsnp" /> </p>
+        <p>Cada mosaico aparece en el tablero en el orden en el que fue añadido, por ejemplo, el primer mosaico añadido siempre aparece en el extremo superior izquierdo del tablero.</p>
+        <MadCap:snippetBlock src="Resources/Snippets/NewDashboardMethods.flsnp" />
+    </body>
+</html>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="353" MadCap:lastWidth="989" xml:lang="fr-ca" xml:space="preserve" MadCap:ignoredWords="">
+    <head><title>砻קยด7ตว融</title>
+    </head>
+    <body>
+        <h1>砻קยด8ตว融</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/NewTileFinal.flsnp" />
+        </p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/TileViewOptions.png" title="砻קยด1ตว融" alt="砻קยด2ตว融" />
+        </p>
+        <MadCap:snippetBlock src="Resources/Snippets/newTileOptions.flsnp" />
+        <h3>砻קยด9ตว融</h3>
+        <p>砻קยด10ตว融</p>
+        <h3>砻קยด11ตว融</h3>
+        <p>砻קยด12ตว融</p>
+    </body>
+</html>

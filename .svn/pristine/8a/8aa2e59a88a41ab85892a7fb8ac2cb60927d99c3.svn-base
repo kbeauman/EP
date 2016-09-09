@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="pt-br" MadCap:tocPath="Bem-vindo ao Portal Executivo|Criador de Painéis" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="pt-br" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Seleção do intervalo de datas</title>
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/MadCapAll.js">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#r_date.htm" style="">Open topic with navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix"> </span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bem-vindo ao Portal Executivo</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="toc_creator1.htm">Criador de Painéis</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Seleção do intervalo de datas</span>
+        </div>
+        <h1><a name="kanchor41"></a>Seleção do intervalo de datas</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Resumo: &lt;/i&gt;"><span class="autonumber"><span><i>Resumo: </i></span></span>Use o recurso de seleção de intervalo de datas para definir as datas de início e de término para um bloco e para exibir uma comparação de dois intervalos de datas.</p>
+        <p>A seleção do intervalo de datas para um bloco é feita por meio de um menu suspenso abaixo da <a href="r_toolbar.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">barra de ferramentas</a> que pode ser identificado pelo intervalo de datas padrão da data anterior, ou seja, ontem. A caixa de diálogo exibe por padrão a guia <span class="wintitle">Personalizada</span>. No entanto, é possível alterar este padrão na guia <img src="Resources/Images/sets_icon_11x10.png" title="ícone configurações" alt="ícone configurações" style="width: 11;height: 10;" /><span class="wintitle">Configurações</span> (consulte a próxima seção <span class="wintitle">Descrições dos intervalos de datas</span> para ver os detalhes de cada guia.</p>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_4186396251_0" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Collapsed" MadCap:alt2="Expanded" class="MCDropDownIcon" />Comparar...</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_4186396251_0" style="display: none;">
+                <p style="page-break-before: always;">Cada guia tem um menu <span class="wintitle">Comparar</span> para exibir uma comparação lado a lado do intervalo de datas e o intervalo de datas para comparação. Por exemplo: Comparar um período de duas semanas com o ano anterior.</p>
+                <p><a href="javascript:void(0);" MadCap:popupSrc="Resources/Images/compare.png" MadCap:popupWidth="313" MadCap:popupHeight="179" MadCap:popupAlt="comparar calendário" onclick="FMCPopupThumbnail_Onclick( event, this ); return false;" tabindex=""><img class="MCPopupThumbnail_0" src="Resources/Images/compare_thumb_0_48.png" style="width: 84px;height: 48px;" alt="comparar calendário" title="Clique para ampliar. Clique novamente para fechar." /></a>
+                </p>
+                <p>O menu oferece opções diferentes para cada guia. Quando um gráfico ou grade é gerado, o intervalo de datas e os valores do intervalo de comparação são exibidos lado a lado com um código de cor no cabeçalho do bloco.</p>
+            </div>
+        </div>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_4186396251_1" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Collapsed" MadCap:alt2="Expanded" class="MCDropDownIcon" />Descrições dos intervalos de datas...</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_4186396251_1" style="display: none;">
+                <p>A tabela a seguir descreve cada guia da caixa de diálogo em detalhes:</p>
+                <table style="width: 100%;mc-table-style: url('Resources/TableStyles/Ref2Column.css');margin-left: auto;margin-right: auto;" class="TableStyle-Ref2Column" cellspacing="0">
+                    <col class="TableStyle-Ref2Column-Column-Column1" />
+                    <col class="TableStyle-Ref2Column-Column-Column2" />
+                    <thead>
+                        <tr class="TableStyle-Ref2Column-Head-Header1">
+                            <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Guia</th>
+                            <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Descrição</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Personalizada</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>A guia <span class="wintitle">Personalizada</span> oferece as seguintes opções:</p>
+                                <ul>
+                                    <li value="1">Caixas de texto para digitar as datas de <span class="wintitle">início</span> e de <span class="wintitle">término</span>.</li>
+                                    <li value="2">Um calendário que mostra o mês atual e dois meses subsequentes. é possível clicar em uma data de início e clicar em uma data de término, ou arrastar de uma data para outra. Também é possível arrastar para uma data não exibida, arrastando sobre o lado do contêiner do calendário até um mês anterior ou posterior.</li>
+                                </ul>
+                                <p>O menu <span class="wintitle">Comparar</span> exibe uma comparação lado a lado do intervalo de datas e o intervalo de datas para comparação. Por exemplo: Comparar um período de duas semanas com o ano anterior.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Ano</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">A guia <span class="wintitle">Ano</span> oferece opções de intervalos de datas por ano, de acordo com o calendário selecionado*. Com a exceção de <span class="wintitle">Selecionar ano</span>, estes blocos são atualizados automaticamente no início de um novo ano.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Trimestre</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">A guia <span class="wintitle">Trimestre</span> oferece opções de intervalos de datas por períodos de três meses, de acordo com o calendário selecionado*. Com a exceção de <span class="wintitle">Selecionar trimestre</span>, estes blocos são atualizados automaticamente no início de um novo trimestre.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Mês</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">A guia <span class="wintitle">Mês</span> oferece opções de intervalos de datas por mês, de acordo com o calendário selecionado*. Com a exceção de <span class="wintitle">Selecionar mês</span>, estes blocos são atualizados automaticamente no início de um novo mês.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Semana</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">A guia <span class="wintitle">Semana</span> oferece opções de intervalos de datas por períodos de sete dias, de acordo com o calendário selecionado*. Com a exceção de <span class="wintitle">Selecionar semana</span>, estes blocos são atualizados automaticamente no início de uma nova semana.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Dia</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">A guia <span class="wintitle">Dia</span> oferece opções de intervalos de datas por períodos de 24 horas começando e terminando às 00:00. Com a exceção de<span class="wintitle">Selecionar dia</span>, estes blocos são atualizados automaticamente a cada dia.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <img src="Resources/Images/sets_icon.png" title="ícone configurações" alt="ícone configurações" /> Configurações</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>As seguintes configurações estão disponíveis:</p>
+                                <ul>
+                                    <li value="1">*<span class="wintitle">Calendário</span> - O calendário Gregoriano é a configuração padrão. Calendários personalizados, como, por exemplo, calendário fiscal ou calendário de ano modelo, estão disponíveis mediante pedido.</li>
+                                    <li value="2">**<span class="wintitle">Semana começa</span> - Mostra o primeiro dia da semana, conforme determinado pelo calendário selecionado.</li>
+                                    <li value="3"><span class="wintitle">Modo de exibição padrão</span> - Define a guia padrão, ou seja, qual guia é exibida quando a caixa de diálogo é acessada.</li>
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyB-Column1-Body2">Ações</td>
+                            <td class="TableStyle-Ref2Column-BodyA-Column2-Body2">
+                                <p>As seguintes ações estão disponíveis:</p>
+                                <ul>
+                                    <li value="1"><span class="uicontrol">Cancelar</span> - Fecha a caixa de diálogo sem alterações no intervalo de datas.</li>
+                                    <li value="2"><span class="uicontrol">Aplicar</span> - Implementa o intervalo de datas selecionado e fecha a caixa de diálogo.</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2013 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

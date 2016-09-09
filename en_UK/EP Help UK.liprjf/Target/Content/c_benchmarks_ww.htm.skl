@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="1299" MadCap:lastWidth="909" xml:space="preserve">
+    <head><title>砻קยด17ตว融</title>
+    </head>
+    <body>
+        <h1>砻קยด18ตว融</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">砻קยด19ตว融</p>
+        <p>砻קยด20ตว融</p>
+        <h2>砻קยด21ตว融</h2>
+        <p>砻קยด22ตว融</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด23ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">砻קยด24ตว融</p>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/permissions.flsnp" />
+                </p>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/buildbench1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/SelectData.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/AddSecOption.flsnp" />
+                    </li>
+                    <li>砻קยด25ตว融</li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/BenchmarkSelectScore.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/BenchmarkSelectCat.flsnp" />                </li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/ClickApply.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="Resources/Snippets/NewTileFinal.flsnp" />
+                        </p>
+                    </li>
+                </ol>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/newTileOptions.flsnp" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2>砻קยด26ตว融</h2>
+        <p>砻קยด27ตว融</p>
+        <p>砻קยด28ตว融</p>
+        <h3>砻קยด29ตว融</h3>
+        <p>砻קยด30ตว融</p>
+        <h3>砻קยด31ตว融</h3>
+        <p>砻קยด32ตว融</p>
+        <ul>
+            <li>砻קยด33ตว融</li>
+            <li>砻קยด34ตว融</li>
+            <li>砻קยด35ตว融</li>
+            <li>砻קยด36ตว融</li>
+            <li>砻קยด37ตว融</li>
+        </ul>
+        <p>砻קยด38ตว融</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด39ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด40ตว融</p>
+                <p>
+                    <img src="Resources/Images/BulletGraphicExample4.png" alt="砻קยด15ตว融" title="砻קยด16ตว融" style="mc-thumbnail: popup;" MadCap:mediastyle="@media print { width: 512px;height: 350px;max-width: 512px;max-height: 350px; }" />
+                </p>
+                <p>砻קยด41ตว融</p>
+                <ol>
+                    <li>砻קยด42ตว融</li>
+                    <li>砻קยด43ตว融</li>
+                    <li>砻קยด44ตว融</li>
+                    <li>砻קยด45ตว融</li>
+                    <li>砻קยด46ตว融</li>
+                    <li>砻קยด47ตว融</li>
+                    <li>砻קยด48ตว融</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

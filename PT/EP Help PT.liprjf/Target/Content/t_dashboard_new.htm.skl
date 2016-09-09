@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="289" MadCap:lastWidth="860" xml:lang="pt-br" xml:space="preserve">
+    <head><title>砻קยด2ตว融</title>
+    </head>
+    <body>
+        <h1>砻קยด3ตว融</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">
+            <MadCap:snippetText src="Resources/Snippets/summaryDashboardNew.flsnp" />
+        </p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/permissions.flsnp" /> </p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/dashboardDesc.flsnp" /> </p>
+        <p>砻קยด4ตว融</p>
+        <MadCap:snippetBlock src="Resources/Snippets/NewDashboardMethods.flsnp" />
+    </body>
+</html>

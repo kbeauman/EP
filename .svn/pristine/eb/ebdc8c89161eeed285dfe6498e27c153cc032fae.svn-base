@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" xml:space="preserve">
+    <body>
+        <p>The <span class="wintitle">Priority Map</span> tile displays a graphical representation of each <span class="wintitle">Element</span> in four quadrants based on <span class="wintitle">Score</span> and <span class="wintitle">Impact on Satisfaction</span>. <span class="wintitle">Impacts</span> are graphed on the x-axis and <span class="wintitle">Scores</span> are graphed on the y-axis. Each quadrant is color-coded from green to red which indicate levels of positive-to-negative results. The default display shows bubbles sized according to <span class="uicontrol">Impact</span> with other options on the <span class="wintitle">Sort</span> menu (<img src="../Images/SegArrMenuIcon.png" title="Sort menu" alt="sort menu icon" />). </p>
+        <h3>How to read the Priority Map:</h3>
+        <ol>
+            <li style="font-weight: normal;">Elements that reside towards the top of the chart have the highest <span class="wintitle">Scores</span>.</li>
+            <li style="font-weight: normal;">Elements that reside towards the right side of the chart have higher impacts. The size of the circle is proportioned to the <span class="wintitle">Impact</span>.</li>
+            <li style="font-weight: normal;">Top-priority elements reside in the lower right quadrant and have high <span class="wintitle">Impact</span> combined with low <span class="wintitle">Score</span>. These are the elements that are most likely to give the best return on investment for applying resources to improve <span class="wintitle">Satisfaction</span> and <span class="wintitle">Future Behaviors</span>.</li>
+        </ol>
+    </body>
+</html>

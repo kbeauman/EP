@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="624" MadCap:lastWidth="954">
+    <head>
+<!-- Inserted by TRADOS: --><META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8"></META>
+<title>Compartir un tablero</title>
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Share:cancel;Share:report" />Compartir un tablero</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Haga clic en el icono <span class="uicontrol">Compartir</span> (<img src="Resources/Images/share.png" title="share" alt="share icon" MadCap:mediastyle="@media print { width: 22px;height: 16px;max-width: 22px;max-height: 16px; }" />) para enviar un correo electr&#243;nico con un enlace para ver un tablero como p&#225;gina web o para descargar una imagen del tablero en PDF. Utilice el <span class="wintitle">Administrador del tablero</span> para ver un informe sobre un tablero compartido o para cancelar la acci&#243;n de compartir.</p>
+        <MadCap:snippetBlock src="Resources/Snippets/shareNote.flsnp" />
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/permissions.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="Resources/Snippets/shareSteps.flsnp" />
+        <h2>Ver Informe de tableros compartidos y cancelar la acci&#243;n de compartir</h2>
+        <p>Los <a title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic." href="toc_creator1.htm">Creadores de tableros</a> pueden acceder a un informe con detalles de tableros compartidos visualizando las propiedades del tablero desde el  <span class="wintitle">Administrador del tablero</span>. Vaya a <span class="uicontrol">Herramientas &gt; Administrador del tablero</span>, haga clic en el nombre del tablero y abra el panel <span class="wintitle">Compartir</span> del cuadro de di&#225;logo para ver este informe. Tambi&#233;n hay un bot&#243;n para <span class="uicontrol">Cancelar la acci&#243;n de compartir</span> que desactiva el enlace a la p&#225;gina web o al archivo en PDF.</p>
+        <h3>Tema relacionado:</h3>
+        <p><a href="c_dashboard_manager.htm#DashMgr" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">Administrador del tablero</a> - Permite ver y editar las propiedades del tablero y los privilegios de los usuarios.</p>
+    </body>
+</html>
+

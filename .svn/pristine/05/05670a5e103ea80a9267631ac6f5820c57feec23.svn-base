@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="542" MadCap:lastWidth="989" xml:lang="fr-ca" MadCap:ignoredWords="">
+    <head><title>Modifier un rapport existant</title>
+    </head>
+    <body>
+        <h1>Modifier un rapport existant</h1>
+        <p>Les rapports sont configurés pour une période de temps générique, comme le <span class="wintitle">Mois dernier</span> ou <span class="wintitle">l’an dernier</span>, et la mise à jour s’effectue automatiquement. Toutefois, on peut en certaines occasions ajouter ou retirer des paramètres pour un rapport donné qui se trouve actuellement affiché sur le tableau de bord.</p>
+        <div class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;">When you edit a tile, you are actually cloning the selected tile into the work environment it was built in where you can make the desired revisions. The selected tile remains on the dashboard.</div>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/ViewDashBuilder.flsnp" />
+        </p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/DashboardGo2.png" title="Aller à Tableaux de bord" alt="Navigation dans les tableaux de bord" />
+        </p>
+        <h3>Renseignements supplémentaires</h3>
+        <p><a href="c_dashboards_about.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Utilisation des tableaux de bord</a></p>
+        <h3>Étape suivante</h3>
+        <p><a href="edittile2.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Étape 1 &gt;</a></p>
+    </body>
+</html>

@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="toolbarPg.flsnp"
+    source-language="en-us"
+    target-language="en-gb"
+    datatype="x-flsnp">
+    <header>
+      <skl><external-file
+          href="toolbarPg.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">20</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">5</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Toolbar</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Toolbar</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Toolbar</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Logout</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Logout</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Logout</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Username</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Username</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Username</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>ForeSee Logo</source><seg-source><mrk
+            mtype="seg"
+            mid="1">ForeSee Logo</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">ForeSee Logo</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>ForeSee Logo</source><seg-source><mrk
+            mtype="seg"
+            mid="1">ForeSee Logo</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">ForeSee Logo</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-title"
+        phase-name="pretrans"><source>About the Toolbar</source><seg-source><mrk
+            mtype="seg"
+            mid="1">About the Toolbar</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">About the Toolbar</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-h1"
+        phase-name="pretrans"><source>The Executive Portal <ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Toolbar</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The Executive Portal <ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Toolbar</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">The Executive Portal <ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Toolbar</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-li"
+        phase-name="pretrans"><source>Display <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Help<ept
+            id="1">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Display <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Help<ept
+              id="1">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Display <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Help<ept
+              id="1">&lt;/span&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-li"
+        phase-name="pretrans"><source>Open <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Advanced Analytics Portal<ept
+            id="1">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Open <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Advanced Analytics Portal<ept
+              id="1">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="new"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="New">Open <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Advanced Analytics Portal<ept
+              id="1">&lt;/span&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-li"
+        phase-name="pretrans"><source>End your session</source><seg-source><mrk
+            mtype="seg"
+            mid="1">End your session</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">End your session</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-p"
+        phase-name="pretrans"><source>The toolbar is the page header displaying your company name and contains several controls described in the following table. The top of the toolbar displays a status bar when a page is loading, or a tile is being generated.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The toolbar is the page header displaying your company name and contains several controls described in the following table.</mrk><mrk
+            mtype="seg"
+            mid="2">The top of the toolbar displays a status bar when a page is loading, or a tile is being generated.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">The toolbar is the page header displaying your company name and contains several controls described in the following table.</mrk><mrk
+            mtype="seg"
+            mid="2">The top of the toolbar displays a status bar when a page is loading, or a tile is being generated.</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-th"
+        phase-name="pretrans"><source>Element</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Element</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Element</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-th"
+        phase-name="pretrans"><source>Description</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Description</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Description</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-td"
+        phase-name="pretrans"><source>Click to return you the default <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Dashboard<ept
+            id="1">&lt;/span&gt;</ept> page, unless your session has timed out (which then displays the <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Login<ept
+            id="2">&lt;/span&gt;</ept> page).</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to return you the default <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Dashboard<ept
+              id="1">&lt;/span&gt;</ept> page, unless your session has timed out (which then displays the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Login<ept
+              id="2">&lt;/span&gt;</ept> page).</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to return you the default <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Dashboard<ept
+              id="1">&lt;/span&gt;</ept> page, unless your session has timed out (which then displays the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Login<ept
+              id="2">&lt;/span&gt;</ept> page).</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-td"
+        phase-name="pretrans"><source>Help</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Help</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Help</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-td"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Help<ept
+            id="1">&lt;/span&gt;</ept> to display this user guide in a new browser window.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Help<ept
+              id="1">&lt;/span&gt;</ept> to display this user guide in a new browser window.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Help<ept
+              id="1">&lt;/span&gt;</ept> to display this user guide in a new browser window.</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-td"
+        phase-name="pretrans"><source>AAP</source><seg-source><mrk
+            mtype="seg"
+            mid="1">AAP</mrk></seg-source><target
+          state="new"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="New">AAP</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-td"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>AAP<ept
+            id="1">&lt;/span&gt;</ept> to open <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Advanced Analytics Portal<ept
+            id="2">&lt;/span&gt;</ept> in a new browser tab.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>AAP<ept
+              id="1">&lt;/span&gt;</ept> to open <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Advanced Analytics Portal<ept
+              id="2">&lt;/span&gt;</ept> in a new browser tab.</mrk></seg-source><target
+          state="new"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="New">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>AAP<ept
+              id="1">&lt;/span&gt;</ept> to open <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Advanced Analytics Portal<ept
+              id="2">&lt;/span&gt;</ept> in a new browser tab.</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-td"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Logout</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Logout</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Logout</mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-td"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Logout<ept
+            id="1">&lt;/span&gt;</ept> to end your sessions of both <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="2">&lt;/span&gt;</ept> and <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="3">&lt;/span&gt;</ept> with a single click.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Logout<ept
+              id="1">&lt;/span&gt;</ept> to end your sessions of both <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="2">&lt;/span&gt;</ept> and <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="3">&lt;/span&gt;</ept> with a single click.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Logout<ept
+              id="1">&lt;/span&gt;</ept> to end your sessions of both <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="2">&lt;/span&gt;</ept> and <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="3">&lt;/span&gt;</ept> with a single click.</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-td"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="3" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Username</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="3" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Username</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="3" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Username</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-td"
+        phase-name="pretrans"><source>The session owner, or the user who logged into the current session.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The session owner, or the user who logged into the current session.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">The session owner, or the user who logged into the current session.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

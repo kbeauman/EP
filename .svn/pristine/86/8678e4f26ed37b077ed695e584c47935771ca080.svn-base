@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="buildscore1.htm"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="buildscore1.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">11</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">4</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-title"
+        phase-name="pretrans"><source>Build Score Main</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build Score Main</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Construir de pontuações de principal </mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-h1"
+        phase-name="pretrans"><source>Build a new Response Score Tile</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build a new Response Score Tile</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Construir um novo bloco de resposta de pontuações</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-h2"
+        phase-name="pretrans"><source>Response Comparison</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Response Comparison</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Comparação de respostas</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-h3"
+        phase-name="pretrans"><source>Additional Information</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Additional Information</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Informações adicionais</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="c_scores_ww.htm" target="_parent" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="2" />"&gt;</bpt>Working with Scores<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="c_scores_ww.htm" target="_parent" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Working with Scores<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="New"><bpt
+              id="1"
+              ctype="link">&lt;a href="c_scores_ww.htm" target="_parent" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Como trabalhar com pontuações<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-h3"
+        phase-name="pretrans"><source>Next Step</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Next Step</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Próximo passo</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="buildscore2.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="2" />"&gt;</bpt>Step 1 &gt;<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="buildscore2.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Step 1 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="New"><bpt
+              id="1"
+              ctype="link">&lt;a href="buildscore2.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Passo 1 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit></body>
+  </file>
+</xliff>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="SelectData.flsnp"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="x-flsnp">
+    <header>
+      <skl><external-file
+          href="SelectData.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">3</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-body"
+        phase-name="pretrans"><source>Select the desired <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Channel<ept
+            id="1">&lt;/span&gt;</ept> and <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+            id="2">&lt;/span&gt;</ept>. Some combinations offer filters which exist in <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="3">&lt;/span&gt;</ept> and may be applied if desired. The double-chevron link opens the <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Filters<ept
+            id="4">&lt;/span&gt;</ept> page of <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="5">&lt;/span&gt;</ept> to edit existing filters, or build a new filter.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Select the desired <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Channel<ept
+              id="1">&lt;/span&gt;</ept> and <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+              id="2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">Some combinations offer filters which exist in <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="3">&lt;/span&gt;</ept> and may be applied if desired.</mrk><mrk
+            mtype="seg"
+            mid="3">The double-chevron link opens the <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Filters<ept
+              id="4">&lt;/span&gt;</ept> page of <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="5">&lt;/span&gt;</ept> to edit existing filters, or build a new filter.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Selecione o <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Canal<ept
+              id="1">&lt;/span&gt;</ept> e a <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Medida<ept
+              id="2">&lt;/span&gt;</ept> desejados.</mrk><mrk
+            mtype="seg"
+            mid="2">Algumas combinações oferecem filtros que existem no <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Portal Analítico<ept
+              id="3">&lt;/span&gt;</ept> e, se desejado, podem ser aplicados.</mrk><mrk
+            mtype="seg"
+            mid="3">O link de divisa dupla abre a página <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Filtros<ept
+              id="4">&lt;/span&gt;</ept> do <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Portal Analítico<ept
+              id="5">&lt;/span&gt;</ept> para permitir a edição dos filtros existentes ou a criação de um novo filtro.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

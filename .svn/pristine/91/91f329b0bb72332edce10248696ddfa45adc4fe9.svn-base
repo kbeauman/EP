@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:tocPath="Welcome to Executive Portal|Dashboard Viewer" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="en-us" xml:lang="en-us" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="EP Help.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>About Benckmarks</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js">
+        </script>
+        <script src="SkinSupport/MadCapAll.js">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../EP Help_CSH.htm#c_benchmarks_about.htm" style="">Open topic with navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix"> </span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Welcome to Executive Portal</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="toc_viewer.htm">Dashboard Viewer</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">About Benckmarks</span>
+        </div>
+        <h1>About Benchmark Tiles</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;"><span class="autonumber"><span><i>Summary: </i></span></span>Comparison of your scores against others in your industry.</p>
+        <p><span class="wintitle">Benchmarks</span> are scores derived from other <span class="wintitle">ForeSee</span> clients for the purpose of comparison. Benchmark tiles allow you to compare your measures against the <span class="wintitle">ForeSee</span> database of measures from clients. You can view who these clients are, but you cannot access a specific client's data. </p>
+        <h2><a name="kanchor14"></a>Benchmark Math</h2>
+        <p>Benchmark members are grouped by market venues consisting of five or more members which make up a <span class="wintitle">Category</span>. A <span class="wintitle">Category</span> score is derived from averaging the scores of its members. When a category has fewer than five members, the measure is omitted from the tile graphic and listed in the pull-down section of the tile header. For quartiles to appear in the  <a href="#Bullet" title="Jump to this section of this page." alt="Jump to this section of this page.">Bullet Graph</a>, the minimum number is 20 members. Categories with fewer members display <span class="systemoutput">N/A</span> in the <span class="wintitle">Details</span> section of the sidebar (which opens when you click a category in the graph).</p>
+        <h2><a name="Benchmar"></a>Benchmark Categories Selection</h2>
+        <p>Data is displayed in the following interactive chart layouts which allow you to drill-down into the data for specific information. These charts are organized by score, with the lowest score at the top. However, you can temporarily change the sequence by selecting the desired sort order from the <span class="wintitle">Sort</span> menu (<img src="Resources/Images/SegArrMenuIcon.png" alt="segment arrangement menu icon" />) during your session. When you leave your session, the sort order returns to the default sequence.</p>
+        <h3>Tornado Chart </h3>
+        <p>Your measure is the pivot point of this bar chart, where lower measures extend to the left and higher measures to the right. Each selected <span class="wintitle">Benchmark Category</span> is labeled and (when clicked) displays a summary of the category, details of how your score compares, and a list of category members. This feature requires a minimum of five members. Categories with fewer members are noted in a pull-down section of the header (indicated by a downward pointing chevron).</p>
+        <h3><a name="Bullet"></a>Bullet Graph </h3>
+        <p>This graph has the following features:</p>
+        <ul>
+            <li value="1">Your score - Displays in the top margin with a reference line to visually compare with each category.</li>
+            <li value="2">Categories - Each category is positioned horizontally with a label and quantitative scale. This feature requires a minimum of five members. Categories with fewer members are noted in a pull-down section of the header (indicated by a downward pointing chevron).</li>
+            <li value="3">Mean - The average score for each category is displayed on the right of each category and represented in the scale.</li>
+            <li value="4">Maximum and Minimum Ratings - Each category's highest and lowest scores.</li>
+            <li value="5"><a name="kanchor15"></a>Quartiles - The scale represents how category members scored in quartered (25%) segments. This feature requires a minimum of 20 members. </li>
+        </ul>
+        <p>Click anywhere along a category's label, scale, or average score to view details on a sidebar. </p>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_817756959_0" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" />More about Bullet Graphs...</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_817756959_0" style="display: none;">
+                <p>In <span class="wintitle">Executive Portal</span>, quartiles are the quartered divisions of a range to show 25th, 50th, and 75th percentiles. Using the illustration that follows, the first (lower) quartile is set at 71, which means 25% of this category's members scored below 71 with the minimum (or lowest) score of 54. Your score of 80 falls in the 50th percentile, or median of the group, which is set at 77. As previously mentioned, when you click on this scale a sidebar displays with these descriptions and values. </p>
+                <p><a href="javascript:void(0);" MadCap:popupSrc="Resources/Images/BulletGraphicExample4.png" MadCap:popupWidth="512" MadCap:popupHeight="350" MadCap:popupAlt="bullet graph example" onclick="FMCPopupThumbnail_Onclick( event, this ); return false;"><img class="MCPopupThumbnail_0" src="Resources/Images/BulletGraphicExample4_thumb_0_48.png" style="width: 70px;height: 48px;" alt="bullet graph example" title="Click to enlarge. Click again to close." tabindex="" /></a>
+                </p>
+                <p>In this illustration:</p>
+                <ol>
+                    <li value="1">Your Score = 80</li>
+                    <li value="2">Mean = 75</li>
+                    <li value="3">Maximum = 85</li>
+                    <li value="4">Third Quartile = 81</li>
+                    <li value="5">Median = 77</li>
+                    <li value="6">First Quartile = 71</li>
+                    <li value="7">Minimum = 54</li>
+                </ol>
+            </div>
+        </div>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

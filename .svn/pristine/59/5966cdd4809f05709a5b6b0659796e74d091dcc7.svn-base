@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="pt-br" MadCap:ignoredWords="" MadCap:tocPath="Bem-vindo ao Portal Executivo|Guias de Início Rápido|Construir um novo bloco de pontuações" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="pt-br" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Construir de pontuação 4</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapAll.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#buildscore5.htm" style="">Abra Navegação</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bem-vindo ao Portal Executivo</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="quickstartmain.htm">Guias de Início Rápido</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="buildscore1.htm">Construir um novo bloco de pontuações</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Construir um novo bloco de pontuações - Passo 4</span>
+        </div>
+        <h1>Construir um novo bloco de resposta de pontuação - Passo 4</h1>
+        <p>Selecione o <span class="wintitle">Canal</span> e a <span class="wintitle">Medida</span> desejados. Algumas combinações oferecem filtros que existem no <span class="wintitle">Portal Analítico</span> e, se desejado, podem ser aplicados. O link de divisa dupla abre a página <span class="wintitle">Filtros</span> do <span class="wintitle">Portal Analítico</span> para permitir a edição dos filtros existentes ou a criação de um novo filtro.</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildtile4.png" title="Estabelecer Canal, Medida, e Filtro de modelo" alt="Seleção de dados" style="mc-float: center;" />
+        </p>
+        <h3>Próximo passo</h3>
+        <p><a href="buildscore6.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Passo 5 &gt;</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

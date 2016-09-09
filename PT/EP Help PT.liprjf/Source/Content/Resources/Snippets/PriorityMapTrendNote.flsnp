@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" xml:space="preserve">
+    <body>
+        <div class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;">When trending multiple months, a note may display in the tile heading indicating there is data missing for the trending period. This is caused when one or more months has no data to report.</div>
+    </body>
+</html>

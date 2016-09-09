@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="353" MadCap:lastWidth="989" xml:lang="fr-ca" MadCap:ignoredWords="">
+    <head><title>Options d’affichage des rapports</title>
+    </head>
+    <body>
+        <h1>Options d’affichage des rapports</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/NewTileFinal.flsnp" />
+        </p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/TileViewOptions.png" title="Voir la disposition de chaque rapport." alt="Options d’affichage des rapports" />
+        </p>
+        <MadCap:snippetBlock src="Resources/Snippets/newTileOptions.flsnp" />
+        <h3>Renseignements supplémentaires</h3>
+        <p><a href="c_benchmarks_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Utilisation des repères</a></p>
+        <h3>Étape suivante</h3>
+        <p><a href="builddash2.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">À l'aide du Épingler bouton</a></p>
+    </body>
+</html>

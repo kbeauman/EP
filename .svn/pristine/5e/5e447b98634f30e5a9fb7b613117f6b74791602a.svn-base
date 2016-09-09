@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="2375" MadCap:lastWidth="926" xml:lang="fr-ca" xml:space="preserve" MadCap:ignoredWords="">
+    <head><title>Utilisation des repères</title>
+    </head>
+    <body>
+        <h1><MadCap:keyword term="Repères" />Utilisation des repères</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Sommaire: &lt;/i&gt;">Utilisez les moyennes des résultats de catégories commerciales pour comparer les vôtres.</p>
+        <p><MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" />Les mosaïques des repères vous permettent de comparer vos mesures avec celles de la base de données <span class="wintitle">ForeSee</span> provenant des clients. Vous pouvez voir qui sont ces clients, mais vous ne pouvez pas accéder aux données d'un client spécifique.</p>
+        <h2><MadCap:keyword term="Catégorie" />Logistique mathématique des repères</h2>
+        <p>Les membres repères sont regroupés par lieux de marché comportant cinq membre ou plus formant une <span class="wintitle">Catégorie</span>. Un résultat de <span class="wintitle">Catégorie</span> provient de la moyenne des résultats de ses membres. Lorsqu'une catégorie a moins de cinq membres, la mesure est omise dans le graphique de la mosaïque et énumérée dans la section d'extraction de l'en-tête de la mosaïque. Pour que des quartiles apparaissent dans le <a href="#Bullet" title="Sauter cette section." alt="Sauter cette section.">Graphique de puces</a>, le nombre minimum requis est de 20 membres. Les catégories ayant peu de membres affichent <span class="systemoutput">N/A</span> dans la section <span class="wintitle">Détails</span> de la barre latérale (qui s'ouvre lorsque vous cliquez sur une catégorie dans le graphique).</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot><MadCap:keyword term="Repères:nouvelle" />Créer une nouvelle mosaïque de repères...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="shortdesc" MadCap:autonum="&lt;i&gt;Sommaire: &lt;/i&gt;">Sélectionnez différents résultats de catégories de repères pour les <span class="wintitle">Méthodes</span> et les <span class="wintitle">Mesures</span> sélectionnées.</p>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/permissions.flsnp" />
+                </p>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/buildbench1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/SelectData.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/AddSecOption.flsnp" />
+                    </li>
+                    <li>Cliquez sur <span class="uicontrol">Appliquer</span>. La barre latérale <span class="wintitle">Réglages</span> apparaît avec toutes les <span class="wintitle">Catégories de repères</span> sélectionnées auxquelles votre entreprise appartient. Voir <a href="#Benchmar" title="Sauter cette section." alt="Sauter cette section.">Sélection des catégories de repères</a> pour des renseignements supplémentaires sur les membres des catégories.</li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/BenchmarkSelectScore.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/BenchmarkSelectCat.flsnp" />
+	                </li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/ClickApply.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="Resources/Snippets/NewTileFinal.flsnp" />
+                        </p>
+                    </li>
+                </ol>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/newTileOptions.flsnp" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2><a name="Benchmark"></a>Sélection de catégories de repères</h2>
+        <p>La barre latérale <span class="wintitle">Réglages</span> comporte une liste de groupes ayant des cases à cocher pour les inclure dans votre mosaïque. Chacun de ces groupes ou chacune de ces catégories a une icône <span class="uicontrol">Renseignements</span> (<img src="Resources/Images/info.png" title="renseignements icône" alt="renseignements icône" MadCap:mediastyle="@media print { width: 16px;height: 16px;max-width: 16px;max-height: 16px; }" />) qui permet d'ouvrir une boîte de dialogue énumérant les membres de la catégorie. Vous pouvez sélectionner jusqu'à 15 catégories à inclure dans la mosaïque. Les catégories auxquelles votre entreprise appartient sont automatiquement sélectionnées.</p>
+		<p>Les données sont affichées dans des graphiques interactifs qui vous permettent d'extraire les données pour des renseignements spécifiques.</p>
+		<h3>Graphique tornade <img src="Resources/Images/benchmarkChart.png" title="graphique tornade" alt="bouton graphique tornade" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" /></h3>
+		<p>Votre mesure est le point central du diagramme où les mesures les plus basses s'étendent vers la gauche et les mesures les plus élevées vers la droite. Chaque <span class="wintitle">Catégorie de repère</span> sélectionnée est étiquetée et (une fois cliquée) affiche un résumé de la catégorie, les détails sur la manière de comparer vos résultats et une liste de membres par catégorie. <MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" /></p>
+		<h3><a name="Bullet"></a>Graphique de puces <img src="Resources/Images/bullet.png" title="graphique de puces" alt="bouton graphique de puces" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" /></h3>
+		<p>Ce graphique a les fonctions suivantes:</p>
+		<ul>
+			<li>Votre résultat - S'affiche dans la marge supérieure avec une ligne de référence pour comparer visuellement chaque catégorie.</li>
+			<li>Catégories - Chaque catégorie est placée horizontalement avec une étiquette et une échelle quantitative. <MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" /></li>
+			<li>Moyenne - La moyenne des résultats de chaque catégorie est affichée à droite de chacune d'entre elles et est représentée sur l'échelle.</li>
+			<li>Classements maximum et minimum - Les résultats les plus élevés et les plus bas de chaque catégorie.</li>
+			<li><MadCap:keyword term="Quartiles" />Quartiles - L'échelle représente quels résultats ont obtenus les membres de la catégorie dans les trimestres (25&#160;%). Cette fonction nécessite un minimum de 20 membres.</li>
+		</ul>
+		<p>Cliquez n'importe où sur l'étiquette, l'échelle ou la moyenne des résultats de la catégorie pour consulter les détails sur la barre latérale.</p>
+		<MadCap:dropDown>
+			<MadCap:dropDownHead>
+				<MadCap:dropDownHotspot>Pour en savoir plus sur les graphiques de puces...</MadCap:dropDownHotspot>
+			</MadCap:dropDownHead>
+			<MadCap:dropDownBody>
+				<p>Dans le <span class="wintitle">Portail exécutif</span>, les quartiles sont les divisions trimestrielles d'une étendue des 25e, 50e et 75e centiles. À l’aide de l'illustration suivante, le premier quartile (quartile inférieur) est de 71, ce qui signifie que 25&#160;% de membres de la catégorie ont obtenu un résultat inférieur à 71 avec le résultat minimum (ou le plus bas) de 54. Votre résultat de 80 correspond au 50e centile ou à la médiane du groupe qui est de 77. Tel que mentionné précédemment, lorsque vous cliquez sur cette échelle, une barre latérale affiche ces descriptions et valeurs.</p>
+				<p>
+					<img src="Resources/Images/BulletGraphicExample4.png" alt="exemple graphique de puces" title="Cliquez pour agrandir. Cliquez à nouveau pour fermer." style="mc-thumbnail: popup;" MadCap:mediastyle="@media print { width: 512px;height: 350px;max-width: 512px;max-height: 350px; }" />
+				</p>
+				<p>Dans cette illustration:</p>
+				<ol>
+					<li>Votre résultat = 80</li>
+					<li>Moyenne = 75</li>
+					<li>Maximum = 85</li>
+					<li>Troisième quartile = 81</li>
+					<li>Médiane = 77</li>
+					<li>Premier quartile = 71</li>
+					<li>Minimum = 54</li>
+				</ol>
+			</MadCap:dropDownBody>
+		</MadCap:dropDown>
+	</body>
+</html>

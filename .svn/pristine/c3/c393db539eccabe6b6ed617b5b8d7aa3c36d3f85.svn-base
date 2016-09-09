@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="fr-ca" MadCap:ignoredWords="" MadCap:tocPath="Bienvenue au Portail exécutif|Créateur de tableaux de bord" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="fr-ca" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Au sujet du Gestionnaire de tableaux de bord</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js">
+        </script>
+        <script src="SkinSupport/MadCapAll.js">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#c_dashboard_manager.htm" style="">Ouvert de navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix"> </span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bienvenue au Portail exécutif</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="toc_creator1.htm">Créateur de tableaux de bord</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Au sujet du Gestionnaire de tableaux de bord</span>
+        </div>
+        <h1>Au sujet du <a name="kanchor37"></a><a name="kanchor38"></a><a name="DashMgr"></a>Gestionnaire de tableaux de bord</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Sommaire: &lt;/i&gt;"><span class="autonumber"><span><i>Sommaire: </i></span></span>Allez à <span class="uicontrol">Outils &gt; Gestionnaire de tableaux de bord</span> pour accéder aux renseignements sur tous les tableaux de bord.</p>
+        <p><b>Contenu basé sur les rôles:</b> Cette section contient des renseignements et/ou des instructions nécessitant des fonctions basées sur les rôles. Si vous ne voyez pas une fonction décrite dans cette section, vous n'avez peut-être pas le profil d'utilisateur nécessaire pour effectuer ces tâches.</p>
+        <p>Pour consulter le <span class="wintitle">Gestionnaire de tableaux de bord</span>, cliquez sur l'icône <span class="uicontrol">Outils</span> (<img src="Resources/Images/tools_icon.png" title="icône outils" alt="icône outils" />) dans la <a href="toc_creator1.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">navigation latérale</a> et sélectionnez <span class="uicontrol">Gestionnaire de tableaux de bord</span> dans la barre latérale <span class="wintitle">Outils</span>. La page <span class="wintitle">Gestionnaire de tableaux de bord</span> affiche une liste de tableaux de bord.
+    </p>
+        <p>Le <span class="wintitle">Gestionnaire de tableaux de bord</span> est une grille ayant une fonction de triage par colonne qui est appelée en cliquant sur l'en-tête de colonne. Cette grille est triée par la colonne sélectionnée en ordre croissant. Cliquez à nouveau sur l'en-tête pour inverser l'ordre.</p>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_1908787336_0" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" />détails de la grille...</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_1908787336_0" style="display: none;">
+                <table style="width: 100%;mc-table-style: url('Resources/TableStyles/Ref2Column.css');margin-left: auto;margin-right: auto;" class="TableStyle-Ref2Column" cellspacing="0">
+                    <col class="TableStyle-Ref2Column-Column-Column1" />
+                    <col class="TableStyle-Ref2Column-Column-Column2" />
+                    <thead>
+                        <tr class="TableStyle-Ref2Column-Head-Header1">
+                            <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Colonne</th>
+                            <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <img src="Resources/Images/viewDBicon.png" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide." /> Consulter un tableau de bord</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>Cliquez sur l'icône <span class="wintitle">Consulter</span> pour afficher le tableau de bord. Le lien <span class="uicontrol">Revenir</span> s'affiche dans la barre latérale vous permettant de fermer le tableau de bord et de revenir à la grille <span class="wintitle">Gestionnaire de tableaux de bord</span>.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Titre</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">L'étiquette informative donnée au tableau de bord lorsqu'il a été créé.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">État</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>Les tableaux de bord sont seulement visibles lorsqu'ils sont <span class="systemoutput">Activés</span>. Désactivez un tableau de bord pour le mettre hors ligne sans le supprimer.</p>
+                                <div class="MCDropDown">
+                                    <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_1908787336_1" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" />Pour modifier l'<span class="wintitle">État</span>...</a>
+                                    </div>
+                                    <div class="MCDropDownBody_0" id="MCDropDownBody_1908787336_1" style="display: none;">
+                                        <ol>
+                                            <li value="1">Cliquez sur la mosaïque du tableau de bord sur la grille du <span class="wintitle">Gestionnaire du tableau de bord</span>. La boîte de dialogue du <span class="wintitle">Gestionnaire du tableau de bord</span> s'affiche.</li>
+                                            <li value="2">Par défaut, le conteneur <span class="wintitle">Général</span> s'agrandit. Cochez ou effacez la case à cocher <span class="wintitle">Activé</span>.</li>
+                                            <li value="3">Cliquez sur <span class="uicontrol">Sauvegarder</span>. La boîte de dialogue se ferme et la grille s'actualise pour indiquer que l'<span class="wintitle">État</span> du tableau de bord a changé.</li>
+                                        </ol>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Mosaïques</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Le nombre de mosaïques attribuées au tableau de bord.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Utilisateurs</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>Le nombre d'utilisateurs ayant l'autorisation de consulter ou de modifier le tableau de bord.</p>
+                                <div class="MCDropDown">
+                                    <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_1908787336_2" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" />Pour gérer les affectations des utilisateurs...</a>
+                                    </div>
+                                    <div class="MCDropDownBody_0" id="MCDropDownBody_1908787336_2" style="display: none;">
+                                        <ol>
+                                            <li value="1">Cliquez sur la mosaïque du tableau de bord sur la grille du <span class="wintitle">Gestionnaire du tableau de bord</span>. La boîte de dialogue du <span class="wintitle">Gestionnaire du tableau de bord</span> s'affiche.</li>
+                                            <li value="2">Cliquez sur la barre de titre <span class="wintitle">Utilisateurs</span>. Le conteneur s'agrandit.</li>
+                                            <li value="3">Faites défiler la grille <span class="wintitle">Utilisateurs attribués</span> et cochez ou effacez les cases <span class="wintitle">Consulter</span> et <span class="wintitle">Modifier</span> souhaitées. Sinon, utilisez le menu <span class="wintitle">Copier les utilisateurs attribués à partir de</span> pour appliquer les attributions à un autre tableau de bord.</li>
+                                            <li value="4">Cliquez sur <span class="uicontrol">Sauvegarder</span>. La boîte de dialogue se ferme et la grille s'actualise pour refléter vos modifications dans la colonne <span class="wintitle">Utilisateurs</span>.</li>
+                                        </ol>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Propriétaire</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">L'utilisateur qui a l'autorisation exclusive de supprimer le tableau de bord. Le propriétaire par défaut est l'utilisateur créant le tableau de bord.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Modifié</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Un timbre dateur généré par le système de la plus récente révision du tableau de bord.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Carrousel</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Utilisez la colonne <span class="wintitle">Carrousel</span> pour établir l'ordre dans lequel les tableaux de bord apparaîtront dans la barre latérale. Par défaut, le premier tableau de bord se charge lorsque vous vous connectez ou que vous naviguez dans la page <span class="wintitle">Tableaux de bord</span>. Cette séquence est pour votre profil d'utilisateur uniquement. Le meilleur moyen est de sélectionner un tableau de bord à chargement rapide comme no&#160;1 afin d'éviter les délais de chargement lorsque vous consultez la page Tableaux de bord.<div class="MCDropDown"><div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_1908787336_3" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" /><span class="wintitle"></span> Pour modifier la séquence du carrousel...Cliquez sur la zone de texte Carrousel souhaitée.</a></div><div class="MCDropDownBody_0" id="MCDropDownBody_1908787336_3" style="display: none;"><p></p><ol><li value="1"><span class="wintitle"></span> Lorsque les nombres changent au milieu de la séquence, uniquement les tableaux de bord concernés par votre révision sont renumérotés. Ainsi, si vous souhaitez permuter les tableaux de bord n°&#160;1 et n°&#160;2, vous devez seulement remplacer le n°&#160;1 avec le n° 2. Le n°&#160;2 actuel est automatiquement remplacé par le n°&#160;1 et les autres tableaux de bord restent inchangés. À l'inverse, remplacer le numéro le plus élevé par le n°&#160;1 entraîne l'augmentation de tous les nombres de 1. Appuyez sur la touche Tabulation de votre clavier pour appliquer la modification.</li><li value="2"><span class="wintitle"></span> L'écran est actualisé pour afficher votre révision. Vous pouvez seulement modifier un numéro à la fois.</li></ol><p> Lorsque vous cliquez sur une deuxième zone de texte, la première révision s'applique automatiquement.</p></div></div></td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyB-Column1-Body1">Supprimer</td>
+                            <td class="TableStyle-Ref2Column-BodyA-Column2-Body1">
+                                <div class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;"><span class="autonumber"><span><b>NOTE: </b></span></span>Cette action entraîne l'élimination totale du tableau de bord sélectionné. Il est impossible de récupérer un tableau de bord supprimé.</div>
+                                <div class="MCDropDown">
+                                    <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_1908787336_4" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" />Pour supprimer un tableau de bord...</a>
+                                    </div>
+                                    <div class="MCDropDownBody_0" id="MCDropDownBody_1908787336_4" style="display: none;">
+                                        <ol>
+                                            <li value="1">Sélectionnez la case à cocher dans la colonne <span class="wintitle">Supprimer</span> pour le tableau de bord. L'action <span class="uicontrol">Supprimer le(s) tableau(x) de bord</span> apparaît au-dessus de la grille.</li>
+                                            <li value="2">Cliquez sur <span class="uicontrol">Supprimer le(s) tableau(x) de bord</span>. Une boîte de dialogue apparaît vous demandant de confirmer l'élimination du tableau de bord.</li>
+                                            <li value="3">Cliquez sur <span class="uicontrol">Ok</span>. La boîte de dialogue se ferme et l'écran s'actualise pour indiquer que la grille ne contient plus le tableau de bord supprimé.</li>
+                                        </ol>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_1908787336_5" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" />À propos de la boîte de dialogue du Gestionnaire de tableaux de bord...</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_1908787336_5" style="display: none;">
+                <p><a name="DashboardDetails"></a>La grille contient tous les tableaux de bord auxquels vous avez accès ainsi que certains renseignements généraux.</p>
+                <p>Cliquez sur un élément pour afficher et réviser les détails de tableaux de bord suivants:</p>
+                <p><a href="javascript:void(0);" MadCap:popupSrc="Resources/Images/DashMgrPropDB.png" MadCap:popupWidth="499" MadCap:popupHeight="437" MadCap:popupAlt="dialogue du gestionnaire du tableau de bord" onclick="FMCPopupThumbnail_Onclick( event, this ); return false;"><img class="MCPopupThumbnail_0" src="Resources/Images/DashMgrPropDB_thumb_0_48.png" style="width: 55px;height: 48px;" alt="dialogue du gestionnaire du tableau de bord" title="Cliquez pour agrandir. Cliquez à nouveau pour fermer." tabindex="" /></a>
+                </p>
+                <ul>
+                    <li value="1">Général<ul><li value="1">Tableau de bord - Un champ de texte pour modifier le nom du tableau de bord.</li><li value="2"> État - Sélectionnez <span class="uicontrol">Activé</span> (par défaut) pour que le tableau de bord soit actif.</li><li value="3">Mosaïques - Une liste de mosaïques présentement attribuées au tableau de bord. </li><li value="4">Disposition - Modifiez le modèle de disposition au besoin.</li></ul></li>
+                    <li value="2">Utilisateurs<ul><li value="1">Propriétaire du tableau de bord - Un menu d'utilisateurs valides. Par défaut, le <span class="wintitle">Propriétaire du tableau de bord</span> a deux privilèges: <span class="wintitle">Consulter</span> et <span class="wintitle">Modifier</span>. </li><li value="2">Copier les utilisateurs attribués à partir de - Appliquez les attributions d'utilisateurs à un autre tableau de bord. </li><li value="3">Attributions d'utilisateurs - Sélectionnez les privilèges <span class="wintitle">Consulter</span> et <span class="wintitle">Modifier</span> pour chaque utilisateur.</li></ul></li>
+                    <li value="3">Partager<ul><li value="1">Rapports partagés - Consultez les noms des utilisateurs qui ont partagé le tableau de bord ainsi que la date et la date d'expiration. Vous pouvez également annuler le partage.</li></ul></li>
+                </ul>
+            </div>
+        </div>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_1908787336_6" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" />Utiliser le <span class="wintitle">Gestionnaire de tableaux de bord</span> pour créer un nouveau tableau de bord...</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_1908787336_6" style="display: none;">
+                <ol>
+                    <li value="1">Cliquez sur <span class="uicontrol">Créer un nouveau tableau de bord</span>. La boîte de dialogue <span class="wintitle">Créer un nouveau tableau de bord</span> apparaît avec plusieurs modèles de disposition et un champ de texte pour saisir le nom du nouveau tableau de bord.</li>
+                    <li value="2">Sélectionnez le modèle de disposition souhaité, saisissez le nom dans <span class="wintitle">Nom du tableau de bord</span> et cliquez sur <span class="uicontrol">Sauvegarder</span>. Le dialogue se ferme pour afficher le nom du nouveau tableau de bord dans le <span class="wintitle">Gestionnaire de tableaux de bord</span>.</li>
+                    <li value="3">(Optionnel) Cliquez sur le nouveau nom pour consulter et modifier les propriétés du tableau de bord qui comprend les éléments suivants: <ul><li value="1">État - Activé par défaut. </li><li value="2">Mosaïques - Une liste de mosaïques présentement attribuées au tableau de bord. </li><li value="3">Disposition - Modifiez le modèle de disposition au besoin. </li><li value="4">Propriétaire du tableau de bord - Un menu d'utilisateurs valides. Par défaut, le <span class="wintitle">Propriétaire du tableau de bord</span> a deux privilèges: <span class="wintitle">Consulter</span> et <span class="wintitle">Modifier</span>. </li><li value="5">Attributions d'utilisateurs - Vous pouvez copier les attributions provenant d'un autre tableau de bord ou sélectionnez des privilèges dans la liste. </li><li value="6">Rapports partagés - Consultez les noms des utilisateurs qui ont partagé le tableau de bord ainsi que la date et la date d'expiration. Vous pouvez également annuler le partage. Les tableaux de bord partagés demeurent dans ce rapport pendant 60 jours après l'expiration.</li></ul></li>
+                    <li value="4">Sélectionnez une icône du <span class="wintitle">Groupes de mosaïques</span> souhaité dans la navigation latérale et sélectionnez un élément de listes. Les groupes de mosaïques et les éléments de listes comprennent:<ul><li value="1"><a href="c_scores_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Résultats</a> - Sommaire des méthodes multiples et comparaison de réponses</li><li value="2"><a href="c_openends_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Questions ouvertes</a> - Examen des commentaires</li><li value="3"><a href="c_benchmarks_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Repères</a> - Repères standards</li></ul></li>
+                    <li value="5">Cliquez sur le bouton <span class="uicontrol">Épingler</span> (<img src="Resources/Images/pin_button.png" title="bouton Épingler" alt="bouton Épingler" />) de la mosaïque souhaitée. La boîte de dialogue <span class="wintitle">Épingler au tableau de bord</span> apparaît.</li>
+                    <li value="6">Sélectionnez le tableau de bord souhaité et cliquez sur <span class="uicontrol">Appliquer</span>. La boîte de dialogue se ferme et la mosaïque s'affiche à nouveau.</li>
+                </ol>
+            </div>
+        </div>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

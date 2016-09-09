@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="275" MadCap:lastWidth="878">
+    
+<!-- Inserted by TRADOS: --><META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8">
+<body>
+        <ol>
+            <li>O &iacute;cone <span class="uicontrol">Compartilhar</span> flutua no canto inferior direito da janela do navegador quando voc&ecirc; estiver visualizando um painel. Clique no &iacute;cone para exibir a barra lateral <span class="wintitle">Compartilhamento</span>.</li>
+            <li>Selecione a op&ccedil;&atilde;o desejada:<ul><li><span class="wintitle">Vincular a painel</span> - <MadCap:snippetText src="Link2dashDef.flsnp" /></li><li><span class="wintitle">Vincular a PDF de download</span> - <MadCap:snippetText src="link2pdfDef.flsnp" /></li></ul></li>
+            <li>Selecione o per&iacute;odo de expira&ccedil;&atilde;o para o painel.</li>
+            <li>(Opcional) Digite uma senha no campo de texto para proteger a p&aacute;gina da Web ou o PDF contra acessos n&atilde;o autorizados. A senha n&atilde;o est&aacute; inclu&iacute;da no e-mail e pode ser comunicada a um destinat&aacute;rio, se desejar.</li>
+            <li>Clique em <span class="uicontrol">Compartilhar painel</span>. A barra lateral fecha e aparece uma caixa de di&aacute;logo com duas op&ccedil;&otilde;es:<ul><li>Copiar o URL - Realce toda a cadeia de caracteres na caixa de texto e a copie (clique com o bot&atilde;o direito do mouse no texto real&ccedil;ado e selecione <span class="uicontrol">Copiar</span> no menu de contexto, ou mantenha a tecla <span class="uicontrol">Ctrl</span> pressionada e pressione <span class="uicontrol">C</span>). Voc&ecirc; pode colar o link como desejado.</li><li>Criar um e-mail - Clique em <span class="uicontrol">Criar e-mail</span> e seu aplicativo de e-mail padr&atilde;o exibir&aacute; uma nota com o URL. Digite o endere&ccedil;o do destinat&aacute;rio e edite a nota como desejado antes de enviar.</li></ul></li>
+            <li>Para fechar a caixa de di&aacute;logo, clique em <span class="uicontrol">Cancelar</span>.</li>
+        </ol>
+    </body>
+</html>

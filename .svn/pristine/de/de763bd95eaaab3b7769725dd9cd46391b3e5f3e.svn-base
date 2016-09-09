@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="pt-br" MadCap:ignoredWords="" MadCap:tocPath="Bem-vindo ao Portal Executivo|Guias de Início Rápido|Construir um novo bloco de perguntas abertas" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="pt-br" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Construir um novo bloco de perguntas abertas - Passo 8 </title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapAll.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#buildopenend9.htm" style="">Abra Navegação</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bem-vindo ao Portal Executivo</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="quickstartmain.htm">Guias de Início Rápido</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="buildopenend1.htm">Construir um novo bloco de perguntas abertas</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Construir um novo bloco de perguntas abertas - Passo 8</span>
+        </div>
+        <h1>Construir um novo bloco de perguntas abertas - Passo 8 </h1>
+        <p>Visualize o bloco em cada opção de exibição para determinar como os dados são melhor comunicados. Outra opção é exibir um bloco de gráfico junto com um bloco de grade dos mesmos dados.</p>
+        <p>Quando o novo bloco tiver sido gerado, você poderá fazer as revisões necessárias. Além disso, você pode usar o botão <span class="uicontrol">Fixar</span> (<img src="Resources/Images/pin_button.png" title="botão fixar" alt="botão fixar" />)&#160;para construir um novo painel ou adicionar o bloco a um painel existente.</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildtile8.png" title="View e fixar." alt="plano" style="mc-float: center;" />
+        </p>
+        <h3>Informações adicionais</h3>
+        <p><a href="c_dashboards_about.htm" target="_parent" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Como trabalhar com painéis</a>
+        </p>
+        <h3>Próximo passo</h3>
+        <p><a href="builddash2.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Usando o botão Fixar</a> &gt;</p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

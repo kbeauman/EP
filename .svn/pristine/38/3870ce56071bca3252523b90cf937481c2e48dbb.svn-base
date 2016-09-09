@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="1990" MadCap:lastWidth="902" xml:lang="en-gb" xml:space="preserve">
+    <head>
+        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>About the Dashboard Manager</title>
+    </head>
+    <body>
+        <h1>About the <MadCap:keyword term="Dashboards:Dashboard Manager" /><MadCap:keyword term="Dashboard Manager;Dashboard Manager:properties;Dashboard Manager:delete dashboard;Dashboards:delete" /><a name="DashMgr"></a>Dashboard Manager</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Go to <span class="uicontrol">Tools &gt; Dashboard Manager</span> to access information on all dashboards.</p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/permissions.flsnp" /> </p>
+        <p>To view the <span class="wintitle">Dashboard Manager</span>, click the <span class="uicontrol">Tools</span> icon (<img src="Resources/Images/tools_icon.png" title="tools icon" alt="tools icon" MadCap:mediastyle="@media print { width: 24px;height: 23px;max-width: 24px;max-height: 23px; }" />) on the <a href="toc_creator1.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">side navigation</a>, and select <span class="uicontrol">Dashboard Manager</span> from the <span class="wintitle">Tools</span> sidebar. The <span class="wintitle">Dashboard Manager</span> page displays a list of dashboards.</p>
+        <p>The <span class="wintitle">Dashboard Manager</span> is a grid with a sort-by-column feature that is invoked by clicking the column heading. The grid is sorted by the selected column in ascending order. Click the heading again to reverse the order.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>grid details...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <table style="width: 100%; mc-table-style: url('Resources/TableStyles/Ref2Column.css'); margin-left: auto; margin-right: auto;" class="TableStyle-Ref2Column" cellspacing="0">
+                    <col class="TableStyle-Ref2Column-Column-Column1" />
+                    <col class="TableStyle-Ref2Column-Column-Column2" />
+                    <thead>
+                        <tr class="TableStyle-Ref2Column-Head-Header1">
+                            <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Column</th>
+                            <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <img src="Resources/Images/viewDBicon.png" title="view dashboard icon" alt="view dashboard icon" MadCap:mediastyle="@media print { width: 20px;height: 13px;max-width: 20px;max-height: 13px; }" /> View Dashboard</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>Click the <span class="wintitle">View</span> icon to display the dashboard. The <span class="uicontrol">Go Back</span> link displays in the sidebar allowing you to close the dashboard and return to the <span class="wintitle">Dashboard Manager</span> grid.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Title</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">The descriptive label given to the dashboard when it was created.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Status</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>Dashboards are only viewable when <span class="systemoutput">Enabled</span>. Disable a dashboard to take it off-line without deleting it.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>To change the <span class="wintitle">Status</span>...</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <ol>
+                                            <li>
+                                                <MadCap:snippetText src="Resources/Snippets/DMdbOpen.flsnp" />
+                                            </li>
+                                            <li>By default the <span class="wintitle">General</span> container is expanded. Check or clear the <span class="wintitle">Enabled</span> check box.</li>
+                                            <li>Click <span class="uicontrol">Save</span>. The dialog box closes and the grid refreshes to show the <span class="wintitle">Status</span> for the dashboard is changed.</li>
+                                        </ol>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Tiles</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">The number of tiles assigned to the dashboard.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Users</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>The number of users having either viewing or editing permissions for the dashboard. </p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>To manage user assignments...</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <ol>
+                                            <li>
+                                                <MadCap:snippetText src="Resources/Snippets/DMdbOpen.flsnp" />
+                                            </li>
+                                            <li>Click the <span class="wintitle">Users</span> title bar. The container expands.</li>
+                                            <li>Scroll through the <span class="wintitle">Users Assigned</span> grid and check or clear the desired <span class="wintitle">View</span> and <span class="wintitle">Edit</span> boxes. Alternatively, use the <span class="wintitle">Copy user assignments from</span> menu to apply the assignments of another dashboard.</li>
+                                            <li>Click <span class="uicontrol">Save</span>. The dialog box closes and the grid refreshes to reflect your changes in the <span class="wintitle">Users</span> column.</li>
+                                        </ol>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Owner</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">The user who has exclusive permission to delete the dashboard. The default owner is the user creating the dashboard.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Modified</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">A system generated date stamp of the dashboard's most recent revision.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Carousel</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Use the <span class="wintitle">Carousel</span> column to establish the order in which dashboards appear on your sidebar. By default, the first dashboard loads when you login or navigate to the <span class="wintitle">Dashboards</span> page. This sequence is for your user profile only.<MadCap:dropDown><MadCap:dropDownHead><MadCap:dropDownHotspot>Best practice is to select a fast loading dashboard as #1 to avoid longer load times when you view the <span class="wintitle">Dashboards</span> page.</MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><p>To change the carousel sequence...</p><ol><li>Click the desired <span class="wintitle">Carousel</span> text box. When changing numbers in the middle of the sequence, only the dashboard affected by your revision are renumbered. Therefore, if you want to switch the #1 and #2 dashboards around, you only need to change #1 to #2. The current #2 is then changed automatically to #1 and the other dashboards remain unchanged. Conversely, changing the highest number to #1 causes all numbers to increase by one.</li><li>Press the <span class="wintitle">Tab</span> key of your keyboard to apply the change. The screen refreshes to show your revision.</li></ol><p>You may only change one number at a time. When you click on a second text box the first revision is applied automatically.</p></MadCap:dropDownBody></MadCap:dropDown></td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyB-Column1-Body1">Delete</td>
+                            <td class="TableStyle-Ref2Column-BodyA-Column2-Body1">
+                                <div class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;">This action results in a permanent removal of the selected dashboard. There is no recovering a deleted dashboard.</div>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>To delete a dashboard...</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <ol>
+                                            <li>Select the check box in the <span class="wintitle">Delete</span> column for the dashboard. The <span class="uicontrol">Delete Dashboard(s)</span> action displays above the grid.</li>
+                                            <li>Click <span class="uicontrol">Delete Dashboard(s)</span>. A dialog box displays asking you to confirm the removal of the dashboard.</li>
+                                            <li>Click <span class="uicontrol">OK</span>. The dialog box closes and the screen refreshes to show the grid no longer contains the deleted dashboard.</li>
+                                        </ol>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>More about the Dashboard Manager dialog box...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>The grid contains all the dashboards you have access to along with some general information.  </p>
+                <p>Click on a line item to display and revise the following dashboard details:</p>
+                <p>
+                    <img src="Resources/Images/DashMgrPropDB.png" title="dashboard manager dialog" alt="dashboard manager dialog" MadCap:mediastyle="@media print { width: 619px;height: 543px;max-width: 619px;max-height: 543px; }" style="mc-thumbnail: popup;" />
+                </p>
+                <ul>
+                    <li>General<ul><li>Dashboard Title - A text field to edit the name of the dashboard.</li><li>Status - Select <span class="uicontrol">Enabled</span> (default) for the dashboard to be active.</li><li>Tiles - A list of tiles currently assigned to the dashboard.</li><li>Layout - Change layout template if desired.</li></ul></li>
+                    <li>Users<ul><li>Dashboard Owner - A menu of valid users. By default, the <span class="wintitle">Dashboard Owner</span> has both <span class="wintitle">View</span> and <span class="wintitle">Edit</span> privileges.</li><li>Copy user assignments from - Apply another dashboard's User Assignments.</li><li>User Assignments - Select <span class="wintitle">View</span> and <span class="wintitle">Edit</span> privileges for each user.</li></ul></li>
+                    <li>Share<ul><li>Shared Reports - View the names of users who have shared the dashboard along with the date and expiration date. You may also cancel the share.</li></ul></li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Use the <span class="wintitle">Dashboard Manager</span> to build a new dashboard...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Click <span class="uicontrol">Create New Dashboard</span>. The <span class="wintitle">Create a New Dashboard</span> dialog displays with several layout templates and a text field to type the name of the new dashboard.</li>
+                    <li>Select the desired layout template, type in the <span class="wintitle">Dashboard Name</span> and click <span class="uicontrol">Save</span>. The dialog closes to display the new dashboard name on the <span class="wintitle">Dashboard Manager</span>.</li>
+                    <li>(Optional) Click the new name to view and edit the dashboard properties, which include the following items:
+                                <ul><li>Status - Enabled by default.</li><li>Tiles - A list of tiles currently assigned to the dashboard.</li><li>Layout - Change layout template if desired.</li><li>Dashboard Owner - A menu of valid users. By default, the <span class="wintitle">Dashboard Owner</span> has both <span class="wintitle">View</span> and <span class="wintitle">Edit</span> privileges.</li><li>User Assignments - You may copy assignments from another dashboard, or select privileges from the list.</li><li>Shared Reports - View the names of users who have shared the dashboard along with the date and expiration date. You may also cancel the share. Shared dashboards remain on this report for 60 days after expiration.</li></ul></li>
+                    <li>Select a desired <span class="wintitle">Tile Group</span> icon from the side navigation and select a list item. Tile Groups and list items include:<ul><li><a href="c_scores_ww.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Scores</a> - Multi Channel Summary and Response Comparison</li><li><a href="c_openends_ww.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Open Ends</a> - Comment Review</li><li><a href="c_benchmarks_ww.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Benchmarks</a> - Standard Benchmarks</li></ul></li>
+                    <li>Click the <span class="uicontrol">Pin</span> button (<img src="Resources/Images/pin_button.png" title="pin button" alt="pin button" MadCap:mediastyle="@media print { width: 29px;height: 32px;max-width: 29px;max-height: 32px; }" />) of the desired tile. The <span class="wintitle">Pin to Dashboard</span> dialog displays.</li>
+                    <li>Select the desired dashboard and click <span class="uicontrol">Apply</span>. The dialog closes to display the tile again.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

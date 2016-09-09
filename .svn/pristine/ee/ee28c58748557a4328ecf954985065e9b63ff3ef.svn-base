@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="275" MadCap:lastWidth="878" xml:lang="en-gb">
+    <body>
+        <ol>
+            <li>The <span class="uicontrol">Share</span> icon floats in the lower-right corner of your browser window when you are viewing a dashboard. Click the icon to display the <span class="wintitle">Sharing</span> sidebar.</li>
+            <li>Select the desired option:<ul><li><span class="wintitle">Link to dashboard</span> - <MadCap:snippetText src="Link2dashDef.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></li><li><span class="wintitle">Link to download PDF</span> - <MadCap:snippetText src="link2pdfDef.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></li></ul></li>
+            <li>Select the expiration period for the dashboard.</li>
+            <li>(Optional) Type a password in the text field to secure the web page or PDF from unauthorized viewers. The password is not included in the email and can be communicated to a recipient as you desire.</li>
+            <li>Click <span class="uicontrol">Share Dashboard</span>. The sidebar closes and a dialog displays with two options:<ul><li>Copy the URL - Highlight the entire string in the text box and copy (right-click the highlighted text and select <span class="uicontrol">Copy</span> from the context menu, or, hold the <span class="uicontrol">Ctrl</span> key down and press <span class="uicontrol">C</span>). You may paste the link as desired. </li><li>Create an email - Click <span class="uicontrol">Create Email</span> and your default email application displays a note with the URL. Type the recipient's address and edit the note as desired before sending.</li></ul></li>
+            <li>To close the dialog, click <span class="uicontrol">Cancel</span>.</li>
+        </ol>
+    </body>
+</html>

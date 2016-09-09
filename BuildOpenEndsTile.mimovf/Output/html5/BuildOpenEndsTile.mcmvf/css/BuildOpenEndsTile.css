@@ -1,0 +1,17 @@
+#MimicMovieHost {
+    width: 800px;
+    height: 650px;
+}
+.playOverlayWrapper {
+    height: 600px;
+}
+.playOverlay {
+    margin-top: 255px;
+}
+.incompatibleWrapper {
+    height: 600px;
+}
+.incompatibleOverlay {
+    margin-top: 150px;
+    margin-left: 160px;
+}

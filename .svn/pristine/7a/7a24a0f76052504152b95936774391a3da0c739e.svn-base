@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="473" MadCap:lastWidth="927" xml:lang="es" MadCap:ignoredWords="">
+    <head><title>Editar un mosaico existente</title>
+    </head>
+    <body>
+        <h1>Editar un mosaico existente</h1>
+        <p>Los mosaicos configurados para un período de tiempo genérico, por ejemplo, el <span class="wintitle">Mes pasado</span> o el <span class="wintitle">Año pasado</span>, se actualizan automáticamente. No obstante, puede ser posible agregar o eliminar parámetros de un determinado mosaico que actualmente aparece en un tablero. <MadCap:snippetText src="Resources/Snippets/ViewDashBuilder.flsnp" /></p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/DashboardGo2.png" title="clic icono tablero" alt="icono tablero" />
+        </p>
+        <h3>Información adicional</h3>
+        <p><a href="c_dashboards_about.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Cómo trabajar con tableros</a>
+        </p>
+        <h3>Paso siguiente</h3>
+        <p><a href="edittile2.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Paso 1 &gt;</a>
+        </p>
+    </body>
+</html>

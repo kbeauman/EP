@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="edittile1.htm"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="edittile1.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">13</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">4</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-title"
+        phase-name="pretrans"><source>Edit an Existing Tile</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Edit an Existing Tile</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Editar um bloco existente</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-h1"
+        phase-name="pretrans"><source>Edit an Existing Tile</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Edit an Existing Tile</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Editar um bloco existente</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-p"
+        phase-name="pretrans"><source>Tiles set for a generic time frame, such as <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Last Month<ept
+            id="1">&lt;/span&gt;</ept> or <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Last Year<ept
+            id="2">&lt;/span&gt;</ept>, update automatically. However, there may be occasion to add or remove parameters of a given tile which currently displays on a dashboard. <ph
+            id="1">&lt;MadCap:snippetText src="Resources/Snippets/ViewDashBuilder.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Tiles set for a generic time frame, such as <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Last Month<ept
+              id="1">&lt;/span&gt;</ept> or <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Last Year<ept
+              id="2">&lt;/span&gt;</ept>, update automatically.</mrk><mrk
+            mtype="seg"
+            mid="2">However, there may be occasion to add or remove parameters of a given tile which currently displays on a dashboard. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/ViewDashBuilder.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Blocos configurados para um intervalo de tempo genérico, como <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Mês passado<ept
+              id="1">&lt;/span&gt;</ept> ou <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Ano passado<ept
+              id="2">&lt;/span&gt;</ept>, são atualizados automaticamente.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:diff="New">No entanto, podem existir ocasiões para adicionar ou remover parâmetros de um bloco específico exibido em um painel. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/ViewDashBuilder.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-p"
+        phase-name="pretrans"><source>image</source><seg-source><mrk
+            mtype="seg"
+            mid="1">image</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="New">imagem</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-h3"
+        phase-name="pretrans"><source>Additional Information</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Additional Information</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Informações adicionais</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="c_dashboards_about.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="2" />"&gt;</bpt>Working with Dashboards<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="c_dashboards_about.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Working with Dashboards<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="New"><bpt
+              id="1"
+              ctype="link">&lt;a href="c_dashboards_about.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Como trabalhar com painéis<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-h3"
+        phase-name="pretrans"><source>Next Step</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Next Step</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Próximo passo</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="edittile2.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="2" />"&gt;</bpt>Step 1 &gt;<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="edittile2.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Step 1 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="New"><bpt
+              id="1"
+              ctype="link">&lt;a href="edittile2.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Passo 1 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit></body>
+  </file>
+</xliff>

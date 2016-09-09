@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="482" MadCap:lastWidth="925" xml:lang="fr-ca">
+    <head>
+        <link href="../TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>À propos de la barre d'outils</title>
+    </head>
+    <body>
+        <h1>La barre d'outils <MadCap:keyword term="Barre d'outils" />du Portail exécutif</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Sommaire: &lt;/i&gt;">&#160;</p>
+        <ul>
+            <li>Afficher l'<span class="wintitle">Aide</span></li>
+            <li>Ouvrir l'<span class="wintitle">Portail analytique avancée</span></li>
+            <li>Terminer la session</li>
+        </ul>
+        <p>La barre d'outils est l'en-tête de la page affichant le nom de votre entreprise et contient plusieurs contrôles décrits dans le tableau suivant. La partie supérieure de la barre d'outils affiche la barre d'état lorsque la page en chargement ou une mosaïque est générée.</p>
+        <table style="width: 100%;margin-left: auto;margin-right: auto;mc-table-style: url('../TableStyles/Ref2Column.css');" class="TableStyle-Ref2Column" cellspacing="0">
+            <col class="TableStyle-Ref2Column-Column-Column1" />
+            <col class="TableStyle-Ref2Column-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-Ref2Column-Head-Header1">
+                    <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Élément</th>
+                    <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                        <img src="../Images/4cLogoTB.png" MadCap:mediastyle="@media print { width: 89px;height: 40px;max-height: 40px;max-width: 89px; }" title="ForeSee Logo" alt="ForeSee Logo" />
+                    </td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Cliquez pour revenir à la page <span class="wintitle">Tableau de bord</span>, à moins que votre session ait expirée (la page <span class="wintitle">Connexion</span> s'affichera alors).</td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body2">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Aide</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Cliquez sur <span class="uicontrol">Aide</span> pour afficher ce guide de l'utilisateur dans une nouvelle fenêtre du navigateur.</td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">AAP</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Cliquez sur <span class="uicontrol">AAP</span> pour <span class="wintitle">Portail analytique avancée</span>.</td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body2">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">
+                        <MadCap:keyword term="Fermer la session" />Fermer la session</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Cliquez sur <span class="uicontrol">Fermer la session</span> pour terminer les sessions du <span class="wintitle">Portail exécutif</span> et du <span class="wintitle">Portail analytique</span> en un seul clic.</td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyB-Column1-Body1">
+                        <MadCap:keyword term="Nom d’utilisateur" />Nom d’utilisateur</td>
+                    <td class="TableStyle-Ref2Column-BodyA-Column2-Body1">Le propriétaire de la session ou l'utilisateur qui s'est connecté dans la session en cours.</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

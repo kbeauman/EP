@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="450" MadCap:lastWidth="954" xml:lang="pt-br">
+    <head><title>Compartilhar um painel</title>
+    </head>
+    <body>
+        <h1><MadCap:keyword term="Share:cancel;Share:report" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Compartilhar um painel</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Clique no ícone <span class="uicontrol">Compartilhar</span> (<img src="Resources/Images/share.png" title="compartilhar" alt="ícone compartilhar" MadCap:mediastyle="@media print { width: 22px;height: 16px;max-width: 22px;max-height: 16px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />) para enviar um e-mail com um link para visualização de um painel como uma página da Web ou para baixar uma imagem em PDF do painel.</p>
+        <MadCap:snippetBlock src="Resources/Snippets/shareNote.flsnp" />
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/permissions.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="Resources/Snippets/shareSteps.flsnp" />
+    </body>
+</html>

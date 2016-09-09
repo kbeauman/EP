@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="495" MadCap:lastWidth="989" xml:lang="es" MadCap:ignoredWords="">
+    <head><title>Crear puntuaciones 3</title>
+    </head>
+    <body>
+        <h1>Crear un nuevo mosaico de puntuaciones respuestas - Paso 3</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/SelectDateRange.flsnp" />
+        </p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildtile3.png" title="Fijar un rango de fecha." alt="calendario" style="mc-float: center;" />
+        </p>
+        <h3>Información adicional</h3>
+        <p><a href="r_date.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Selección del rango de fecha</a></p>
+        <h3>Paso siguiente</h3>
+        <p><a href="buildscore5.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Paso 4 &gt;</a></p>
+    </body>
+</html>

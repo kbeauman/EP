@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
+  IncludePattern="*.htm;*.html"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  AutoSync="true"
+  LastImport="2014-05-13T14:29:54.6928139-04:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/kevin.beauman/Documents/EP/EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/EP Quick Start Guide.flprj"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/EP Quick Start Guide.flprj" />
+  </Files>
+  <ExcludedFiles>
+    <Url
+      Source="../../Content/buildscore1.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/PT/ExecutivePortalHelp/Content/buildscore1.htm" />
+    <Url
+      Source="../../Content/buildscore2.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/PT/ExecutivePortalHelp/Content/buildscore2.htm" />
+    <Url
+      Source="../../Content/buildscore3.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/PT/ExecutivePortalHelp/Content/buildscore3.htm" />
+    <Url
+      Source="../../Content/buildscore4.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/PT/ExecutivePortalHelp/Content/buildscore4.htm" />
+    <Url
+      Source="../../Content/buildscore5.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/PT/ExecutivePortalHelp/Content/buildscore5.htm" />
+    <Url
+      Source="../../Content/buildscore6.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/PT/ExecutivePortalHelp/Content/buildscore6.htm" />
+    <Url
+      Source="../../Content/buildscore7.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/PT/ExecutivePortalHelp/Content/buildscore7.htm" />
+    <Url
+      Source="../../Content/buildscore8.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/PT/ExecutivePortalHelp/Content/buildscore8.htm" />
+    <Url
+      Source="../../Content/buildscore9.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/PT/ExecutivePortalHelp/Content/buildscore9.htm" />
+    <Url
+      Source="../../Content/buildscore10.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/PT/ExecutivePortalHelp/Content/buildscore10.htm" />
+  </ExcludedFiles>
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../../EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore1.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore1.htm" />
+    <Url
+      Source="../../../../EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore10.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore10.htm" />
+    <Url
+      Source="../../../../EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore2.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore2.htm" />
+    <Url
+      Source="../../../../EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore3.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore3.htm" />
+    <Url
+      Source="../../../../EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore4.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore4.htm" />
+    <Url
+      Source="../../../../EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore5.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore5.htm" />
+    <Url
+      Source="../../../../EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore6.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore6.htm" />
+    <Url
+      Source="../../../../EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore7.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore7.htm" />
+    <Url
+      Source="../../../../EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore8.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore8.htm" />
+    <Url
+      Source="../../../../EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore9.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/EP/EXECUTIVE_PORTAL/trunk/EP Quick Start Guide/Content/buildscore9.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/buildscore1.htm"
+      TimeStamp="3/26/2014 1:23:44 PM" />
+    <Url
+      Source="../../Content/buildscore10.htm"
+      TimeStamp="3/27/2014 8:47:43 AM" />
+    <Url
+      Source="../../Content/buildscore2.htm"
+      TimeStamp="3/26/2014 1:37:47 PM" />
+    <Url
+      Source="../../Content/buildscore3.htm"
+      TimeStamp="3/26/2014 1:25:23 PM" />
+    <Url
+      Source="../../Content/buildscore4.htm"
+      TimeStamp="3/26/2014 2:13:45 PM" />
+    <Url
+      Source="../../Content/buildscore5.htm"
+      TimeStamp="3/26/2014 2:27:54 PM" />
+    <Url
+      Source="../../Content/buildscore6.htm"
+      TimeStamp="3/26/2014 2:35:09 PM" />
+    <Url
+      Source="../../Content/buildscore7.htm"
+      TimeStamp="3/26/2014 2:43:57 PM" />
+    <Url
+      Source="../../Content/buildscore8.htm"
+      TimeStamp="3/27/2014 8:44:15 AM" />
+    <Url
+      Source="../../Content/buildscore9.htm"
+      TimeStamp="3/27/2014 8:41:23 AM" />
+  </GeneratedFiles>
+</CatapultProject>

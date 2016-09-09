@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:tocPath="Welcome to Executive Portal|Quick Start Guides" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="en-us" xml:lang="en-us" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Build Benchmark 1</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" MadCap:generated="True" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" MadCap:generated="True" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapAll.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#buildbenchmark1.htm" style="">Open topic with navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Welcome to Executive Portal</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="quickstartmain.htm">Quick Start Guides</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Build Benchmark 1</span>
+        </div>
+        <h1>Build a New Benchmark Tile - Step 1</h1>
+        <p>On the <a title="Click to view this Help topic." alt="Click to view this Help topic." href="toc_creator1.htm">side navigation</a>, click the <span class="uicontrol">Benchmarks</span> icon (<img src="Resources/Images/benchmarks_icon.png" title="benchmarks icon" alt="benchmarks icon" />), then <span class="uicontrol">Standard Benchmarks</span> from the <span class="wintitle">Benchmarks</span> sidebar.</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildbench1.png" title="Go to Benchmarks &gt; Standard Benchmarks" alt="Benchmarks side nav" />
+        </p>
+        <h3>Additional Information</h3>
+        <p><a href="toc_creator1.htm#Side" title="Click to view this Help topic." alt="Click to view this Help topic.">Side Navigation</a>
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="buildbenchmark2.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Step 2 &gt;</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer"><span class="feedback"><a href="javascript:emailFeedback()">Feedback</a></span>- © 2015 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript">/*<![CDATA[*/function emailFeedback()
+			{
+			window.location='mailto:jira-portalsupport@foreseeresults.com?subject=EP Help - ' + document.title;
+		}/*]]>*/</script>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

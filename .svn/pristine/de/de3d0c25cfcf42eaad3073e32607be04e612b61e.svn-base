@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="449" MadCap:lastWidth="776">
+    <head>
+    </head>
+    <body>
+        <h1>Build a New Benchmark Tile - Step 2</h1>
+        <p>Select the desired <span class="wintitle">Channel</span> and <span class="wintitle">Measure</span>.</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildBM1.png" title="Make Data Selections" alt="Benchmark Data Selections" />
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="buildbenchmark3.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Step 3 &gt;</a>
+        </p>
+    </body>
+</html>

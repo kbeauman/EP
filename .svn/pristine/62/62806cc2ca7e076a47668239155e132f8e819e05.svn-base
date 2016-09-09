@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="538" MadCap:lastWidth="989" xml:lang="pt-br" MadCap:ignoredWords="">
+    <head><title>Construir de pontuação 8</title>
+    </head>
+    <body>
+        <h1>Construir um novo bloco de resposta de pontuação - Passo 8</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/NewTileFinal.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="Resources/Snippets/newTileOptions.flsnp" />
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildtile8.png" title="View e fixar." alt="plano" style="mc-float: center;" />
+        </p>
+        <h3>Informações adicionais</h3>
+        <p><a href="c_dashboards_about.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Como trabalhar com painéis</a></p>
+        <h3>Próximo passo</h3>
+        <p><a href="builddash2.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Usando o botão Fixar &gt;</a></p>
+    </body>
+</html>

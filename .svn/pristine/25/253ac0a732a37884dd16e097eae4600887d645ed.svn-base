@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="5570" MadCap:lastWidth="692" xml:lang="en-us" xml:space="preserve">
+    <head>
+        <link href="Resources/TableStyles/Blind.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Working With Scores</title>
+    </head>
+    <body>
+        <h1>Working with Scores</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Drill down into the data that comprises a <span class="wintitle">Scores</span> tile.</p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/ScoreDesc.flsnp" /> <span class="wintitle">Executive Portal</span> offers the following types of scores:</p>
+        <ul>
+            <li><span class="wintitle">Multi Channel Summary</span> - A <span class="wintitle">Combined Score</span> from <span class="wintitle">Analytics Portal</span>. You can view data in either a pie chart or spreadsheet type grid and pin it to a <a href="t_dashboard_new.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">dashboard</a>. </li>
+            <li><span class="wintitle">Response Comparison</span> - <MadCap:snippetText src="Resources/Snippets/ResCompDef.flsnp" /></li>
+            <li><span class="wintitle">Score Summary</span> - A display of <span class="wintitle">Element</span>, <span class="wintitle">Satisfaction</span>, and <span class="wintitle">Future Behavior</span> scores for a selected measure.</li>
+            <li><span class="wintitle">Trend Correlation</span> - Interactive trend lines for measure scores.</li>
+            <li><span class="wintitle">Priority Map</span> - A bubble chart of Scores and Impact data highlighting measures which may be of concern.</li>
+            <li><span class="wintitle">Journey Tree</span> - A breakdown of <span class="wintitle">Scores</span> for custom questions.</li>
+        </ul>
+        <p>The <span class="wintitle">Scores</span> section includes a dual purpose sidebar on the right for <a href="#Data" title="Click to view." alt="Click to view.">Data Selection</a> and <a href="#Settings" title="Click to view." alt="Click to view.">Settings</a>.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Build A New Score Tile...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Display a <span class="wintitle">Combined Score</span> from <span class="wintitle">Analytics Portal</span>, or the scores of specific <span class="wintitle">Questions</span>.</p>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/permissions.flsnp" />
+                </p>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/buildscore1.flsnp" />
+                    </li>
+                    <div class="stepresult">The page loads a default tile, which is:<ul><li>Date range of previous day, i.e., yesterday.</li><li>All menus set to first item.</li></ul><div class="tip" MadCap:autonum="&lt;b&gt;TIP: &lt;/b&gt;">Click the <span class="uicontrol">Hide</span> icon (<img src="Resources/Images/hide_icon.png" title="hide icon" alt="hide icon" />) to close the <span class="wintitle">Scores</span> sidebar for a larger viewing area of the tile.</div></div>
+                    <li><a href="r_date.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Select a date range</a>.</li>
+                    <li>Select criteria (see <a href="#Data" title="Click to view this Help topic." alt="Click to view this Help topic.">Data Selection and Settings</a> for information on tile criteria):<ul><li><span class="wintitle">Multi Channel Summary</span> - Select an item from the <span class="wintitle">Combined Score</span> menu. These menu items are managed in <span class="uicontrol">Analytics Portal &gt; Multi Measure &gt; Combined Score</span>. The new tile displays.</li><li>For all other <span class="wintitle">Score</span> types:<ol class="substeps"><li><MadCap:snippetText src="Resources/Snippets/SelectData.flsnp" /></li><li><MadCap:snippetText src="Resources/Snippets/AddSecOption.flsnp" /></li><li><MadCap:snippetText src="Resources/Snippets/SelectSettings.flsnp" /> For <span class="wintitle">Priority Map</span>, the <span class="wintitle">Settings</span> sidebar is used for selecting a <span class="wintitle">Trending Period</span>, which is optional.</li><li><MadCap:snippetText src="Resources/Snippets/SelectSettings2.flsnp" /></li></ol></li></ul></li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/NewTileFinal.flsnp" />
+                    </li>
+                </ol>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/newTileOptions.flsnp" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2>Multi Channel Summary</h2>
+        <p>By default, the display pane loads a tile representing the previous day's data for the first <span class="wintitle">Combined score</span> menu item in the <span class="wintitle">Settings</span> sidebar. Scores show in a pie chart with basic information in the tile header. Click the chevron above the tile to show or hide the number of <span class="wintitle">Respondents</span>. <a href="r_date.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Select a date range</a>  and a <span class="wintitle">Combined score</span> menu item in the <span class="wintitle">Settings</span> sidebar to view other summaries. Refer to <span class="wintitle">Analytics Portal Help</span> for additional information on combined scores. In <span class="wintitle">Analytics Portal</span>, click the <span class="uicontrol">Help &amp; FAQ</span> icon (<img src="Resources/Images/AP_HelpIcon.png" title="analytics portal help icon" alt="analytics portal help icon" MadCap:mediastyle="@media print { width: 16px;height: 15px;max-width: 16px;max-height: 15px; }" />) and go to <span class="uicontrol">Help Guides &gt; Multi-Measure Tab &gt; Combined Score</span>.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>The following views are available...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <h3>Pie Chart View <img src="Resources/Images/pieChart_button.png" title="pie chart" alt="pie chart button" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" /></h3>
+                <div class="tip" MadCap:autonum="&lt;b&gt;TIP: &lt;/b&gt;">Mouse over chart elements to view lower number scores. When several scores have lower values the labels may be hidden. You can view these labels by positioning the cursor over each chart element.</div>
+                <p>This interactive view shows the score for each channel with a sparkline and Combined Score in the center. Click each of the following elements to view a drill-down of the data:</p>
+                <ul>
+                    <li>Channel Score Label - Consisting of the channel, score, and n Count, this element displays the <span class="wintitle">Summary</span>, <span class="wintitle">Elements</span>, and <span class="wintitle">Future Behaviors</span> data which make up the measure. </li>
+                    <li>Sparkline - View a line chart with data points of the total score during the selected date range, along with <span class="wintitle">Summary</span> data consisting of <span class="wintitle">Score</span>, <span class="wintitle">Weight</span>, and <span class="wintitle">n Count</span>.
+					<div class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;">Sparklines of less than a 60 day duration are shown in daily increments. For periods exceeding 60 days, sparklines are shown in weekly increments.</div></li>
+                    <li>Combined Score - Consisting of the name, score, and n Count, this element displays the same information as the sparkline.</li>
+                </ul>
+                <h3>Grid View <img src="Resources/Images/grid_button.png" title="grid button" alt="grid button" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" /></h3>
+                <p>This interactive table offers the following features:</p>
+                <ul>
+                    <li>Combined Score - Click the table header to view Summary data consisting of <span class="wintitle">Score</span>, <span class="wintitle">Weight</span>, and <span class="wintitle">n Count</span>.</li>
+                    <li>Sort-by-column - Click any column header to sort the data by the selected column values with the lowest value first. Click again to reverse the order.</li>
+                    <li>Channel Score - Click each line item to view the <span class="wintitle">Summary</span>, <span class="wintitle">Elements</span>, and <span class="wintitle">Future Behaviors</span> data which make up the measure. The <span class="wintitle">Summary</span> double-chevron displays the corresponding <span class="wintitle">Analytics Portal</span> page.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2>Response Comparison</h2>
+        <p>Scores are compiled by a number of selected criteria from menus of the <span class="wintitle">Settings</span> and <span class="wintitle">Data</span> sidebars. By default, the display pane loads a tile representing the previous day's data for the first item of each menu. Scores show in a pie chart with basic information in the tile header. Click the chevron above the tile to show or hide additional data. <a href="r_date.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Select a date range</a> and the desired menu items in the <span class="wintitle">Data Selection</span> and <span class="wintitle">Settings</span> sidebars.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>The following views are available...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ul>
+                    <li>
+                        <img src="Resources/Images/pieChart_button.png" title="pie chart" alt="pie chart" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" /> Pie Chart - <MadCap:snippetText src="Resources/Snippets/PieChartBasis.flsnp" /> <MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" /> Each section (space permitting) is labeled with the question response, score, and percent of responses (n Count). In the following image:<table style="mc-table-style: url('Resources/TableStyles/Blind.css');margin-left: auto;margin-right: auto;" class="TableStyle-Blind" cellspacing="0"><col class="TableStyle-Blind-Column-Column1" style="width: 50%;" /><col class="TableStyle-Blind-Column-Column2" style="width: 50%;" /><tbody><tr class="TableStyle-Blind-Body-Body1"><td class="TableStyle-Blind-BodyB-Column1-Body1"><ul><li> Question response = 5</li><li>Score = 56</li><li>Percent of responses = 3%</li><li>n Count = 1</li></ul></td><td class="TableStyle-Blind-BodyA-Column2-Body1"><img src="Resources/Images/scoreLabel.png" title="score label" alt="score label" MadCap:mediastyle="@media print { width: 38px;height: 57px;max-width: 38px;max-height: 57px; }" /></td></tr></tbody></table><p>When several responses have a low <span class="wintitle">n Count</span>, the label for each only displays when you mouse-over the pie chart section. Also, when a question response is truncated, click the label or pie section to view the entire response in the sidebar.</p></li>
+                    <li>
+                        <img src="Resources/Images/verticalbar_button.png" title="vertical bar chart" alt="vertical bar chart button" MadCap:mediastyle="@media print { width: 31px;height: 31px;max-width: 31px;max-height: 31px; }" style="width: 30px;height: 30px;" /> Vertical Bar Chart and <img src="Resources/Images/horizontalbar_button.png" title="horizontal bar chart" alt="horizontal bar chart button" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 32px; }" /> Horizontal Bar Chart - Bar Charts are based on <span class="wintitle">n Count</span>, i.e., each bar's height/length represents the percentage of responses. <MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" /> <MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" /></li>
+                    <li>
+                        <img src="Resources/Images/grid_button.png" title="grid" alt="grid button" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" /> Grid - <MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" /> However, you may sort by column heading. Click the desired column heading once to sort in descending order (highest to lowest) and twice for ascending order (lowest to highest).</li>
+                </ul>
+                <p>Each view is interactive to display a sparkline and <span class="wintitle">Summary</span> data for each item clicked. </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2>Score Summary</h2>
+        <p>The <span class="wintitle">Score Summary</span> tile displays a numeric value of each measure to provide a quick review of any or all scores for a selected time frame. Scores are organized by the categories of <span class="wintitle">Elements</span> (also known as the <span class="wintitle">Drivers of Satisfaction</span>), <span class="wintitle">Satisfaction</span>, and <span class="wintitle">Future Behaviors</span> (how a visitor is most likely to respond as a result of the experience). </p>
+        <p>Scores display as grids (<img src="Resources/Images/grid_button.png" title="grid" alt="grid button" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" />) or individual cells (<img src="Resources/Images/cellChart.png" title="cells" alt="cells" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" />). Each score displays a sparkline on the right sidebar when selected. Grids may be sorted by column in either ascending or descending order by clicking the column header.</p>
+        <p> You can display multiple <span class="wintitle">Selection</span> tiles with scores for various <span class="wintitle">Channel</span>+<span class="wintitle">Measure</span> combinations. You can also apply any filters available from <span class="wintitle">Analytics Portal</span>. Each <span class="wintitle">Selection</span> tile may be displayed in either a grid or cells. <MadCap:snippetText src="Resources/Snippets/newTileOptions.flsnp" /></p>
+        <h2>Trend Correlation</h2>
+        <MadCap:snippetBlock src="Resources/Snippets/TrendCorDef.flsnp" />
+        <table class="TableStyle-Blind" style="mc-table-style: url('Resources/TableStyles/Blind.css');border-left-style: solid;border-left-width: 1px;border-left-color: #ffffff;border-right-style: solid;border-right-width: 1px;border-right-color: #ffffff;border-top-style: solid;border-top-width: 1px;border-top-color: #ffffff;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ffffff;margin-left: auto;margin-right: auto;" cellspacing="0">
+            <col style="width: 416px;" class="TableStyle-Blind-Column-Column1" />
+            <col style="width: 50%;" class="TableStyle-Blind-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-Blind-Body-Body1">
+                    <td class="TableStyle-Blind-BodyB-Column1-Body1" style="text-align: center;">
+                        <img src="Resources/Images/ScoreCorrRevStacked.png" title="Click to enlarge. Click again to close." alt="Trend Correlation Stacked" style="mc-thumbnail: popup;mc-thumbnail-max-width: 100px;mc-thumbnail-max-height: 100px;" MadCap:mediastyle="@media print { max-width: 250px;max-height: 160px; }" />
+                    </td>
+                    <td class="TableStyle-Blind-BodyA-Column2-Body1" style="text-align: center;">
+                        <img src="Resources/Images/ScoreCorrRev.png" title="Click to enlarge. Click again to close." alt="Trend Correlation Overlayed" style="mc-thumbnail: popup;mc-thumbnail-max-width: 100px;mc-thumbnail-max-height: 100px;" MadCap:mediastyle="@media print { max-width: 250px;max-height: 160px; }" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>More about Trend Correlation Tiles...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <h3>Labels</h3>
+                <p>The <span class="wintitle">Settings</span> sidebar offers a <span class="wintitle">Label</span> text field that defaults to the selected <span class="wintitle">Measure</span>, but can be revised as desired. This label displays in the tile header with the color key for the trend line. Click the label in the header to hide or show the line. Click the <span class="uicontrol">Data</span> icon (<img src="Resources/Images/LabelToggleIcon.png" alt="toggle labels icon" />) in the header to hide or show markers of key points along the trend.</p>
+                <p>Additionally, a label displays when you hover over the trend line at a specific point with the score and date.</p>
+                <h3>Time Span Correlation</h3>
+                <p>The following image shows the correlation between <span class="wintitle">Product Browsing</span> scores and the corporate metric for <span class="wintitle">Repeat Purchases</span> over a 90 day period. When a trend line is moved horizontally, the tile indicates the number of days the line has moved along the top of the trend line. </p>
+                <p style="text-align: center;">
+                    <img src="Resources/Images/trendOffset.png" title="Click to enlarge. Click again to close." alt="Trend Offset Example" style="mc-thumbnail: popup;mc-thumbnail-max-width: 100px;mc-thumbnail-max-height: 100px;" MadCap:mediastyle="@media print { max-width: 658px;max-height: 452px; }" />
+                </p>
+                <h3>Smoothing</h3>
+                <p>You can also apply <span class="wintitle">Smoothing</span> to a trend line to compress, or lessen the severity of changes. The <span class="wintitle">Smoothing</span> feature averages scores across the time span you select.</p>
+                <p>The <span class="wintitle">Smoothing</span> feature allows you to reduce the severity of the trend line between highs and lows. You can select the level of smoothing in the <span class="wintitle">Settings</span> sidebar (<img src="Resources/Images/sets_icon.png" alt="settings icon" title="settings icon" />). In the following image, the darker trend line has <span class="uicontrol">One Week</span> applied to a <span class="wintitle">Last Quarter</span> report. The system has averaged each day's <span class="wintitle">Satisfaction</span> score with the scores of the preceding and succeeding three days. A <span class="uicontrol">Two weeks</span> application would average each score with scores of the seven days before and seven days after, etc. </p>
+                <p><span class="wintitle">Best Fit</span> then takes the <span class="wintitle">Smoothing</span> value for each time interval you specify and ignores the data points in between. For example, in the following image the <span class="wintitle">One Week</span> value, or data point for <span class="wintitle">February</span> is <span class="systemoutput">87</span> and three weeks later is <span class="systemoutput">86</span>. The <span class="wintitle">Best Fit</span> data points match these values, but the trend line shows less variation because there is only one data point for each week. Likewise, <span class="wintitle">One Month (Best fit)</span> has a single data point for the entire month compared to a data point for each day of the month.</p>
+                <p style="text-align: center;">
+                    <img src="Resources/Images/smoothingExample.png" title="Click to enlarge. Click again to close." alt="Trend Correlation Smoothing" style="mc-thumbnail: popup;mc-thumbnail-max-height: 100px;mc-thumbnail-max-width: 100px;" MadCap:mediastyle="@media print { max-width: 658px;max-height: 452px; }" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2>Priority Map</h2>
+        <MadCap:snippetBlock src="Resources/Snippets/PriorityMapDef.flsnp" />
+        <p>These tiles are generated by choosing a <span class="wintitle">Day</span> or <span class="wintitle">Month</span> option (see <a href="r_date.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Date Range Selection</a>) and <span class="wintitle">Data Selection</span> items.</p>
+        <div class="tip" MadCap:autonum="&lt;b&gt;TIP: &lt;/b&gt;">Depending on the screen resolution of your display, the <span class="wintitle">Data Selection</span> sidebar may need to be closed in order to view the data point columns.</div>
+        <p>Trend Correlation may be applied from the <span class="wintitle">Stgs</span> sidebar. Trend lines indicate the direction each measure has taken during the time period with the bubble representing the current data point.</p>
+        <MadCap:snippetBlock src="Resources/Snippets/PriorityMapTrendNote.flsnp" />
+        <h2><a name="Data"></a>Data Selection <img src="Resources/Images/data_icon.png" title="data selection icon" alt="data selection icon" MadCap:mediastyle="@media print { width: 14px;height: 14px;max-width: 14px;max-height: 14px; }" /></h2>
+        <p>This sidebar offers <span class="wintitle">Channel</span> and <span class="wintitle">Measure</span> menus, with the possibility of filter menus based on your selections. Each selection displays a separate tile for comparison. When you add a <span class="wintitle">Selection</span>, a new set of <span class="wintitle">Settings</span> display.</p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/FilterLink.flsnp" />
+        </p>
+        <h2><a name="Settings"></a>Settings <img src="Resources/Images/sets_icon.png" title="settings icon" alt="settings icon" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" /></h2>
+        <p>With the exception of <span class="wintitle">Priority Map</span>, each <span class="wintitle">Data Selection Measure</span> has a corresponding set of menus to select <span class="wintitle">Question</span> and <span class="wintitle">Score</span>. With <span class="wintitle">Priority Map</span> the <span class="wintitle">Settings</span> sidebar offers <span class="wintitle">Trending Periods</span>.</p>
+        <h2>Journey Tree</h2>
+        <MadCap:snippetBlock src="Resources/Snippets/JourneyTreeDesc.flsnp" />
+        <h3>Scope</h3>
+        <p>The <span class="wintitle">Journey Tree</span> tile is available for a single <span class="wintitle">Measure</span> with up to six custom questions (<span class="wintitle">CPPs</span> and <span class="wintitle">Open Ends</span> are not available).</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Build a Journey Tree tile...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>On the side navigation, click the <span class="uicontrol">Scores</span> icon (<img src="Resources/Images/scores_icon.png" title="scores icon" alt="scores icon" MadCap:mediastyle="@media print { width: 24px;height: 24px;max-width: 24px;max-height: 24px; }" />). The <span class="wintitle">Scores</span> sidebar displays.</li>
+                    <li>Click <span class="uicontrol">Journey Tree</span>. The page is blank with the following default settings:</li>
+                    <li>
+                        <ul>
+                            <li>Date range of previous day, i.e., yesterday.</li>
+                            <li>All menus set to first item.<div class="tip" MadCap:autonum="&lt;b&gt;TIP: &lt;/b&gt;">Click the <span class="uicontrol">Hide</span> icon (<img src="Resources/Images/hide_icon.png" title="hide icon" alt="hide icon" />) to close the <span class="wintitle">Scores</span> sidebar for a larger viewing area of the tile.</div></li>
+                        </ul>
+                    </li>
+                    <li><a href="r_date.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Select a date range</a>.
+            </li>
+                    <li>Select criteria (see <a href="#Data" title="Click to view this Help topic." alt="Click to view this Help topic.">Data Selection and Settings</a> for information on tile criteria):<ol class="substeps"><li><MadCap:snippetText src="Resources/Snippets/SelectData.flsnp" /></li><li><MadCap:snippetText src="Resources/Snippets/AddSecOption.flsnp" /></li><li><MadCap:snippetText src="Resources/Snippets/SelectSettings.flsnp" /></li><li>Select the desired <span class="wintitle">Score</span> and click <span class="uicontrol">Add Question</span>. The <span class="wintitle">Question 1</span> menu displays.</li><li>Select the desired criteria for breaking the score down, i.e., what branches make up the score.</li><li>Continue adding questions as desired. Each question is a finer level of granularity.<div class="example" MadCap:autonum="&lt;b&gt;Example: &lt;/b&gt;">For <span class="wintitle">Satisfaction</span> score, select <span class="uicontrol">Age</span> to break the score down into age groups, which can be broken down into gender, etc.</div></li></ol></li>
+                    <li>Click <span class="uicontrol">Apply</span>. The <span class="wintitle">Journey Tree</span> tile displays with your selected criteria.</li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/NewTileFinal.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

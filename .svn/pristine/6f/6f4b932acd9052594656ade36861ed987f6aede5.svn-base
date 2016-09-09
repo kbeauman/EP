@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="es" MadCap:ignoredWords="">
+    <body>
+        <ul>
+            <li>Condición - Activado por defecto.</li>
+            <li>Mosaicos - Una lista de mosaicos actualmente asignados al tablero.</li>
+            <li>Diseño - Cambie el modelo de diseño si así lo desea.</li>
+            <li>Propietario del tablero - Un menú de usuarios válidos. Por defecto, el <span class="wintitle">Propietario del tablero</span> tiene privilegios para <span class="wintitle">Ver</span> y <span class="wintitle">Editar</span> el tablero.</li>
+            <li>Asignaciones de usuario - Puede copiar asignaciones desde otro tablero, o seleccionar privilegios de la lista.</li>
+            <li>Informes compartidos - Permite ver los nombres de los usuarios que han compartido el tablero, además de la fecha y fecha de vencimiento. También puede cancelar la acción de compartir. Los tableros compartidos permanecen en este informe durante 60 días después del vencimiento.</li>
+        </ul>
+    </body>
+</html>

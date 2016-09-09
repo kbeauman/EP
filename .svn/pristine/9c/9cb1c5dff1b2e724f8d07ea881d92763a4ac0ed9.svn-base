@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="526" MadCap:lastWidth="912" xml:lang="es" MadCap:ignoredWords="">
+    <head><title>Crear puntuaciones 2</title>
+    </head>
+    <body>
+        <h1>Crear un nuevo mosaico de puntuaciones respuestas - Paso 2</h1>
+        <p>Haga clic en <span class="uicontrol">Comparación de respuestas </span>en la barra lateral de <span class="wintitle">Puntuaciones</span>.</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildtile2.png" title="Hacer clic en comparación de respuestas" alt="barra lateral de Puntuaciones" style="mc-float: center;" />
+        </p>
+        <h3>Información adicional</h3>
+        <p><a href="c_scores_ww.htm" target="_parent" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Cómo trabajar con puntuaciones</a></p>
+        <h3>Paso siguiente</h3>
+        <p><a href="buildscore4.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Paso 3 &gt;</a></p>
+    </body>
+</html>

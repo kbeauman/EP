@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="buildbenchmark6.htm"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="buildbenchmark6.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">12</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">6</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Select Benchmark Categories</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Select Benchmark Categories</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Selecione as categorias de parâmetros de referência </mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>Benchmark Category settings</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Benchmark Category settings</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Configurações de categorias de parâmetros de referência</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-title"
+        phase-name="pretrans"><source>Build a New Benchmark Tile - Step 6</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build a New Benchmark Tile - Step 6</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Construir um novo bloco de Parâmetros de referência - Passo 6</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-h1"
+        phase-name="pretrans"><source>Build a New Benchmark Tile - Step 6</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build a New Benchmark Tile - Step 6</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Construir um novo bloco de Parâmetros de referência - Passo 6</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-h3"
+        phase-name="pretrans"><source>Additional Information</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Additional Information</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Informações adicionais</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="c_benchmarks_ww.htm#Benchmar" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="3" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="4" />"&gt;</bpt>Benchmark Categories Selection<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="c_benchmarks_ww.htm#Benchmar" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Benchmark Categories Selection<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="c_benchmarks_ww.htm#Benchmar" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Seleção de categorias de parâmetros de referência<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-h3"
+        phase-name="pretrans"><source>Next Step</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Next Step</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Próximo passo</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="buildbenchmark7.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="3" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="4" />"&gt;</bpt>Step 7 &gt;<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="buildbenchmark7.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Step 7 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="buildbenchmark7.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Passo 7 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit></body>
+  </file>
+</xliff>

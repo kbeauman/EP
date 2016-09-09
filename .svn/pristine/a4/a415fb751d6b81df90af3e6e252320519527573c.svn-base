@@ -1,0 +1,2392 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="c_scores_ww.htm"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="c_scores_ww.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">144</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">45</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>analytics portal help icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">analytics portal help icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone de ajuda do portal analítico</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>analytics portal help icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">analytics portal help icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone de ajuda do portal analítico</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>pie chart</source><seg-source><mrk
+            mtype="seg"
+            mid="1">pie chart</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">gráfico de pizza</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>pie chart button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">pie chart button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">botão do gráfico de pizza</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>grid button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">grid button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">botão de grade</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>grid button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">grid button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">botão de grade</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>pie chart</source><seg-source><mrk
+            mtype="seg"
+            mid="1">pie chart</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">gráfico de pizza</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>pie chart</source><seg-source><mrk
+            mtype="seg"
+            mid="1">pie chart</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">gráfico de pizza</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>score label</source><seg-source><mrk
+            mtype="seg"
+            mid="1">score label</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">etiqueta de pontuação</mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>score label</source><seg-source><mrk
+            mtype="seg"
+            mid="1">score label</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">etiqueta de pontuação</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>vertical bar chart</source><seg-source><mrk
+            mtype="seg"
+            mid="1">vertical bar chart</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">gráfico de barras verticais</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>vertical bar chart button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">vertical bar chart button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">botão de gráfico de barras verticais</mrk></target></trans-unit><trans-unit
+        id="23"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>horizontal bar chart</source><seg-source><mrk
+            mtype="seg"
+            mid="1">horizontal bar chart</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">gráfico de barras horizontais</mrk></target></trans-unit><trans-unit
+        id="24"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>horizontal bar chart button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">horizontal bar chart button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">botão de gráfico de barras horizontais</mrk></target></trans-unit><trans-unit
+        id="25"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>grid</source><seg-source><mrk
+            mtype="seg"
+            mid="1">grid</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">grade</mrk></target></trans-unit><trans-unit
+        id="26"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>grid button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">grid button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">botão de grade</mrk></target></trans-unit><trans-unit
+        id="27"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>grid</source><seg-source><mrk
+            mtype="seg"
+            mid="1">grid</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">grade</mrk></target></trans-unit><trans-unit
+        id="28"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>grid button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">grid button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">botão de grade</mrk></target></trans-unit><trans-unit
+        id="29"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>cells</source><seg-source><mrk
+            mtype="seg"
+            mid="1">cells</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">células</mrk></target></trans-unit><trans-unit
+        id="30"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>cells</source><seg-source><mrk
+            mtype="seg"
+            mid="1">cells</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">células</mrk></target></trans-unit><trans-unit
+        id="31"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Click to enlarge. Click again to close.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to enlarge.</mrk><mrk
+            mtype="seg"
+            mid="2">Click again to close.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique para ampliar.</mrk><mrk
+            mtype="seg"
+            mid="2">Clique novamente para fechar.</mrk></target></trans-unit><trans-unit
+        id="32"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>Trend Correlation Stacked</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Trend Correlation Stacked</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Correlação de tendências empilhada</mrk></target></trans-unit><trans-unit
+        id="33"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Click to enlarge. Click again to close.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to enlarge.</mrk><mrk
+            mtype="seg"
+            mid="2">Click again to close.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique para ampliar.</mrk><mrk
+            mtype="seg"
+            mid="2">Clique novamente para fechar.</mrk></target></trans-unit><trans-unit
+        id="34"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>Trend Correlation Overlayed</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Trend Correlation Overlayed</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Correlação de tendências sobreposta</mrk></target></trans-unit><trans-unit
+        id="35"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>toggle labels icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">toggle labels icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone de alternar etiquetas</mrk></target></trans-unit><trans-unit
+        id="36"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Click to enlarge. Click again to close.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to enlarge.</mrk><mrk
+            mtype="seg"
+            mid="2">Click again to close.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique para ampliar.</mrk><mrk
+            mtype="seg"
+            mid="2">Clique novamente para fechar.</mrk></target></trans-unit><trans-unit
+        id="37"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>Trend Offset Example</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Trend Offset Example</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Exemplo de compensação de tendências</mrk></target></trans-unit><trans-unit
+        id="38"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>settings icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">settings icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone configurações</mrk></target></trans-unit><trans-unit
+        id="39"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>settings icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">settings icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone configurações</mrk></target></trans-unit><trans-unit
+        id="40"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Click to enlarge. Click again to close.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to enlarge.</mrk><mrk
+            mtype="seg"
+            mid="2">Click again to close.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique para ampliar.</mrk><mrk
+            mtype="seg"
+            mid="2">Clique novamente para fechar.</mrk></target></trans-unit><trans-unit
+        id="41"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>Trend Correlation Smoothing</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Trend Correlation Smoothing</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Suavização de correlação de tendências</mrk></target></trans-unit><trans-unit
+        id="42"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>data selection icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">data selection icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone de seleção de dados</mrk></target></trans-unit><trans-unit
+        id="43"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>data selection icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">data selection icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone de seleção de dados</mrk></target></trans-unit><trans-unit
+        id="44"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>settings icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">settings icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone configurações</mrk></target></trans-unit><trans-unit
+        id="45"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>settings icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">settings icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone configurações</mrk></target></trans-unit><trans-unit
+        id="46"
+        restype="x-title"
+        phase-name="pretrans"><source>Working With Scores</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Working With Scores</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Como trabalhar com pontuações</mrk></target></trans-unit><trans-unit
+        id="47"
+        restype="x-h1"
+        phase-name="pretrans"><source>Working with Scores</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Working with Scores</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Como trabalhar com pontuações</mrk></target></trans-unit><trans-unit
+        id="48"
+        restype="x-p"
+        phase-name="pretrans"><source>Drill down into the data that comprises a <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Scores<ept
+            id="1">&lt;/span&gt;</ept> tile.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Drill down into the data that comprises a <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Scores<ept
+              id="1">&lt;/span&gt;</ept> tile.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Detalhe os dados que compõem um bloco de <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Pontuações<ept
+              id="1">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="49"
+        restype="x-p"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:snippetText src="Resources/Snippets/ScoreDesc.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1">&lt;/span&gt;</ept> offers the following types of scores:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/ScoreDesc.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept> offers the following types of scores:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/ScoreDesc.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>O Portal Executivo<ept
+              id="1">&lt;/span&gt;</ept>oferece os seguintes tipos de pontuações:</mrk></target></trans-unit><trans-unit
+        id="50"
+        restype="x-li"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Multi Channel Summary<ept
+            id="1">&lt;/span&gt;</ept> - A <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Combined Score<ept
+            id="2">&lt;/span&gt;</ept> from <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="3">&lt;/span&gt;</ept>. You can view data in either a pie chart or spreadsheet type grid and pin it to a <bpt
+            id="4"
+            ctype="link">&lt;a href="t_dashboard_new.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="2" />"&gt;</bpt>dashboard<ept
+            id="4">&lt;/a&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Multi Channel Summary<ept
+              id="1">&lt;/span&gt;</ept> - A <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Combined Score<ept
+              id="2">&lt;/span&gt;</ept> from <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="3">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">You can view data in either a pie chart or spreadsheet type grid and pin it to a <bpt
+              id="4"
+              ctype="link">&lt;a href="t_dashboard_new.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>dashboard<ept
+              id="4">&lt;/a&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Resumo de múltiplos canais<ept
+              id="1">&lt;/span&gt;</ept> - Uma <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt> pontuação combinada<ept
+              id="2">&lt;/span&gt;</ept> do <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Portal Analítico<ept
+              id="3">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">Os dados podem ser exibidos em um gráfico de pizza ou grade tipo planilha e fixados em um <bpt
+              id="4"
+              ctype="link">&lt;a href="t_dashboard_new.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>painel<ept
+              id="4">&lt;/a&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="51"
+        restype="x-li"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Response Comparison<ept
+            id="1">&lt;/span&gt;</ept> - <ph
+            id="1">&lt;MadCap:snippetText src="Resources/Snippets/ResCompDef.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Response Comparison<ept
+              id="1">&lt;/span&gt;</ept> - <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/ResCompDef.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="ContentChanged"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Comparação de respostas<ept
+              id="1">&lt;/span&gt;</ept> - <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/ResCompDef.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target><alt-trans
+          match-quality="76"
+          origin="previous-version"><seg-source>Response Comparison</seg-source><target>Comparação de respostas</target></alt-trans></trans-unit><trans-unit
+        id="52"
+        restype="x-li"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Score Summary<ept
+            id="1">&lt;/span&gt;</ept> - A display of <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Element<ept
+            id="2">&lt;/span&gt;</ept>, <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Satisfaction<ept
+            id="3">&lt;/span&gt;</ept>, and <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Future Behavior<ept
+            id="4">&lt;/span&gt;</ept> scores for a selected measure.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Score Summary<ept
+              id="1">&lt;/span&gt;</ept> - A display of <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Element<ept
+              id="2">&lt;/span&gt;</ept>, <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Satisfaction<ept
+              id="3">&lt;/span&gt;</ept>, and <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Future Behavior<ept
+              id="4">&lt;/span&gt;</ept> scores for a selected measure.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Resumo das pontuações<ept
+              id="1">&lt;/span&gt;</ept> Exibição das pontuações de<bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Elemento<ept
+              id="2">&lt;/span&gt;</ept>, <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Satisfação<ept
+              id="3">&lt;/span&gt;</ept>e<bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Comportamentos futuros<ept
+              id="4">&lt;/span&gt;</ept>de uma medida selecionada.</mrk></target></trans-unit><trans-unit
+        id="53"
+        restype="x-li"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Trend Correlation<ept
+            id="1">&lt;/span&gt;</ept> - Interactive trend lines for measure scores.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Trend Correlation<ept
+              id="1">&lt;/span&gt;</ept> - Interactive trend lines for measure scores.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Correlação de tendências<ept
+              id="1">&lt;/span&gt;</ept>- Linhas de tendências interativas para pontuações de medidas.</mrk></target></trans-unit><trans-unit
+        id="54"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>Build A New Score Tile...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build A New Score Tile...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Construir um novo bloco de pontuações...</mrk></target></trans-unit><trans-unit
+        id="55"
+        restype="x-p"
+        phase-name="pretrans"><source>Display a <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Combined Score<ept
+            id="1">&lt;/span&gt;</ept> from <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="2">&lt;/span&gt;</ept>, or the scores of specific <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Questions<ept
+            id="3">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Display a <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Combined Score<ept
+              id="1">&lt;/span&gt;</ept> from <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="2">&lt;/span&gt;</ept>, or the scores of specific <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Questions<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Exibir uma <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>pontuação combinada<ept
+              id="1">&lt;/span&gt;</ept> do <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt> Portal Analítico<ept
+              id="2">&lt;/span&gt;</ept>, ou as pontuações de <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>perguntas<ept
+              id="3">&lt;/span&gt;</ept> específicas.</mrk></target></trans-unit><trans-unit
+        id="56"
+        restype="x-div"
+        phase-name="pretrans"><source>The page loads a default tile, which is:<bpt
+            id="1">&lt;ul&gt;</bpt><bpt
+            id="2">&lt;li&gt;</bpt>Date range of previous day, i.e., yesterday.<ept
+            id="2">&lt;/li&gt;</ept><bpt
+            id="3">&lt;li&gt;</bpt>All menus set to first item.<ept
+            id="3">&lt;/li&gt;</ept><ept
+            id="1">&lt;/ul&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">The page loads a default tile, which is:<bpt
+              id="1">&lt;ul&gt;</bpt><bpt
+              id="2">&lt;li&gt;</bpt>Date range of previous day, i.e., yesterday.</mrk><mrk
+            mtype="seg"
+            mid="2"><ept
+              id="2">&lt;/li&gt;</ept><bpt
+              id="3">&lt;li&gt;</bpt>All menus set to first item.<ept
+              id="3">&lt;/li&gt;</ept><ept
+              id="1">&lt;/ul&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">A página carrega um bloco padrão, que É o seguinte:<bpt
+              id="1">&lt;ul&gt;</bpt><bpt
+              id="2">&lt;li&gt;</bpt>Intervalo de datas do dia anterior, ou seja, ontem.</mrk><mrk
+            mtype="seg"
+            mid="2"><ept
+              id="2">&lt;/li&gt;</ept><bpt
+              id="3">&lt;li&gt;</bpt>Todos os menus configurados para o primeiro item.<ept
+              id="3">&lt;/li&gt;</ept><ept
+              id="1">&lt;/ul&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="57"
+        restype="x-li"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="r_date.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="2" />"&gt;</bpt>Select a date range<ept
+            id="1">&lt;/a&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="r_date.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Select a date range<ept
+              id="1">&lt;/a&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="r_date.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Selecione um intervalo de datas<ept
+              id="1">&lt;/a&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="58"
+        restype="x-li"
+        phase-name="pretrans"><source>Select criteria (see <bpt
+            id="1"
+            ctype="link">&lt;a href="#DataSelect" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="2" />"&gt;</bpt>Data Selection and Settings<ept
+            id="1">&lt;/a&gt;</ept> for information on tile criteria):<bpt
+            id="2">&lt;ul&gt;</bpt><bpt
+            id="3">&lt;li&gt;</bpt><bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Multi Channel Summary<ept
+            id="4">&lt;/span&gt;</ept> - Select an item from the <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>Combined Score<ept
+            id="5">&lt;/span&gt;</ept> menu. These menu items are managed in <bpt
+            id="6">&lt;span class="uicontrol"&gt;</bpt>Analytics Portal &gt; Multi Measure &gt; Combined Score<ept
+            id="6">&lt;/span&gt;</ept>. The new tile displays.<ept
+            id="3">&lt;/li&gt;</ept><bpt
+            id="7">&lt;li&gt;</bpt><bpt
+            id="8">&lt;span class="wintitle"&gt;</bpt>Response Comparison<ept
+            id="8">&lt;/span&gt;</ept>, <bpt
+            id="9">&lt;span class="wintitle"&gt;</bpt>Score Summary<ept
+            id="9">&lt;/span&gt;</ept>, and <bpt
+            id="10">&lt;span class="wintitle"&gt;</bpt>Trend Correlation<ept
+            id="10">&lt;/span&gt;</ept>:<ept
+            id="7">&lt;ol class="substeps"&gt;&lt;li&gt;&lt;MadCap:snippetText src="Resources/Snippets/SelectData.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/li&gt;&lt;li&gt;&lt;MadCap:snippetText src="Resources/Snippets/AddSecOption.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/li&gt;&lt;li&gt;&lt;MadCap:snippetText src="Resources/Snippets/SelectSettings.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/li&gt;&lt;li&gt;&lt;MadCap:snippetText src="Resources/Snippets/SelectSettings2.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;</ept><ept
+            id="2">&lt;/ul&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Select criteria (see <bpt
+              id="1"
+              ctype="link">&lt;a href="#DataSelect" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Data Selection and Settings<ept
+              id="1">&lt;/a&gt;</ept> for information on tile criteria):<bpt
+              id="2">&lt;ul&gt;</bpt><bpt
+              id="3">&lt;li&gt;</bpt><bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Multi Channel Summary<ept
+              id="4">&lt;/span&gt;</ept> - Select an item from the <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Combined Score<ept
+              id="5">&lt;/span&gt;</ept> menu.</mrk><mrk
+            mtype="seg"
+            mid="2">These menu items are managed in <bpt
+              id="6">&lt;span class="uicontrol"&gt;</bpt>Analytics Portal &gt; Multi Measure &gt; Combined Score<ept
+              id="6">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3">The new tile displays.</mrk><mrk
+            mtype="seg"
+            mid="4"><ept
+              id="3">&lt;/li&gt;</ept><bpt
+              id="7">&lt;li&gt;</bpt><bpt
+              id="8">&lt;span class="wintitle"&gt;</bpt>Response Comparison<ept
+              id="8">&lt;/span&gt;</ept>, <bpt
+              id="9">&lt;span class="wintitle"&gt;</bpt>Score Summary<ept
+              id="9">&lt;/span&gt;</ept>, and <bpt
+              id="10">&lt;span class="wintitle"&gt;</bpt>Trend Correlation<ept
+              id="10">&lt;/span&gt;</ept>:<ept
+              id="7">&lt;ol class="substeps"&gt;&lt;li&gt;&lt;MadCap:snippetText src="Resources/Snippets/SelectData.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/li&gt;&lt;li&gt;&lt;MadCap:snippetText src="Resources/Snippets/AddSecOption.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/li&gt;&lt;li&gt;&lt;MadCap:snippetText src="Resources/Snippets/SelectSettings.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/li&gt;&lt;li&gt;&lt;MadCap:snippetText src="Resources/Snippets/SelectSettings2.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;</ept><ept
+              id="2">&lt;/ul&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Selecione os critérios (consulte <bpt
+              id="1"
+              ctype="link">&lt;a href="#DataSelect" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Seleção e configuração dos dados<ept
+              id="1">&lt;/a&gt;</ept> para obter mais informações sobre os critérios dos blocos): <bpt
+              id="2">&lt;ul&gt;</bpt><bpt
+              id="3">&lt;li&gt;</bpt><bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Resumo de múltiplos canais<ept
+              id="4">&lt;/span&gt;</ept> - Selecione um item no menu <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Pontuação combinada<ept
+              id="5">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">Esses itens de menu são gerenciados em <bpt
+              id="6">&lt;span class="uicontrol"&gt;</bpt>Portal Analítico &gt; Multimedida &gt; Pontuação combinada<ept
+              id="6">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3">O novo bloco é exibido.</mrk><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:diff="New"><ept
+              id="3">&lt;/li&gt;</ept><bpt
+              id="7">&lt;li&gt;</bpt><bpt
+              id="8">&lt;span class="wintitle"&gt;</bpt>Comparação de respostas<ept
+              id="8">&lt;/span&gt;</ept>, <bpt
+              id="9">&lt;span class="wintitle"&gt;</bpt>Resumo das pontuações<ept
+              id="9">&lt;/span&gt;</ept>, e <bpt
+              id="10">&lt;span class="wintitle"&gt;</bpt>Correlação de tendências<ept
+              id="10">&lt;/span&gt;</ept>:<ept
+              id="7">&lt;ol class="substeps"&gt;&lt;li&gt;&lt;MadCap:snippetText src="Resources/Snippets/SelectData.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/li&gt;&lt;li&gt;&lt;MadCap:snippetText src="Resources/Snippets/AddSecOption.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/li&gt;&lt;li&gt;&lt;MadCap:snippetText src="Resources/Snippets/SelectSettings.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/li&gt;&lt;li&gt;&lt;MadCap:snippetText src="Resources/Snippets/SelectSettings2.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;</ept><ept
+              id="2">&lt;/ul&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="59"
+        restype="x-h2"
+        phase-name="pretrans"><source>Multi Channel Summary</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Multi Channel Summary</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Resumo de múltiplos canais</mrk></target></trans-unit><trans-unit
+        id="60"
+        restype="x-p"
+        phase-name="pretrans"><source>By default, the display pane loads a tile representing the previous day's data for the first <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Combined score<ept
+            id="1">&lt;/span&gt;</ept> menu item in the <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="2">&lt;/span&gt;</ept> sidebar. Scores show in a pie chart with basic information in the tile header. Click the chevron above the tile to show or hide the number of <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Respondents<ept
+            id="3">&lt;/span&gt;</ept>. <bpt
+            id="4"
+            ctype="link">&lt;a href="r_date.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="2" />"&gt;</bpt>Select a date range<ept
+            id="4">&lt;/a&gt;</ept>  and a <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>Combined score<ept
+            id="5">&lt;/span&gt;</ept> menu item in the <bpt
+            id="6">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="6">&lt;/span&gt;</ept> sidebar to view other summaries. Refer to <bpt
+            id="7">&lt;span class="wintitle"&gt;</bpt>Analytics Portal Help<ept
+            id="7">&lt;/span&gt;</ept> for additional information on combined scores. In <bpt
+            id="8">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="8">&lt;/span&gt;</ept>, click the <bpt
+            id="9">&lt;span class="uicontrol"&gt;</bpt>Help &amp; FAQ<ept
+            id="9">&lt;/span&gt;</ept> icon (<ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/AP_HelpIcon.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="9" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="10" />" MadCap:mediastyle="@media print { width: 16px;height: 15px;max-width: 16px;max-height: 15px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) and go to <bpt
+            id="10">&lt;span class="uicontrol"&gt;</bpt>Help Guides &gt; Multi-Measure Tab &gt; Combined Score<ept
+            id="10">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">By default, the display pane loads a tile representing the previous day's data for the first <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Combined score<ept
+              id="1">&lt;/span&gt;</ept> menu item in the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="2">&lt;/span&gt;</ept> sidebar.</mrk><mrk
+            mtype="seg"
+            mid="2">Scores show in a pie chart with basic information in the tile header.</mrk><mrk
+            mtype="seg"
+            mid="3">Click the chevron above the tile to show or hide the number of <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Respondents<ept
+              id="3">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="4"><bpt
+              id="4"
+              ctype="link">&lt;a href="r_date.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Select a date range<ept
+              id="4">&lt;/a&gt;</ept> and a <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Combined score<ept
+              id="5">&lt;/span&gt;</ept> menu item in the <bpt
+              id="6">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="6">&lt;/span&gt;</ept> sidebar to view other summaries.</mrk><mrk
+            mtype="seg"
+            mid="5">Refer to <bpt
+              id="7">&lt;span class="wintitle"&gt;</bpt>Analytics Portal Help<ept
+              id="7">&lt;/span&gt;</ept> for additional information on combined scores.</mrk><mrk
+            mtype="seg"
+            mid="6">In <bpt
+              id="8">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="8">&lt;/span&gt;</ept>, click the <bpt
+              id="9">&lt;span class="uicontrol"&gt;</bpt>Help &amp; FAQ<ept
+              id="9">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/AP_HelpIcon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="9" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="10" />" MadCap:mediastyle="@media print { width: 16px;height: 15px;max-width: 16px;max-height: 15px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) and go to <bpt
+              id="10">&lt;span class="uicontrol"&gt;</bpt>Help Guides &gt; Multi-Measure Tab &gt; Combined Score<ept
+              id="10">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Por padrão, o painel de exibição mostra um bloco representando os dados do dia anterior para o primeiro item do menu <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Pontuação combinada<ept
+              id="1">&lt;/span&gt;</ept> na barra lateral <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Configurações<ept
+              id="2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3">As pontuações são mostradas em um gráfico de pizza com as informações básicas no cabeçalho do bloco.</mrk><mrk
+            mtype="seg"
+            mid="3">Clique na divisa acima do bloco para mostrar ou ocultar o número de <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Entrevistados<ept
+              id="3">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="4"><bpt
+              id="4"
+              ctype="link">&lt;a href="r_date.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Selecione um intervalo de datas <ept
+              id="4">&lt;/a&gt;</ept> e um item do menu <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Pontuação combinada<ept
+              id="5">&lt;/span&gt;</ept> na barra lateral <bpt
+              id="6">&lt;span class="wintitle"&gt;</bpt>Configurações<ept
+              id="6">&lt;/span&gt;</ept> para exibir outros resumos.</mrk><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:diff="Equal">Consulte a <bpt
+              id="7">&lt;span class="wintitle"&gt;</bpt>Ajuda do Portal Analítico<ept
+              id="7">&lt;/span&gt;</ept> para obter informações adicionais sobre pontuações combinadas.</mrk><mrk
+            mtype="seg"
+            mid="6"
+            MadCap:diff="TagChanged">No <bpt
+              id="8">&lt;span class="wintitle"&gt;</bpt>Portal Analítico<ept
+              id="8">&lt;/span&gt;</ept>, clique no ícone de <bpt
+              id="9">&lt;span class="uicontrol"&gt;</bpt>Ajuda e perguntas frequentes<ept
+              id="9">&lt;/span&gt;</ept> (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/AP_HelpIcon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="9" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="10" />" MadCap:mediastyle="@media print { width: 16px;height: 15px;max-width: 16px;max-height: 15px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) e acesse <bpt
+              id="10">&lt;span class="uicontrol"&gt;</bpt>Guias de Ajuda &gt; Guia Multi-medida &gt; Pontuação combinada<ept
+              id="10">&lt;/span&gt;</ept>.</mrk></target><alt-trans
+          mid="5"
+          match-quality="100"
+          origin="previous-version"><seg-source>In <bpt
+              id="8">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="8">&lt;/span&gt;</ept>, click the <bpt
+              id="9">&lt;span class="uicontrol"&gt;</bpt>Help &amp; FAQ<ept
+              id="9">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/AP_HelpIcon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="15" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="16" />" MadCap:mediastyle="@media print { width: 16px;height: 15px;max-width: 16px;max-height: 15px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) and go to <bpt
+              id="10">&lt;span class="uicontrol"&gt;</bpt>Help Guides &gt; Multi-Measure Tab &gt; Combined Score<ept
+              id="10">&lt;/span&gt;</ept>.</seg-source><target>No <bpt
+              id="8">&lt;span class="wintitle"&gt;</bpt>Portal Analítico<ept
+              id="8">&lt;/span&gt;</ept>, clique no ícone de <bpt
+              id="9">&lt;span class="uicontrol"&gt;</bpt>Ajuda e perguntas frequentes<ept
+              id="9">&lt;/span&gt;</ept> (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/AP_HelpIcon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="15" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="16" />" MadCap:mediastyle="@media print { width: 16px;height: 15px;max-width: 16px;max-height: 15px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) e acesse <bpt
+              id="10">&lt;span class="uicontrol"&gt;</bpt>Guias de Ajuda &gt; Guia Multi-medida &gt; Pontuação combinada<ept
+              id="10">&lt;/span&gt;</ept>.</target></alt-trans></trans-unit><trans-unit
+        id="61"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>The following views are available...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The following views are available...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Os seguintes modos de exibição estão disponíveis...</mrk></target></trans-unit><trans-unit
+        id="62"
+        restype="x-h3"
+        phase-name="pretrans"><source>Pie Chart View <ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/pieChart_button.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="11" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="12" />" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Pie Chart View <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/pieChart_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="11" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="12" />" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="Equal">Exibição de gráfico de pizza <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/pieChart_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="17" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="18" />" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target><alt-trans
+          match-quality="100"
+          origin="previous-version"><seg-source>Pie Chart View <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/pieChart_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="17" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="18" />" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></seg-source><target>Exibição de gráfico de pizza <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/pieChart_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="17" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="18" />" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></target></alt-trans></trans-unit><trans-unit
+        id="63"
+        restype="x-div"
+        phase-name="pretrans"><source>Mouse over chart elements to view lower number scores. When several scores have lower values the labels may be hidden. You can view these labels by positioning the cursor over each chart element.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Mouse over chart elements to view lower number scores.</mrk><mrk
+            mtype="seg"
+            mid="2">When several scores have lower values the labels may be hidden.</mrk><mrk
+            mtype="seg"
+            mid="3">You can view these labels by positioning the cursor over each chart element.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Passe o ponteiro do mouse sobre os elementos do gráfico para exibir pontuações menores.</mrk><mrk
+            mtype="seg"
+            mid="2">As etiquetas podem ficar ocultas quando várias pontuações têm valores mais baixos.</mrk><mrk
+            mtype="seg"
+            mid="3">Elas podem ser exibidas posicionando-se o ponteiro do mouse sobre cada elemento do gráfico.</mrk></target></trans-unit><trans-unit
+        id="64"
+        restype="x-p"
+        phase-name="pretrans"><source>This interactive view shows the score for each channel with a sparkline and Combined Score in the center. Click each of the following elements to view a drill-down of the data:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This interactive view shows the score for each channel with a sparkline and Combined Score in the center.</mrk><mrk
+            mtype="seg"
+            mid="2">Click each of the following elements to view a drill-down of the data:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Essa visualização interativa mostra a pontuação de cada canal com um minigráfico e a pontuação combinada no centro.</mrk><mrk
+            mtype="seg"
+            mid="2">Clique em cada um dos seguintes elementos para exibir os dados mais detalhados:</mrk></target></trans-unit><trans-unit
+        id="65"
+        restype="x-li"
+        phase-name="pretrans"><source>Channel Score Label - Consisting of the channel, score, and n Count, this element displays the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Summary<ept
+            id="1">&lt;/span&gt;</ept>, <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Elements<ept
+            id="2">&lt;/span&gt;</ept>, and <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Future Behaviors<ept
+            id="3">&lt;/span&gt;</ept> data which make up the measure.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Channel Score Label - Consisting of the channel, score, and n Count, this element displays the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Summary<ept
+              id="1">&lt;/span&gt;</ept>, <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Elements<ept
+              id="2">&lt;/span&gt;</ept>, and <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Future Behaviors<ept
+              id="3">&lt;/span&gt;</ept> data which make up the measure.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Etiqueta de pontuação do canal - Composto do canal, pontuação, e Contagem n, esse elemento exibe dados de <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Resumo<ept
+              id="1">&lt;/span&gt;</ept>, dos <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Elementos<ept
+              id="2">&lt;/span&gt;</ept> e dos <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Comportamentos futuros<ept
+              id="3">&lt;/span&gt;</ept> que compõem a medida.</mrk></target></trans-unit><trans-unit
+        id="66"
+        restype="x-li"
+        phase-name="pretrans"><source>Sparkline - View a line chart with data points of the total score during the selected date range, along with <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Summary<ept
+            id="1">&lt;/span&gt;</ept> data consisting of <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Score<ept
+            id="2">&lt;/span&gt;</ept>, <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Weight<ept
+            id="3">&lt;/span&gt;</ept>, and <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+            id="4">&lt;/span&gt;</ept>.
+					<bpt
+            id="5">&lt;div class="note" MadCap:autonum="&amp;lt;b&amp;gt;NOTE: &amp;lt;/b&amp;gt;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>Sparklines of less than a 60 day duration are shown in daily increments. For periods exceeding 60 days, sparklines are shown in weekly increments.<ept
+            id="5">&lt;/div&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Sparkline - View a line chart with data points of the total score during the selected date range, along with <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Summary<ept
+              id="1">&lt;/span&gt;</ept> data consisting of <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Score<ept
+              id="2">&lt;/span&gt;</ept>, <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Weight<ept
+              id="3">&lt;/span&gt;</ept>, and <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+              id="4">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"><bpt
+              id="5">&lt;div class="note" MadCap:autonum="&amp;lt;b&amp;gt;NOTE: &amp;lt;/b&amp;gt;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>Sparklines of less than a 60 day duration are shown in daily increments.</mrk><mrk
+            mtype="seg"
+            mid="3">For periods exceeding 60 days, sparklines are shown in weekly increments.<ept
+              id="5">&lt;/div&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Minigráfico - Exibe um gráfico de linhas com pontos de dados da pontuação total durante o intervalo de datas selecionado, juntamente com dados de <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Resumo<ept
+              id="1">&lt;/span&gt;</ept> que incluem a <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Pontuação<ept
+              id="2">&lt;/span&gt;</ept>, a <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Ponderação<ept
+              id="3">&lt;/span&gt;</ept> e a <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Contagem n<ept
+              id="4">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"><bpt
+              id="5">&lt;div class="note" MadCap:autonum="&amp;lt;b&amp;gt;NOTE: &amp;lt;/b&amp;gt;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>Minigráficos com duração inferior a 60 dias são mostrados em incrementos diários.</mrk><mrk
+            mtype="seg"
+            mid="3">Para períodos com mais de 60 dias, os minigráficos são mostrados em incrementos semanais.<ept
+              id="5">&lt;/div&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="67"
+        restype="x-li"
+        phase-name="pretrans"><source>Combined Score - Consisting of the name, score, and n Count, this element displays the same information as the sparkline.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Combined Score - Consisting of the name, score, and n Count, this element displays the same information as the sparkline.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Pontuação combinada - Composto do nome, pontuação, e Contagem n, esse elemento apresenta as mesmas informações que o minigráfico.</mrk></target></trans-unit><trans-unit
+        id="68"
+        restype="x-h3"
+        phase-name="pretrans"><source>Grid View <ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="13" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="14" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Grid View <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="13" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="14" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="Equal">Exibição de grade <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="19" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target><alt-trans
+          match-quality="100"
+          origin="previous-version"><seg-source>Grid View <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="19" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></seg-source><target>Exibição de grade <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="19" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></target></alt-trans></trans-unit><trans-unit
+        id="69"
+        restype="x-p"
+        phase-name="pretrans"><source>This interactive table offers the following features:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This interactive table offers the following features:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Esta tabela interativa oferece os seguintes recursos:</mrk></target></trans-unit><trans-unit
+        id="70"
+        restype="x-li"
+        phase-name="pretrans"><source>Combined Score - Click the table header to view Summary data consisting of <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Score<ept
+            id="1">&lt;/span&gt;</ept>, <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Weight<ept
+            id="2">&lt;/span&gt;</ept>, and <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+            id="3">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Combined Score - Click the table header to view Summary data consisting of <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Score<ept
+              id="1">&lt;/span&gt;</ept>, <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Weight<ept
+              id="2">&lt;/span&gt;</ept>, and <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Pontuação combinada - Clique no cabeçalho da tabela para exibir dados de Resumo que incluem a <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Pontuação<ept
+              id="1">&lt;/span&gt;</ept>, a <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Ponderação<ept
+              id="2">&lt;/span&gt;</ept> e a <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Contagem n<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="71"
+        restype="x-li"
+        phase-name="pretrans"><source>Sort-by-column - Click any column header to sort the data by the selected column values with the lowest value first. Click again to reverse the order.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Sort-by-column - Click any column header to sort the data by the selected column values with the lowest value first.</mrk><mrk
+            mtype="seg"
+            mid="2">Click again to reverse the order.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Classificar por coluna - Clique no cabeçalho de qualquer coluna para classificar os dados com base nos valores selecionados da coluna, com o menor valor primeiro.</mrk><mrk
+            mtype="seg"
+            mid="2">Clique novamente para inverter a ordem.</mrk></target></trans-unit><trans-unit
+        id="72"
+        restype="x-li"
+        phase-name="pretrans"><source>Channel Score - Click each line item to view the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Summary<ept
+            id="1">&lt;/span&gt;</ept>, <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Elements<ept
+            id="2">&lt;/span&gt;</ept>, and <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Future Behaviors<ept
+            id="3">&lt;/span&gt;</ept> data which make up the measure. The <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Summary<ept
+            id="4">&lt;/span&gt;</ept> double-chevron displays the corresponding <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="5">&lt;/span&gt;</ept> page.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Channel Score - Click each line item to view the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Summary<ept
+              id="1">&lt;/span&gt;</ept>, <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Elements<ept
+              id="2">&lt;/span&gt;</ept>, and <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Future Behaviors<ept
+              id="3">&lt;/span&gt;</ept> data which make up the measure.</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Summary<ept
+              id="4">&lt;/span&gt;</ept> double-chevron displays the corresponding <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="5">&lt;/span&gt;</ept> page.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Pontuação do canal - Clique em cada item de linha para exibir os dados de <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Resumo<ept
+              id="1">&lt;/span&gt;</ept>, dos <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Elementos<ept
+              id="2">&lt;/span&gt;</ept> e dos <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Comportamentos futuros<ept
+              id="3">&lt;/span&gt;</ept> que compõem a medida.</mrk><mrk
+            mtype="seg"
+            mid="2">A divisa dupla do <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Resumo<ept
+              id="4">&lt;/span&gt;</ept> exibe a página do <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Portal Analítico<ept
+              id="5">&lt;/span&gt;</ept> correspondente.</mrk></target></trans-unit><trans-unit
+        id="73"
+        restype="x-h2"
+        phase-name="pretrans"><source>Response Comparison</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Response Comparison</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Comparação de respostas</mrk></target></trans-unit><trans-unit
+        id="74"
+        restype="x-p"
+        phase-name="pretrans"><source>Scores are compiled by a number of selected criteria from menus of the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="1">&lt;/span&gt;</ept> and <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Data<ept
+            id="2">&lt;/span&gt;</ept> sidebars. By default, the display pane loads a tile representing the previous day's data for the first item of each menu. Scores show in a pie chart with basic information in the tile header. Click the chevron above the tile to show or hide additional data. <bpt
+            id="3"
+            ctype="link">&lt;a href="r_date.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="2" />"&gt;</bpt>Select a date range<ept
+            id="3">&lt;/a&gt;</ept> and the desired menu items in the <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Data Selection<ept
+            id="4">&lt;/span&gt;</ept> and <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="5">&lt;/span&gt;</ept> sidebars.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Scores are compiled by a number of selected criteria from menus of the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="1">&lt;/span&gt;</ept> and <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Data<ept
+              id="2">&lt;/span&gt;</ept> sidebars.</mrk><mrk
+            mtype="seg"
+            mid="2">By default, the display pane loads a tile representing the previous day's data for the first item of each menu.</mrk><mrk
+            mtype="seg"
+            mid="3">Scores show in a pie chart with basic information in the tile header.</mrk><mrk
+            mtype="seg"
+            mid="4">Click the chevron above the tile to show or hide additional data.</mrk><mrk
+            mtype="seg"
+            mid="5"><bpt
+              id="3"
+              ctype="link">&lt;a href="r_date.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Select a date range<ept
+              id="3">&lt;/a&gt;</ept> and the desired menu items in the <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Data Selection<ept
+              id="4">&lt;/span&gt;</ept> and <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="5">&lt;/span&gt;</ept> sidebars.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">As pontuações são compiladas com base em diversos critérios selecionados<bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>nos menus<ept
+              id="1">&lt;/span&gt;</ept> das barras laterais <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Configurações e<ept
+              id="2">&lt;/span&gt;</ept> Dados.</mrk><mrk
+            mtype="seg"
+            mid="2">Por padrão, o painel de exibição mostra um bloco representando os dados do dia anterior para o primeiro item de cada menu.</mrk><mrk
+            mtype="seg"
+            mid="3">As pontuações são mostradas em um gráfico de pizza com as informações básicas no cabeçalho do bloco.</mrk><mrk
+            mtype="seg"
+            mid="4">Clique na divisa acima do bloco para mostrar ou ocultar dados adicionais.</mrk><mrk
+            mtype="seg"
+            mid="5"><bpt
+              id="3"
+              ctype="link">&lt;a href="r_date.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="2" />"&gt;</bpt>Selecione um intervalo de datas<ept
+              id="3">&lt;/a&gt;</ept> e os itens de menu desejados nas barras laterais <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Seleção de dados<ept
+              id="4">&lt;/span&gt;</ept> e <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Configurações<ept
+              id="5">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="75"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>The following views are available...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The following views are available...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Os seguintes modos de exibição estão disponíveis...</mrk></target></trans-unit><trans-unit
+        id="76"
+        restype="x-li"
+        phase-name="pretrans"><source><ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/pieChart_button.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="11" />" alt="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="17" />" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Pie Chart - <ph
+            id="2">&lt;MadCap:snippetText src="Resources/Snippets/PieChartBasis.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+            id="3">&lt;MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Each section (space permitting) is labeled with the question response, score, and percent of responses (n Count). In the following image:<bpt
+            id="1">&lt;table style="mc-table-style: url('Resources/TableStyles/Blind.css');margin-left: auto;margin-right: auto;" class="TableStyle-Blind" cellspacing="0"&gt;&lt;col class="TableStyle-Blind-Column-Column1" style="width: 50%;" /&gt;&lt;col class="TableStyle-Blind-Column-Column2" style="width: 50%;" /&gt;&lt;tbody&gt;&lt;tr class="TableStyle-Blind-Body-Body1"&gt;&lt;td class="TableStyle-Blind-BodyB-Column1-Body1"&gt;&lt;ul&gt;</bpt><bpt
+            id="6">&lt;li&gt;</bpt> Question response = 5<ept
+            id="6">&lt;/li&gt;</ept><bpt
+            id="7">&lt;li&gt;</bpt>Score = 56<ept
+            id="7">&lt;/li&gt;</ept><bpt
+            id="8">&lt;li&gt;</bpt>Percent of responses = 3%<ept
+            id="8">&lt;/li&gt;</ept><bpt
+            id="9">&lt;li&gt;</bpt>n Count = 1<ept
+            id="9">&lt;/li&gt;</ept><ept
+            id="1">&lt;/ul&gt;&lt;/td&gt;&lt;td class="TableStyle-Blind-BodyA-Column2-Body1"&gt;&lt;img src="Resources/Images/scoreLabel.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="19" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="20" />" MadCap:mediastyle="@media print { width: 38px;height: 57px;max-width: 38px;max-height: 57px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</ept><bpt
+            id="11">&lt;p&gt;</bpt>When several responses have a low <bpt
+            id="12">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+            id="12">&lt;/span&gt;</ept>, the label for each only displays when you mouse-over the pie chart section. Also, when a question response is truncated, click the label or pie section to view the entire response in the sidebar.<ept
+            id="11">&lt;/p&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/pieChart_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="11" />" alt="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="17" />" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Pie Chart - <ph
+              id="2">&lt;MadCap:snippetText src="Resources/Snippets/PieChartBasis.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="3">&lt;MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Each section (space permitting) is labeled with the question response, score, and percent of responses (n Count).</mrk><mrk
+            mtype="seg"
+            mid="2">In the following image:<bpt
+              id="1">&lt;table style="mc-table-style: url('Resources/TableStyles/Blind.css');margin-left: auto;margin-right: auto;" class="TableStyle-Blind" cellspacing="0"&gt;&lt;col class="TableStyle-Blind-Column-Column1" style="width: 50%;" /&gt;&lt;col class="TableStyle-Blind-Column-Column2" style="width: 50%;" /&gt;&lt;tbody&gt;&lt;tr class="TableStyle-Blind-Body-Body1"&gt;&lt;td class="TableStyle-Blind-BodyB-Column1-Body1"&gt;&lt;ul&gt;</bpt><bpt
+              id="6">&lt;li&gt;</bpt> Question response = 5<ept
+              id="6">&lt;/li&gt;</ept><bpt
+              id="7">&lt;li&gt;</bpt>Score = 56<ept
+              id="7">&lt;/li&gt;</ept><bpt
+              id="8">&lt;li&gt;</bpt>Percent of responses = 3%<ept
+              id="8">&lt;/li&gt;</ept><bpt
+              id="9">&lt;li&gt;</bpt>n Count = 1<ept
+              id="9">&lt;/li&gt;</ept><ept
+              id="1">&lt;/ul&gt;&lt;/td&gt;&lt;td class="TableStyle-Blind-BodyA-Column2-Body1"&gt;&lt;img src="Resources/Images/scoreLabel.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="19" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" MadCap:mediastyle="@media print { width: 38px;height: 57px;max-width: 38px;max-height: 57px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</ept><bpt
+              id="11">&lt;p&gt;</bpt>When several responses have a low <bpt
+              id="12">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+              id="12">&lt;/span&gt;</ept>, the label for each only displays when you mouse-over the pie chart section.</mrk><mrk
+            mtype="seg"
+            mid="3">Also, when a question response is truncated, click the label or pie section to view the entire response in the sidebar.<ept
+              id="11">&lt;/p&gt;</ept></mrk></seg-source><target
+          state="needs-review-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="Equal">Além disso, quando a resposta a uma pergunta est<bpt
+              id="1">&lt;table style="mc-table-style: url('Resources/TableStyles/Blind.css');margin-left: auto;margin-right: auto;" class="TableStyle-Blind" cellspacing="0"&gt;&lt;col class="TableStyle-Blind-Column-Column1" style="width: 50%;" /&gt;&lt;col class="TableStyle-Blind-Column-Column2" style="width: 50%;" /&gt;&lt;tbody&gt;&lt;tr class="TableStyle-Blind-Body-Body1"&gt;&lt;td class="TableStyle-Blind-BodyB-Column1-Body1"&gt;&lt;ul&gt;</bpt>iver trunc<bpt
+              id="6">&lt;li&gt;</bpt><ept
+              id="6">&lt;/li&gt;</ept>ada, clique na etiqueta o<bpt
+              id="7">&lt;li&gt;</bpt><ept
+              id="7">&lt;/li&gt;</ept>u na seção <bpt
+              id="8">&lt;li&gt;</bpt><ept
+              id="8">&lt;/li&gt;</ept><bpt
+              id="9">&lt;li&gt;</bpt>de pizza para exibir toda a respos<ept
+              id="9">&lt;/li&gt;</ept>ta na b<ept
+              id="1">&lt;/ul&gt;&lt;/td&gt;&lt;td class="TableStyle-Blind-BodyA-Column2-Body1"&gt;&lt;img src="Resources/Images/scoreLabel.png" title="㍫" alt="㍫" MadCap:mediastyle="@media print { width: 38px;height: 57px;max-width: 38px;max-height: 57px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</ept>barra lateral.<bpt
+              id="11">&lt;p&gt;</bpt><bpt
+              id="12">&lt;span class="wintitle"&gt;</bpt><ept
+              id="12">&lt;/span&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:diff="TagChanged">Além disso, quando a resposta a uma pergunta est<bpt
+              id="1">&lt;table style="mc-table-style: url('Resources/TableStyles/Blind.css');margin-left: auto;margin-right: auto;" class="TableStyle-Blind" cellspacing="0"&gt;&lt;col class="TableStyle-Blind-Column-Column1" style="width: 50%;" /&gt;&lt;col class="TableStyle-Blind-Column-Column2" style="width: 50%;" /&gt;&lt;tbody&gt;&lt;tr class="TableStyle-Blind-Body-Body1"&gt;&lt;td class="TableStyle-Blind-BodyB-Column1-Body1"&gt;&lt;ul&gt;</bpt>iver trunc<bpt
+              id="6">&lt;li&gt;</bpt><ept
+              id="6">&lt;/li&gt;</ept>ada, clique na etiqueta o<bpt
+              id="7">&lt;li&gt;</bpt><ept
+              id="7">&lt;/li&gt;</ept>u na seção <bpt
+              id="8">&lt;li&gt;</bpt><ept
+              id="8">&lt;/li&gt;</ept><bpt
+              id="9">&lt;li&gt;</bpt>de pizza para exibir toda a respos<ept
+              id="9">&lt;/li&gt;</ept>ta na b<ept
+              id="1">&lt;/ul&gt;&lt;/td&gt;&lt;td class="TableStyle-Blind-BodyA-Column2-Body1"&gt;&lt;img src="Resources/Images/scoreLabel.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="19" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" MadCap:mediastyle="@media print { width: 38px;height: 57px;max-width: 38px;max-height: 57px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</ept>barra lateral.<bpt
+              id="11">&lt;p&gt;</bpt><bpt
+              id="12">&lt;span class="wintitle"&gt;</bpt><ept
+              id="12">&lt;/span&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="3">Além disso, quando a resposta a uma pergunta estiver truncada, clique na etiqueta ou na seção de pizza para exibir toda a resposta na barra lateral.<ept
+              id="11">&lt;/p&gt;</ept></mrk></target><alt-trans
+          match-quality="100"
+          origin="previous-version"><seg-source><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/pieChart_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="17" />" alt="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="23" />" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Pie Chart - <ph
+              id="2">&lt;MadCap:snippetText src="Resources/Snippets/PieChartBasis.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="3">&lt;MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Each section (space permitting) is labeled with the question response, score, and percent of responses (n Count).</seg-source><target><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/pieChart_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="17" />" alt="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="23" />" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Pie Chart - <ph
+              id="2">&lt;MadCap:snippetText src="Resources/Snippets/PieChartBasis.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="3">&lt;MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Cada seção (se houver espaço) é identificada com a resposta à pergunta, a pontuação e o percentual de respostas (Contagem n).</target></alt-trans><alt-trans
+          mid="1"
+          match-quality="100"
+          origin="previous-version"><seg-source>In the following image:<bpt
+              id="1">&lt;table style="mc-table-style: url('Resources/TableStyles/Blind.css');margin-left: auto;margin-right: auto;" class="TableStyle-Blind" cellspacing="0"&gt;&lt;col class="TableStyle-Blind-Column-Column1" style="width: 50%;" /&gt;&lt;col class="TableStyle-Blind-Column-Column2" style="width: 50%;" /&gt;&lt;tbody&gt;&lt;tr class="TableStyle-Blind-Body-Body1"&gt;&lt;td class="TableStyle-Blind-BodyB-Column1-Body1"&gt;&lt;ul&gt;</bpt><bpt
+              id="6">&lt;li&gt;</bpt> Question response = 5<ept
+              id="6">&lt;/li&gt;</ept><bpt
+              id="7">&lt;li&gt;</bpt>Score = 56<ept
+              id="7">&lt;/li&gt;</ept><bpt
+              id="8">&lt;li&gt;</bpt>Percent of responses = 3%<ept
+              id="8">&lt;/li&gt;</ept><bpt
+              id="9">&lt;li&gt;</bpt>n Count = 1<ept
+              id="9">&lt;/li&gt;</ept><ept
+              id="1">&lt;/ul&gt;&lt;/td&gt;&lt;td class="TableStyle-Blind-BodyA-Column2-Body1"&gt;&lt;img src="Resources/Images/scoreLabel.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="25" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="26" />" MadCap:mediastyle="@media print { width: 38px;height: 57px;max-width: 38px;max-height: 57px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</ept><bpt
+              id="11">&lt;p&gt;</bpt>When several responses have a low <bpt
+              id="12">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+              id="12">&lt;/span&gt;</ept>, the label for each only displays when you mouse-over the pie chart section.</seg-source><target>Além disso, quando a resposta a uma pergunta est<bpt
+              id="1">&lt;table style="mc-table-style: url('Resources/TableStyles/Blind.css');margin-left: auto;margin-right: auto;" class="TableStyle-Blind" cellspacing="0"&gt;&lt;col class="TableStyle-Blind-Column-Column1" style="width: 50%;" /&gt;&lt;col class="TableStyle-Blind-Column-Column2" style="width: 50%;" /&gt;&lt;tbody&gt;&lt;tr class="TableStyle-Blind-Body-Body1"&gt;&lt;td class="TableStyle-Blind-BodyB-Column1-Body1"&gt;&lt;ul&gt;</bpt>iver trunc<bpt
+              id="6">&lt;li&gt;</bpt><ept
+              id="6">&lt;/li&gt;</ept>ada, clique na etiqueta o<bpt
+              id="7">&lt;li&gt;</bpt><ept
+              id="7">&lt;/li&gt;</ept>u na seção <bpt
+              id="8">&lt;li&gt;</bpt><ept
+              id="8">&lt;/li&gt;</ept><bpt
+              id="9">&lt;li&gt;</bpt>de pizza para exibir toda a respos<ept
+              id="9">&lt;/li&gt;</ept>ta na b<ept
+              id="1">&lt;/ul&gt;&lt;/td&gt;&lt;td class="TableStyle-Blind-BodyA-Column2-Body1"&gt;&lt;img src="Resources/Images/scoreLabel.png" title="㍫" alt="㍫" MadCap:mediastyle="@media print { width: 38px;height: 57px;max-width: 38px;max-height: 57px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</ept>barra lateral.<bpt
+              id="11">&lt;p&gt;</bpt><bpt
+              id="12">&lt;span class="wintitle"&gt;</bpt><ept
+              id="12">&lt;/span&gt;</ept></target></alt-trans></trans-unit><trans-unit
+        id="77"
+        restype="x-li"
+        phase-name="pretrans"><source><ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/verticalbar_button.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="21" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="22" />" MadCap:mediastyle="@media print { width: 31px;height: 31px;max-width: 31px;max-height: 31px; }" style="width: 30px;height: 30px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Vertical Bar Chart and <ph
+            id="2"
+            ctype="image">&lt;img src="Resources/Images/horizontalbar_button.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="23" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="24" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 32px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Horizontal Bar Chart - Bar Charts are based on <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+            id="1">&lt;/span&gt;</ept>, i.e., each bar's height/length represents the percentage of responses. <ph
+            id="3">&lt;MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+            id="4">&lt;MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/verticalbar_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="21" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="22" />" MadCap:mediastyle="@media print { width: 31px;height: 31px;max-width: 31px;max-height: 31px; }" style="width: 30px;height: 30px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Vertical Bar Chart and <ph
+              id="2"
+              ctype="image">&lt;img src="Resources/Images/horizontalbar_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="23" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="24" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 32px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Horizontal Bar Chart - Bar Charts are based on <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+              id="1">&lt;/span&gt;</ept>, i.e., each bar's height/length represents the percentage of responses. <ph
+              id="3">&lt;MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="4">&lt;MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="needs-review-adaptation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="Equal"><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/verticalbar_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="27" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="28" />" MadCap:mediastyle="@media print { width: 31px;height: 31px;max-width: 31px;max-height: 31px; }" style="width: 30px;height: 30px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Gráfico de barras verticais <ph
+              id="2"
+              ctype="image">&lt;img src="Resources/Images/horizontalbar_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="29" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="30" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 32px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>e gráfico de barras horizontais - Gráficos de barras são baseados na <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Contagem n<ept
+              id="1">&lt;/span&gt;</ept>, ou seja, a altura/comprimento de cada barra representa a porcentagem de respostas. <ph
+              id="3">&lt;MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="4">&lt;MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target><alt-trans
+          match-quality="100"
+          origin="previous-version"><seg-source><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/verticalbar_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="27" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="28" />" MadCap:mediastyle="@media print { width: 31px;height: 31px;max-width: 31px;max-height: 31px; }" style="width: 30px;height: 30px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Vertical Bar Chart and <ph
+              id="2"
+              ctype="image">&lt;img src="Resources/Images/horizontalbar_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="29" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="30" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 32px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Horizontal Bar Chart - Bar Charts are based on <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+              id="1">&lt;/span&gt;</ept>, i.e., each bar's height/length represents the percentage of responses. <ph
+              id="3">&lt;MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="4">&lt;MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></seg-source><target><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/verticalbar_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="27" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="28" />" MadCap:mediastyle="@media print { width: 31px;height: 31px;max-width: 31px;max-height: 31px; }" style="width: 30px;height: 30px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Gráfico de barras verticais <ph
+              id="2"
+              ctype="image">&lt;img src="Resources/Images/horizontalbar_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="29" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="30" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 32px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>e gráfico de barras horizontais - Gráficos de barras são baseados na <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Contagem n<ept
+              id="1">&lt;/span&gt;</ept>, ou seja, a altura/comprimento de cada barra representa a porcentagem de respostas. <ph
+              id="3">&lt;MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> <ph
+              id="4">&lt;MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></target></alt-trans></trans-unit><trans-unit
+        id="78"
+        restype="x-li"
+        phase-name="pretrans"><source><ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="14" />" alt="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="25" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Grid - <ph
+            id="2">&lt;MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> However, you may sort by column heading. Click the desired column heading once to sort in descending order (highest to lowest) and twice for ascending order (lowest to highest).</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="14" />" alt="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="25" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Grid - <ph
+              id="2">&lt;MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> However, you may sort by column heading.</mrk><mrk
+            mtype="seg"
+            mid="2">Click the desired column heading once to sort in descending order (highest to lowest) and twice for ascending order (lowest to highest).</mrk></seg-source><target
+          state="needs-review-adaptation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="Equal"><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" alt="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="31" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Grid - <ph
+              id="2">&lt;MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> No entanto, é possível classificar por cabeçalho de coluna.</mrk><mrk
+            mtype="seg"
+            mid="2">Clique uma vez no cabeçalho da coluna desejada para classificar em ordem descendente (maior para menor) e duas vezes para classificar em ordem ascendente (menor para maior).</mrk></target><alt-trans
+          match-quality="100"
+          origin="previous-version"><seg-source><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" alt="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="31" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Grid - <ph
+              id="2">&lt;MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> However, you may sort by column heading.</seg-source><target><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" alt="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="31" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Grid - <ph
+              id="2">&lt;MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> No entanto, é possível classificar por cabeçalho de coluna.</target></alt-trans></trans-unit><trans-unit
+        id="79"
+        restype="x-p"
+        phase-name="pretrans"><source>Each view is interactive to display a sparkline and <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Summary<ept
+            id="1">&lt;/span&gt;</ept> data for each item clicked.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Each view is interactive to display a sparkline and <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Summary<ept
+              id="1">&lt;/span&gt;</ept> data for each item clicked.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cada modo de exibição É interativo para exibir um minigráfico e dados de <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Resumo<ept
+              id="1">&lt;/span&gt;</ept> para cada item clicado.</mrk></target></trans-unit><trans-unit
+        id="80"
+        restype="x-h2"
+        phase-name="pretrans"><source>Score Summary</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Score Summary</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Resumo das pontuações </mrk></target></trans-unit><trans-unit
+        id="81"
+        restype="x-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Score Summary<ept
+            id="1">&lt;/span&gt;</ept> tile displays a numeric value of each measure to provide a quick review of any or all scores for a selected time frame. Scores are organized by the categories of <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Elements<ept
+            id="2">&lt;/span&gt;</ept> (also known as the <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Drivers of Satisfaction<ept
+            id="3">&lt;/span&gt;</ept>), <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Satisfaction<ept
+            id="4">&lt;/span&gt;</ept>, and <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>Future Behaviors<ept
+            id="5">&lt;/span&gt;</ept> (how a visitor is most likely to respond as a result of the experience).</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Score Summary<ept
+              id="1">&lt;/span&gt;</ept> tile displays a numeric value of each measure to provide a quick review of any or all scores for a selected time frame.</mrk><mrk
+            mtype="seg"
+            mid="2">Scores are organized by the categories of <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Elements<ept
+              id="2">&lt;/span&gt;</ept> (also known as the <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Drivers of Satisfaction<ept
+              id="3">&lt;/span&gt;</ept>), <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Satisfaction<ept
+              id="4">&lt;/span&gt;</ept>, and <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Future Behaviors<ept
+              id="5">&lt;/span&gt;</ept> (how a visitor is most likely to respond as a result of the experience).</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">O <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>bloco Resumo das pontuações<ept
+              id="1">&lt;/span&gt;</ept> exibe um valor numérico de cada medida para fornecer uma recapitulação rápida de uma pontuação específica ou de todas as pontuações de um intervalo de tempo definido.</mrk><mrk
+            mtype="seg"
+            mid="2">As pontuações são organizadas de acordo com as categorias dos<bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Elementos<ept
+              id="2">&lt;/span&gt;</ept> (também conhecidos como <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Fatores geradores de satisfação<ept
+              id="3">&lt;/span&gt;</ept>), <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Satisfação<ept
+              id="4">&lt;/span&gt;</ept>e <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Comportamentos futuros <ept
+              id="5">&lt;/span&gt;</ept> (como é mais provável que um visitante responda como resultado da experiência).</mrk></target></trans-unit><trans-unit
+        id="82"
+        restype="x-p"
+        phase-name="pretrans"><source>Scores display as grids (<ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="14" />" alt="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="25" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) or individual cells (<ph
+            id="2"
+            ctype="image">&lt;img src="Resources/Images/cellChart.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="29" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="30" />" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>). Each score displays a sparkline on the right sidebar when selected. Grids may be sorted by column in either ascending or descending order by clicking the column header.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Scores display as grids (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="14" />" alt="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="25" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) or individual cells (<ph
+              id="2"
+              ctype="image">&lt;img src="Resources/Images/cellChart.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="29" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="30" />" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</mrk><mrk
+            mtype="seg"
+            mid="2">Each score displays a sparkline on the right sidebar when selected.</mrk><mrk
+            mtype="seg"
+            mid="3">Grids may be sorted by column in either ascending or descending order by clicking the column header.</mrk></seg-source><target
+          state="needs-review-adaptation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="Equal">As pontuações são apresentadas como uma grade (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" alt="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="31" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) ou células individuais (<ph
+              id="2"
+              ctype="image">&lt;img src="Resources/Images/cellChart.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="35" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="36" />" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</mrk><mrk
+            mtype="seg"
+            mid="2">Cada pontuação exibindo um minigráfico na barra lateral direita quando selecionada.</mrk><mrk
+            mtype="seg"
+            mid="3">As grades podem ser classificadas por coluna em ordem ascendente ou descendente, bastando para isso clicar no cabeçalho da coluna.</mrk></target><alt-trans
+          match-quality="100"
+          origin="previous-version"><seg-source>Scores display as grids (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" alt="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="31" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) or individual cells (<ph
+              id="2"
+              ctype="image">&lt;img src="Resources/Images/cellChart.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="35" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="36" />" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</seg-source><target>As pontuações são apresentadas como uma grade (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/grid_button.png" title="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" alt="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="31" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) ou células individuais (<ph
+              id="2"
+              ctype="image">&lt;img src="Resources/Images/cellChart.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="35" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="36" />" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</target></alt-trans></trans-unit><trans-unit
+        id="83"
+        restype="x-p"
+        phase-name="pretrans"><source>You can display multiple <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Selection<ept
+            id="1">&lt;/span&gt;</ept> tiles with scores for various <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Channel<ept
+            id="2">&lt;/span&gt;</ept>+<bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+            id="3">&lt;/span&gt;</ept> combinations. You can also apply any filters available from <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="4">&lt;/span&gt;</ept>. Each <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>Selection<ept
+            id="5">&lt;/span&gt;</ept> tile may be displayed in either a grid or cells. <ph
+            id="1">&lt;MadCap:snippetText src="Resources/Snippets/newTileOptions.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">You can display multiple <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Selection<ept
+              id="1">&lt;/span&gt;</ept> tiles with scores for various <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Channel<ept
+              id="2">&lt;/span&gt;</ept>+<bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+              id="3">&lt;/span&gt;</ept> combinations.</mrk><mrk
+            mtype="seg"
+            mid="2">You can also apply any filters available from <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="4">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3">Each <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Selection<ept
+              id="5">&lt;/span&gt;</ept> tile may be displayed in either a grid or cells. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/newTileOptions.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">É possível exibir diversos blocos de <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Seleção<ept
+              id="1">&lt;/span&gt;</ept> com pontuações para várias<bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>combinações de Canal<ept
+              id="2">&lt;/span&gt;</ept>+<bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Medida<ept
+              id="3">&lt;/span&gt;</ept> .</mrk><mrk
+            mtype="seg"
+            mid="2">Também é possível aplicar qualquer filtro disponível do <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Portal Analítico.<ept
+              id="4">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3">Cada <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>bloco de Seleção<ept
+              id="5">&lt;/span&gt;</ept> pode ser exibido em uma grade ou em células. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/newTileOptions.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="84"
+        restype="x-h2"
+        phase-name="pretrans"><source>Trend Correlation</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Trend Correlation</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Correlação de tendências </mrk></target></trans-unit><trans-unit
+        id="85"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>More about Trend Correlation Tiles...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">More about Trend Correlation Tiles...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Mais informações sobre blocos de correlação de tendências...</mrk></target></trans-unit><trans-unit
+        id="86"
+        restype="x-h3"
+        phase-name="pretrans"><source>Labels</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Labels</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Etiquetas</mrk></target></trans-unit><trans-unit
+        id="87"
+        restype="x-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="1">&lt;/span&gt;</ept> sidebar offers a <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Label<ept
+            id="2">&lt;/span&gt;</ept> text field that defaults to the selected <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+            id="3">&lt;/span&gt;</ept>, but can be revised as desired. This label displays in the tile header with the color key for the trend line. Click the label in the header to hide or show the line. Click the <bpt
+            id="4">&lt;span class="uicontrol"&gt;</bpt>Data<ept
+            id="4">&lt;/span&gt;</ept> icon (<ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/LabelToggleIcon.png" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="35" />" /&gt;</ph>) in the header to hide or show markers of key points along the trend.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="1">&lt;/span&gt;</ept> sidebar offers a <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Label<ept
+              id="2">&lt;/span&gt;</ept> text field that defaults to the selected <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+              id="3">&lt;/span&gt;</ept>, but can be revised as desired.</mrk><mrk
+            mtype="seg"
+            mid="2">This label displays in the tile header with the color key for the trend line.</mrk><mrk
+            mtype="seg"
+            mid="3">Click the label in the header to hide or show the line.</mrk><mrk
+            mtype="seg"
+            mid="4">Click the <bpt
+              id="4">&lt;span class="uicontrol"&gt;</bpt>Data<ept
+              id="4">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/LabelToggleIcon.png" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="35" />" /&gt;</ph>) in the header to hide or show markers of key points along the trend.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="1">&lt;/span&gt;</ept> sidebar offers a <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Label<ept
+              id="2">&lt;/span&gt;</ept> text field that defaults to the selected <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+              id="3">&lt;/span&gt;</ept>, but can be revised as desired.</mrk><mrk
+            mtype="seg"
+            mid="2">This label displays in the tile header with the color key for the trend line.</mrk><mrk
+            mtype="seg"
+            mid="3">Clique na etiqueta no cabeçalho para ocultar ou mostrar a linha.</mrk><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:diff="New">Click the <bpt
+              id="4">&lt;span class="uicontrol"&gt;</bpt>Data<ept
+              id="4">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/LabelToggleIcon.png" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="35" />" /&gt;</ph>) in the header to hide or show markers of key points along the trend.</mrk></target></trans-unit><trans-unit
+        id="88"
+        restype="x-p"
+        phase-name="pretrans"><source>Additionally, a label displays when you hover over the trend line at a specific point with the score and date.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Additionally, a label displays when you hover over the trend line at a specific point with the score and date.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Uma etiqueta com a pontuação e a data é exibida quando o ponteiro do mouse é passado sobre um ponto específico da linha de tendência.</mrk></target></trans-unit><trans-unit
+        id="89"
+        restype="x-h3"
+        phase-name="pretrans"><source>Time Span Correlation</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Time Span Correlation</mrk></seg-source><target
+          state="needs-review-translation"><mrk
+            mtype="seg"
+            mid="1">Time Span Correlation</mrk></target></trans-unit><trans-unit
+        id="90"
+        restype="x-p"
+        phase-name="pretrans"><source>The following image shows the correlation between <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Product Browsing<ept
+            id="1">&lt;/span&gt;</ept> scores and the corporate metric for <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Repeat Purchases<ept
+            id="2">&lt;/span&gt;</ept> over a 90 day period. When a trend line is moved horizontally, the tile indicates the number of days the line has moved along the top of the trend line.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The following image shows the correlation between <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Product Browsing<ept
+              id="1">&lt;/span&gt;</ept> scores and the corporate metric for <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Repeat Purchases<ept
+              id="2">&lt;/span&gt;</ept> over a 90 day period.</mrk><mrk
+            mtype="seg"
+            mid="2">When a trend line is moved horizontally, the tile indicates the number of days the line has moved along the top of the trend line.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">A próxima imagem mostra a correlação entre as pontuações de<bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Navegação pelos produtos<ept
+              id="1">&lt;/span&gt;</ept> e medida corporativa de <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Compras recorrentes<ept
+              id="2">&lt;/span&gt;</ept> ao longo de um período de 90 dias.</mrk><mrk
+            mtype="seg"
+            mid="2">Quando uma linha de tendência é movida horizontalmente, o bloco indica o número de dias que a linha foi movida ao longo do topo da linha de tendência.</mrk></target></trans-unit><trans-unit
+        id="91"
+        restype="x-h3"
+        phase-name="pretrans"><source>Smoothing</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Smoothing</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Smoothing</mrk></target></trans-unit><trans-unit
+        id="92"
+        restype="x-p"
+        phase-name="pretrans"><source>You can also apply <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Smoothing<ept
+            id="1">&lt;/span&gt;</ept> to a trend line to compress, or lessen the severity of changes. The <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Smoothing<ept
+            id="2">&lt;/span&gt;</ept> feature averages scores across the time span you select.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">You can also apply <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Smoothing<ept
+              id="1">&lt;/span&gt;</ept> to a trend line to compress, or lessen the severity of changes.</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Smoothing<ept
+              id="2">&lt;/span&gt;</ept> feature averages scores across the time span you select.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">You can also apply <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Smoothing<ept
+              id="1">&lt;/span&gt;</ept> to a trend line to compress, or lessen the severity of changes.</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Smoothing<ept
+              id="2">&lt;/span&gt;</ept> feature averages scores across the time span you select.</mrk></target></trans-unit><trans-unit
+        id="93"
+        restype="x-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Smoothing<ept
+            id="1">&lt;/span&gt;</ept> feature allows you to reduce the severity of the trend line between highs and lows. You can select the level of smoothing in the <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="2">&lt;/span&gt;</ept> sidebar (<ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/sets_icon.png" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="38" />" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="39" />" /&gt;</ph>). In the following image, the darker trend line has <bpt
+            id="3">&lt;span class="uicontrol"&gt;</bpt>One Month<ept
+            id="3">&lt;/span&gt;</ept> applied to a <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Satisfaction Quarterly<ept
+            id="4">&lt;/span&gt;</ept> report. The system has averaged each day's <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>Satisfaction<ept
+            id="5">&lt;/span&gt;</ept> score with the scores of the preceding and succeeding 15 days. A <bpt
+            id="6">&lt;span class="uicontrol"&gt;</bpt>Two weeks<ept
+            id="6">&lt;/span&gt;</ept> application would average each score with scores of the seven days before and seven days after, etc. The <bpt
+            id="7">&lt;span class="wintitle"&gt;</bpt>Best Fit<ept
+            id="7">&lt;/span&gt;</ept> smoothing is the average of a static period starting from the first day of the period, such as the first day of the week or (in this example) month.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Smoothing<ept
+              id="1">&lt;/span&gt;</ept> feature allows you to reduce the severity of the trend line between highs and lows.</mrk><mrk
+            mtype="seg"
+            mid="2">You can select the level of smoothing in the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="2">&lt;/span&gt;</ept> sidebar (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/sets_icon.png" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="38" />" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="39" />" /&gt;</ph>).</mrk><mrk
+            mtype="seg"
+            mid="3">In the following image, the darker trend line has <bpt
+              id="3">&lt;span class="uicontrol"&gt;</bpt>One Month<ept
+              id="3">&lt;/span&gt;</ept> applied to a <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Satisfaction Quarterly<ept
+              id="4">&lt;/span&gt;</ept> report.</mrk><mrk
+            mtype="seg"
+            mid="4">The system has averaged each day's <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Satisfaction<ept
+              id="5">&lt;/span&gt;</ept> score with the scores of the preceding and succeeding 15 days.</mrk><mrk
+            mtype="seg"
+            mid="5">A <bpt
+              id="6">&lt;span class="uicontrol"&gt;</bpt>Two weeks<ept
+              id="6">&lt;/span&gt;</ept> application would average each score with scores of the seven days before and seven days after, etc.</mrk><mrk
+            mtype="seg"
+            mid="6">The <bpt
+              id="7">&lt;span class="wintitle"&gt;</bpt>Best Fit<ept
+              id="7">&lt;/span&gt;</ept> smoothing is the average of a static period starting from the first day of the period, such as the first day of the week or (in this example) month.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Smoothing<ept
+              id="1">&lt;/span&gt;</ept> feature allows you to reduce the severity of the trend line between highs and lows.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:diff="New">You can select the level of smoothing in the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="2">&lt;/span&gt;</ept> sidebar (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/sets_icon.png" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="38" />" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="39" />" /&gt;</ph>).</mrk><mrk
+            mtype="seg"
+            mid="3">In the following image, the darker trend line has <bpt
+              id="3">&lt;span class="uicontrol"&gt;</bpt>One Month<ept
+              id="3">&lt;/span&gt;</ept> applied to a <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Satisfaction Quarterly<ept
+              id="4">&lt;/span&gt;</ept> report.</mrk><mrk
+            mtype="seg"
+            mid="4">The system has averaged each day's <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Satisfaction<ept
+              id="5">&lt;/span&gt;</ept> score with the scores of the preceding and succeeding 15 days.</mrk><mrk
+            mtype="seg"
+            mid="5">A <bpt
+              id="6">&lt;span class="uicontrol"&gt;</bpt>Two weeks<ept
+              id="6">&lt;/span&gt;</ept> application would average each score with scores of the seven days before and seven days after, etc.</mrk><mrk
+            mtype="seg"
+            mid="6">The <bpt
+              id="7">&lt;span class="wintitle"&gt;</bpt>Best Fit<ept
+              id="7">&lt;/span&gt;</ept> smoothing is the average of a static period starting from the first day of the period, such as the first day of the week or (in this example) month.</mrk></target></trans-unit><trans-unit
+        id="94"
+        restype="x-h3"
+        phase-name="pretrans"><source>Data Selection <ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/data_icon.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="42" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="43" />" MadCap:mediastyle="@media print { width: 14px;height: 14px;max-width: 14px;max-height: 14px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Data Selection <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/data_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="42" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="43" />" MadCap:mediastyle="@media print { width: 14px;height: 14px;max-width: 14px;max-height: 14px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="needs-review-adaptation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="ContentChanged">Seleção de dados <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/data_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="33" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="34" />" MadCap:mediastyle="@media print { width: 14px;height: 14px;max-width: 14px;max-height: 14px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target><alt-trans
+          match-quality="100"
+          origin="previous-version"><seg-source>Data Selection <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/data_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="48" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="49" />" MadCap:mediastyle="@media print { width: 14px;height: 14px;max-width: 14px;max-height: 14px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></seg-source><target>Seleção de dados <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/data_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="33" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="34" />" MadCap:mediastyle="@media print { width: 14px;height: 14px;max-width: 14px;max-height: 14px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></target></alt-trans><alt-trans
+          match-quality="68"
+          origin="previous-version"><seg-source>data selection icon</seg-source><target>ícone de seleção de dados</target></alt-trans><alt-trans
+          match-quality="68"
+          origin="previous-version"><seg-source>data selection icon</seg-source><target>ícone de seleção de dados</target></alt-trans></trans-unit><trans-unit
+        id="95"
+        restype="x-p"
+        phase-name="pretrans"><source>This sidebar offers <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Channel<ept
+            id="1">&lt;/span&gt;</ept> and <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+            id="2">&lt;/span&gt;</ept> menus, with the possibility of filter menus based on your selections. Each selection displays a separate tile for comparison. When you add a <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Selection<ept
+            id="3">&lt;/span&gt;</ept>, a new set of <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="4">&lt;/span&gt;</ept> display.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This sidebar offers <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Channel<ept
+              id="1">&lt;/span&gt;</ept> and <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+              id="2">&lt;/span&gt;</ept> menus, with the possibility of filter menus based on your selections.</mrk><mrk
+            mtype="seg"
+            mid="2">Each selection displays a separate tile for comparison.</mrk><mrk
+            mtype="seg"
+            mid="3">When you add a <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Selection<ept
+              id="3">&lt;/span&gt;</ept>, a new set of <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="4">&lt;/span&gt;</ept> display.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Esta barra lateral apresenta menus de <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Canal<ept
+              id="1">&lt;/span&gt;</ept> e <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Medida<ept
+              id="2">&lt;/span&gt;</ept>, com a possibilidade de apresentar menus de filtro baseados nas suas seleções.</mrk><mrk
+            mtype="seg"
+            mid="2">Cada seleção exibe um bloco separado para fins de comparação.</mrk><mrk
+            mtype="seg"
+            mid="3">Quando uma <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Seleção<ept
+              id="3">&lt;/span&gt;</ept> É adicionada, um novo conjunto de <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Configurações<ept
+              id="4">&lt;/span&gt;</ept> É exibido.</mrk></target></trans-unit><trans-unit
+        id="96"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Filter<ept
+            id="1">&lt;/span&gt;</ept> menus display <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Model<ept
+            id="2">&lt;/span&gt;</ept>, <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Page<ept
+            id="3">&lt;/span&gt;</ept>, and <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Hierarchy<ept
+            id="4">&lt;/span&gt;</ept> filters from <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="5">&lt;/span&gt;</ept> (if available). Above each filter menu is a double-chevron link to open the portal and review the criteria of each filter.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Filter<ept
+              id="1">&lt;/span&gt;</ept> menus display <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Model<ept
+              id="2">&lt;/span&gt;</ept>, <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Page<ept
+              id="3">&lt;/span&gt;</ept>, and <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Hierarchy<ept
+              id="4">&lt;/span&gt;</ept> filters from <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="5">&lt;/span&gt;</ept> (if available).</mrk><mrk
+            mtype="seg"
+            mid="2">Above each filter menu is a double-chevron link to open the portal and review the criteria of each filter.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Filter<ept
+              id="1">&lt;/span&gt;</ept> menus display <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Model<ept
+              id="2">&lt;/span&gt;</ept>, <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Page<ept
+              id="3">&lt;/span&gt;</ept>, and <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Hierarchy<ept
+              id="4">&lt;/span&gt;</ept> filters from <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="5">&lt;/span&gt;</ept> (if available).</mrk><mrk
+            mtype="seg"
+            mid="2">Above each filter menu is a double-chevron link to open the portal and review the criteria of each filter.</mrk></target></trans-unit><trans-unit
+        id="97"
+        restype="x-h3"
+        phase-name="pretrans"><source>Settings <ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/sets_icon.png" title="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="38" />" alt="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="39" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Settings <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/sets_icon.png" title="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="38" />" alt="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="39" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="needs-review-adaptation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:diff="ContentChanged">Configurações <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/sets_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="11" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="12" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target><alt-trans
+          match-quality="100"
+          origin="previous-version"><seg-source>Settings <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/sets_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="11" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="12" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></seg-source><target>Configurações <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/sets_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="11" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="12" />" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></target></alt-trans><alt-trans
+          match-quality="61"
+          origin="previous-version"><seg-source>settings icon</seg-source><target>ícone configurações</target></alt-trans><alt-trans
+          match-quality="61"
+          origin="previous-version"><seg-source>settings icon</seg-source><target>ícone configurações</target></alt-trans><alt-trans
+          match-quality="61"
+          origin="previous-version"><seg-source>settings icon</seg-source><target>ícone configurações</target></alt-trans><alt-trans
+          match-quality="61"
+          origin="previous-version"><seg-source>settings icon</seg-source><target>ícone configurações</target></alt-trans><alt-trans
+          match-quality="61"
+          origin="previous-version"><seg-source>settings icon</seg-source><target>ícone configurações</target></alt-trans><alt-trans
+          match-quality="61"
+          origin="previous-version"><seg-source>settings icon</seg-source><target>ícone configurações</target></alt-trans></trans-unit><trans-unit
+        id="98"
+        restype="x-p"
+        phase-name="pretrans"><source>Each <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Data Selection Measure<ept
+            id="1">&lt;/span&gt;</ept> has a corresponding set of menus to select <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Question<ept
+            id="2">&lt;/span&gt;</ept> and <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Score<ept
+            id="3">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Each <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Data Selection Measure<ept
+              id="1">&lt;/span&gt;</ept> has a corresponding set of menus to select <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Question<ept
+              id="2">&lt;/span&gt;</ept> and <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Score<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cada <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Medida de seleção de dados<ept
+              id="1">&lt;/span&gt;</ept> tem um conjunto de menus correspondente para selecionar <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Pergunta<ept
+              id="2">&lt;/span&gt;</ept> e <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Pontuação<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

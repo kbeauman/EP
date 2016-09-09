@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Dashboard Setup -  Step 1"
+  FileLanguage="pt-br"
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/dashboardsetup2.png" />
+    <Link
+      Url="Content/editdash3.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/dashboardsetup2.png" />
+    <Link
+      Url="Content/editdash3.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

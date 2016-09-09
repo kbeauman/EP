@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="PieChartBasis.flsnp"
+    source-language="en-us"
+    target-language="fr-ca"
+    datatype="x-flsnp">
+    <header>
+      <skl><external-file
+          href="PieChartBasis.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">1</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-body"
+        phase-name="pretrans"><source>Pie Charts are based on <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+            id="1">&lt;/span&gt;</ept>, i.e., each slice is proportioned to reflect the distribution percentage of responses having a specific rating, with the lowest <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+            id="2">&lt;/span&gt;</ept> at the top and increasing percentages progressing clockwise.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Pie Charts are based on <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+              id="1">&lt;/span&gt;</ept>, i.e., each slice is proportioned to reflect the distribution percentage of responses having a specific rating, with the lowest <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>n Count<ept
+              id="2">&lt;/span&gt;</ept> at the top and increasing percentages progressing clockwise.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Les graphiques circulaires sont basés sur la <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Valeur n<ept
+              id="1">&lt;/span&gt;</ept>, c.-à-d. que chaque tranche est dimensionnée pour refléter le pourcentage de distribution des réponses ayant un classement spécifique, avec la <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Valeur n<ept
+              id="2">&lt;/span&gt;</ept> au-dessus et les pourcentages croissants progressant dans le sens des aiguilles d'une montre.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

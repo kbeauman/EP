@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="539" MadCap:lastWidth="989" xml:lang="fr-ca" MadCap:ignoredWords="">
+    <head><title>Créer une nouvelle mosaïque de repères - Étape 4</title>
+    </head>
+    <body>
+        <h1>Créer une nouvelle mosaïque de repères - Étape 4</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/SelectSettings.flsnp" />
+        </p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildbench6.png" title="Cliquez Réglages" alt="Réglages " style="mc-float: center;" />
+        </p>
+        <h3>Étape suivante</h3>
+        <p><a href="buildbenchmark5.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Étape 5 &gt;</a></p>
+    </body>
+</html>

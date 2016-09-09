@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="fr-ca" MadCap:tocPath="Bienvenue au Portail exécutif" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="fr-ca" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Visiteur de tableaux de bord</title>
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/MadCapAll.js">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#toc_viewer.htm" style="">Open topic with navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix"> </span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bienvenue au Portail exécutif</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Visiteur de tableaux de bord</span>
+        </div>
+        <h1>Visiteur de tableaux de bord</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Résumé: &lt;/i&gt;"><span class="autonumber"><span><i>Résumé: </i></span></span>Cette section d'<span class="wintitle">Aide</span> contient des renseignements sur&#160;:</p>
+        <ul>
+            <li value="1"><a href="c_dashboards_about_2.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Consultation des tableaux de bord</a>
+            </li>
+            <li value="2"><a href="c_dashboards_about_2.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Comment partager un tableau de bord</a>
+            </li>
+        </ul>
+        <p>Le <span class="wintitle">Visiteur de tableaux de bord</span> est le consommateur ou le destinataire de tableaux de bord personnalisés par le <span class="wintitle">Créateur de tableaux de bord</span>. Cette section d'<span class="wintitle">Aide</span> est propre au rôle du <span class="wintitle">Visiteur de tableaux de bord</span>.</p>
+        <h2><a name="kanchor2"></a>Role-based Usability</h2>
+        <p>Les fonctions et la fonctionnalité du <span class="wintitle">Portail exécutif</span> sont régies par les réglages du rôle de chaque utilisateur. Par exemple, seuls certains utilisateurs sont autorisés à <a href="t_share_2.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">partager un tableau de bord</a>. Dans la mesure du possible, ces fonctions basées sur les rôles sont indiquées dans chaque sujet de d'Aide.</p>
+        <h2><a name="Dashboard"></a>Navigation dans les tableaux de bord<a name="kanchor3"></a></h2>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Résumé: &lt;/i&gt;"><span class="autonumber"><span><i>Résumé: </i></span></span>Utilisez le contrôle de navigation circulaire pour consulter les tableaux de bord disponibles. Cliquez dans les séparateurs verticaux pour afficher un tableau de bord.</p>
+        <p>Chaque section comporte un nom de tableau de bord spécifique ainsi que la méthode et le nombre de données des mosaïques formant le tableau de bord. Chaque section comporte un nom de <a href="c_dashboards_about.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">tableau de bord</a> spécifique ainsi que la méthode et le nombre de données des mosaïques formant le tableau de bord. Cliquez sur les boutons de défilement à l'une des extrémités pour consulter les tableaux de bord supplémentaires.</p>
+        <p><a class="MCRelatedTopics_0" href="javascript:void(0);" onclick="FMCLinkControl( event, this, null ); return false;" onkeydown="this.MCKeydown = true;" MadCap:topics="Sobre a barra de ferramentas do Portal Executivo|r_toolbar_2.htm||Sobre a página de acesso|c_login_2.htm"><img src="SkinSupport/RelatedTopics.gif" style="border: none;margin-right: 5px;" alt="Sujets apparentés" />Sujets apparentés</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

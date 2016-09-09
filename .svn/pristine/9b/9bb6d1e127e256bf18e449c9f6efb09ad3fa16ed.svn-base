@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="TrendCorDef.flsnp"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="x-flsnp">
+    <header>
+      <skl><external-file
+          href="TrendCorDef.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">12</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">1</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>toggle labels icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">toggle labels icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone de alternar etiquetas</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-p"
+        phase-name="pretrans"><source>This tile consists of interactive trend lines for up to five scores to provide a visual correlation between trends. The following interactive features are available:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This tile consists of interactive trend lines for up to five scores to provide a visual correlation between trends.</mrk><mrk
+            mtype="seg"
+            mid="2">The following interactive features are available:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Este bloco consiste em linhas de tendências interativas de até cinco pontuações para proporcionar uma correlação visual entre as tendências.</mrk><mrk
+            mtype="seg"
+            mid="2">Os seguintes recursos interativos estão disponíveis:</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-li"
+        phase-name="pretrans"><source>Click a point on a trend line to display scores for that point/period in a sidebar.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click a point on a trend line to display scores for that point/period in a sidebar.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique em um ponto em uma linha de tendência para exibir as pontuações daquele ponto/período em uma barra lateral.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-li"
+        phase-name="pretrans"><source>Right-click the trend line to display handles at the top and bottom which allow you to adjust the height of the trend line, as well as drag and drop the trend line. This allows you to stack multiple scores, or overlay them as desired (as illustrated in the following images). You may also show correlations over time (see the following section <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Horizontal Variance<ept
+            id="1">&lt;/span&gt;</ept> for additional information).</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Right-click the trend line to display handles at the top and bottom which allow you to adjust the height of the trend line, as well as drag and drop the trend line.</mrk><mrk
+            mtype="seg"
+            mid="2">This allows you to stack multiple scores, or overlay them as desired (as illustrated in the following images).</mrk><mrk
+            mtype="seg"
+            mid="3">You may also show correlations over time (see the following section <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Horizontal Variance<ept
+              id="1">&lt;/span&gt;</ept> for additional information).</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique com o botão direito do mouse na linha de tendência para exibir alças na parte superior e inferior que permitem ajustar a altura da linha de tendência, bem como arrastar e soltar a linha de tendência.</mrk><mrk
+            mtype="seg"
+            mid="2">Isso permite empilhar diversas pontuações ou sobrepô-las conforme desejado (como ilustrado nas próximas imagens).</mrk><mrk
+            mtype="seg"
+            mid="3">Também é possível mostrar as correlações ao longo do tempo (veja a próxima seção <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Variação horizontal<ept
+              id="1">&lt;/span&gt;</ept> para obter mais informações).</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-li"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Reset<ept
+            id="1">&lt;/span&gt;</ept> to view the tile with no vertical or horizontal adjustments. This is temporary when viewing on <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+            id="2">&lt;/span&gt;</ept>, where adjustments are implemented again when you leave the dashboard.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Reset<ept
+              id="1">&lt;/span&gt;</ept> to view the tile with no vertical or horizontal adjustments.</mrk><mrk
+            mtype="seg"
+            mid="2">This is temporary when viewing on <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+              id="2">&lt;/span&gt;</ept>, where adjustments are implemented again when you leave the dashboard.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique em <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Redefinir<ept
+              id="1">&lt;/span&gt;</ept> para ver o azulejo sem ajustes verticais ou horizontais.</mrk><mrk
+            mtype="seg"
+            mid="2">Isto é temporário ao visualizar em <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Painel<ept
+              id="2">&lt;/span&gt;</ept> onde os ajustes são implementados novamente quando sair do painel.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-li"
+        phase-name="pretrans"><source>Click the label in the header to hide or show the line. Click the <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Data<ept
+            id="1">&lt;/span&gt;</ept> icon (<ph
+            id="1"
+            ctype="image">&lt;img src="../Images/LabelToggleIcon.png" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="1" />" /&gt;</ph>) in the header for the desired trend line to hide or show markers of key points along the trend.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click the label in the header to hide or show the line.</mrk><mrk
+            mtype="seg"
+            mid="2">Click the <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Data<ept
+              id="1">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image">&lt;img src="../Images/LabelToggleIcon.png" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="1" />" /&gt;</ph>) in the header for the desired trend line to hide or show markers of key points along the trend.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique na etiqueta no cabeçalho para ocultar ou mostrar a linha.</mrk><mrk
+            mtype="seg"
+            mid="2">Clique no ícone dos <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Dados<ept
+              id="1">&lt;/span&gt;</ept> (<ph
+              id="1"
+              ctype="image">&lt;img src="../Images/LabelToggleIcon.png" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="1" />" /&gt;</ph>) no cabeçalho para a linha de tendência desejada mostrar ou ocultar marcadores dos pontos principais ao longo da tendência.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-li"
+        phase-name="pretrans"><source>A label displays when you hover over the trend line at a specific point with the score and date.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">A label displays when you hover over the trend line at a specific point with the score and date.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Uma etiqueta com a pontuação e a data é exibida quando o ponteiro do mouse é passado sobre um ponto específico da linha de tendência.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

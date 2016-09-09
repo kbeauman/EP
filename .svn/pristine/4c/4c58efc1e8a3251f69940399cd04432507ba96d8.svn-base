@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="473" MadCap:lastWidth="989">
+    <head><title>Build a New Open Ends Tile</title>
+    </head>
+    <body>
+        <h1>Build a New Open Ends Tile</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/OpenEnds.flsnp" /> <MadCap:snippetText src="Resources/Snippets/OpenEnds2.flsnp" /></p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildopenend4.png" title="Open End response " alt="open end response" />
+        </p>
+        <h3>Additional Information</h3>
+        <p><a href="c_openends_ww.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Working With Open Ends</a>
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="buildopenend2.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Step 1 &gt;</a>
+        </p>
+    </body>
+</html>

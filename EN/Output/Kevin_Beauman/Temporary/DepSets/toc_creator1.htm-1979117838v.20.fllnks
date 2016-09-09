@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Dashboard Creator"
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Ref2Column.css" />
+    <Link
+      Url="Content/Resources/Snippets/SectionShortDesc.flsnp" />
+    <Link
+      Url="Content/c_scores_ww.htm" />
+    <Link
+      Url="Content/c_benchmarks_ww.htm" />
+    <Link
+      Url="Content/c_openends_ww.htm" />
+    <Link
+      Url="Content/t_share.htm" />
+    <Link
+      Url="Content/toc_viewer.htm" />
+    <Link
+      Url="Content/Resources/Snippets/Usability.flsnp" />
+    <Link
+      Url="Content/Resources/Images/show_icon.png" />
+    <Link
+      Url="Content/Resources/Images/hide_icon.png" />
+    <Link
+      Url="Content/Resources/Images/Dashboard_icon.png" />
+    <Link
+      Url="Content/Resources/Snippets/dashboardDesc.flsnp" />
+    <Link
+      Url="Content/c_dashboards_about.htm" />
+    <Link
+      Url="Content/Resources/Images/scores_icon.png" />
+    <Link
+      Url="Content/Resources/Snippets/ScoreDesc.flsnp" />
+    <Link
+      Url="Content/Resources/Images/openEnds_icon.png" />
+    <Link
+      Url="Content/Resources/Snippets/OpenEnds.flsnp" />
+    <Link
+      Url="Content/Resources/Images/benchmarks_icon.png" />
+    <Link
+      Url="Content/Resources/Snippets/Benchmarks.flsnp" />
+    <Link
+      Url="Content/Resources/Images/tools_icon.png" />
+    <Link
+      Url="Content/t_dashboard_new.htm" />
+    <Link
+      Url="Content/c_login.htm" />
+    <Link
+      Url="Content/r_toolbar.htm" />
+    <Link
+      Url="Content/c_dashboard_manager.htm" />
+    <Link
+      Url="Content/r_date.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Ref2Column.css" />
+    <Link
+      Url="Content/Resources/Snippets/SectionShortDesc.flsnp" />
+    <Link
+      Url="Content/c_scores_ww.htm" />
+    <Link
+      Url="Content/c_benchmarks_ww.htm" />
+    <Link
+      Url="Content/c_openends_ww.htm" />
+    <Link
+      Url="Content/t_share.htm" />
+    <Link
+      Url="Content/toc_viewer.htm" />
+    <Link
+      Url="Content/Resources/Snippets/Usability.flsnp" />
+    <Link
+      Url="Content/Resources/Images/show_icon.png" />
+    <Link
+      Url="Content/Resources/Images/hide_icon.png" />
+    <Link
+      Url="Content/Resources/Images/Dashboard_icon.png" />
+    <Link
+      Url="Content/Resources/Snippets/dashboardDesc.flsnp" />
+    <Link
+      Url="Content/c_dashboards_about.htm" />
+    <Link
+      Url="Content/Resources/Images/scores_icon.png" />
+    <Link
+      Url="Content/Resources/Snippets/ScoreDesc.flsnp" />
+    <Link
+      Url="Content/Resources/Images/openEnds_icon.png" />
+    <Link
+      Url="Content/Resources/Snippets/OpenEnds.flsnp" />
+    <Link
+      Url="Content/Resources/Images/benchmarks_icon.png" />
+    <Link
+      Url="Content/Resources/Snippets/Benchmarks.flsnp" />
+    <Link
+      Url="Content/Resources/Images/tools_icon.png" />
+    <Link
+      Url="Content/t_dashboard_new.htm" />
+    <Link
+      Url="Content/c_login.htm" />
+    <Link
+      Url="Content/r_toolbar.htm" />
+    <Link
+      Url="Content/c_dashboard_manager.htm" />
+    <Link
+      Url="Content/r_date.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Side" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Side Navigation"
+      Conditions=""
+      LocalConditions=""
+      Position="22" />
+    <IndexCacheEntry
+      Term="Side Navigation:Menu"
+      Conditions=""
+      LocalConditions=""
+      Position="22" />
+    <IndexCacheEntry
+      Term="Show"
+      Conditions=""
+      LocalConditions=""
+      Position="46" />
+    <IndexCacheEntry
+      Term="Dashboards"
+      Conditions=""
+      LocalConditions=""
+      Position="53" />
+    <IndexCacheEntry
+      Term="Scores"
+      Conditions=""
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="Open ends"
+      Conditions=""
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="Benchmarks"
+      Conditions=""
+      LocalConditions=""
+      Position="74" />
+    <IndexCacheEntry
+      Term="Tools"
+      Conditions=""
+      LocalConditions=""
+      Position="81" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Ref2Column.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

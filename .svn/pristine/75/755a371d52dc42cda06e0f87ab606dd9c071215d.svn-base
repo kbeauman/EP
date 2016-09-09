@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="394" MadCap:lastWidth="1006" xml:lang="es" xml:space="preserve">
+    <head><title>砻קยด12ตว融</title>
+    </head>
+    <body>
+        <h1>砻קยด13ตว融</h1>
+        <MadCap:snippetBlock src="Resources/Snippets/SectionShortDesc.flsnp" />
+        <ul>
+            <li>砻קยด14ตว融</li>
+            <li>砻קยด15ตว融</li>
+        </ul>
+        <p>砻קยด16ตว融</p>
+        <MadCap:snippetBlock src="Resources/Snippets/Usability.flsnp" />
+        <h2>砻קยด17ตว融</h2>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">砻קยด18ตว融</p>
+        <p>砻קยด19ตว融</p>
+        <p>
+            <MadCap:relatedTopics>
+                <MadCap:relatedTopic src="c_login_2.htm" />
+                <MadCap:relatedTopic src="r_toolbar_2.htm" />
+            </MadCap:relatedTopics>
+        </p>
+    </body>
+</html>

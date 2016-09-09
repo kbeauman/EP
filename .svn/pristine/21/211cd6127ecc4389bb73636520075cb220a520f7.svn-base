@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="es" MadCap:ignoredWords="" MadCap:tocPath="Bienvenido al Portal Ejecutivo.|Guía de comienzo rápido|Configuración del tablero" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="es" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Configuración del tablero - Paso 2</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapAll.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#editdash3.htm" style="">Abierto de navegación</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bienvenido al Portal Ejecutivo.</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="quickstartmain.htm">Guía de comienzo rápido</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="editdash1.htm">Configuración del tablero</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Configuración del tablero -  Paso 2</span>
+        </div>
+        <h1>Configuración del tablero - Paso 2</h1>
+        <p>Seleccione las opciones deseadas:</p>
+        <ul>
+            <li value="1">Condición - Activado por defecto.</li>
+            <li value="2">Mosaicos - Una lista de mosaicos actualmente asignados al tablero.</li>
+            <li value="3">Diseño - Cambie el modelo de diseño si así lo desea.</li>
+            <li value="4">Propietario del tablero - Un menú de usuarios válidos. Por defecto, el <span class="wintitle">Propietario del tablero</span> tiene privilegios para <span class="wintitle">Ver</span> y <span class="wintitle">Editar</span> el tablero.</li>
+            <li value="5">Asignaciones de usuario - Puede copiar asignaciones desde otro tablero, o seleccionar privilegios de la lista.</li>
+            <li value="6">Informes compartidos - Permite ver los nombres de los usuarios que han compartido el tablero, además de la fecha y fecha de vencimiento. También puede cancelar la acción de compartir. Los tableros compartidos permanecen en este informe durante 60 días después del vencimiento.</li>
+        </ul>
+        <p style="text-align: center;">
+            <img src="Resources/Images/DashMgrPropDB.png" title="Configuración del Administrador del tablero." alt="cuadro de diálogo del Administrador del tablero" />
+        </p>
+        <h3>Información adicional</h3>
+        <p><a href="c_dashboard_manager.htm#DashboardDetails" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Acerca del cuadro de diálogo del Tablero &gt;</a>
+        </p>
+        <h3>Paso siguiente</h3>
+        <p><a href="editdash4.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Configuración del tablero - Guardar &gt;</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

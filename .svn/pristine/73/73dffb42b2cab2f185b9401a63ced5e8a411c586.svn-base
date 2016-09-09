@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject xml:lang="fr-ca" SourceLanguage="en-us" FileFormatVersion="6" TargetLanguage="fr-ca">
+    <ProjectFile Source="Source/ExecutivePortalHelp.flprj" Target="Target/ExecutivePortalHelp.flprj" />
+    <TMConnection Connection="file:///Z:/Madcap/LingoLocal.db" ReadOnly="false" Type="StandAlone" />
+</LingoProject>

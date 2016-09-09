@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="c_benchmarks_about.htm"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="c_benchmarks_about.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">43</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">6</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Categories</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Categories</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Categories</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Quartiles</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Quartiles</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Quartiles</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Jump to this section of this page.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Jump to this section of this page.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Pular para esta seção desta página.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Jump to this section of this page.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Jump to this section of this page.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Pular para esta seção desta página.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>bullet graph example</source><seg-source><mrk
+            mtype="seg"
+            mid="1">bullet graph example</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">exemplo de gráfico de marcadores</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Click to enlarge. Click again to close.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to enlarge.</mrk><mrk
+            mtype="seg"
+            mid="2">Click again to close.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique para ampliar.</mrk><mrk
+            mtype="seg"
+            mid="2">Clique novamente para fechar.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-title"
+        phase-name="pretrans"><source>About Benckmarks</source><seg-source><mrk
+            mtype="seg"
+            mid="1">About Benckmarks</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sobre parâmetros de referência</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-h1"
+        phase-name="pretrans"><source>About Benchmark Tiles</source><seg-source><mrk
+            mtype="seg"
+            mid="1">About Benchmark Tiles</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sobre blocos de parâmetros de referência</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-p"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Benchmark tiles allow you to compare your measures against the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+            id="1">&lt;/span&gt;</ept> database of measures from clients. You can view who these clients are, but you cannot access a specific client's data.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Benchmark tiles allow you to compare your measures against the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="1">&lt;/span&gt;</ept> database of measures from clients.</mrk><mrk
+            mtype="seg"
+            mid="2">You can view who these clients are, but you cannot access a specific client's data.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Blocos de parâmetros de referência permitem comparar suas medidas com as medidas dos clientes armazenadas no banco de dados da <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">Você pode ver quem são os clientes, mas não pode acessar os dados de um cliente específico.</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-h2"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Benchmark Math</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Benchmark Math</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Matemática por trás dos parâmetros de referência</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-p"
+        phase-name="pretrans"><source>Benchmark members are grouped by market venues consisting of five or more members which make up a <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Category<ept
+            id="1">&lt;/span&gt;</ept>. A <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Category<ept
+            id="2">&lt;/span&gt;</ept> score is derived from averaging the scores of its members. When a category has fewer than five members, the measure is omitted from the tile graphic and listed in the pull-down section of the tile header. For quartiles to appear in the  <bpt
+            id="3"
+            ctype="link">&lt;a href="#Bullet" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="3" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="4" />"&gt;</bpt>Bullet Graph<ept
+            id="3">&lt;/a&gt;</ept>, the minimum number is 20 members. Categories with fewer members display <bpt
+            id="4">&lt;span class="systemoutput"&gt;</bpt>N/A<ept
+            id="4">&lt;/span&gt;</ept> in the <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>Details<ept
+            id="5">&lt;/span&gt;</ept> section of the sidebar (which opens when you click a category in the graph).</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Benchmark members are grouped by market venues consisting of five or more members which make up a <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Category<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">A <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Category<ept
+              id="2">&lt;/span&gt;</ept> score is derived from averaging the scores of its members.</mrk><mrk
+            mtype="seg"
+            mid="3">When a category has fewer than five members, the measure is omitted from the tile graphic and listed in the pull-down section of the tile header.</mrk><mrk
+            mtype="seg"
+            mid="4">For quartiles to appear in the <bpt
+              id="3"
+              ctype="link">&lt;a href="#Bullet" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Bullet Graph<ept
+              id="3">&lt;/a&gt;</ept>, the minimum number is 20 members.</mrk><mrk
+            mtype="seg"
+            mid="5">Categories with fewer members display <bpt
+              id="4">&lt;span class="systemoutput"&gt;</bpt>N/A<ept
+              id="4">&lt;/span&gt;</ept> in the <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Details<ept
+              id="5">&lt;/span&gt;</ept> section of the sidebar (which opens when you click a category in the graph).</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Os membros do parâmetro de referência são agrupados por características de mercado que consistem de cinco ou mais membros que compõem uma <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Categoria<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">A pontuação de uma <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Categoria<ept
+              id="2">&lt;/span&gt;</ept> é derivada da média das pontuações de seus membros.</mrk><mrk
+            mtype="seg"
+            mid="3">Quando uma categoria tem menos de cinco membros, a medida é omitida do gráfico do bloco e listada na seção suspensa do cabeçalho do bloco.</mrk><mrk
+            mtype="seg"
+            mid="4">Para que os quartis apareçam no <bpt
+              id="3"
+              ctype="link">&lt;a href="#Bullet" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Gráfico de marcadores<ept
+              id="3">&lt;/a&gt;</ept>, o número mínimo de membros é 20.</mrk><mrk
+            mtype="seg"
+            mid="5">As categorias com menos membros exibem <bpt
+              id="4">&lt;span class="systemoutput"&gt;</bpt>N/A<ept
+              id="4">&lt;/span&gt;</ept> na seção <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Detalhes<ept
+              id="5">&lt;/span&gt;</ept> da barra lateral (que abre quando você clica em uma categoria no gráfico).</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-h2"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;a name="Benchmar" /&gt;</ph>Benchmark Categories Selection</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;a name="Benchmar" /&gt;</ph>Benchmark Categories Selection</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;a name="Benchmar" /&gt;</ph>Seleção de categorias de parâmetros de referência</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-p"
+        phase-name="pretrans"><source>Data is displayed in the following interactive chart layouts which allow you to drill-down into the data for specific information. These charts are organized by score, with the lowest score at the top. <ph
+            id="1">&lt;MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Data is displayed in the following interactive chart layouts which allow you to drill-down into the data for specific information.</mrk><mrk
+            mtype="seg"
+            mid="2">These charts are organized by score, with the lowest score at the top. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Os dados são exibidos nos seguintes layouts de gráficos interativos que permitem acessar dados mais detalhados para obter informações específicas.</mrk><mrk
+            mtype="seg"
+            mid="2">Esses gráficos são organizados por pontuação, com a pontuação menor no topo. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-h3"
+        phase-name="pretrans"><source>Tornado Chart</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Tornado Chart</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">gráfico de tornado</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-p"
+        phase-name="pretrans"><source>Your measure is the pivot point of this bar chart, where lower measures extend to the left and higher measures to the right. Each selected <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Benchmark Category<ept
+            id="1">&lt;/span&gt;</ept> is labeled and (when clicked) displays a summary of the category, details of how your score compares, and a list of category members. <ph
+            id="1">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Your measure is the pivot point of this bar chart, where lower measures extend to the left and higher measures to the right.</mrk><mrk
+            mtype="seg"
+            mid="2">Each selected <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Benchmark Category<ept
+              id="1">&lt;/span&gt;</ept> is labeled and (when clicked) displays a summary of the category, details of how your score compares, and a list of category members. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sua medida é o ponto de articulação deste gráfico de barras, onde as medidas mais baixas se estendem para a esquerda e as medidas mais altas para a direita.</mrk><mrk
+            mtype="seg"
+            mid="2">Cada <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Categoria de parâmetro de referência<ept
+              id="1">&lt;/span&gt;</ept> selecionada é identificada e (quando clicada) exibe um resumo da categoria, os detalhes da comparação da sua pontuação e uma lista de membros da categoria. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-h3"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;a name="Bullet" /&gt;</ph>Bullet Graph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;a name="Bullet" /&gt;</ph>Bullet Graph</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;a name="Bullet" /&gt;</ph>Gráfico de marcadores</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-p"
+        phase-name="pretrans"><source>This graph has the following features:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This graph has the following features:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Este gráfico tem as seguintes características:</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-li"
+        phase-name="pretrans"><source>Your score - Displays in the top margin with a reference line to visually compare with each category.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Your score - Displays in the top margin with a reference line to visually compare with each category.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sua pontuação - Aparece na margem superior com uma linha de referência para comparação visual com cada categoria.</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-li"
+        phase-name="pretrans"><source>Categories - Each category is positioned horizontally with a label and quantitative scale. <ph
+            id="1">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Categories - Each category is positioned horizontally with a label and quantitative scale. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Categorias - Cada categoria é posicionada horizontalmente com uma etiqueta e escala quantitativa. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-li"
+        phase-name="pretrans"><source>Mean - The average score for each category is displayed on the right of each category and represented in the scale.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Mean - The average score for each category is displayed on the right of each category and represented in the scale.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Média - A pontuação média de cada categoria é exibida à direita de cada categoria e representada na escala.</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-li"
+        phase-name="pretrans"><source>Maximum and Minimum Ratings - Each category's highest and lowest scores.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Maximum and Minimum Ratings - Each category's highest and lowest scores.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Classificações máximas e mínimas - As pontuações maiores e menores de cada categoria.</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-li"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Quartiles - The scale represents how category members scored in quartered (25%) segments. This feature requires a minimum of 20 members.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Quartiles - The scale represents how category members scored in quartered (25%) segments.</mrk><mrk
+            mtype="seg"
+            mid="2">This feature requires a minimum of 20 members.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Quartis - A escala representa as pontuações dos membros da categoria em segmentos divididos em quatro (25%).</mrk><mrk
+            mtype="seg"
+            mid="2">Este recurso requer no mínimo vinte membros.</mrk></target></trans-unit><trans-unit
+        id="23"
+        restype="x-p"
+        phase-name="pretrans"><source>Click anywhere along a category's label, scale, or average score to view details on a sidebar.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click anywhere along a category's label, scale, or average score to view details on a sidebar.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique em qualquer lugar ao longo da etiqueta, escala ou pontuação média de uma categoria para ver os detalhes em uma barra lateral.</mrk></target></trans-unit><trans-unit
+        id="24"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>More about Bullet Graphs...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">More about Bullet Graphs...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Mais sobre gráficos de marcadores...</mrk></target></trans-unit><trans-unit
+        id="25"
+        restype="x-p"
+        phase-name="pretrans"><source>In <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1">&lt;/span&gt;</ept>, quartiles are the quartered divisions of a range to show 25th, 50th, and 75th percentiles. Using the illustration that follows, the first (lower) quartile is set at 71, which means 25% of this category's members scored below 71 with the minimum (or lowest) score of 54. Your score of 80 falls in the 50th percentile, or median of the group, which is set at 77. As previously mentioned, when you click on this scale a sidebar displays with these descriptions and values.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">In <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept>, quartiles are the quartered divisions of a range to show 25th, 50th, and 75th percentiles.</mrk><mrk
+            mtype="seg"
+            mid="2">Using the illustration that follows, the first (lower) quartile is set at 71, which means 25% of this category's members scored below 71 with the minimum (or lowest) score of 54.</mrk><mrk
+            mtype="seg"
+            mid="3">Your score of 80 falls in the 50th percentile, or median of the group, which is set at 77.</mrk><mrk
+            mtype="seg"
+            mid="4">As previously mentioned, when you click on this scale a sidebar displays with these descriptions and values.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">No <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Portal Executivo<ept
+              id="1">&lt;/span&gt;</ept>, os quartis são as divisões em quatro de um intervalo para mostrar o 25o, 50o e 75o percentis.</mrk><mrk
+            mtype="seg"
+            mid="2">Usando a ilustração a seguir, o primeiro quartil (inferior) está fixado em 71, o que significa que 25% dos membros desta categoria tiveram pontuação abaixo de 71, com a pontuação mínima (ou mais baixa) de 54.</mrk><mrk
+            mtype="seg"
+            mid="3">A sua pontuação de 80 se encaixa no percentil 50, ou mediana do grupo, que é fixada em 77.</mrk><mrk
+            mtype="seg"
+            mid="4">Como mencionado anteriormente, quando você clica nesta escala, uma barra lateral aparece com essas descrições e valores.</mrk></target></trans-unit><trans-unit
+        id="26"
+        restype="x-p"
+        phase-name="pretrans"><source>In this illustration:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">In this illustration:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Nesta ilustração:</mrk></target></trans-unit><trans-unit
+        id="27"
+        restype="x-li"
+        phase-name="pretrans"><source>Your Score = 80</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Your Score = 80</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sua pontuação = 80</mrk></target></trans-unit><trans-unit
+        id="28"
+        restype="x-li"
+        phase-name="pretrans"><source>Mean = 75</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Mean = 75</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Média = 75</mrk></target></trans-unit><trans-unit
+        id="29"
+        restype="x-li"
+        phase-name="pretrans"><source>Maximum = 85</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Maximum = 85</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Máxima = 85</mrk></target></trans-unit><trans-unit
+        id="30"
+        restype="x-li"
+        phase-name="pretrans"><source>Third Quartile = 81</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Third Quartile = 81</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Terceiro quartil = 81</mrk></target></trans-unit><trans-unit
+        id="31"
+        restype="x-li"
+        phase-name="pretrans"><source>Median = 77</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Median = 77</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Mediana = 77</mrk></target></trans-unit><trans-unit
+        id="32"
+        restype="x-li"
+        phase-name="pretrans"><source>First Quartile = 71</source><seg-source><mrk
+            mtype="seg"
+            mid="1">First Quartile = 71</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Primeiro quartil = 71</mrk></target></trans-unit><trans-unit
+        id="33"
+        restype="x-li"
+        phase-name="pretrans"><source>Minimum = 54</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Minimum = 54</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Mínima = 54</mrk></target></trans-unit></body>
+  </file>
+</xliff>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UrlList xml:lang="es" xml:space="preserve">
+    <Url Source="Resources/Snippets/Benchmarks.flsnp" />
+    <Url Source="Resources/Snippets/OpenEnds.flsnp" />
+    <Url Source="Resources/Snippets/ScoreDesc.flsnp" />
+    <Url Source="Resources/Snippets/summaryDashboardNew.flsnp" />
+    <Url Source="Resources/Snippets/permissions.flsnp" />
+    <Url Source="Resources/Snippets/NewTileFinal.flsnp" />
+    <Url Source="Resources/Snippets/newTileOptions.flsnp" />
+    <Url Source="Resources/Snippets/viewDash.flsnp" />
+    <Url Source="Resources/Snippets/CompareMenu.flsnp" />
+    <Url Source="Resources/Snippets/TileDisplaySetBy.flsnp" />
+    <Url Source="Resources/Snippets/BarGridSequence.flsnp" />
+    <Url Source="Resources/Snippets/PieChartBasis.flsnp" />
+    <Url Source="Resources/Snippets/dashboardDesc.flsnp" />
+</UrlList>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="1568" MadCap:lastWidth="980">
+    <head>
+<!-- Inserted by TRADOS: --><META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8"></META>
+<title>C&#243;mo trabajar con comparaciones</title>
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Benchmarks" />C&#243;mo trabajar con comparaciones</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Utilice los promedios de las puntuaciones de las categor&#237;as de mercado seleccionadas para compararlos con sus propios promedios.</p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" /> Los mosaicos de comparaci&#243;n permiten cotejar sus medidas con la base de datos de medidas de clientes de <span class="wintitle">ForeSee</span>. Podr&#225; ver qui&#233;nes son estos clientes, pero no podr&#225; acceder a la informaci&#243;n espec&#237;fica de los mismos. </p>
+        <h2>
+            <MadCap:keyword term="Categories" />C&#225;lculos matem&#225;ticos de las comparaciones</h2>
+        <p>Los miembros de una comparaci&#243;n se agrupan por mercados que constan de cinco o m&#225;s miembros que componen una  <span class="wintitle">Categor&#237;a</span>. La puntuaci&#243;n de una <span class="wintitle">Categor&#237;a</span> se calcula a partir del promedio de las puntuaciones de sus miembros. Cuando una categor&#237;a tiene menos de cinco miembros, la medida se omite del gr&#225;fico del mosaico y se detalla en la secci&#243;n desplegable del encabezado del mosaico. Para que los cuartiles aparezcan en el  <a href="#Bullet" title="Saltar a esta secci&#243;n de esta p&#225;gina." alt="Jump to this section of this page.">Gr&#225;fico de vi&#241;etas</a>, la cantidad m&#237;nima debe ser de 20 miembros. Las categor&#237;as que tienen menos miembros aparecen designadas como <span class="systemoutput">N/A</span> en la secci&#243;n de <span class="wintitle">Detalles</span> de la barra lateral (que se abre al hacer clic en una categor&#237;a del gr&#225;fico).</p>
+        <MadCap:dropDown><MadCap:dropDownHead><MadCap:dropDownHotspot><MadCap:keyword term="Benchmarks:new" />Crear un nuevo mosaico de comparaci&#243;n...</MadCap:dropDownHotspot></MadCap:dropDownHead> <MadCap:dropDownBody>
+                <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Seleccione distintas puntuaciones de categor&#237;as de comparaciones para los <span class="wintitle">Canales</span> y las <span class="wintitle">Medidas</span> seleccionados.</p>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/permissions.flsnp" />
+                </p>
+                <ol>
+                    <li>En la <a title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic." href="toc_creator1.htm">navegaci&#243;n lateral</a>, haga clic en el icono <span class="uicontrol">Comparaciones</span> (<img src="Resources/Images/benchmarks_icon.png" title="benchmarks icon" alt="benchmarks icon" MadCap:mediastyle="@media print { width: 23px;height: 23px;max-width: 23px;max-height: 23px; }" />) y luego en <span class="uicontrol">Comparaciones est&#225;ndares</span> de la barra lateral de <span class="wintitle">Comparaciones</span>.</li>
+                    <li><a href="r_date.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">Seleccionar un rango de fecha</a>.</li>
+                    <li>Haga clic en el icono <span class="uicontrol">Selecci&#243;n de datos</span> (<img src="Resources/Images/data_icon.png" title="data selection icon" alt="data selection icon" MadCap:mediastyle="@media print { width: 14px;height: 14px;max-width: 14px;max-height: 14px; }" />). Aparece la barra lateral de <span class="wintitle">Selecci&#243;n de datos</span>.</li>
+                    <li>Seleccione el <span class="wintitle">Canal</span> y la <span class="wintitle">Medida</span> deseados. Algunas combinaciones ofrecen filtros del <span class="wintitle">Portal anal&#237;tico</span>. El enlace con forma de doble cheur&#243;n abre la p&#225;gina de <span class="wintitle">Filtros</span>.</li>
+                    <li>(Opcional) Haga clic en <span class="uicontrol">A&#241;adir nueva selecci&#243;n</span> para incorporar otro <span class="wintitle">Canal</span> y otra <span class="wintitle">Medida</span>.</li>
+                    <li>Haga clic en <span class="uicontrol">Aplicar</span>. Aparece la barra lateral de <span class="wintitle">Ajustes</span> con las <span class="wintitle">Categor&#237;as de comparaciones</span> seleccionadas a las que pertenece su compa&#241;&#237;a. Ver <a href="#Benchmar" title="Saltar a esta secci&#243;n de este tema." alt="Jump to this section of this topic.">Selecci&#243;n de categor&#237;as de comparaciones</a> para obtener informaci&#243;n adicional sobre los miembros de la categor&#237;a.</li>
+                    <li>Seleccione la <span class="wintitle">Puntuaci&#243;n de la comparaci&#243;n</span> deseada. La pantalla se actualiza para mostrar las <span class="wintitle">Categor&#237;as de comparaciones</span> correspondientes.</li>
+                    <li>Seleccione hasta 15 <span class="wintitle">Categor&#237;as de comparaciones</span>. La lista se desactiva al seleccionar la cantidad m&#225;xima.
+                </li>
+                    <li>Haga clic en <span class="uicontrol">Aplicar</span>. Aparece una barra de progreso en la parte superior de la barra de herramientas mientras el sistema genera y muestra el mosaico.</li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="Resources/Snippets/NewTileFinal.flsnp" />
+                        </p>
+                    </li>
+                </ol>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/newTileOptions.flsnp" />
+                </p>
+            </MadCap:dropDownBody></MadCap:dropDown>
+        <h2><a name="Benchmar"></a>Selecci&#243;n de categor&#237;as de comparaciones</h2>
+        <p>La barra lateral de <span class="wintitle">Ajustes</span> contiene una lista de grupos con cuadros de verificaci&#243;n para que incluya en su mosaico. Cada uno de estos grupos o categor&#237;as tiene su respectivo icono de <span class="uicontrol">Informaci&#243;n</span> (<img src="Resources/Images/info.png" title="information icon" alt="information icon" MadCap:mediastyle="@media print { width: 16px;height: 16px;max-width: 16px;max-height: 16px; }" />) que abre un cuadro de di&#225;logo con una lista de los miembros de la categor&#237;a. Usted podr&#225; seleccionar hasta 15 categor&#237;as a incluir en el mosaico. Las categor&#237;as a la que pertenece su compa&#241;&#237;a se seleccionan autom&#225;ticamente.</p>
+        <p>La informaci&#243;n se presenta en gr&#225;ficos interactivos que le permiten disponer los datos en forma detallada para ver informaci&#243;n espec&#237;fica.</p>
+        <h3>Gr&#225;fico de tornado <img src="Resources/Images/benchmarkChart.png" title="tornado chart" alt="tornado chart button" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" /></h3>
+        <p>Su medida es el eje central de este gr&#225;fico de barras, en el que las medidas inferiores se extienden hacia la izquierda y las medidas superiores se extienden hacia la derecha. Se rotula cada <span class="wintitle">Categor&#237;a de comparaciones</span> y (al hacer clic sobre la misma) muestra un resumen de la categor&#237;a, detalles comparativos de su puntuaci&#243;n y una lista de los miembros de la categor&#237;a. <MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" /></p>
+        <h3><a name="Bullet"></a>Gr&#225;fico de vi&#241;etas <img src="Resources/Images/bullet.png" title="bullet graph" alt="bullet graph button" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" /></h3>
+        <p>Este gr&#225;fico presenta las siguientes caracter&#237;sticas:</p>
+        <ul>
+            <li>Su puntuaci&#243;n - aparece en el margen superior con una l&#237;nea de referencia para efectuar una comparaci&#243;n visual con cada categor&#237;a.</li>
+            <li>Categor&#237;as - cada categor&#237;a est&#225; posicionada horizontalmente con una etiqueta y una escala cuantitativa. <MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" /></li>
+            <li>Promedio - la puntuaci&#243;n promedio de cada categor&#237;a aparece a la derecha de cada categor&#237;a y est&#233; representada en la escala.</li>
+            <li>Calificaciones m&#225;ximas y m&#237;nimas - las puntuaciones m&#225;ximas y m&#237;nimas de cada categor&#237;a.</li>
+            <li>
+                <MadCap:keyword term="Quartiles" />Cuartiles - la escala representa la puntuaci&#243;n de los miembros de la categor&#237;a en segmentos de cuartos (25%). Esta caracter&#237;stica requiere un m&#237;nimo de 20 miembros. </li>
+        </ul>
+        <p>Haga clic en cualquier parte de la etiqueta, escala o puntuaci&#243;n promedio de una categor&#237;a para ver detalles en una barra lateral. </p>
+        <MadCap:dropDown><MadCap:dropDownHead><MadCap:dropDownHotspot>M&#225;s informaci&#243;n acerca de los Gr&#225;ficos de vi&#241;etas...</MadCap:dropDownHotspot></MadCap:dropDownHead> <MadCap:dropDownBody>
+                <p>En el <span class="wintitle">Portal ejecutivo</span>, los cuartiles son las divisiones por cuartos de un determinado rango que muestran los percentiles 25, 50 y 75. De acuerdo con la siguiente ilustraci&#243;n, el primer cuartil (inferior) es igual a 71, lo que significa que el 25% de los miembros de esta categor&#237;a obtuvieron una puntuaci&#243;n inferior a 71, con una puntuaci&#243;n m&#237;nima (o m&#225;s baja) de 54. Su puntuaci&#243;n de 80 queda comprendida en el percentil 50, o en la media del grupo, que es igual a 77. Tal como se mencion&#243; antes, al hacer clic en esta escala, aparece una barra lateral con estas descripciones y valores. </p>
+                <p>
+                    <img src="Resources/Images/BulletGraphicExample4.png" alt="ejemplo de gr&#225;fico con vi&#241;etas" title="Haga clic para ampliar. Haga clic nuevamente para cerrar." style="mc-thumbnail: none;" MadCap:mediastyle="@media print { width: 512px;height: 350px;max-width: 512px;max-height: 350px; }" />
+                </p>
+                <p>En esta ilustraci&#243;n:</p>
+                <ol>
+                    <li>Su puntuaci&#243;n = 80</li>
+                    <li>Promedio = 75</li>
+                    <li>M&#225;ximo = 85</li>
+                    <li>Tercer cuartil = 81</li>
+                    <li>Media = 77</li>
+                    <li>Primer cuartil = 71</li>
+                    <li>M&#237;nimo = 54</li>
+                </ol>
+            </MadCap:dropDownBody></MadCap:dropDown>
+    </body>
+</html>

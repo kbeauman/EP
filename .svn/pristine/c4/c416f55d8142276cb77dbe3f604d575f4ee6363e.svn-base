@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="841" MadCap:lastWidth="967">
+    <head>
+<!-- Inserted by TRADOS: --><META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8"></META>
+
+        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Creador de tableros</title>
+    </head>
+    <body>
+        <h1>Creador de tableros</h1>
+        <MadCap:snippetBlock src="Resources/Snippets/SectionShortDesc.flsnp" />
+        <ul>
+            <li>Mosaicos del tablero: <a href="c_scores_ww.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">Puntuaciones</a>, <a href="c_benchmarks_ww.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">Comparaciones</a>y <a href="c_openends_ww.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">Preguntas abiertas</a></li>
+            <li><a href="t_share.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">C&oacute;mo compartir un tablero</a>
+            </li>
+        </ul>
+        <p>El <span class="wintitle">Creador de tableros</span> desarrolla y organiza mosaicos personalizados en tableros a fin de presentar datos al <a href="toc_viewer.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">Visor de tableros</a>. Esta secci&oacute;n de la <span class="wintitle">Ayuda</span> es espec&iacute;fica para el rol del <span class="wintitle">Creador de tableros</span>.</p>
+        <MadCap:snippetBlock src="Resources/Snippets/Usability.flsnp" />
+        <h2><a name="Side"></a> <MadCap:keyword term="Side Navigation;Side Navigation:Menu" />Navegaci&oacute;n lateral</h2>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Use los distintos iconos que aparecen a la izquierda de la aplicaci&oacute;n para ver o crear tableros y mosaicos.</p>
+        <MadCap:dropDown><MadCap:dropDownHead><MadCap:dropDownHotspot>detalles...</MadCap:dropDownHotspot></MadCap:dropDownHead> <MadCap:dropDownBody>
+                <p>La <span class="wintitle">navegaci&oacute;n lateral</span> es una funci&oacute;n basada en permisos que aparece en el lateral izquierdo de la pantalla con iconos para desplazarse de un entorno a otro con un solo clic. El prop&oacute;sito principal de estos entornos es administrar tableros para presentar informaci&oacute;n. Cada entorno se describe brevemente en la siguiente tabla, con un enlace a informaci&oacute;n adicional.</p>
+                <p>Aparece una ruta de navegaci&oacute;n debajo de la barra de herramientas como referencia para saber qu&eacute; entorno y qu&eacute; elemento est&aacute; visualizando. Por ejemplo: Si est&aacute; visualizando el <span class="wintitle">Tablero ABC</span>, la ruta de navegaci&oacute;n indicar&aacute;: <span class="systemoutput">Tableros &gt; ABC</span>.</p>
+                <p>Cada entorno contiene un men&uacute; de una o varias opciones dentro del entorno. Este men&uacute; aparece al lado de la navegaci&oacute;n lateral. Debe efectuarse una selecci&oacute;n del men&uacute; para cambiar el entorno seleccionado.</p>
+                <p>La siguiente tabla describe cada uno de los elementos de la navegaci&oacute;n lateral:</p>
+                <table style="width: 100%; mc-table-style: url('Resources/TableStyles/Ref2Column.css'); margin-left: auto; margin-right: auto;" class="TableStyle-Ref2Column" cellspacing="0">
+                    <col class="TableStyle-Ref2Column-Column-Column1" />
+                    <col class="TableStyle-Ref2Column-Column-Column2" />
+                    <thead>
+                        <tr class="TableStyle-Ref2Column-Head-Header1">
+                            <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Elemento</th>
+                            <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Descripci&oacute;n</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <img src="Resources/Images/show_icon.png" title="show icon" alt="show icon" MadCap:mediastyle="@media print { max-width: 7px;max-height: 12px; }" /> <MadCap:keyword term="Show" />Mostrar/Ocultar</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Cada entorno contiene un men&uacute; de opciones a mostrar. Haga clic en el icono <span class="uicontrol">Ocultar</span> (<img src="Resources/Images/hide_icon.png" title="hide icon" alt="hide icon" MadCap:mediastyle="@media print { max-width: 7px;max-height: 12px; }" />) para maximizar la vista.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">
+                                <img src="Resources/Images/Dashboard_icon.png" title="dashboard icon" alt="dashboard icon" MadCap:mediastyle="@media print { max-width: 24px;max-height: 24px; }" /> <MadCap:keyword term="Dashboards" />Tableros</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">
+                                <MadCap:snippetText src="Resources/Snippets/dashboardDesc.flsnp" /> Ver <a href="c_dashboards_about.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">	Visualizaci&oacute;n de tableros</a> para obtener informaci&oacute;n adicional.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <img src="Resources/Images/scores_icon.png" title="scores icon" alt="scores icon" MadCap:mediastyle="@media print { max-width: 24px;max-height: 24px; }" /> <MadCap:keyword term="Scores" />Puntuaciones</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <MadCap:snippetText src="Resources/Snippets/ScoreDesc.flsnp" /> Ver <a href="c_scores_ww.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">C&oacute;mo trabajar con puntuaciones</a> para obtener informaci&oacute;n adicional.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">
+                                <img src="Resources/Images/openEnds_icon.png" title="open ends icon" alt="open ends icon" MadCap:mediastyle="@media print { width: 24px;height: 22px;max-width: 24px;max-height: 22px; }" /> <MadCap:keyword term="Open ends" />Preguntas abiertas</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">
+                                <MadCap:snippetText src="Resources/Snippets/OpenEnds.flsnp" /> Ver <a href="c_openends_ww.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">C&oacute;mo trabajar con preguntas abiertas</a> para obtener informaci&oacute;n adicional.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <img src="Resources/Images/benchmarks_icon.png" title="benchmarks icon" alt="benchmarks icon" MadCap:mediastyle="@media print { max-width: 24px;max-height: 24px; }" /> <MadCap:keyword term="Benchmarks" />Comparaciones</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" /> Ver <a href="c_benchmarks_ww.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">C&oacute;mo trabajar con comparaciones</a> para obtener informaci&oacute;n adicional.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyB-Column1-Body2">
+                                <img src="Resources/Images/tools_icon.png" title="tools icon" alt="tools icon" MadCap:mediastyle="@media print { max-width: 24px;max-height: 23px; }" /> <MadCap:keyword term="Tools" />Herramientas</td>
+                            <td class="TableStyle-Ref2Column-BodyA-Column2-Body2">Este entorno alberga al <a href="t_dashboard_new.htm#DashMgr" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">Administrador del tablero</a>, que permite crear y controlar tableros personalizados. Ver <a href="t_dashboard_new.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">A&ntilde;adir un tablero</a> para obtener informaci&oacute;n adicional.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody></MadCap:dropDown>
+        <p>
+            <MadCap:relatedTopics><MadCap:relatedTopic src="c_login.htm" /><MadCap:relatedTopic src="r_toolbar.htm" /><MadCap:relatedTopic src="c_dashboards_about.htm" /><MadCap:relatedTopic src="c_dashboard_manager.htm" /><MadCap:relatedTopic src="c_scores_ww.htm" /><MadCap:relatedTopic src="c_openends_ww.htm" /><MadCap:relatedTopic src="c_benchmarks_ww.htm" /><MadCap:relatedTopic src="r_date.htm" /></MadCap:relatedTopics>
+        </p>
+    </body>
+</html>

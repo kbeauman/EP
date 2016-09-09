@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="3427" MadCap:lastWidth="849" xml:lang="es" MadCap:ignoredWords="">
+    <head>
+        <link href="Resources/TableStyles/Blind.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Cómo trabajar con puntuaciones</title>
+    </head>
+    <body>
+        <h1>Cómo trabajar con puntuaciones</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Resumen: &lt;/i&gt;">Presenta en forma detallada la información que conforma un mosaico de <span class="wintitle">Puntuaciones</span>.</p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/ScoreDesc.flsnp" />&#160;<span class="wintitle">El portal ejecutivo</span> ofrece los siguientes tipos de puntuaciones:</p>
+        <ul>
+            <li><span class="wintitle">Resumen de múltiples canales</span> - Una <span class="wintitle">Puntuación combinada</span> del <span class="wintitle">Portal analítico</span>. Puede ver los datos en un gráfico circular o en una grilla tipo planilla y fijarlos a un <a href="t_dashboard_new.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">tablero</a>.</li>
+            <li><span class="wintitle">Comparación de respuestas</span>
+                <MadCap:snippetText src="Resources/Snippets/ResCompDef.flsnp" />
+            </li>
+            <li><span class="wintitle">Resumen de Puntuación</span> - Muestra las puntuaciones de <span class="wintitle">Elemento</span>, <span class="wintitle">Satisfacción</span> y  <span class="wintitle">Comportamiento Futuro</span> para una medida seleccionada.</li>
+            <li><span class="wintitle">Correlación de tendencias </span>– Líneas de tendencia interactivas para las puntuaciones de medidas.</li>
+        </ul>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Crear un nuevo mosaico de puntuación...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="shortdesc" MadCap:autonum="&lt;i&gt;Resumen: &lt;/i&gt;">Muestra una <span class="wintitle">Puntuación combinada</span> del <span class="wintitle">Portal analítico</span>, o las puntuaciones de <span class="wintitle">Preguntas</span> específicas.</p>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/permissions.flsnp">
+                    </MadCap:snippetText>
+                </p>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/buildscore1.flsnp" />
+                    </li>
+                    <div class="stepresult">La página carga un mosaico predeterminado, el cual es:<ul><li>El rango de fecha del día anterior, es decir, ayer. </li><li>Todos los menús están configurados para el primer elemento.</li></ul></div>
+                    <li><a href="r_date.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Seleccionar un rango de fecha</a>.</li>
+                    <li>Seleccione criterios (ver <a href="#DataSelect" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Selección de datos y Ajustes</a> para obtener información sobre los criterios de los mosaicos):<ul><li><span class="wintitle">Resumen de múltiples canales</span> - Seleccione un elemento del menú <span class="wintitle">Puntuación combinada</span>. Estos elementos del menú se administran en <span class="uicontrol">Portal analítico &gt; Multi-medida &gt; Puntuación combinada</span>. Aparece el nuevo mosaico. </li><li><span class="wintitle">Comparación de respuestas</span>, <span class="wintitle">Resumen de Puntuación</span>, y <span class="wintitle">Correlación de tendencias</span>:<ol class="substeps"><li><MadCap:snippetText src="Resources/Snippets/SelectData.flsnp" /></li><li><MadCap:snippetText src="Resources/Snippets/AddSecOption.flsnp" /></li><li><MadCap:snippetText src="Resources/Snippets/SelectSettings.flsnp" /></li><li><MadCap:snippetText src="Resources/Snippets/SelectSettings2.flsnp" /></li></ol></li></ul></li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/NewTileFinal.flsnp" />
+                    </li>
+                </ol>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/newTileOptions.flsnp" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2>Resumen de múltiples canales</h2>
+        <p>Por defecto, el panel de visualización carga un mosaico que representa los datos del día anterior para el primer elemento del menú <span class="wintitle">Puntuación combinada</span> en la barra lateral de <span class="wintitle">Ajustes</span>. Las puntuaciones se presentan en un gráfico circular con información básica en el encabezado del mosaico. Haga clic en el cheurón ubicado arriba del mosaico para ver u ocultar la cantidad de <span class="wintitle">Encuestados</span>. <a href="r_date.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Seleccione un rango de fecha</a> y un elemento del menú <span class="wintitle">Puntuación combinada</span> en la barra lateral de <span class="wintitle">Ajustes</span> para ver otros resúmenes. Consulte la sección <span class="wintitle">Ayuda del Portal analítico</span> para obtener información adicional sobre puntuaciones combinadas. En <span class="wintitle">Portal analítico</span>, haga clic en el icono <span class="uicontrol">Ayuda y Preguntas frecuentes</span> (<img src="Resources/Images/AP_HelpIcon.png" title="icono Ayuda y Preguntas frecuentes" alt="icono Ayuda y Preguntas frecuentes" MadCap:mediastyle="@media print { width: 16px;height: 15px;max-width: 16px;max-height: 15px; }" />) y vaya a <span class="uicontrol">Guías de ayuda &gt; Pestaña de multi-medidas &gt; Puntuación combinada</span>.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Podrá acceder a las siguientes vistas...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <h3>Vista de gráfico circular <img src="Resources/Images/pieChart_button.png" title="gráfico circular" alt="botón gráfico circular" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" /></h3>
+                <div class="tip" MadCap:autonum="&lt;b&gt;Consejo: &lt;/b&gt;">Desplace el mouse sobre los elementos del gráfico para ver puntuaciones numéricas más bajas. Cuando existen varias puntuaciones con valores bajos, es posible que se oculten las etiquetas. Para ver estas etiquetas, coloque el cursor sobre cada elemento del gráfico.</div>
+                <p>Esta vista interactiva muestra la puntuación para cada canal con un mini-gráfico y una Puntuación combinada en el centro. Haga clic sobre cada uno de los siguientes elementos para ver un detalle de los datos:</p>
+                <ul>
+                    <li>Etiqueta de puntuación del canal - Consta del canal, la puntuación y la Cuenta n, este elemento muestra los datos del <span class="wintitle">Resumen</span>, <span class="wintitle">Elementos</span> y <span class="wintitle">Comportamientos futuros</span> que componen la medida.</li>
+                    <li>Mini-gráfico - Muestra un gráfico de líneas con datos sobre la puntuación total durante el rango de fecha seleccionado, junto con datos de <span class="wintitle">Resumen</span> que constan de la <span class="wintitle">Puntuación</span>, <span class="wintitle">la Ponderación</span> y la <span class="wintitle">Cuenta n</span>. <div class="note" MadCap:autonum="&lt;b&gt;NOTA: &lt;/b&gt;">Los mini-gráficos con una duración de menos de 60 días se muestran en incrementos diarios. Para períodos de más de 60 días, los mini-gráficos se muestran en incrementos semanales.</div></li>
+                    <li>Puntuación combinada - Consta del nombre, la puntuación y la Cuenta n, este elemento muestra la misma información que el mini-gráfico.</li>
+                </ul>
+                <h3>Vista de grilla <img src="Resources/Images/grid_button.png" title="botón grilla" alt="botón grilla" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" /></h3>
+                <p>Esta tabla interactiva ofrece las siguientes características:</p>
+                <ul>
+                    <li>Puntuación combinada - Haga clic sobre el encabezado de la tabla para ver datos de Resumen que constan de la <span class="wintitle">Puntuación</span>, <span class="wintitle">la Ponderación</span> y la <span class="wintitle">Cuenta n</span>.</li>
+                    <li>Ordenar por columna - Haga clic sobre el encabezado de cualquier columna para ordenar los datos según los valores de la columna seleccionada con el valor más bajo en primer lugar. Haga clic nuevamente para invertir el orden.</li>
+                    <li>Puntuación del canal - Haga clic sobre cada concepto para ver los datos del <span class="wintitle">Resumen</span>, <span class="wintitle">Elementos</span> y <span class="wintitle">Comportamientos futuros</span> que componen la medida. El doble cheurón <span class="wintitle">Resumen</span> muestra la página del <span class="wintitle">Portal analítico</span> correspondiente.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2>Comparación de respuestas</h2>
+        <p>Estas puntuaciones se compilan a partir de una serie de criterios seleccionados de los menús de las barras laterales de <span class="wintitle">Ajustes</span> y <span class="wintitle">Datos</span>. Por defecto, el panel de visualización carga un mosaico que representa los datos del día anterior para el primer elemento de cada menú. Las puntuaciones se presentan en un gráfico circular con información básica en el encabezado del mosaico. Haga clic sobre el cheurón ubicado arriba del mosaico para ver u ocultar datos adicionales. <a href="r_date.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Seleccione un rango de fecha</a> y los elementos del menú deseados en las barras laterales de <span class="wintitle">Selección de datos</span> y <span class="wintitle">Ajustes</span>.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Podrá acceder a las siguientes vistas...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ul>
+                    <li>
+                        <img src="Resources/Images/pieChart_button.png" title="gráfico circular" alt="gráfico circular" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" /> Gráfico circular  - <MadCap:snippetText src="Resources/Snippets/PieChartBasis.flsnp" />&#160;<MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" /> Cada sección (si el espacio lo permite) está rotulada con la respuesta a la pregunta, la puntuación y el porcentaje de respuestas (Cuenta n). En la siguiente imagen:<table style="mc-table-style: url('Resources/TableStyles/Blind.css');margin-left: auto;margin-right: auto;" class="TableStyle-Blind" cellspacing="0"><col class="TableStyle-Blind-Column-Column1" style="width: 50%;" /><col class="TableStyle-Blind-Column-Column2" style="width: 50%;" /><tbody><tr class="TableStyle-Blind-Body-Body1"><td class="TableStyle-Blind-BodyB-Column1-Body1"><ul><li> Respuesta a la pregunta = 5</li><li>Puntuación = 56</li><li>Porcentaje de respuestas = 3%</li><li>Cuenta n = 1</li></ul></td><td class="TableStyle-Blind-BodyA-Column2-Body1"><img src="Resources/Images/scoreLabel.png" title="rótulo puntuación" alt="rótulo puntuación" MadCap:mediastyle="@media print { width: 38px;height: 57px;max-width: 38px;max-height: 57px; }" /></td></tr></tbody></table><p>Cuando existen varias respuestas con una <span class="wintitle">Cuenta n</span>, la etiqueta para cada una de ellas aparece al desplazar el mouse sobre la sección del gráfico circular. Además, si la respuesta a una pregunta está truncada, haga clic sobre la etiqueta o la sección del gráfico circular para ver la respuesta completa en la barra lateral.</p></li>
+                    <li>
+                        <img src="Resources/Images/verticalbar_button.png" title="gráfico en barra vertical" alt="botón gráfico en barra vertical" MadCap:mediastyle="@media print { width: 31px;height: 31px;max-width: 31px;max-height: 31px; }" style="width: 30px;height: 30px;" />Gráfico en barra vertical y <img src="Resources/Images/horizontalbar_button.png" title="gráfico en barra horizontal" alt="gráfico en barra horizontal" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 32px; }" /> horizontal - Los gráficos en barra se basan en la <span class="wintitle">Cuenta n</span>, es decir que el largo o el ancho de cada barra representa el porcentaje de respuestas. <MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" />&#160;<MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" /></li>
+                </ul>
+                <ul>
+                    <li>
+                        <img src="Resources/Images/grid_button.png" title="botón grilla" alt="grilla" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" /> Grilla - <MadCap:snippetText src="Resources/Snippets/BarGridSequence.flsnp" /> Sin embargo, es posible organizar por encabezado de columna. Haga clic una vez sobre el encabezado de la columna que desea organizar para organizarla en order descendiente (de mayor a menor) y dos veces para organizarla en order ascendiente (de menor a mayor)</li>
+                </ul>
+                <p>Cada vista es interactiva y muestra un mini-gráfico y datos de <span class="wintitle">Resumen</span> para cada elemento seleccionado con el mouse.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2>Resumen de Puntuación</h2>
+        <p>El mosaico de <span class="wintitle">Resumen de Puntuación</span> muestra un valor numérico de cada medida para un análisis rápido de algunas o todas las puntuaciones durante un periodo de tiempo específico. Las puntuaciones se organizan por categorías de <span class="wintitle">Elementos</span> (también llamados <span class="wintitle">Conductores de Satisfacción</span>), <span class="wintitle">Satisfacción</span> y <span class="wintitle">Comportamientos Futuros</span> (cómo es más probable que responda un visitante como resultado de la experiencia).</p>
+        <p>Las puntuaciones se muestran en forma de grilla (<img src="Resources/Images/grid_button.png" title="botón grilla" alt="grilla" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" style="width: 30px;height: 29px;" />) o celdas individuales (<img src="Resources/Images/cellChart.png" title="celdas" alt="celdas" style="width: 30px;height: 30px;" MadCap:mediastyle="@media print { width: 31px;height: 31px; }" />). Cada puntuación muestra un mini-gráfico en la barra lateral de la derecha. Las grillas se pueden organizar por columna, ya sea en orden asendiente o descendiente, haciendo clic en el encabezamiento de la columna.</p>
+        <p>Se pueden mostrar múltiples mosaicos de <span class="wintitle">Selección</span> con puntuaciones para varias combinaciones de <span class="wintitle">Canal</span>+<span class="wintitle">Medida</span>. También se puede aplicar filtros disponibles del <span class="wintitle">Portal analítico</span>. Cada mosaico de <span class="wintitle">Selección</span> puede aparecer como grilla o celdas. <MadCap:snippetText src="Resources/Snippets/newTileOptions.flsnp" /></p>
+        <h2>Correlación de tendencias</h2>
+        <MadCap:snippetBlock src="Resources/Snippets/TrendCorDef.flsnp" />
+        <table class="TableStyle-Blind" style="mc-table-style: url('Resources/TableStyles/Blind.css');border-left-style: solid;border-left-width: 1px;border-left-color: #ffffff;border-right-style: solid;border-right-width: 1px;border-right-color: #ffffff;border-top-style: solid;border-top-width: 1px;border-top-color: #ffffff;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ffffff;margin-left: auto;margin-right: auto;" cellspacing="0">
+            <col style="width: 416px;" class="TableStyle-Blind-Column-Column1" />
+            <col style="width: 50%;" class="TableStyle-Blind-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-Blind-Body-Body1">
+                    <td class="TableStyle-Blind-BodyB-Column1-Body1" style="text-align: center;">
+                        <img src="Resources/Images/ScoreCorrRevStacked.png" title="Haga clic para ampliar. Haga clic nuevamente para cerrar." alt="Apilado correlación de tendencias" style="mc-thumbnail: popup;mc-thumbnail-max-width: 100px;mc-thumbnail-max-height: 100px;" />
+                    </td>
+                    <td class="TableStyle-Blind-BodyA-Column2-Body1" style="text-align: center;">
+                        <img src="Resources/Images/ScoreCorrRev.png" title="Haga clic para ampliar. Haga clic nuevamente para cerrar." alt="Conjunto correlación de tendencias" style="mc-thumbnail: popup;mc-thumbnail-max-width: 100px;mc-thumbnail-max-height: 100px;" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Más acerca de mosaicos de Correlación de tendencias...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <h3>Etiquetas</h3>
+                <p>La barra lateral de <span class="wintitle">Ajustes</span> incluye una <span class="wintitle">Etiqueta</span>de un campo de texto que propone por defecto la <span class="wintitle">Medida</span> seleccionada, pero puede modificarse según lo desee. Esta etiqueta aparece en el encabezado del mosaico, con el código de color que corresponde a la línea de tendencia. Haga clic sobre la etiqueta en el encabezado para ocultar o mostrar la línea. Haga clic sobre el icono <span class="uicontrol">Datos</span> (<img src="Resources/Images/LabelToggleIcon.png" alt="icono para alternar etiquetas" />) en el encabezado para ocultar o mostrar los marcadadores de puntos clave a lo largo de la línea de tendencia.</p>
+                <p>Además, aparece una etiqueta con la puntuación y la fecha al mover el mouse sobre la línea de tendencia en un punto específico.</p>
+                <h3>Correlación lapso de tiempo</h3>
+                <p>La siguiente imagen muestra la correlación entre las puntuaciones de <span class="wintitle">Búsqueda de productos</span> la medida corporativa para <span class="wintitle">Compras recurrentes</span> a lo largo de un período de 90 días. Cuando una línea de tendencia es desplazada de forma horizontal, el mosaico indica el número de días en que la línea se ha desplazado a lo largo del extremo superior de la línea de tendencia.</p>
+                <p style="text-align: center;">
+                    <img src="Resources/Images/trendOffset.png" title="Haga clic para ampliar. Haga clic nuevamente para cerrar." alt="Ejemplo compensar la tendencia" style="mc-thumbnail: popup;mc-thumbnail-max-width: 100px;mc-thumbnail-max-height: 100px;" />
+                </p>
+                <h3>Atenuación (Smoothing)</h3>
+                <p>También puede <span class="wintitle">Atenuar</span> la línea de tendencia para comprimir o disminuir la severidad de los cambios. La función <span class="wintitle">Atenuar (Smoothing)</span> promedia las puntuaciones en el plazo de tiempo seleccionado.</p>
+                <p>La función <span class="wintitle">Atenuar (Smoothing)</span> permite reducir la severidad de la línea de tendencia entre los altos y bajos. Puede seleccionar el nivel de atenuación en la barra lateral <span class="wintitle">Ajustes</span> (<img src="Resources/Images/sets_icon.png" alt="icono Ajustes" title="icono Ajustes" />). En la siguiente imagen, la línea de tendencia más oscura tiene <span class="uicontrol">Un Mes</span> aplicado al informe de <span class="wintitle">Satisfacción Trimestral</span>. El sistema ha promediado la puntuación diaria de <span class="wintitle">Satisfacción</span> con las puntuaciones de los 15 días anteriores y siguientes. Si selecciona <span class="uicontrol">Dos semanas</span> los puntajes promediados incluirán lose siete días anteriores y posteriores, etc. La opción de atenuación <span class="wintitle">Más apta (Best Fit)</span> general el promedio de un periodo estático comenzando el primer día del periodo, como por ejemplo el primer día de la semana o (en este ejemplo) del mes.</p>
+                <p style="text-align: center;">
+                    <img src="Resources/Images/smoothingExample.png" title="Haga clic para ampliar. Haga clic nuevamente para cerrar." alt="Atenuación correlación de tendencias" style="mc-thumbnail: popup;mc-thumbnail-max-height: 100px;mc-thumbnail-max-width: 100px;" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h3>Selección de datos <img src="Resources/Images/data_icon.png" title="icono selección de datos" alt="icono selección de datos" MadCap:mediastyle="@media print { width: 14px;height: 14px;max-width: 14px;max-height: 14px; }" /></h3>
+        <p>La barra lateral contiene los menús <span class="wintitle">Canal</span> y <span class="wintitle">Medida</span>, con la posibilidad de acceder a menús de filtro, de acuerdo con sus selecciones. Cada selección muestra un mosaico separado para comparar. Al añadir una <span class="wintitle">Selección</span>, aparece un nuevo conjunto de <span class="wintitle">Ajustes</span>.</p>
+        <p><span class="wintitle">Los menús de filtro</span> muestran filtros de <span class="wintitle">Modelo</span>, <span class="wintitle">Página</span> y <span class="wintitle">Jerarquía</span> del <span class="wintitle">Portal analítico</span> (si corresponde). Sobre cada menú de filtro aparece un enlace con forma de doble cheurón para abrir el portal y revisar el criterio de cada filtro.</p>
+        <h3>Ajustes <img src="Resources/Images/sets_icon.png" title="icono Ajustes" alt="icono Ajustes" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" /></h3>
+        <p>Cada <span class="wintitle">Medida de selección de datos</span> tiene su correspondiente conjunto de menús para seleccionar <span class="wintitle">Preguntas</span> y <span class="wintitle">Puntuaciones</span>.</p>
+    </body>
+</html>

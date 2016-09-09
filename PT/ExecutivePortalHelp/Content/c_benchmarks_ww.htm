@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="1233" MadCap:lastWidth="989" xml:lang="pt-br" xml:space="preserve" MadCap:ignoredWords="">
+    <head><title>Como trabalhar com parâmetros de referência</title>
+    </head>
+    <body>
+        <h1><MadCap:keyword term="Benchmarks" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Como trabalhar com parâmetros de referência</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Use as pontuações médias das categorias de mercado selecionadas para compará-las com as suas próprias pontuações.</p>
+        <p><MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> Blocos de parâmetros de referência permitem comparar suas medidas com as medidas dos clientes armazenadas no banco de dados da <span class="wintitle">ForeSee</span>. Você pode ver quem são os clientes, mas não pode acessar os dados de um cliente específico.</p>
+        <h2><MadCap:keyword term="Categories" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Matemática por trás dos parâmetros de referência</h2>
+        <p>Os membros do parâmetro de referência são agrupados por características de mercado que consistem de cinco ou mais membros que compõem uma <span class="wintitle">Categoria</span>. A pontuação de uma <span class="wintitle">Categoria</span> é derivada da média das pontuações de seus membros. Quando uma categoria tem menos de cinco membros, a medida é omitida do gráfico do bloco e listada na seção suspensa do cabeçalho do bloco. Para que os quartis apareçam no <a href="#Bullet" title="Pular para esta seção desta página." alt="Pular para esta seção desta página.">Gráfico de marcadores</a>, o número mínimo de membros é 20. As categorias com menos membros exibem <span class="systemoutput">N/A</span> na seção <span class="wintitle">Detalhes</span> da barra lateral (que abre quando você clica em uma categoria no gráfico).</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot><MadCap:keyword term="Benchmarks:new" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Construir um novo bloco de parâmetros de referência...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Selecione várias pontuações de categorias de parâmetros de referência para os <span class="wintitle">Canais</span> e as <span class="wintitle">Medidas</span> selecionados.</p>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/permissions.flsnp" />
+                </p>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/buildbench1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/SelectData.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/AddSecOption.flsnp" />
+                    </li>
+                    <li>Clique em <span class="uicontrol">Aplicar</span>. A barra lateral <span class="wintitle">Configurações</span> aparecerá com todas as <span class="wintitle">Categorias de parâmetros de referência</span> às quais a sua empresa pertence selecionadas. Veja <a href="#Benchmar" title="Pular para esta seção deste tópico." alt="Pular para esta seção deste tópico.">Seleção de categorias de parâmetros de referência</a> para obter informações adicionais sobre membros das categorias.</li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/BenchmarkSelectScore.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/BenchmarkSelectCat.flsnp" />                </li>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/ClickApply.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="Resources/Snippets/NewTileFinal.flsnp" />
+                        </p>
+                    </li>
+                </ol>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/newTileOptions.flsnp" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2><a name="Benchmar" />Seleção de categorias de parâmetros de referência</h2>
+        <p>A barra lateral <span class="wintitle">Configurações</span> contém uma lista dos grupos com caixas de seleção para você incluir em seu bloco. Cada um desses grupos, ou categorias, tem um ícone de <span class="uicontrol">informação</span> (<img src="Resources/Images/info.png" title="ícone de informação" alt="ícone de informação" MadCap:mediastyle="@media print { width: 16px;height: 16px;max-width: 16px;max-height: 16px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />) para abrir uma caixa de diálogo com uma lista dos membros da categoria. É possível selecionar até 15 categorias para serem incluídas no bloco. As categorias às quais a sua empresa pertence são selecionadas automaticamente.</p>
+		<p>Os dados são exibidos em gráficos interativos que permitem acessar dados mais detalhados para obter informações específicas.</p>
+		<h3>Gráfico de tornado <img src="Resources/Images/benchmarkChart.png" title="gráfico de tornado" alt="botão de gráfico de tornado" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></h3>
+		<p>Sua medida é o ponto de articulação deste gráfico de barras, onde as medidas mais baixas se estendem para a esquerda e as medidas mais altas para a direita. Cada <span class="wintitle">Categoria de parâmetro de referência</span> selecionada é identificada e (quando clicada) exibe um resumo da categoria, os detalhes da comparação da sua pontuação e uma lista de membros da categoria. <MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></p>
+		<h3><a name="Bullet" />Gráfico de marcadores<img src="Resources/Images/bullet.png" title="gráfico de marcadores" alt="gráfico de marcadores" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></h3>
+		<p>Este gráfico tem as seguintes características:</p>
+		<ul>
+			<li>Sua pontuação - Aparece na margem superior com uma linha de referência para comparação visual com cada categoria.</li>
+			<li>Categorias - Cada categoria é posicionada horizontalmente com uma etiqueta e escala quantitativa. <MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></li>
+			<li>Média - A pontuação média de cada categoria é exibida à direita de cada categoria e representada na escala.</li>
+			<li>Classificações máximas e mínimas - As pontuações maiores e menores de cada categoria.</li>
+			<li><MadCap:keyword term="Quartis" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Quartis - A escala representa as pontuações dos membros da categoria em segmentos divididos em quatro (25%). Este recurso requer no mínimo vinte membros.</li>
+		</ul>
+		<p>Clique em qualquer lugar ao longo da etiqueta, escala ou pontuação média de uma categoria para ver os detalhes em uma barra lateral.</p>
+		<MadCap:dropDown>
+			<MadCap:dropDownHead>
+				<MadCap:dropDownHotspot>Mais sobre gráficos de marcadores...</MadCap:dropDownHotspot>
+			</MadCap:dropDownHead>
+			<MadCap:dropDownBody>
+				<p>No <span class="wintitle">Portal Executivo</span>, os quartis são as divisões em quatro de um intervalo para mostrar o 25o, 50o e 75o percentis. Usando a ilustração a seguir, o primeiro quartil (inferior) está fixado em 71, o que significa que 25% dos membros desta categoria tiveram pontuação abaixo de 71, com a pontuação mínima (ou mais baixa) de 54. A sua pontuação de 80 se encaixa no percentil 50, ou mediana do grupo, que é fixada em 77. Como mencionado anteriormente, quando você clica nesta escala, uma barra lateral aparece com essas descrições e valores.</p>
+				<p>
+					<img src="Resources/Images/BulletGraphicExample4.png" alt="exemplo de gráfico de marcadores" title="Clique para ampliar. Clique novamente para fechar." style="mc-thumbnail: popup;" MadCap:mediastyle="@media print { width: 512px;height: 350px;max-width: 512px;max-height: 350px; }" />
+				</p>
+				<p>Nesta ilustração:</p>
+				<ol>
+					<li>Sua pontuação = 80</li>
+					<li>Média = 75</li>
+					<li>Máxima = 85</li>
+					<li>Terceiro quartil = 81</li>
+					<li>Mediana = 77</li>
+					<li>Primeiro quartil = 71</li>
+					<li>Mínima = 54</li>
+				</ol>
+			</MadCap:dropDownBody>
+		</MadCap:dropDown>
+	</body>
+</html>

@@ -1,0 +1,1120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="c_benchmarks_ww.htm"
+    source-language="en-us"
+    target-language="fr-ca"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="c_benchmarks_ww.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">82</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">24</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Benchmarks</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Benchmarks</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Benchmarks</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Categories</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Categories</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Categories</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Benchmarks:new</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Benchmarks:new</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Benchmarks:new</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Quartiles</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Quartiles</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Quartiles</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Jump to this section of this page.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Jump to this section of this page.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sauter cette section.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Jump to this section of this page.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Jump to this section of this page.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sauter cette section.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>benchmarks icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">benchmarks icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">icône Repères</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>benchmarks icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">benchmarks icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">icône Repères</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>data selection icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">data selection icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">icône sélection de données</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>data selection icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">data selection icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">icône sélection de données</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Jump to this section of this topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Jump to this section of this topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sauter cette section.</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Jump to this section of this topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Jump to this section of this topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sauter cette section.</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>information icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">information icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">renseignements icône</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>information icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">information icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">renseignements icône</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>tornado chart</source><seg-source><mrk
+            mtype="seg"
+            mid="1">tornado chart</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">graphique tornade</mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>tornado chart button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">tornado chart button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">bouton graphique tornade</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>bullet graph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">bullet graph</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">graphique de puces</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>bullet graph button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">bullet graph button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">bouton graphique de puces</mrk></target></trans-unit><trans-unit
+        id="23"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>bullet graph example</source><seg-source><mrk
+            mtype="seg"
+            mid="1">bullet graph example</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">exemple graphique de puces</mrk></target></trans-unit><trans-unit
+        id="24"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Click to enlarge. Click again to close.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to enlarge.</mrk><mrk
+            mtype="seg"
+            mid="2">Click again to close.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour agrandir.</mrk><mrk
+            mtype="seg"
+            mid="2">Cliquez à nouveau pour fermer.</mrk></target></trans-unit><trans-unit
+        id="25"
+        restype="x-title"
+        phase-name="pretrans"><source>Working With Benchmarks</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Working With Benchmarks</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Utilisation des repères</mrk></target></trans-unit><trans-unit
+        id="26"
+        restype="x-h1"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Working with Benchmarks</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Working with Benchmarks</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Utilisation des repères</mrk></target></trans-unit><trans-unit
+        id="27"
+        restype="x-p"
+        phase-name="pretrans"><source>Use the score averages of selected market categories to compare with your own.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Use the score averages of selected market categories to compare with your own.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Utilisez les moyennes des résultats de catégories commerciales pour comparer les vôtres.</mrk></target></trans-unit><trans-unit
+        id="28"
+        restype="x-p"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Benchmark tiles allow you to compare your measures against the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+            id="1">&lt;/span&gt;</ept> database of measures from clients. You can view who these clients are, but you cannot access a specific client's data.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Benchmark tiles allow you to compare your measures against the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="1">&lt;/span&gt;</ept> database of measures from clients.</mrk><mrk
+            mtype="seg"
+            mid="2">You can view who these clients are, but you cannot access a specific client's data.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Les mosaïques des repères vous permettent de comparer vos mesures avec celles de la base de données <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="1">&lt;/span&gt;</ept> provenant des clients.</mrk><mrk
+            mtype="seg"
+            mid="2">Vous pouvez voir qui sont ces clients, mais vous ne pouvez pas accéder aux données d'un client spécifique.</mrk></target></trans-unit><trans-unit
+        id="29"
+        restype="x-h2"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Benchmark Math</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Benchmark Math</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Logistique mathématique des repères</mrk></target></trans-unit><trans-unit
+        id="30"
+        restype="x-p"
+        phase-name="pretrans"><source>Benchmark members are grouped by market venues consisting of five or more members which make up a <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Category<ept
+            id="1">&lt;/span&gt;</ept>. A <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Category<ept
+            id="2">&lt;/span&gt;</ept> score is derived from averaging the scores of its members. When a category has fewer than five members, the measure is omitted from the tile graphic and listed in the pull-down section of the tile header. For quartiles to appear in the  <bpt
+            id="3"
+            ctype="link">&lt;a href="#Bullet" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="5" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="6" />"&gt;</bpt>Bullet Graph<ept
+            id="3">&lt;/a&gt;</ept>, the minimum number is 20 members. Categories with fewer members display <bpt
+            id="4">&lt;span class="systemoutput"&gt;</bpt>N/A<ept
+            id="4">&lt;/span&gt;</ept> in the <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>Details<ept
+            id="5">&lt;/span&gt;</ept> section of the sidebar (which opens when you click a category in the graph).</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Benchmark members are grouped by market venues consisting of five or more members which make up a <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Category<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">A <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Category<ept
+              id="2">&lt;/span&gt;</ept> score is derived from averaging the scores of its members.</mrk><mrk
+            mtype="seg"
+            mid="3">When a category has fewer than five members, the measure is omitted from the tile graphic and listed in the pull-down section of the tile header.</mrk><mrk
+            mtype="seg"
+            mid="4">For quartiles to appear in the <bpt
+              id="3"
+              ctype="link">&lt;a href="#Bullet" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="5" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="6" />"&gt;</bpt>Bullet Graph<ept
+              id="3">&lt;/a&gt;</ept>, the minimum number is 20 members.</mrk><mrk
+            mtype="seg"
+            mid="5">Categories with fewer members display <bpt
+              id="4">&lt;span class="systemoutput"&gt;</bpt>N/A<ept
+              id="4">&lt;/span&gt;</ept> in the <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Details<ept
+              id="5">&lt;/span&gt;</ept> section of the sidebar (which opens when you click a category in the graph).</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Les membres repères sont regroupés par lieux de marché comportant cinq membre ou plus formant une <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Catégorie<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">Un résultat de <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Catégorie<ept
+              id="2">&lt;/span&gt;</ept> provient de la moyenne des résultats de ses membres.</mrk><mrk
+            mtype="seg"
+            mid="3">Lorsqu'une catégorie a moins de cinq membres, la mesure est omise dans le graphique de la mosaïque et énumérée dans la section d'extraction de l'en-tête de la mosaïque.</mrk><mrk
+            mtype="seg"
+            mid="4">Pour que des quartiles apparaissent dans le <bpt
+              id="3"
+              ctype="link">&lt;a href="#Bullet" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="5" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="6" />"&gt;</bpt>Graphique de puces<ept
+              id="3">&lt;/a&gt;</ept>, le nombre minimum requis est de 20 membres.</mrk><mrk
+            mtype="seg"
+            mid="5">Les catégories ayant peu de membres affichent S. O. dans la section Détails de la barre latérale (qui s'ouvre lorsque vous cliquez sur une catégorie dans le graphique).<bpt
+              id="4">&lt;span class="systemoutput"&gt;</bpt><ept
+              id="4">&lt;/span&gt;</ept><bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt><ept
+              id="5">&lt;/span&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="31"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="3" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Build A New Benchmark Tile...</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="3" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Build A New Benchmark Tile...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="3" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Créer une nouvelle mosaïque de repères...</mrk></target></trans-unit><trans-unit
+        id="32"
+        restype="x-p"
+        phase-name="pretrans"><source>Select various benchmark category scores for selected <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Channels<ept
+            id="1">&lt;/span&gt;</ept> and <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Measures<ept
+            id="2">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Select various benchmark category scores for selected <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Channels<ept
+              id="1">&lt;/span&gt;</ept> and <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Measures<ept
+              id="2">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sélectionnez différents résultats de catégories de repères pour les <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Méthodes<ept
+              id="1">&lt;/span&gt;</ept> et les <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Mesures<ept
+              id="2">&lt;/span&gt;</ept> sélectionnées.</mrk></target></trans-unit><trans-unit
+        id="33"
+        restype="x-li"
+        phase-name="pretrans"><source>On the <bpt
+            id="1"
+            ctype="link">&lt;a title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="7" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="8" />" href="toc_creator1.htm"&gt;</bpt>side navigation<ept
+            id="1">&lt;/a&gt;</ept>, click the <bpt
+            id="2">&lt;span class="uicontrol"&gt;</bpt>Benchmarks<ept
+            id="2">&lt;/span&gt;</ept> icon (<ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/benchmarks_icon.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="9" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="10" />" MadCap:mediastyle="@media print { width: 23px;height: 23px;max-width: 23px;max-height: 23px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>), then <bpt
+            id="3">&lt;span class="uicontrol"&gt;</bpt>Standard Benchmarks<ept
+            id="3">&lt;/span&gt;</ept> from the <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Benchmarks<ept
+            id="4">&lt;/span&gt;</ept> sidebar.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">On the <bpt
+              id="1"
+              ctype="link">&lt;a title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="7" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="8" />" href="toc_creator1.htm"&gt;</bpt>side navigation<ept
+              id="1">&lt;/a&gt;</ept>, click the <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Benchmarks<ept
+              id="2">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/benchmarks_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="9" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="10" />" MadCap:mediastyle="@media print { width: 23px;height: 23px;max-width: 23px;max-height: 23px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>), then <bpt
+              id="3">&lt;span class="uicontrol"&gt;</bpt>Standard Benchmarks<ept
+              id="3">&lt;/span&gt;</ept> from the <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Benchmarks<ept
+              id="4">&lt;/span&gt;</ept> sidebar.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Dans la <bpt
+              id="1"
+              ctype="link">&lt;a title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="7" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="8" />" href="toc_creator1.htm"&gt;</bpt>navigation latérale<ept
+              id="1">&lt;/a&gt;</ept>, cliquez sur l'icône the <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Repères<ept
+              id="2">&lt;/span&gt;</ept> (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/benchmarks_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="9" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="10" />" MadCap:mediastyle="@media print { width: 23px;height: 23px;max-width: 23px;max-height: 23px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>), puis sur <bpt
+              id="3">&lt;span class="uicontrol"&gt;</bpt>Repères standards<ept
+              id="3">&lt;/span&gt;</ept> dans la barre latérale des <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Repères<ept
+              id="4">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="34"
+        restype="x-li"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="r_date.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="7" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="8" />"&gt;</bpt>Select a date range<ept
+            id="1">&lt;/a&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="r_date.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="7" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="8" />"&gt;</bpt>Select a date range<ept
+              id="1">&lt;/a&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sélectionnez une <bpt
+              id="1"
+              ctype="link">&lt;a href="r_date.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="7" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="8" />"&gt;</bpt>période<ept
+              id="1">&lt;/a&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="35"
+        restype="x-li"
+        phase-name="pretrans"><source>Click the <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Data Selection<ept
+            id="1">&lt;/span&gt;</ept> icon (<ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/data_icon.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="13" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="14" />" MadCap:mediastyle="@media print { width: 14px;height: 14px;max-width: 14px;max-height: 14px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>). The <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Data Selection<ept
+            id="2">&lt;/span&gt;</ept> sidebar displays.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click the <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Data Selection<ept
+              id="1">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/data_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="13" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="14" />" MadCap:mediastyle="@media print { width: 14px;height: 14px;max-width: 14px;max-height: 14px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Data Selection<ept
+              id="2">&lt;/span&gt;</ept> sidebar displays.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez sur l'icône <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Sélection de données<ept
+              id="1">&lt;/span&gt;</ept> (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/data_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="13" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="14" />" MadCap:mediastyle="@media print { width: 14px;height: 14px;max-width: 14px;max-height: 14px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</mrk><mrk
+            mtype="seg"
+            mid="2">La barre latérale <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Sélection de données<ept
+              id="2">&lt;/span&gt;</ept> apparaît.</mrk></target></trans-unit><trans-unit
+        id="36"
+        restype="x-li"
+        phase-name="pretrans"><source>Select the desired <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Channel<ept
+            id="1">&lt;/span&gt;</ept> and <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+            id="2">&lt;/span&gt;</ept>. Some combinations offer filters from <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="3">&lt;/span&gt;</ept>. The double-chevron link opens the <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Filters<ept
+            id="4">&lt;/span&gt;</ept> page.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Select the desired <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Channel<ept
+              id="1">&lt;/span&gt;</ept> and <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+              id="2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">Some combinations offer filters from <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="3">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3">The double-chevron link opens the <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Filters<ept
+              id="4">&lt;/span&gt;</ept> page.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sélectionnez la <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Méthode<ept
+              id="1">&lt;/span&gt;</ept> et la <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Mesure<ept
+              id="2">&lt;/span&gt;</ept> souhaitées.</mrk><mrk
+            mtype="seg"
+            mid="2">Certaines combinaisons offrent des filtres provenant du <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Portail analytique<ept
+              id="3">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3">Le lien du chevron double ouvre la page <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Filtres<ept
+              id="4">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="37"
+        restype="x-li"
+        phase-name="pretrans"><source>(Optional) Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Add New Selection<ept
+            id="1">&lt;/span&gt;</ept> to incorporate another <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Channel<ept
+            id="2">&lt;/span&gt;</ept> and <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+            id="3">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">(Optional) Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Add New Selection<ept
+              id="1">&lt;/span&gt;</ept> to incorporate another <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Channel<ept
+              id="2">&lt;/span&gt;</ept> and <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Measure<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">(Optionnel) Cliquez sur <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Ajouter une nouvelle sélection<ept
+              id="1">&lt;/span&gt;</ept> pour intégrer une autre <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Méthode<ept
+              id="2">&lt;/span&gt;</ept> et <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Mesure<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="38"
+        restype="x-li"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Apply<ept
+            id="1">&lt;/span&gt;</ept>. The <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="2">&lt;/span&gt;</ept> sidebar displays with any <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Benchmark Categories<ept
+            id="3">&lt;/span&gt;</ept> your company belongs to selected. See <bpt
+            id="4"
+            ctype="link">&lt;a href="#Benchmar" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="15" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="16" />"&gt;</bpt>Benchmark Categories Selection<ept
+            id="4">&lt;/a&gt;</ept> for additional information on category members.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Apply<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="2">&lt;/span&gt;</ept> sidebar displays with any <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Benchmark Categories<ept
+              id="3">&lt;/span&gt;</ept> your company belongs to selected.</mrk><mrk
+            mtype="seg"
+            mid="3">See <bpt
+              id="4"
+              ctype="link">&lt;a href="#Benchmar" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="15" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="16" />"&gt;</bpt>Benchmark Categories Selection<ept
+              id="4">&lt;/a&gt;</ept> for additional information on category members.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez sur <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Appliquer<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">La barre latérale <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Réglages<ept
+              id="2">&lt;/span&gt;</ept> apparaît avec toutes les <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Catégories de repères<ept
+              id="3">&lt;/span&gt;</ept> sélectionnées auxquelles votre entreprise appartient.</mrk><mrk
+            mtype="seg"
+            mid="3">Voir <bpt
+              id="4"
+              ctype="link">&lt;a href="#Benchmar" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="15" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="16" />"&gt;</bpt>Sélection des catégories de repères<ept
+              id="4">&lt;/a&gt;</ept> pour des renseignements supplémentaires sur les membres des catégories.</mrk></target></trans-unit><trans-unit
+        id="39"
+        restype="x-li"
+        phase-name="pretrans"><source>Select the desired <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Benchmark Score<ept
+            id="1">&lt;/span&gt;</ept>. The screen refreshes to show corresponding <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Benchmark Categories<ept
+            id="2">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Select the desired <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Benchmark Score<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The screen refreshes to show corresponding <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Benchmark Categories<ept
+              id="2">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sélectionnez les <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Résultats des repères<ept
+              id="1">&lt;/span&gt;</ept> souhaités.</mrk><mrk
+            mtype="seg"
+            mid="2">L'écran est actualisé pour afficher les <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Catégories de repères<ept
+              id="2">&lt;/span&gt;</ept> correspondantes.</mrk></target></trans-unit><trans-unit
+        id="40"
+        restype="x-li"
+        phase-name="pretrans"><source>Select up to 15 <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Benchmark Categories<ept
+            id="1">&lt;/span&gt;</ept>. The list is disabled when you select the maximum.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Select up to 15 <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Benchmark Categories<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The list is disabled when you select the maximum.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sélectionnez jusqu'à 15 <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Catégories de repères<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">La liste est désactivée lorsque vous sélectionnez le nombre maximum.</mrk></target></trans-unit><trans-unit
+        id="41"
+        restype="x-li"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Apply<ept
+            id="1">&lt;/span&gt;</ept>. A progress bar displays along the top of the toolbar while the system generates and displays the tile.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Apply<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">A progress bar displays along the top of the toolbar while the system generates and displays the tile.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez sur <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Appliquer<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">Une barre de progression s'affiche au-dessus de la barre d'outils pendant que le système génère et affiche la mosaïque.</mrk></target></trans-unit><trans-unit
+        id="42"
+        restype="x-h2"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;a name="Benchmar" /&gt;</ph>Benchmark Categories Selection</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;a name="Benchmar" /&gt;</ph>Benchmark Categories Selection</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;a name="Benchmar" /&gt;</ph>Sélection de catégories de repères</mrk></target></trans-unit><trans-unit
+        id="43"
+        restype="x-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="1">&lt;/span&gt;</ept> sidebar contains a list of groups with check boxes for you to include in your tile. Each of these groups, or categories has a corresponding <bpt
+            id="2">&lt;span class="uicontrol"&gt;</bpt>Information<ept
+            id="2">&lt;/span&gt;</ept> icon (<ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/info.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="17" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="18" />" MadCap:mediastyle="@media print { width: 16px;height: 16px;max-width: 16px;max-height: 16px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) to open a dialog listing the category's members. You may select up to 15 categories to be included in the tile. Categories your company belongs to are automatically selected.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="1">&lt;/span&gt;</ept> sidebar contains a list of groups with check boxes for you to include in your tile.</mrk><mrk
+            mtype="seg"
+            mid="2">Each of these groups, or categories has a corresponding <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Information<ept
+              id="2">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/info.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="17" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="18" />" MadCap:mediastyle="@media print { width: 16px;height: 16px;max-width: 16px;max-height: 16px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) to open a dialog listing the category's members.</mrk><mrk
+            mtype="seg"
+            mid="3">You may select up to 15 categories to be included in the tile.</mrk><mrk
+            mtype="seg"
+            mid="4">Categories your company belongs to are automatically selected.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">La barre latérale <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Réglages<ept
+              id="1">&lt;/span&gt;</ept> comporte une liste de groupes ayant des cases à cocher pour les inclure dans votre mosaïque.</mrk><mrk
+            mtype="seg"
+            mid="2">Chacun de ces groupes ou chacune de ces catégories a une icône <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Renseignements<ept
+              id="2">&lt;/span&gt;</ept> (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/info.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="17" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="18" />" MadCap:mediastyle="@media print { width: 16px;height: 16px;max-width: 16px;max-height: 16px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) qui permet d'ouvrir une boîte de dialogue énumérant les membres de la catégorie.</mrk><mrk
+            mtype="seg"
+            mid="3">Vous pouvez sélectionner jusqu'à 15 catégories à inclure dans la mosaïque.</mrk><mrk
+            mtype="seg"
+            mid="4">Les catégories auxquelles votre entreprise appartient sont automatiquement sélectionnées.</mrk></target></trans-unit><trans-unit
+        id="44"
+        restype="x-p"
+        phase-name="pretrans"><source>Data is displayed in interactive charts which allow you to drill-down into the data for specific information.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Data is displayed in interactive charts which allow you to drill-down into the data for specific information.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Les données sont affichées dans des graphiques interactifs qui vous permettent d'extraire les données pour des renseignements spécifiques.</mrk></target></trans-unit><trans-unit
+        id="45"
+        restype="x-h3"
+        phase-name="pretrans"><source>Tornado Chart <ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/benchmarkChart.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="19" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="20" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Tornado Chart <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/benchmarkChart.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="19" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Graphique tornade <ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/benchmarkChart.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="19" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="20" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="46"
+        restype="x-p"
+        phase-name="pretrans"><source>Your measure is the pivot point of this bar chart, where lower measures extend to the left and higher measures to the right. Each selected <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Benchmark Category<ept
+            id="1">&lt;/span&gt;</ept> is labeled and (when clicked) displays a summary of the category, details of how your score compares, and a list of category members. <ph
+            id="1">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Your measure is the pivot point of this bar chart, where lower measures extend to the left and higher measures to the right.</mrk><mrk
+            mtype="seg"
+            mid="2">Each selected <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Benchmark Category<ept
+              id="1">&lt;/span&gt;</ept> is labeled and (when clicked) displays a summary of the category, details of how your score compares, and a list of category members. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Votre mesure est le point central du diagramme où les mesures les plus basses s'étendent vers la gauche et les mesures les plus élevées vers la droite.</mrk><mrk
+            mtype="seg"
+            mid="2">Chaque <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Catégorie de repère<ept
+              id="1">&lt;/span&gt;</ept> sélectionnée est étiquetée et (une fois cliquée) affiche un résumé de la catégorie, les détails sur la manière de comparer vos résultats et une liste de membres par catégorie. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="47"
+        restype="x-h3"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;a name="Bullet" /&gt;</ph>Bullet Graph <ph
+            id="2"
+            ctype="image">&lt;img src="Resources/Images/bullet.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="21" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="22" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;a name="Bullet" /&gt;</ph>Bullet Graph <ph
+              id="2"
+              ctype="image">&lt;img src="Resources/Images/bullet.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="21" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="22" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;a name="Bullet" /&gt;</ph>Graphique de puces <ph
+              id="2"
+              ctype="image">&lt;img src="Resources/Images/bullet.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="21" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="22" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="48"
+        restype="x-p"
+        phase-name="pretrans"><source>This graph has the following features:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This graph has the following features:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Ce graphique a les fonctions suivantes :</mrk></target></trans-unit><trans-unit
+        id="49"
+        restype="x-li"
+        phase-name="pretrans"><source>Your score - Displays in the top margin with a reference line to visually compare with each category.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Your score - Displays in the top margin with a reference line to visually compare with each category.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Votre résultat - S'affiche dans la marge supérieure avec une ligne de référence pour comparer visuellement chaque catégorie.</mrk></target></trans-unit><trans-unit
+        id="50"
+        restype="x-li"
+        phase-name="pretrans"><source>Categories - Each category is positioned horizontally with a label and quantitative scale. <ph
+            id="1">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Categories - Each category is positioned horizontally with a label and quantitative scale. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Catégories - Chaque catégorie est placée horizontalement avec une étiquette et une échelle quantitative. <ph
+              id="1">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="51"
+        restype="x-li"
+        phase-name="pretrans"><source>Mean - The average score for each category is displayed on the right of each category and represented in the scale.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Mean - The average score for each category is displayed on the right of each category and represented in the scale.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Moyenne - La moyenne des résultats de chaque catégorie est affichée à droite de chacune d'entre elles et est représentée sur l'échelle.</mrk></target></trans-unit><trans-unit
+        id="52"
+        restype="x-li"
+        phase-name="pretrans"><source>Maximum and Minimum Ratings - Each category's highest and lowest scores.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Maximum and Minimum Ratings - Each category's highest and lowest scores.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Classements maximum et minimum - Les résultats les plus élevés et les plus bas de chaque catégorie.</mrk></target></trans-unit><trans-unit
+        id="53"
+        restype="x-li"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="4" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Quartiles - The scale represents how category members scored in quartered (25%) segments. This feature requires a minimum of 20 members.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="4" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Quartiles - The scale represents how category members scored in quartered (25%) segments.</mrk><mrk
+            mtype="seg"
+            mid="2">This feature requires a minimum of 20 members.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="4" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Quartiles - L'échelle représente quels résultats ont obtenus les membres de la catégorie dans les trimestres (25 %).</mrk><mrk
+            mtype="seg"
+            mid="2">Cette fonction nécessite un minimum de 20 membres.</mrk></target></trans-unit><trans-unit
+        id="54"
+        restype="x-p"
+        phase-name="pretrans"><source>Click anywhere along a category's label, scale, or average score to view details on a sidebar.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click anywhere along a category's label, scale, or average score to view details on a sidebar.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez n'importe où sur l'étiquette, l'échelle ou la moyenne des résultats de la catégorie pour consulter les détails sur la barre latérale.</mrk></target></trans-unit><trans-unit
+        id="55"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>More about Bullet Graphs...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">More about Bullet Graphs...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Pour en savoir plus sur les graphiques de puces...</mrk></target></trans-unit><trans-unit
+        id="56"
+        restype="x-p"
+        phase-name="pretrans"><source>In <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1">&lt;/span&gt;</ept>, quartiles are the quartered divisions of a range to show 25th, 50th, and 75th percentiles. Using the illustration that follows, the first (lower) quartile is set at 71, which means 25% of this category's members scored below 71 with the minimum (or lowest) score of 54. Your score of 80 falls in the 50th percentile, or median of the group, which is set at 77. As previously mentioned, when you click on this scale a sidebar displays with these descriptions and values.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">In <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept>, quartiles are the quartered divisions of a range to show 25th, 50th, and 75th percentiles.</mrk><mrk
+            mtype="seg"
+            mid="2">Using the illustration that follows, the first (lower) quartile is set at 71, which means 25% of this category's members scored below 71 with the minimum (or lowest) score of 54.</mrk><mrk
+            mtype="seg"
+            mid="3">Your score of 80 falls in the 50th percentile, or median of the group, which is set at 77.</mrk><mrk
+            mtype="seg"
+            mid="4">As previously mentioned, when you click on this scale a sidebar displays with these descriptions and values.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Dans le Portail exécutif, les quartiles sont les divisions trimestrielles d'une étendue des 25e, 50e et 75e centiles.<bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt><ept
+              id="1">&lt;/span&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="2">À l’aide de l'illustration suivante, le premier quartile (quartile inférieur) est de 71, ce qui signifie que 25 % de membres de la catégorie ont obtenu un résultat inférieur à 71 avec le résultat minimum (ou le plus bas) de 54.</mrk><mrk
+            mtype="seg"
+            mid="3">Votre résultat de 80 correspond au 50e centile ou à la médiane du groupe qui est de 77.</mrk><mrk
+            mtype="seg"
+            mid="4">Tel que mentionné précédemment, lorsque vous cliquez sur cette échelle, une barre latérale affiche ces descriptions et valeurs.</mrk></target></trans-unit><trans-unit
+        id="57"
+        restype="x-p"
+        phase-name="pretrans"><source>In this illustration:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">In this illustration:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Dans cette illustration :</mrk></target></trans-unit><trans-unit
+        id="58"
+        restype="x-li"
+        phase-name="pretrans"><source>Your Score = 80</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Your Score = 80</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Votre résultat = 80</mrk></target></trans-unit><trans-unit
+        id="59"
+        restype="x-li"
+        phase-name="pretrans"><source>Mean = 75</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Mean = 75</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Moyenne = 75</mrk></target></trans-unit><trans-unit
+        id="60"
+        restype="x-li"
+        phase-name="pretrans"><source>Maximum = 85</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Maximum = 85</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Maximum = 85</mrk></target></trans-unit><trans-unit
+        id="61"
+        restype="x-li"
+        phase-name="pretrans"><source>Third Quartile = 81</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Third Quartile = 81</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Troisième quartile = 81</mrk></target></trans-unit><trans-unit
+        id="62"
+        restype="x-li"
+        phase-name="pretrans"><source>Median = 77</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Median = 77</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Médiane = 77</mrk></target></trans-unit><trans-unit
+        id="63"
+        restype="x-li"
+        phase-name="pretrans"><source>First Quartile = 71</source><seg-source><mrk
+            mtype="seg"
+            mid="1">First Quartile = 71</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Premier quartile = 71</mrk></target></trans-unit><trans-unit
+        id="64"
+        restype="x-li"
+        phase-name="pretrans"><source>Minimum = 54</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Minimum = 54</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Minimum = 54</mrk></target></trans-unit></body>
+  </file>
+</xliff>

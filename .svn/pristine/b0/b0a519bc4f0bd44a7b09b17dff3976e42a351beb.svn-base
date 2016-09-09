@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="editdash4.htm"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="editdash4.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">5</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">2</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Click Save.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click Save.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique em Salvar.</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>save button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">save button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">botão salvar</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-title"
+        phase-name="pretrans"><source>Dashboard Setup -  Step 2</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Dashboard Setup - Step 2</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Instalação de Painéis - Passo 2</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-h1"
+        phase-name="pretrans"><source>Dashboard Setup -  Save</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Dashboard Setup - Save</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Instalação de Painéis - Salvar</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-p"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Save<ept
+            id="1">&lt;/span&gt;</ept> to close the dialog.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Save<ept
+              id="1">&lt;/span&gt;</ept> to close the dialog.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique em <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Salvar<ept
+              id="1">&lt;/span&gt;</ept> para fechar a caixa de diálogo.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

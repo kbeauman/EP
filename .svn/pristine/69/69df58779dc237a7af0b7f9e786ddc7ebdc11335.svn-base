@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="c_dashboard_manager.htm"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="c_dashboard_manager.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">106</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">14</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Dashboards:Dashboard Manager</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Dashboards:Dashboard Manager</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Dashboards:Dashboard Manager</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Dashboard Manager;Dashboard Manager:properties;Dashboard Manager:delete dashboard;Dashboards:delete</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Dashboard Manager</mrk><mrk
+            mtype="seg"
+            mid="2">Dashboard Manager:properties</mrk><mrk
+            mtype="seg"
+            mid="3">Dashboard Manager:delete dashboard</mrk><mrk
+            mtype="seg"
+            mid="4">Dashboards:delete</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Dashboard Manager</mrk><mrk
+            mtype="seg"
+            mid="2">Dashboard Manager:properties</mrk><mrk
+            mtype="seg"
+            mid="3">Dashboard Manager:delete dashboard</mrk><mrk
+            mtype="seg"
+            mid="4">Dashboards:delete</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>view dashboard icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">view dashboard icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone exibir painel</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>view dashboard icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">view dashboard icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone exibir painel</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Click to enlarge. Click again to close.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to enlarge.</mrk><mrk
+            mtype="seg"
+            mid="2">Click again to close.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique para ampliar.</mrk><mrk
+            mtype="seg"
+            mid="2">Clique novamente para fechar.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>dashboard manager dialog</source><seg-source><mrk
+            mtype="seg"
+            mid="1">dashboard manager dialog</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">caixa de diálogo gerenciador de painéis</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>pin button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">pin button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">botão fixar</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>pin button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">pin button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">botão fixar</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-title"
+        phase-name="pretrans"><source>About the Dashboard Manager</source><seg-source><mrk
+            mtype="seg"
+            mid="1">About the Dashboard Manager</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sobre o Gerenciador de Painéis</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-h1"
+        phase-name="pretrans"><source>About the <ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;a name="DashMgr" /&gt;</ph>Dashboard Manager</source><seg-source><mrk
+            mtype="seg"
+            mid="1">About the <ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;a name="DashMgr" /&gt;</ph>Dashboard Manager</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Sobre o <ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;&lt;a name="DashMgr" /&gt;</ph>Gerenciador de Painéis</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-p"
+        phase-name="pretrans"><source>Go to <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Tools &gt; Dashboard Manager<ept
+            id="1">&lt;/span&gt;</ept> to access information on all dashboards.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Go to <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Tools &gt; Dashboard Manager<ept
+              id="1">&lt;/span&gt;</ept> to access information on all dashboards.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Acesse <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Ferramentas &gt; Gerenciador de Painéis<ept
+              id="1">&lt;/span&gt;</ept> para acessar informações sobre todos os painéis.</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Dashboard Manager<ept
+            id="1">&lt;/span&gt;</ept> is a grid with a sort-by-column feature that is invoked by clicking the column heading. The grid is sorted by the selected column in ascending order. Click the heading again to reverse the order.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Dashboard Manager<ept
+              id="1">&lt;/span&gt;</ept> is a grid with a sort-by-column feature that is invoked by clicking the column heading.</mrk><mrk
+            mtype="seg"
+            mid="2">The grid is sorted by the selected column in ascending order.</mrk><mrk
+            mtype="seg"
+            mid="3">Click the heading again to reverse the order.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">O <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Gerenciador de Painéis<ept
+              id="1">&lt;/span&gt;</ept> é uma grade com um recurso de classificação por coluna que pode ser acessado ao clicar no cabeçalho da coluna.</mrk><mrk
+            mtype="seg"
+            mid="2">A grade é classificada pela coluna selecionada, em ordem crescente.</mrk><mrk
+            mtype="seg"
+            mid="3">Clique novamente no cabeçalho para inverter a ordem.</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>grid details...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">grid details...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">detalhes da grade...</mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-th"
+        phase-name="pretrans"><source>Column</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Column</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Coluna</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-th"
+        phase-name="pretrans"><source>Description</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Description</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Descrição</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-td"
+        phase-name="pretrans"><source><ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/viewDBicon.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="3" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="4" />" MadCap:mediastyle="@media print { width: 20px;height: 13px;max-width: 20px;max-height: 13px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> View Dashboard</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/viewDBicon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="4" />" MadCap:mediastyle="@media print { width: 20px;height: 13px;max-width: 20px;max-height: 13px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> View Dashboard</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/viewDBicon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="4" />" MadCap:mediastyle="@media print { width: 20px;height: 13px;max-width: 20px;max-height: 13px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Exibir painel</mrk></target></trans-unit><trans-unit
+        id="23"
+        restype="x-p"
+        phase-name="pretrans"><source>Click the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>View<ept
+            id="1">&lt;/span&gt;</ept> icon to display the dashboard. The <bpt
+            id="2">&lt;span class="uicontrol"&gt;</bpt>Go Back<ept
+            id="2">&lt;/span&gt;</ept> link displays in the sidebar allowing you to close the dashboard and return to the <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Dashboard Manager<ept
+            id="3">&lt;/span&gt;</ept> grid.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>View<ept
+              id="1">&lt;/span&gt;</ept> icon to display the dashboard.</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Go Back<ept
+              id="2">&lt;/span&gt;</ept> link displays in the sidebar allowing you to close the dashboard and return to the <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Dashboard Manager<ept
+              id="3">&lt;/span&gt;</ept> grid.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique no ícone <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Exibir<ept
+              id="1">&lt;/span&gt;</ept> para exibir o painel.</mrk><mrk
+            mtype="seg"
+            mid="2">O link <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Voltar<ept
+              id="2">&lt;/span&gt;</ept> é exibido na barra lateral, permitindo fechar o painel e retornar à grade do <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Gerenciador de Painéis<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="24"
+        restype="x-td"
+        phase-name="pretrans"><source>Title</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Title</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Título</mrk></target></trans-unit><trans-unit
+        id="25"
+        restype="x-td"
+        phase-name="pretrans"><source>The descriptive label given to the dashboard when it was created.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The descriptive label given to the dashboard when it was created.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">A etiqueta descritiva atribuída ao painel quando ele foi criado.</mrk></target></trans-unit><trans-unit
+        id="26"
+        restype="x-td"
+        phase-name="pretrans"><source>Status</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Status</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Estado</mrk></target></trans-unit><trans-unit
+        id="27"
+        restype="x-p"
+        phase-name="pretrans"><source>Dashboards are only viewable when <bpt
+            id="1">&lt;span class="systemoutput"&gt;</bpt>Enabled<ept
+            id="1">&lt;/span&gt;</ept>. Disable a dashboard to take it off-line without deleting it.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Dashboards are only viewable when <bpt
+              id="1">&lt;span class="systemoutput"&gt;</bpt>Enabled<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">Disable a dashboard to take it off-line without deleting it.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Os painéis são visíveis somente quando <bpt
+              id="1">&lt;span class="systemoutput"&gt;</bpt>Ativados<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">Desative um painel para colocá-lo off-line sem excluí-lo.</mrk></target></trans-unit><trans-unit
+        id="28"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>To change the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Status<ept
+            id="1">&lt;/span&gt;</ept>...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">To change the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Status<ept
+              id="1">&lt;/span&gt;</ept>...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Para alterar o <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Status<ept
+              id="1">&lt;/span&gt;</ept>...</mrk></target></trans-unit><trans-unit
+        id="29"
+        restype="x-li"
+        phase-name="pretrans"><source>By default the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>General<ept
+            id="1">&lt;/span&gt;</ept> container is expanded. Check or clear the <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Enabled<ept
+            id="2">&lt;/span&gt;</ept> check box.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">By default the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>General<ept
+              id="1">&lt;/span&gt;</ept> container is expanded.</mrk><mrk
+            mtype="seg"
+            mid="2">Check or clear the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Enabled<ept
+              id="2">&lt;/span&gt;</ept> check box.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Por padrão, o contêiner <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Geral<ept
+              id="1">&lt;/span&gt;</ept> é expandido.</mrk><mrk
+            mtype="seg"
+            mid="2">Marque ou desmarque a caixa de seleção <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Ativado<ept
+              id="2">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="30"
+        restype="x-li"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Save<ept
+            id="1">&lt;/span&gt;</ept>. The dialog box closes and the grid refreshes to show the <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Status<ept
+            id="2">&lt;/span&gt;</ept> for the dashboard is changed.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Save<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The dialog box closes and the grid refreshes to show the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Status<ept
+              id="2">&lt;/span&gt;</ept> for the dashboard is changed.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique em <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Salvar<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">A caixa de diálogo será fechada e a grade atualizada para mostrar que o <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Status<ept
+              id="2">&lt;/span&gt;</ept> do painel foi alterado.</mrk></target></trans-unit><trans-unit
+        id="31"
+        restype="x-td"
+        phase-name="pretrans"><source>Tiles</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Tiles</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Blocos</mrk></target></trans-unit><trans-unit
+        id="32"
+        restype="x-td"
+        phase-name="pretrans"><source>The number of tiles assigned to the dashboard.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The number of tiles assigned to the dashboard.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">O número de blocos atribuídos ao painel.</mrk></target></trans-unit><trans-unit
+        id="33"
+        restype="x-td"
+        phase-name="pretrans"><source>Users</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Users</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Usuários</mrk></target></trans-unit><trans-unit
+        id="34"
+        restype="x-p"
+        phase-name="pretrans"><source>The number of users having either viewing or editing permissions for the dashboard.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The number of users having either viewing or editing permissions for the dashboard.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">O número de usuários com permissão de visualizar ou editar o painel.</mrk></target></trans-unit><trans-unit
+        id="35"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>To manage user assignments...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">To manage user assignments...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Para gerenciar atribuições de usuários...</mrk></target></trans-unit><trans-unit
+        id="36"
+        restype="x-li"
+        phase-name="pretrans"><source>Click the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Users<ept
+            id="1">&lt;/span&gt;</ept> title bar. The container expands.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Users<ept
+              id="1">&lt;/span&gt;</ept> title bar.</mrk><mrk
+            mtype="seg"
+            mid="2">The container expands.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique na barra de título <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Usuários<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">O contêiner será expandido.</mrk></target></trans-unit><trans-unit
+        id="37"
+        restype="x-li"
+        phase-name="pretrans"><source>Scroll through the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Users Assigned<ept
+            id="1">&lt;/span&gt;</ept> grid and check or clear the desired <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>View<ept
+            id="2">&lt;/span&gt;</ept> and <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Edit<ept
+            id="3">&lt;/span&gt;</ept> boxes. Alternatively, use the <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Copy user assignments from<ept
+            id="4">&lt;/span&gt;</ept> menu to apply the assignments of another dashboard.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Scroll through the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Users Assigned<ept
+              id="1">&lt;/span&gt;</ept> grid and check or clear the desired <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>View<ept
+              id="2">&lt;/span&gt;</ept> and <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Edit<ept
+              id="3">&lt;/span&gt;</ept> boxes.</mrk><mrk
+            mtype="seg"
+            mid="2">Alternatively, use the <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Copy user assignments from<ept
+              id="4">&lt;/span&gt;</ept> menu to apply the assignments of another dashboard.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Examine a grade <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Usuários atribuídos<ept
+              id="1">&lt;/span&gt;</ept> e marque ou desmarque as caixas <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Exibir<ept
+              id="2">&lt;/span&gt;</ept> e <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Editar<ept
+              id="3">&lt;/span&gt;</ept> desejadas.</mrk><mrk
+            mtype="seg"
+            mid="2">Como alternativa, use o menu <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Copiar atribuições de usuário de<ept
+              id="4">&lt;/span&gt;</ept> para aplicar as atribuições de outro painel.</mrk></target></trans-unit><trans-unit
+        id="38"
+        restype="x-li"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Save<ept
+            id="1">&lt;/span&gt;</ept>. The dialog box closes and the grid refreshes to reflect your changes in the <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Users<ept
+            id="2">&lt;/span&gt;</ept> column.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Save<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The dialog box closes and the grid refreshes to reflect your changes in the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Users<ept
+              id="2">&lt;/span&gt;</ept> column.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique em <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Salvar<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">A caixa de diálogo será fechada e a grade atualizada para refletir as alterações na coluna <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Usuários<ept
+              id="2">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="39"
+        restype="x-td"
+        phase-name="pretrans"><source>Owner</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Owner</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Proprietário</mrk></target></trans-unit><trans-unit
+        id="40"
+        restype="x-td"
+        phase-name="pretrans"><source>The user who has exclusive permission to delete the dashboard. The default owner is the user creating the dashboard.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The user who has exclusive permission to delete the dashboard.</mrk><mrk
+            mtype="seg"
+            mid="2">The default owner is the user creating the dashboard.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">O usuário que tem permissão exclusiva para excluir o painel.</mrk><mrk
+            mtype="seg"
+            mid="2">O proprietário padrão é o usuário que cria o painel.</mrk></target></trans-unit><trans-unit
+        id="41"
+        restype="x-td"
+        phase-name="pretrans"><source>Modified</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Modified</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Modificado</mrk></target></trans-unit><trans-unit
+        id="42"
+        restype="x-td"
+        phase-name="pretrans"><source>A system generated date stamp of the dashboard's most recent revision.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">A system generated date stamp of the dashboard's most recent revision.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Um carimbo de data gerado pelo sistema da revisão mais recente do painel.</mrk></target></trans-unit><trans-unit
+        id="43"
+        restype="x-td"
+        phase-name="pretrans"><source>Carousel</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Carousel</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Carrossel</mrk></target></trans-unit><trans-unit
+        id="44"
+        restype="x-td"
+        phase-name="pretrans"><source>Use the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Carousel<ept
+            id="1">&lt;/span&gt;</ept> column to establish the order in which dashboards appear on your sidebar. By default, the first dashboard loads when you login or navigate to the <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+            id="2">&lt;/span&gt;</ept> page. This sequence is for your user profile only.<bpt
+            id="3">&lt;MadCap:dropDown xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+            id="4">&lt;MadCap:dropDownHead&gt;&lt;MadCap:dropDownHotspot&gt;</bpt>Best practice is to select a fast loading dashboard as #1 to avoid longer load times when you view the <bpt
+            id="6">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+            id="6">&lt;/span&gt;</ept> page.<ept
+            id="4">&lt;/MadCap:dropDownHotspot&gt;&lt;/MadCap:dropDownHead&gt;</ept><bpt
+            id="7">&lt;MadCap:dropDownBody&gt;</bpt><bpt
+            id="8">&lt;p&gt;</bpt>To change the carousel sequence...<ept
+            id="8">&lt;/p&gt;</ept><bpt
+            id="9">&lt;ol&gt;</bpt><bpt
+            id="10">&lt;li&gt;</bpt>Click the desired <bpt
+            id="11">&lt;span class="wintitle"&gt;</bpt>Carousel<ept
+            id="11">&lt;/span&gt;</ept> text box. When changing numbers in the middle of the sequence, only the dashboard affected by your revision are renumbered. Therefore, if you want to switch the #1 and #2 dashboards around, you only need to change #1 to #2. The current #2 is then changed automatically to #1 and the other dashboards remain unchanged. Conversely, changing the highest number to #1 causes all numbers to increase by one.<ept
+            id="10">&lt;/li&gt;</ept><bpt
+            id="12">&lt;li&gt;</bpt>Press the <bpt
+            id="13">&lt;span class="wintitle"&gt;</bpt>Tab<ept
+            id="13">&lt;/span&gt;</ept> key of your keyboard to apply the change. The screen refreshes to show your revision.<ept
+            id="12">&lt;/li&gt;</ept><ept
+            id="9">&lt;/ol&gt;</ept><bpt
+            id="14">&lt;p&gt;</bpt>You may only change one number at a time. When you click on a second text box the first revision is applied automatically.<ept
+            id="14">&lt;/p&gt;</ept><ept
+            id="7">&lt;/MadCap:dropDownBody&gt;</ept><ept
+            id="3">&lt;/MadCap:dropDown&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Use the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Carousel<ept
+              id="1">&lt;/span&gt;</ept> column to establish the order in which dashboards appear on your sidebar.</mrk><mrk
+            mtype="seg"
+            mid="2">By default, the first dashboard loads when you login or navigate to the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+              id="2">&lt;/span&gt;</ept> page.</mrk><mrk
+            mtype="seg"
+            mid="3">This sequence is for your user profile only.</mrk><mrk
+            mtype="seg"
+            mid="4"><bpt
+              id="3">&lt;MadCap:dropDown xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+              id="4">&lt;MadCap:dropDownHead&gt;&lt;MadCap:dropDownHotspot&gt;</bpt>Best practice is to select a fast loading dashboard as #1 to avoid longer load times when you view the <bpt
+              id="6">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+              id="6">&lt;/span&gt;</ept> page.</mrk><mrk
+            mtype="seg"
+            mid="5"><ept
+              id="4">&lt;/MadCap:dropDownHotspot&gt;&lt;/MadCap:dropDownHead&gt;</ept><bpt
+              id="7">&lt;MadCap:dropDownBody&gt;</bpt><bpt
+              id="8">&lt;p&gt;</bpt>To change the carousel sequence...<ept
+              id="8">&lt;/p&gt;</ept><bpt
+              id="9">&lt;ol&gt;</bpt><bpt
+              id="10">&lt;li&gt;</bpt>Click the desired <bpt
+              id="11">&lt;span class="wintitle"&gt;</bpt>Carousel<ept
+              id="11">&lt;/span&gt;</ept> text box.</mrk><mrk
+            mtype="seg"
+            mid="6">When changing numbers in the middle of the sequence, only the dashboard affected by your revision are renumbered.</mrk><mrk
+            mtype="seg"
+            mid="7">Therefore, if you want to switch the #1 and #2 dashboards around, you only need to change #1 to #2.</mrk><mrk
+            mtype="seg"
+            mid="8">The current #2 is then changed automatically to #1 and the other dashboards remain unchanged.</mrk><mrk
+            mtype="seg"
+            mid="9">Conversely, changing the highest number to #1 causes all numbers to increase by one.</mrk><mrk
+            mtype="seg"
+            mid="10"><ept
+              id="10">&lt;/li&gt;</ept><bpt
+              id="12">&lt;li&gt;</bpt>Press the <bpt
+              id="13">&lt;span class="wintitle"&gt;</bpt>Tab<ept
+              id="13">&lt;/span&gt;</ept> key of your keyboard to apply the change.</mrk><mrk
+            mtype="seg"
+            mid="11">The screen refreshes to show your revision.</mrk><mrk
+            mtype="seg"
+            mid="12"><ept
+              id="12">&lt;/li&gt;</ept><ept
+              id="9">&lt;/ol&gt;</ept><bpt
+              id="14">&lt;p&gt;</bpt>You may only change one number at a time.</mrk><mrk
+            mtype="seg"
+            mid="13">When you click on a second text box the first revision is applied automatically.<ept
+              id="14">&lt;/p&gt;</ept><ept
+              id="7">&lt;/MadCap:dropDownBody&gt;</ept><ept
+              id="3">&lt;/MadCap:dropDown&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Use a coluna <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Carrossel<ept
+              id="1">&lt;/span&gt;</ept> para estabelecer a ordem na qual os painéis são exibidos na barra lateral.</mrk><mrk
+            mtype="seg"
+            mid="2">Por padrão, o primeiro painel carrega quando você acessa o sistema ou navega até a página <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Painéis<ept
+              id="2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3">Esta sequência é apenas para o seu perfil de usuário.</mrk><mrk
+            mtype="seg"
+            mid="4"><bpt
+              id="3">&lt;MadCap:dropDown xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt><bpt
+              id="4">&lt;MadCap:dropDownHead&gt;&lt;MadCap:dropDownHotspot&gt;</bpt>A prática recomendada é selecionar um painel de rápido carregamento como número 1 para evitar longos períodos de carregamento ao exibir a página <bpt
+              id="6">&lt;span class="wintitle"&gt;</bpt>Painéis<ept
+              id="6">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="5"><ept
+              id="4">&lt;/MadCap:dropDownHotspot&gt;&lt;/MadCap:dropDownHead&gt;</ept><bpt
+              id="7">&lt;MadCap:dropDownBody&gt;</bpt><bpt
+              id="8">&lt;p&gt;</bpt>Para alterar a sequência do carrossel...<ept
+              id="8">&lt;/p&gt;</ept><bpt
+              id="9">&lt;ol&gt;</bpt><bpt
+              id="10">&lt;li&gt;</bpt>Clique na caixa de texto do <bpt
+              id="11">&lt;span class="wintitle"&gt;</bpt>Carrossel<ept
+              id="11">&lt;/span&gt;</ept> desejado.</mrk><mrk
+            mtype="seg"
+            mid="6">Ao alterar os números no meio da sequência, apenas o painel afetado pela revisão é renumerado.</mrk><mrk
+            mtype="seg"
+            mid="7">Portanto, se quiser inverter os painéis 1 e 2, você só precisa mudar 1 para 2.</mrk><mrk
+            mtype="seg"
+            mid="8">O painel 2 atual é então alterado automaticamente para 1 e os demais painéis continuam inalterados.</mrk><mrk
+            mtype="seg"
+            mid="9">Por outro lado, alterar o número mais alto para 1 faz com que todos os números aumentem em um.</mrk><mrk
+            mtype="seg"
+            mid="10"><ept
+              id="10">&lt;/li&gt;</ept><bpt
+              id="12">&lt;li&gt;</bpt>Pressione a tecla <bpt
+              id="13">&lt;span class="wintitle"&gt;</bpt>Tab<ept
+              id="13">&lt;/span&gt;</ept> do teclado para aplicar a alteração.</mrk><mrk
+            mtype="seg"
+            mid="11">A tela é atualizada para mostrar a revisão.</mrk><mrk
+            mtype="seg"
+            mid="12"><ept
+              id="12">&lt;/li&gt;</ept><ept
+              id="9">&lt;/ol&gt;</ept><bpt
+              id="14">&lt;p&gt;</bpt>Só é possível alterar um número de cada vez.</mrk><mrk
+            mtype="seg"
+            mid="13">Quando você clica em uma segunda caixa de texto, a primeira revisão é aplicada automaticamente.<ept
+              id="14">&lt;/p&gt;</ept><ept
+              id="7">&lt;/MadCap:dropDownBody&gt;</ept><ept
+              id="3">&lt;/MadCap:dropDown&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="45"
+        restype="x-td"
+        phase-name="pretrans"><source>Delete</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Delete</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Excluir</mrk></target></trans-unit><trans-unit
+        id="46"
+        restype="x-div"
+        phase-name="pretrans"><source>This action results in a permanent removal of the selected dashboard. There is no recovering a deleted dashboard.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This action results in a permanent removal of the selected dashboard.</mrk><mrk
+            mtype="seg"
+            mid="2">There is no recovering a deleted dashboard.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Esta ação resulta na remoção permanente do painel selecionado.</mrk><mrk
+            mtype="seg"
+            mid="2">Não há como recuperar um painel excluído.</mrk></target></trans-unit><trans-unit
+        id="47"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>To delete a dashboard...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">To delete a dashboard...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Para excluir um painel...</mrk></target></trans-unit><trans-unit
+        id="48"
+        restype="x-li"
+        phase-name="pretrans"><source>Select the check box in the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Delete<ept
+            id="1">&lt;/span&gt;</ept> column for the dashboard. The <bpt
+            id="2">&lt;span class="uicontrol"&gt;</bpt>Delete Dashboard(s)<ept
+            id="2">&lt;/span&gt;</ept> action displays above the grid.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Select the check box in the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Delete<ept
+              id="1">&lt;/span&gt;</ept> column for the dashboard.</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Delete Dashboard(s)<ept
+              id="2">&lt;/span&gt;</ept> action displays above the grid.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Marque a caixa de seleção na coluna <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Excluir<ept
+              id="1">&lt;/span&gt;</ept> para o painel.</mrk><mrk
+            mtype="seg"
+            mid="2">A ação <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Excluir painel/painéis<ept
+              id="2">&lt;/span&gt;</ept> aparecerá acima da grade.</mrk></target></trans-unit><trans-unit
+        id="49"
+        restype="x-li"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Delete Dashboard(s)<ept
+            id="1">&lt;/span&gt;</ept>. A dialog box displays asking you to confirm the removal of the dashboard.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Delete Dashboard(s)<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">A dialog box displays asking you to confirm the removal of the dashboard.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique em <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Excluir painel/painéis<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">Uma caixa de diálogo aparecerá solicitando que você confirme a remoção do painel.</mrk></target></trans-unit><trans-unit
+        id="50"
+        restype="x-li"
+        phase-name="pretrans"><source>Click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>OK<ept
+            id="1">&lt;/span&gt;</ept>. The dialog box closes and the screen refreshes to show the grid no longer contains the deleted dashboard.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>OK<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The dialog box closes and the screen refreshes to show the grid no longer contains the deleted dashboard.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique em <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>OK<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">A caixa de diálogo será fechada e a tela atualizada para mostrar que a grade já não contém o painel excluído.</mrk></target></trans-unit><trans-unit
+        id="51"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>More about the Dashboard Manager dialog box...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">More about the Dashboard Manager dialog box...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Mais informações sobre a caixa de diálogo Gerenciador de painéis...</mrk></target></trans-unit><trans-unit
+        id="52"
+        restype="x-p"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;a name="DashboardDetails" /&gt;</ph>The grid contains all the dashboards you have access to along with some general information.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;a name="DashboardDetails" /&gt;</ph>The grid contains all the dashboards you have access to along with some general information.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;a name="DashboardDetails" /&gt;</ph>A grade contém todos os painéis aos quais você tem acesso, juntamente com algumas informações gerais.</mrk></target></trans-unit><trans-unit
+        id="53"
+        restype="x-p"
+        phase-name="pretrans"><source>Click on a line item to display and revise the following dashboard details:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click on a line item to display and revise the following dashboard details:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique em um item de linha para exibir e rever os seguintes detalhes dos painéis:</mrk></target></trans-unit><trans-unit
+        id="54"
+        restype="x-li"
+        phase-name="pretrans"><source>General<bpt
+            id="1">&lt;ul&gt;</bpt><bpt
+            id="2">&lt;li&gt;</bpt>Dashboard Title - A text field to edit the name of the dashboard.<ept
+            id="2">&lt;/li&gt;</ept><bpt
+            id="3">&lt;li&gt;</bpt>Status - Select <bpt
+            id="4">&lt;span class="uicontrol"&gt;</bpt>Enabled<ept
+            id="4">&lt;/span&gt;</ept> (default) for the dashboard to be active.<ept
+            id="3">&lt;/li&gt;</ept><bpt
+            id="5">&lt;li&gt;</bpt>Tiles - A list of tiles currently assigned to the dashboard.<ept
+            id="5">&lt;/li&gt;</ept><bpt
+            id="6">&lt;li&gt;</bpt>Layout - Change layout template if desired.<ept
+            id="6">&lt;/li&gt;</ept><ept
+            id="1">&lt;/ul&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">General<bpt
+              id="1">&lt;ul&gt;</bpt><bpt
+              id="2">&lt;li&gt;</bpt>Dashboard Title - A text field to edit the name of the dashboard.</mrk><mrk
+            mtype="seg"
+            mid="2"><ept
+              id="2">&lt;/li&gt;</ept><bpt
+              id="3">&lt;li&gt;</bpt>Status - Select <bpt
+              id="4">&lt;span class="uicontrol"&gt;</bpt>Enabled<ept
+              id="4">&lt;/span&gt;</ept> (default) for the dashboard to be active.</mrk><mrk
+            mtype="seg"
+            mid="3"><ept
+              id="3">&lt;/li&gt;</ept><bpt
+              id="5">&lt;li&gt;</bpt>Tiles - A list of tiles currently assigned to the dashboard.</mrk><mrk
+            mtype="seg"
+            mid="4"><ept
+              id="5">&lt;/li&gt;</ept><bpt
+              id="6">&lt;li&gt;</bpt>Layout - Change layout template if desired.<ept
+              id="6">&lt;/li&gt;</ept><ept
+              id="1">&lt;/ul&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Geral<bpt
+              id="1">&lt;ul&gt;</bpt><bpt
+              id="2">&lt;li&gt;</bpt>Título do painel - Um campo de texto para editar o nome do painel.</mrk><mrk
+            mtype="seg"
+            mid="2"><ept
+              id="2">&lt;/li&gt;</ept><bpt
+              id="3">&lt;li&gt;</bpt>Status - Selecione <bpt
+              id="4">&lt;span class="uicontrol"&gt;</bpt>Ativado<ept
+              id="4">&lt;/span&gt;</ept> (padrão) para que o painel fique ativo.</mrk><mrk
+            mtype="seg"
+            mid="3"><ept
+              id="3">&lt;/li&gt;</ept>Blocos - Uma lista dos blocos atualmente atribuídos ao painel.</mrk><mrk
+            mtype="seg"
+            mid="4"><ept
+              id="5">&lt;/li&gt;</ept><bpt
+              id="6">&lt;li&gt;</bpt>Layout - Altere o modelo de layout se desejado.<ept
+              id="6">&lt;/li&gt;</ept><ept
+              id="1">&lt;/ul&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="55"
+        restype="x-li"
+        phase-name="pretrans"><source>Users<bpt
+            id="1">&lt;ul&gt;</bpt><bpt
+            id="2">&lt;li&gt;</bpt>Dashboard Owner - A menu of valid users. By default, the <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Dashboard Owner<ept
+            id="3">&lt;/span&gt;</ept> has both <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>View<ept
+            id="4">&lt;/span&gt;</ept> and <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>Edit<ept
+            id="5">&lt;/span&gt;</ept> privileges.<ept
+            id="2">&lt;/li&gt;</ept><bpt
+            id="6">&lt;li&gt;</bpt>Copy user assignments from - Apply another dashboard's User Assignments.<ept
+            id="6">&lt;/li&gt;</ept><bpt
+            id="7">&lt;li&gt;</bpt>User Assignments - Select <bpt
+            id="8">&lt;span class="wintitle"&gt;</bpt>View<ept
+            id="8">&lt;/span&gt;</ept> and <bpt
+            id="9">&lt;span class="wintitle"&gt;</bpt>Edit<ept
+            id="9">&lt;/span&gt;</ept> privileges for each user.<ept
+            id="7">&lt;/li&gt;</ept><ept
+            id="1">&lt;/ul&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Users<bpt
+              id="1">&lt;ul&gt;</bpt><bpt
+              id="2">&lt;li&gt;</bpt>Dashboard Owner - A menu of valid users.</mrk><mrk
+            mtype="seg"
+            mid="2">By default, the <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Dashboard Owner<ept
+              id="3">&lt;/span&gt;</ept> has both <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>View<ept
+              id="4">&lt;/span&gt;</ept> and <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>Edit<ept
+              id="5">&lt;/span&gt;</ept> privileges.</mrk><mrk
+            mtype="seg"
+            mid="3"><ept
+              id="2">&lt;/li&gt;</ept><bpt
+              id="6">&lt;li&gt;</bpt>Copy user assignments from - Apply another dashboard's User Assignments.</mrk><mrk
+            mtype="seg"
+            mid="4"><ept
+              id="6">&lt;/li&gt;</ept><bpt
+              id="7">&lt;li&gt;</bpt>User Assignments - Select <bpt
+              id="8">&lt;span class="wintitle"&gt;</bpt>View<ept
+              id="8">&lt;/span&gt;</ept> and <bpt
+              id="9">&lt;span class="wintitle"&gt;</bpt>Edit<ept
+              id="9">&lt;/span&gt;</ept> privileges for each user.<ept
+              id="7">&lt;/li&gt;</ept><ept
+              id="1">&lt;/ul&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Usuários<bpt
+              id="1">&lt;ul&gt;</bpt><bpt
+              id="2">&lt;li&gt;</bpt>Proprietário do painel - Um menu de usuários válidos.</mrk><mrk
+            mtype="seg"
+            mid="2">Por padrão, o ﬗProprietário do painelആ tem privilégios de ﬗexibiçãoആ eﬗediçãoആ.</mrk><mrk
+            mtype="seg"
+            mid="3"><ept
+              id="2">&lt;/li&gt;</ept><bpt
+              id="6">&lt;li&gt;</bpt>Copiar atribuições de usuário de - Aplique as atribuições de usuário de outro painel.</mrk><mrk
+            mtype="seg"
+            mid="4"><ept
+              id="6">&lt;/li&gt;</ept><bpt
+              id="7">&lt;li&gt;</bpt>Atribuições de usuários - Selecione os privilégios de <bpt
+              id="8">&lt;span class="wintitle"&gt;</bpt>exibição<ept
+              id="8">&lt;/span&gt;</ept> e <bpt
+              id="9">&lt;span class="wintitle"&gt;</bpt>edição<ept
+              id="9">&lt;/span&gt;</ept> de cada usuário.<ept
+              id="7">&lt;/li&gt;</ept><ept
+              id="1">&lt;/ul&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="56"
+        restype="x-li"
+        phase-name="pretrans"><source>Share<bpt
+            id="1">&lt;ul&gt;&lt;li&gt;</bpt>Shared Reports - View the names of users who have shared the dashboard along with the date and expiration date. You may also cancel the share.<ept
+            id="1">&lt;/li&gt;&lt;/ul&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Share<bpt
+              id="1">&lt;ul&gt;&lt;li&gt;</bpt>Shared Reports - View the names of users who have shared the dashboard along with the date and expiration date.</mrk><mrk
+            mtype="seg"
+            mid="2">You may also cancel the share.<ept
+              id="1">&lt;/li&gt;&lt;/ul&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Compartilhar<bpt
+              id="1">&lt;ul&gt;&lt;li&gt;</bpt>Relatórios compartilhados - Veja os nomes dos usuários que compartilharam o painel, além da data e da data de vencimento.</mrk><mrk
+            mtype="seg"
+            mid="2">Você também pode cancelar o compartilhamento.<ept
+              id="1">&lt;/li&gt;&lt;/ul&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="57"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>Use the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Dashboard Manager<ept
+            id="1">&lt;/span&gt;</ept> to build a new dashboard...</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Use the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Dashboard Manager<ept
+              id="1">&lt;/span&gt;</ept> to build a new dashboard...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Use o <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Gerenciador de Painéis<ept
+              id="1">&lt;/span&gt;</ept> para construir um novo painel...</mrk></target></trans-unit><trans-unit
+        id="58"
+        restype="x-li"
+        phase-name="pretrans"><source>Select the desired layout template, type in the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Dashboard Name<ept
+            id="1">&lt;/span&gt;</ept> and click <bpt
+            id="2">&lt;span class="uicontrol"&gt;</bpt>Save<ept
+            id="2">&lt;/span&gt;</ept>. The dialog closes to display the new dashboard name on the <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Dashboard Manager<ept
+            id="3">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Select the desired layout template, type in the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Dashboard Name<ept
+              id="1">&lt;/span&gt;</ept> and click <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Save<ept
+              id="2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The dialog closes to display the new dashboard name on the <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Dashboard Manager<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Selecione o modelo de layout desejado, digite o <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Nome do painel<ept
+              id="1">&lt;/span&gt;</ept> e clique em <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Salvar<ept
+              id="2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">A caixa de diálogo será fechada para exibir o nome do novo painel no <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Gerenciador de Painéis<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="59"
+        restype="x-li"
+        phase-name="pretrans"><source>(Optional) Click the new name to view and edit the dashboard properties, which include the following items:
+                                <bpt
+            id="1">&lt;ul&gt;</bpt><bpt
+            id="2">&lt;li&gt;</bpt>Status - Enabled by default.<ept
+            id="2">&lt;/li&gt;</ept><bpt
+            id="3">&lt;li&gt;</bpt>Tiles - A list of tiles currently assigned to the dashboard.<ept
+            id="3">&lt;/li&gt;</ept><bpt
+            id="4">&lt;li&gt;</bpt>Layout - Change layout template if desired.<ept
+            id="4">&lt;/li&gt;</ept><bpt
+            id="5">&lt;li&gt;</bpt>Dashboard Owner - A menu of valid users. By default, the <bpt
+            id="6">&lt;span class="wintitle"&gt;</bpt>Dashboard Owner<ept
+            id="6">&lt;/span&gt;</ept> has both <bpt
+            id="7">&lt;span class="wintitle"&gt;</bpt>View<ept
+            id="7">&lt;/span&gt;</ept> and <bpt
+            id="8">&lt;span class="wintitle"&gt;</bpt>Edit<ept
+            id="8">&lt;/span&gt;</ept> privileges.<ept
+            id="5">&lt;/li&gt;</ept><bpt
+            id="9">&lt;li&gt;</bpt>User Assignments - You may copy assignments from another dashboard, or select privileges from the list.<ept
+            id="9">&lt;/li&gt;</ept><bpt
+            id="10">&lt;li&gt;</bpt>Shared Reports - View the names of users who have shared the dashboard along with the date and expiration date. You may also cancel the share. Shared dashboards remain on this report for 60 days after expiration.<ept
+            id="10">&lt;/li&gt;</ept><ept
+            id="1">&lt;/ul&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">(Optional) Click the new name to view and edit the dashboard properties, which include the following items: <bpt
+              id="1">&lt;ul&gt;</bpt><bpt
+              id="2">&lt;li&gt;</bpt>Status - Enabled by default.</mrk><mrk
+            mtype="seg"
+            mid="2"><ept
+              id="2">&lt;/li&gt;</ept><bpt
+              id="3">&lt;li&gt;</bpt>Tiles - A list of tiles currently assigned to the dashboard.</mrk><mrk
+            mtype="seg"
+            mid="3"><ept
+              id="3">&lt;/li&gt;</ept><bpt
+              id="4">&lt;li&gt;</bpt>Layout - Change layout template if desired.</mrk><mrk
+            mtype="seg"
+            mid="4"><ept
+              id="4">&lt;/li&gt;</ept><bpt
+              id="5">&lt;li&gt;</bpt>Dashboard Owner - A menu of valid users.</mrk><mrk
+            mtype="seg"
+            mid="5">By default, the <bpt
+              id="6">&lt;span class="wintitle"&gt;</bpt>Dashboard Owner<ept
+              id="6">&lt;/span&gt;</ept> has both <bpt
+              id="7">&lt;span class="wintitle"&gt;</bpt>View<ept
+              id="7">&lt;/span&gt;</ept> and <bpt
+              id="8">&lt;span class="wintitle"&gt;</bpt>Edit<ept
+              id="8">&lt;/span&gt;</ept> privileges.</mrk><mrk
+            mtype="seg"
+            mid="6"><ept
+              id="5">&lt;/li&gt;</ept><bpt
+              id="9">&lt;li&gt;</bpt>User Assignments - You may copy assignments from another dashboard, or select privileges from the list.</mrk><mrk
+            mtype="seg"
+            mid="7"><ept
+              id="9">&lt;/li&gt;</ept><bpt
+              id="10">&lt;li&gt;</bpt>Shared Reports - View the names of users who have shared the dashboard along with the date and expiration date.</mrk><mrk
+            mtype="seg"
+            mid="8">You may also cancel the share.</mrk><mrk
+            mtype="seg"
+            mid="9">Shared dashboards remain on this report for 60 days after expiration.<ept
+              id="10">&lt;/li&gt;</ept><ept
+              id="1">&lt;/ul&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">(Opcional) Clique no novo nome para exibir e editar as propriedades do painel, que incluem os seguintes itens: <bpt
+              id="1">&lt;ul&gt;</bpt><bpt
+              id="2">&lt;li&gt;</bpt>Status - Ativado por padrão.</mrk><mrk
+            mtype="seg"
+            mid="2"><ept
+              id="2">&lt;/li&gt;</ept><bpt
+              id="3">&lt;li&gt;</bpt>Blocos - Uma lista dos blocos atualmente atribuídos ao painel.</mrk><mrk
+            mtype="seg"
+            mid="3"><ept
+              id="3">&lt;/li&gt;</ept><bpt
+              id="4">&lt;li&gt;</bpt>Layout - Altere o modelo de layout se desejado.</mrk><mrk
+            mtype="seg"
+            mid="4"><ept
+              id="4">&lt;/li&gt;</ept><bpt
+              id="5">&lt;li&gt;</bpt>Proprietário do painel - Um menu de usuários válidos.</mrk><mrk
+            mtype="seg"
+            mid="5">Por padrão, o <bpt
+              id="6">&lt;span class="wintitle"&gt;</bpt>Proprietário do painel<ept
+              id="6">&lt;/span&gt;</ept> tem privilégios de <bpt
+              id="7">&lt;span class="wintitle"&gt;</bpt>exibição<ept
+              id="7">&lt;/span&gt;</ept> e<bpt
+              id="8">&lt;span class="wintitle"&gt;</bpt>edição<ept
+              id="8">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="6"><ept
+              id="5">&lt;/li&gt;</ept><bpt
+              id="9">&lt;li&gt;</bpt>Atribuições de usuários - é possível copiar as atribuições de outro painel, ou selecionar os privilégios da lista.</mrk><mrk
+            mtype="seg"
+            mid="7"><ept
+              id="9">&lt;/li&gt;</ept><bpt
+              id="10">&lt;li&gt;</bpt>Relatórios compartilhados - Veja os nomes dos usuários que compartilharam o painel, além da data e da data de vencimento.</mrk><mrk
+            mtype="seg"
+            mid="8">Você também pode cancelar o compartilhamento.</mrk><mrk
+            mtype="seg"
+            mid="9">Os painéis compartilhados permanecem no relatório por 60 dias após o vencimento.<ept
+              id="10">&lt;/li&gt;</ept><ept
+              id="1">&lt;/ul&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="60"
+        restype="x-li"
+        phase-name="pretrans"><source>Select a desired <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Tile Group<ept
+            id="1">&lt;/span&gt;</ept> icon from the side navigation and select a list item. Tile Groups and list items include:<bpt
+            id="2">&lt;ul&gt;</bpt><bpt
+            id="3">&lt;li&gt;</bpt><bpt
+            id="4"
+            ctype="link">&lt;a href="c_scores_ww.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="7" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="8" />"&gt;</bpt>Scores<ept
+            id="4">&lt;/a&gt;</ept> - Multi Channel Summary and Response Comparison<ept
+            id="3">&lt;/li&gt;</ept><bpt
+            id="5">&lt;li&gt;</bpt><bpt
+            id="6"
+            ctype="link">&lt;a href="c_openends_ww.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="7" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="8" />"&gt;</bpt>Open Ends<ept
+            id="6">&lt;/a&gt;</ept> - Comment Review<ept
+            id="5">&lt;/li&gt;</ept><bpt
+            id="7">&lt;li&gt;</bpt><bpt
+            id="8"
+            ctype="link">&lt;a href="c_benchmarks_ww.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="7" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="8" />"&gt;</bpt>Benchmarks<ept
+            id="8">&lt;/a&gt;</ept> - Standard Benchmarks<ept
+            id="7">&lt;/li&gt;</ept><ept
+            id="2">&lt;/ul&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Select a desired <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Tile Group<ept
+              id="1">&lt;/span&gt;</ept> icon from the side navigation and select a list item.</mrk><mrk
+            mtype="seg"
+            mid="2">Tile Groups and list items include:<bpt
+              id="2">&lt;ul&gt;</bpt><bpt
+              id="3">&lt;li&gt;</bpt><bpt
+              id="4"
+              ctype="link">&lt;a href="c_scores_ww.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="7" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="8" />"&gt;</bpt>Scores<ept
+              id="4">&lt;/a&gt;</ept> - Multi Channel Summary and Response Comparison<ept
+              id="3">&lt;/li&gt;</ept><bpt
+              id="5">&lt;li&gt;</bpt><bpt
+              id="6"
+              ctype="link">&lt;a href="c_openends_ww.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="7" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="8" />"&gt;</bpt>Open Ends<ept
+              id="6">&lt;/a&gt;</ept> - Comment Review<ept
+              id="5">&lt;/li&gt;</ept><bpt
+              id="7">&lt;li&gt;</bpt><bpt
+              id="8"
+              ctype="link">&lt;a href="c_benchmarks_ww.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="7" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="8" />"&gt;</bpt>Benchmarks<ept
+              id="8">&lt;/a&gt;</ept> - Standard Benchmarks<ept
+              id="7">&lt;/li&gt;</ept><ept
+              id="2">&lt;/ul&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Selecione o ícone de um <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Grupo de blocos<ept
+              id="1">&lt;/span&gt;</ept> desejado na navegação lateral e selecione um item de lista.</mrk><mrk
+            mtype="seg"
+            mid="2">Os grupos de blocos e itens de lista incluem:<bpt
+              id="2">&lt;ul&gt;</bpt><bpt
+              id="3">&lt;li&gt;</bpt><bpt
+              id="4"
+              ctype="link">&lt;a href="c_scores_ww.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="7" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="8" />"&gt;</bpt>Pontuações<ept
+              id="4">&lt;/a&gt;</ept> - Resumo de múltiplos canais e Comparação de respostas<ept
+              id="3">&lt;/li&gt;</ept><bpt
+              id="5">&lt;li&gt;</bpt><bpt
+              id="6"
+              ctype="link">&lt;a href="c_openends_ww.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="7" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="8" />"&gt;</bpt>Perguntas abertas<ept
+              id="6">&lt;/a&gt;</ept> - Revisão de comentário<ept
+              id="5">&lt;/li&gt;</ept><bpt
+              id="7">&lt;li&gt;</bpt><bpt
+              id="8"
+              ctype="link">&lt;a href="c_benchmarks_ww.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="7" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="8" />"&gt;</bpt>Parâmetros de referência<ept
+              id="8">&lt;/a&gt;</ept> - Parâmetros de referência padrão<ept
+              id="7">&lt;/li&gt;</ept><ept
+              id="2">&lt;/ul&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="61"
+        restype="x-li"
+        phase-name="pretrans"><source>Click the <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Pin<ept
+            id="1">&lt;/span&gt;</ept> button (<ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/pin_button.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="13" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="14" />" MadCap:mediastyle="@media print { width: 29px;height: 32px;max-width: 29px;max-height: 32px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) of the desired tile. The <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Pin to Dashboard<ept
+            id="2">&lt;/span&gt;</ept> dialog displays.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click the <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Pin<ept
+              id="1">&lt;/span&gt;</ept> button (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/pin_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="13" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="14" />" MadCap:mediastyle="@media print { width: 29px;height: 32px;max-width: 29px;max-height: 32px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) of the desired tile.</mrk><mrk
+            mtype="seg"
+            mid="2">The <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Pin to Dashboard<ept
+              id="2">&lt;/span&gt;</ept> dialog displays.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique no botão <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Fixar<ept
+              id="1">&lt;/span&gt;</ept> (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/pin_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="13" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="14" />" MadCap:mediastyle="@media print { width: 29px;height: 32px;max-width: 29px;max-height: 32px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) do bloco desejado.</mrk><mrk
+            mtype="seg"
+            mid="2">A caixa de diálogo <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Fixar ao painel<ept
+              id="2">&lt;/span&gt;</ept> será exibida.</mrk></target></trans-unit><trans-unit
+        id="62"
+        restype="x-li"
+        phase-name="pretrans"><source>Select the desired dashboard and click <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Apply<ept
+            id="1">&lt;/span&gt;</ept>. The dialog closes to display the tile again.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Select the desired dashboard and click <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Apply<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">The dialog closes to display the tile again.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Selecione o painel desejado e clique em <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Aplicar<ept
+              id="1">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">A caixa de diálogo será fechada para exibir o bloco novamente.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

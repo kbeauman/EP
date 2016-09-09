@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="892" MadCap:lastWidth="914" xml:lang="fr-ca" MadCap:ignoredWords="">
+    <head>
+        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Créateur de tableaux de bord</title>
+    </head>
+    <body>
+        <h1>Créateur de tableaux de bord</h1>
+        <MadCap:snippetBlock src="Resources/Snippets/SectionShortDesc.flsnp" />
+        <ul>
+            <li>Mosaïque de tableaux de bord&#160;: <a href="c_scores_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Résultats</a>, <a href="c_benchmarks_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Repères</a> et <a href="c_openends_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Questions ouvertes</a></li>
+            <li><a href="t_share.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Comment partager un tableau de bord</a>
+            </li>
+        </ul>
+        <p>Le <span class="wintitle">Créateur de tableaux de bord</span> développe et organise des mosaïques dans les tableaux de bord afin de présenter des données au <a href="toc_viewer.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Visiteur de tableaux de bord</a>. Cette section d'<span class="wintitle">Aide</span> est propre au rôle du <span class="wintitle">Créateur de tableaux de bord</span>.</p>
+        <MadCap:snippetBlock src="Resources/Snippets/Usability.flsnp" />
+        <h2><a name="Side"></a>Navigation latérale<MadCap:keyword term="Navigation latérale;Navigation latérale:Menu" /></h2>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Sommaire: &lt;/i&gt;">Utilisez le regroupement d'icônes sur le côté gauche de l'application pour consulter ou créer des tableaux de bord ou des mosaïques.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>détails...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>La <span class="wintitle">navigation latérale</span> est une fonction basée sur l'autorisation qui affiche du côté gauche de l'écran des icônes pour se déplacer d'un environnement à un autre en un seul clic. Le but principal de ces environnements est de gérer les tableaux de bord pour la présentation de données. Chaque environnement est décrit brièvement dans le tableau suivant avec un lien pour des renseignements supplémentaires.</p>
+                <p>Un fil d'Ariane s'affiche sous la barre d'outils pour indiquer l'environnement et l'article que vous consultez. Par exemple: Si vous consultez le <span class="wintitle">Tableau de bord ABC</span>, le repère affiche: <span class="systemoutput">Tableaux de bord &gt; ABC</span>.</p>
+                <p>Chaque environnement offre un menu d'une ou plusieurs options au sein de l'environnement. Ce menu s'affiche près de la navigation latérale. Une sélection doit être effectuée dans le menu afin de passer à l'environnement sélectionné.</p>
+                <p>Le tableau suivant décrit chaque élément dans la navigation latérale:</p>
+                <table style="width: 100%; mc-table-style: url('Resources/TableStyles/Ref2Column.css'); margin-left: auto; margin-right: auto;" class="TableStyle-Ref2Column" cellspacing="0">
+                    <col class="TableStyle-Ref2Column-Column-Column1" />
+                    <col class="TableStyle-Ref2Column-Column-Column2" />
+                    <thead>
+                        <tr class="TableStyle-Ref2Column-Head-Header1">
+                            <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Élément</th>
+                            <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <img src="Resources/Images/show_icon.png" title="icône afficher" alt="icône afficher" MadCap:mediastyle="@media print { max-width: 7px;max-height: 12px; }" />Afficher/Masquer<MadCap:keyword term="Afficher" /></td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Chaque environnement comporte un menu d'options à afficher. Cliquez sur l'icône <span class="uicontrol">Masquer</span> (<img src="Resources/Images/hide_icon.png" title="icône masquer" alt="icône masquer" MadCap:mediastyle="@media print { max-width: 7px;max-height: 12px; }" />) pour maximiser votre affichage.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">
+                                <img src="Resources/Images/Dashboard_icon.png" title="icône Tableau de bord" alt="icône Tableau de bord" MadCap:mediastyle="@media print { max-width: 24px;max-height: 24px; }" />Tableaux de bord<MadCap:keyword term="Tableaux de bord" /></td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">
+                                <MadCap:snippetText src="Resources/Snippets/dashboardDesc.flsnp" /> Voir <a href="c_dashboards_about.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Consultation des tableaux de bord</a> pour des renseignements supplémentaires.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <img src="Resources/Images/scores_icon.png" title="icône repères" alt="icône repères" MadCap:mediastyle="@media print { max-width: 24px;max-height: 24px; }" />Résultats<MadCap:keyword term="Résultats" /></td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <MadCap:snippetText src="Resources/Snippets/ScoreDesc.flsnp" /> Voir <a href="c_scores_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Utilisation des résultats</a> pour des renseignements supplémentaires.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">
+                                <img src="Resources/Images/openEnds_icon.png" title="icône questions ouvertes" alt="icône questions ouvertes" MadCap:mediastyle="@media print { width: 24px;height: 22px;max-width: 24px;max-height: 22px; }" />Questions ouvertes<MadCap:keyword term="Questions ouvertes" /></td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">
+                                <MadCap:snippetText src="Resources/Snippets/OpenEnds.flsnp" /> Voir <a href="c_openends_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Utilisation des questions ouvertes</a> pour des renseignements supplémentaires.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                                <img src="Resources/Images/benchmarks_icon.png" title="icône Repères" alt="icône Repères" MadCap:mediastyle="@media print { max-width: 24px;max-height: 24px; }" />
+                                <MadCap:keyword term="Repères" />Repères</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" /> Voir <a href="c_benchmarks_ww.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Utilisation des repères</a> pour des renseignements supplémentaires.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyB-Column1-Body2">
+                                <img src="Resources/Images/tools_icon.png" title="icône outils" alt="icône outils" MadCap:mediastyle="@media print { max-width: 24px;max-height: 23px; }" />
+                                <MadCap:keyword term="Outils" />Outils</td>
+                            <td class="TableStyle-Ref2Column-BodyA-Column2-Body2">Cet environnement héberge le <a href="t_dashboard_new.htm#DashMgr" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Gestionnaire de tableau de bord</a> qui vous permet de créer et contrôler des tableaux de bord personnalisés. Voir <a href="t_dashboard_new.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Ajouter un tableau de bord</a> pour des renseignements supplémentaires.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p>
+            <MadCap:relatedTopics>
+                <MadCap:relatedTopic src="c_login.htm" />
+                <MadCap:relatedTopic src="r_toolbar.htm" />
+                <MadCap:relatedTopic src="c_dashboards_about.htm" />
+                <MadCap:relatedTopic src="c_dashboard_manager.htm" />
+                <MadCap:relatedTopic src="c_scores_ww.htm" />
+                <MadCap:relatedTopic src="c_openends_ww.htm" />
+                <MadCap:relatedTopic src="c_benchmarks_ww.htm" />
+                <MadCap:relatedTopic src="r_date.htm" />
+            </MadCap:relatedTopics>
+        </p>
+    </body>
+</html>

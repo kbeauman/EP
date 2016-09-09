@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="394" MadCap:lastWidth="1006" xml:lang="pt-br" MadCap:ignoredWords="">
+    <head><title>Visualizador de Painéis</title>
+    </head>
+    <body>
+        <h1>Visualizador de Painéis</h1>
+        <MadCap:snippetBlock src="Resources/Snippets/SectionShortDesc.flsnp" />
+        <ul>
+            <li><a href="c_dashboards_about_2.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Como exibir painéis</a></li>
+            <li><a href="c_dashboards_about_2.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Como compartilhar um painel</a></li>
+        </ul>
+        <p>O <span class="wintitle">Visualizador de Painéis</span> é o consumidor ou destinatário dos painéis personalizados pelo <a title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda." href="toc_creator1.htm">Criador de Painéis</a>. Esta seção da <span class="wintitle">Ajuda</span> é específica à função <span class="wintitle">Visualizador de Painéis</span>.</p>
+        <MadCap:snippetBlock src="Resources/Snippets/Usability.flsnp" />
+        <h2><a name="Dashboard" />N<MadCap:keyword term="Navegação" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />avegação de painéis</h2>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Use o controle de navegação circular para exibir os painéis disponíveis. Clique nos separadores verticais para exibir um painel.</p>
+        <p>O recurso de navegação de painéis é um controle interativo baseado em permissão exibido abaixo da <a href="r_toolbar.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">barra de ferramentas</a> para acesso aos seus painéis. Cada seção contém o nome de um determinado <a href="c_dashboards_about.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">painel</a>, e o canal de dados e o número de blocos que compõem o painel. Clique nos botões de rolagem em uma das extremidades para acessar mais painéis.</p>
+        <p>
+            <MadCap:relatedTopics>
+                <MadCap:relatedTopic src="c_login_2.htm" />
+                <MadCap:relatedTopic src="r_toolbar_2.htm" />
+            </MadCap:relatedTopics>
+        </p>
+    </body>
+</html>

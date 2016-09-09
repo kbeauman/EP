@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultAutoIndexSet xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="">
+    <AutoIndex Phrase="This is my auto-indexed phrase" IndexTerm="Linked To This:And This" />
+</CatapultAutoIndexSet>

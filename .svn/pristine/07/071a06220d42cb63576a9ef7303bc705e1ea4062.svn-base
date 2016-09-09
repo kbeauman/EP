@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="buildopenend2.htm"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="buildopenend2.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">15</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">8</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Click Open Ends icon.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click Open Ends icon.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique em ícone Abertas</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>open ends icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">open ends icon</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">ícone abertas</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Go to Open Ends &gt; Comment Review.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Go to Open Ends &gt; Comment Review.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Ir para Perguntas abertas &gt; Revisão de comentário.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>Open Ends sidebar</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Open Ends sidebar</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Barra lateral Pontuações</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Clique aqui para exibir este tópico de Ajuda.</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-title"
+        phase-name="pretrans"><source>Build Open End 1</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build Open End 1</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Construir perguntas abertas 1</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-h1"
+        phase-name="pretrans"><source>Build a New Open Ends Tile - Step 1</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Build a New Open Ends Tile - Step 1</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Construir um novo bloco de perguntas abertas - Passo 1</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-p"
+        phase-name="pretrans"><source>On the side navigation, click the <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Open Ends<ept
+            id="1">&lt;/span&gt;</ept> icon (<ph
+            id="1"
+            ctype="image">&lt;img src="Resources/Images/openEnds_icon.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="2" />" /&gt;</ph>) and select <bpt
+            id="2">&lt;span class="uicontrol"&gt;</bpt>Comment Review<ept
+            id="2">&lt;/span&gt;</ept> from the <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Open Ends<ept
+            id="3">&lt;/span&gt;</ept> sidebar.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">On the side navigation, click the <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Open Ends<ept
+              id="1">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/openEnds_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="2" />" /&gt;</ph>) and select <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Comment Review<ept
+              id="2">&lt;/span&gt;</ept> from the <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Open Ends<ept
+              id="3">&lt;/span&gt;</ept> sidebar.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">No painel de navegação lateral, clique no ícone de <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>perguntas abertas<ept
+              id="1">&lt;/span&gt;</ept> (<ph
+              id="1"
+              ctype="image">&lt;img src="Resources/Images/openEnds_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="2" />" /&gt;</ph>) e selecione <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Revisão de comentário<ept
+              id="2">&lt;/span&gt;</ept> na barra lateral <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Perguntas abertas<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-h3"
+        phase-name="pretrans"><source>Additional Information</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Additional Information</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Informações adicionais</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="toc_creator1.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="5" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="6" />"&gt;</bpt>Side Navigation &gt;<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="toc_creator1.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="5" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="6" />"&gt;</bpt>Side Navigation &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="toc_creator1.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="5" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="6" />"&gt;</bpt>Navegação lateral<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-h3"
+        phase-name="pretrans"><source>Next Step</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Next Step</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Próximo passo</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link">&lt;a href="buildopenend3.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="5" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="6" />"&gt;</bpt>Step 2 &gt;<ept
+            id="1">&lt;/a&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="buildopenend3.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="5" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="6" />"&gt;</bpt>Step 2 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1"
+              ctype="link">&lt;a href="buildopenend3.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="5" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="6" />"&gt;</bpt>Passo 2 &gt;<ept
+              id="1">&lt;/a&gt;</ept></mrk></target></trans-unit></body>
+  </file>
+</xliff>

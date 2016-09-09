@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="fr-ca" MadCap:ignoredWords="" MadCap:tocPath="Bienvenue au Portail exécutif|Guide de démarrage rapide" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="fr-ca" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Constituer un Repères 1</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapAll.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#buildbenchmark1.htm" style="">Ouvert de navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bienvenue au Portail exécutif</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="quickstartmain.htm">Guide de démarrage rapide</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Constituer un Repères 1</span>
+        </div>
+        <h1>Créer une nouvelle mosaïque de repères - Étape 1</h1>
+        <p>Dans la <a title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide." href="toc_creator1.htm">navigation latérale</a>, cliquez sur l'icône the <span class="uicontrol">Repères</span> (<img src="Resources/Images/benchmarks_icon.png" title="icône Repères" alt="icône Repères" />), puis sur <span class="uicontrol">Repères standards</span> dans la barre latérale des <span class="wintitle">Repères</span>.</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildbench1.png" title="Aller à Repères &gt; Repères standards" alt="barre de navigation latérale Repéres" />
+        </p>
+        <h3>Renseignements supplémentaires</h3>
+        <p><a href="toc_creator1.htm#Side" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Navigation latérale</a>
+        </p>
+        <h3>Étape suivante</h3>
+        <p><a href="buildbenchmark2.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Étape 2 &gt;</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

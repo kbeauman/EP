@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:tocPath="Welcome to Executive Portal|Dashboard Viewer" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="en-us" xml:lang="en-us" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>About Scores</title>
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/TableStyles/Blind.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/MadCapAll.js">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#c_scores_about.htm" style="">Open topic with navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Welcome to Executive Portal</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="toc_viewer.htm">Dashboard Viewer</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">About Scores</span>
+        </div>
+        <h1>About Score Tiles</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;"><span class="autonumber"><span><i>Summary: </i></span></span>Response scores presented as a graphic image.</p>
+        <p>A <span class="wintitle">Score</span> is a numeric value, ranging from zero to one hundred, which represents a specific measure. <span class="wintitle">Executive Portal</span> offers the following types of scores:</p>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_3816003251_0" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Collapsed" MadCap:alt2="Expanded" class="MCDropDownIcon" />Multi Channel Summary</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_3816003251_0" style="display: none;">
+                <p>This is two or more scores presented in either a doughnut chart or spreadsheet type grid. Additional information about theses scores can be displayed by clicking the <span class="uicontrol">Expand</span> icon (<img src="Resources/Images/expand.png" alt="expand icon" />) the header.</p>
+                <h3>Doughnut Chart View </h3>
+                <p style="text-align: center;"><a href="javascript:void(0);" MadCap:popupSrc="Resources/Images/doughnutChart.png" MadCap:popupWidth="488" MadCap:popupHeight="299" MadCap:popupAlt="doughnut chart" onclick="FMCPopupThumbnail_Onclick( event, this ); return false;" tabindex=""><img class="MCPopupThumbnail_0" src="Resources/Images/doughnutChart_thumb_0_48.png" style="width: 78px;height: 48px;" alt="doughnut chart" title="Click to enlarge. Click again to close." /></a>
+                </p>
+                <div class="tip" MadCap:autonum="&lt;b&gt;TIP: &lt;/b&gt;"><span class="autonumber"><span><b>TIP: </b></span></span>Mouse over chart elements to view lower number scores. When several scores have lower values the labels may be hidden. You can view these labels by positioning the cursor over each chart element.</div>
+                <p>This interactive view shows the score for each channel with a sparkline and <span class="wintitle">Combined Score</span> in the center. Click each of the following elements to view a drill-down of the data:</p>
+                <ul>
+                    <li value="1"><span class="wintitle">Channel Score Label</span> - Consisting of the channel, score, and n Count, this element displays the <span class="wintitle">Summary</span>, <span class="wintitle">Elements</span>, and <span class="wintitle">Future Behaviors</span> data which make up the measure. </li>
+                    <li value="2"><span class="wintitle">Sparkline</span> - View a line chart with data points of the total score during the selected date range, along with <span class="wintitle">Summary</span> data consisting of <span class="wintitle">Score</span>, <span class="wintitle">Weight</span>, and <span class="wintitle">n Count</span>.
+					<div class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;"><span class="autonumber"><span><b>NOTE: </b></span></span>Sparklines of less than a 60 day duration are shown in daily increments. For periods exceeding 60 days, sparklines are shown in weekly increments.</div></li>
+                    <li value="3"><span class="wintitle">Combined Score</span> - Consisting of the name, score, and n Count, this element displays the same information as the sparkline.</li>
+                </ul>
+                <h3>Grid View </h3>
+                <p>This interactive table offers the following features:</p>
+                <ul>
+                    <li value="1"><span class="wintitle">Combined Score</span> - Click the table header to view Summary data consisting of <span class="wintitle">Score</span>, <span class="wintitle">Weight</span>, and <span class="wintitle">n Count</span>.</li>
+                    <li value="2"><span class="wintitle">Sort-by-column</span> - Click any column header to sort the data by the selected column values with the lowest value first. Click again to reverse the order.</li>
+                    <li value="3"><span class="wintitle">Channel Score</span> - Click each line item to view the <span class="wintitle">Summary</span>, <span class="wintitle">Elements</span>, and <span class="wintitle">Future Behaviors</span> data which make up the measure. </li>
+                </ul>
+            </div>
+        </div>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_3816003251_1" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Collapsed" MadCap:alt2="Expanded" class="MCDropDownIcon" />Response Comparison</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_3816003251_1" style="display: none;">
+                <p>These tiles show data from a single question and specific measure. Additional information about theses scores can be displayed by clicking the <span class="uicontrol">Expand</span> icon (<img src="Resources/Images/expand.png" alt="expand icon" />) the header.</p>
+                <h3>Pie Chart View</h3>
+                <p style="text-align: center;"><a href="javascript:void(0);" MadCap:popupSrc="Resources/Images/pieChart.png" MadCap:popupWidth="421" MadCap:popupHeight="375" MadCap:popupAlt="pie chart" onclick="FMCPopupThumbnail_Onclick( event, this ); return false;" tabindex=""><img class="MCPopupThumbnail_0" src="Resources/Images/pieChart_thumb_0_48.png" style="width: 54px;height: 48px;" alt="pie chart" title="Click to enlarge. Click again to close." /></a>
+                </p>
+                <p>Pie charts are organized by scores,  with the lowest score at the top and increasing scores progressing counterclockwise. However, you can temporarily change the sequence by selecting the desired sort order from the <span class="wintitle">Sort</span> menu (<img src="Resources/Images/SegArrMenuIcon.png" alt="segment arrangement menu icon" />) during your session. When you leave your session, the sort order returns to the default sequence. Each section (space permitting) is labeled with the question response, score, and percent of responses (n Count). In the following image:
+</p>
+                <table style="mc-table-style: url('Resources/TableStyles/Blind.css');margin-left: auto;margin-right: auto;" class="TableStyle-Blind" cellspacing="0">
+                    <col class="TableStyle-Blind-Column-Column1" style="width: 50%;" />
+                    <col class="TableStyle-Blind-Column-Column2" style="width: 50%;" />
+                    <tbody>
+                        <tr class="TableStyle-Blind-Body-Body1">
+                            <td class="TableStyle-Blind-BodyB-Column1-Body1">
+                                <ul>
+                                    <li value="1"> Question response = 5</li>
+                                    <li value="2">Score = 56</li>
+                                    <li value="3">Percent of responses = 3%</li>
+                                    <li value="4">n Count = 1</li>
+                                </ul>
+                            </td>
+                            <td class="TableStyle-Blind-BodyA-Column2-Body1">
+                                <img src="Resources/Images/scoreLabel.png" title="score label" alt="score label" />
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>When several responses have a low <span class="wintitle">n Count</span>, the label for each only displays when you mouse-over the pie chart section. Also, when a question response is truncated, click the label or pie section to view the entire response in the sidebar.</p>
+                <h3>Bar Chart View</h3>
+                <table class="TableStyle-Blind" style="mc-table-style: url('Resources/TableStyles/Blind.css');margin-left: auto;margin-right: auto;" cellspacing="0">
+                    <col style="width: 50%;" class="TableStyle-Blind-Column-Column1" />
+                    <col style="width: 50%;" class="TableStyle-Blind-Column-Column2" />
+                    <tbody>
+                        <tr class="TableStyle-Blind-Body-Body1">
+                            <td class="TableStyle-Blind-BodyB-Column1-Body1" style="text-align: center;"><a href="javascript:void(0);" MadCap:popupSrc="Resources/Images/barChart.png" MadCap:popupWidth="626" MadCap:popupHeight="399" MadCap:popupAlt="vertical bar chart" onclick="FMCPopupThumbnail_Onclick( event, this ); return false;" tabindex=""><img class="MCPopupThumbnail_0" src="Resources/Images/barChart_thumb_0_48.png" style="width: 75px;height: 48px;" alt="vertical bar chart" title="Click to enlarge. Click again to close." /></a>
+                            </td>
+                            <td class="TableStyle-Blind-BodyA-Column2-Body1" style="text-align: center;"><a href="javascript:void(0);" MadCap:popupSrc="Resources/Images/barChartHorizontal.png" MadCap:popupWidth="621" MadCap:popupHeight="414" MadCap:popupAlt="horizontal bar chart" onclick="FMCPopupThumbnail_Onclick( event, this ); return false;" tabindex=""><img class="MCPopupThumbnail_0" src="Resources/Images/barChartHorizontal_thumb_0_48.png" style="width: 72px;height: 48px;" alt="horizontal bar chart" title="Click to enlarge. Click again to close." /></a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p> Vertical Bar Chart and  Horizontal Bar Chart - Bar Charts are based on <span class="wintitle">n Count</span>, i.e., each bar's height/length represents the percentage of responses. By default, ratings are sorted by the response options for the selected <span class="wintitle">Question</span>, e.g., a <span class="wintitle">Question</span> having response options of <span class="wintitle">Yes</span>, <span class="wintitle">No</span>, and <span class="wintitle">Not Sure</span> shows ratings in this same sequence. However, you can temporarily change the sequence by selecting the desired sort order from the <span class="wintitle">Sort</span> menu (<img src="Resources/Images/SegArrMenuIcon.png" alt="segment arrangement menu icon" />) during your session. When you leave your session, the sort order returns to the default sequence.</p>
+                <h3>Grid View</h3>
+                <p>By default, ratings are sorted by the response options for the selected <span class="wintitle">Question</span>, e.g., a <span class="wintitle">Question</span> having response options of <span class="wintitle">Yes</span>, <span class="wintitle">No</span>, and <span class="wintitle">Not Sure</span> shows ratings in this same sequence. However, you may sort by column heading. Click the desired column heading once to sort in descending order (highest to lowest) and twice for ascending order (lowest to highest).</p>
+                <p>Each view is interactive to display a sparkline and <span class="wintitle">Summary</span> data for each item clicked. </p>
+            </div>
+        </div>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_3816003251_2" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Collapsed" MadCap:alt2="Expanded" class="MCDropDownIcon" />Score Summary</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_3816003251_2" style="display: none;">
+                <p>The <span class="wintitle">Score Summary</span> tile displays a numeric value of each measure to provide a quick review of any or all scores for a set time frame. Scores are organized by the categories of <span class="wintitle">Elements</span> (also known as the <span class="wintitle">Drivers of Satisfaction</span>), <span class="wintitle">Satisfaction</span>, and <span class="wintitle">Future Behaviors</span> (how a visitor is most likely to respond as a result of the experience). </p>
+                <p>Scores are presented as a grid or individual cells, with each score displaying a sparkline in the right sidebar when selected. Grids may be temporarily sorted by column in either ascending or descending order by clicking the column header. However, the default sort order is re-applied when you log out.</p>
+            </div>
+        </div>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_3816003251_3" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Collapsed" MadCap:alt2="Expanded" class="MCDropDownIcon" />Trend Correlation</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_3816003251_3" style="display: none;">
+                <p>This tile consists of interactive trend lines for one or more scores to provide a visual correlation between trends. The following interactive features are available:</p>
+                <ul>
+                    <li value="1">Click a point on a trend line to display scores for that point/period in a sidebar.</li>
+                    <li value="2"> Right-click the trend line to display handles at the top and bottom which allow you to adjust the height of the trend line, as well as drag and drop the trend line. This allows you to stack multiple scores, or overlay them as desired (as illustrated in the following images). You may also show correlations over time (see the following section <span class="wintitle">Horizontal Variance</span> for additional information).</li>
+                    <li value="3">Click <span class="uicontrol">Reset</span> to view the tile with no vertical or horizontal adjustments. This is temporary when viewing on <span class="wintitle">Dashboards</span>, where adjustments are implemented again when you leave the dashboard.</li>
+                    <li value="4">Click the label in the header to hide or show the line. Click the <span class="uicontrol">Data</span> icon (<img src="Resources/Images/LabelToggleIcon.png" alt="toggle labels icon"></img>) in the header for the desired trend line to hide or show markers of key points along the trend.</li>
+                    <li value="5">A label displays when you hover over the trend line at a specific point with the score and date.</li>
+                </ul>
+                <table class="TableStyle-Blind" style="mc-table-style: url('Resources/TableStyles/Blind.css');border-left-style: solid;border-left-width: 1px;border-left-color: #ffffff;border-right-style: solid;border-right-width: 1px;border-right-color: #ffffff;border-top-style: solid;border-top-width: 1px;border-top-color: #ffffff;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ffffff;margin-left: auto;margin-right: auto;" cellspacing="0">
+                    <col style="width: 416px;" class="TableStyle-Blind-Column-Column1" />
+                    <col style="width: 50%;" class="TableStyle-Blind-Column-Column2" />
+                    <tbody>
+                        <tr class="TableStyle-Blind-Body-Body1">
+                            <td class="TableStyle-Blind-BodyB-Column1-Body1" style="text-align: center;"><a href="javascript:void(0);" MadCap:popupSrc="Resources/Images/ScoreCorrRevStacked.png" MadCap:popupWidth="822" MadCap:popupHeight="565" MadCap:popupAlt="Trend Correlation Stacked" onclick="FMCPopupThumbnail_Onclick( event, this ); return false;" tabindex=""><img class="MCPopupThumbnail_0" src="Resources/Images/ScoreCorrRevStacked_thumb_100_100.png" style="width: 100px;height: 69px;" alt="Trend Correlation Stacked" title="Click to enlarge. Click again to close." /></a>
+                            </td>
+                            <td class="TableStyle-Blind-BodyA-Column2-Body1" style="text-align: center;"><a href="javascript:void(0);" MadCap:popupSrc="Resources/Images/ScoreCorrRev.png" MadCap:popupWidth="822" MadCap:popupHeight="565" MadCap:popupAlt="Trend Correlation Overlayed" onclick="FMCPopupThumbnail_Onclick( event, this ); return false;" tabindex=""><img class="MCPopupThumbnail_0" src="Resources/Images/ScoreCorrRev_thumb_100_100.png" style="width: 100px;height: 69px;" alt="Trend Correlation Overlayed" title="Click to enlarge. Click again to close." /></a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>Horizontal Variance</h3>
+                <p>Trend lines may be offset to show a correlation over a period of time. When a trend line is moved horizontally, the tile indicates the number of days the line has moved along the top of the trend line. The following image shows the correlation between <span class="wintitle">Product Browsing</span> scores and <span class="wintitle">Repeat Purchases</span> over a 90 day period. In this example, you can predict the impact <span class="wintitle">Product Browsing</span> scores will have on <span class="wintitle">Repeat Purchases</span> 90 days in advance.</p>
+                <p style="text-align: center;"><a href="javascript:void(0);" MadCap:popupSrc="Resources/Images/trendOffset.png" MadCap:popupWidth="822" MadCap:popupHeight="565" MadCap:popupAlt="Trend Offset Example" onclick="FMCPopupThumbnail_Onclick( event, this ); return false;" tabindex=""><img class="MCPopupThumbnail_0" src="Resources/Images/trendOffset_thumb_100_100.png" style="width: 100px;height: 69px;" alt="Trend Offset Example" title="Click to enlarge. Click again to close." /></a>
+                </p>
+            </div>
+        </div>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/../../FR_CA/ExecutivePortalHelp/Output/EP_Help/Default.htm"
+  BuildVersion="10.1.0.0"
+  AliasFile="/../../FR_CA/ExecutivePortalHelp/Output/EP_Help/Data/Alias.xml">
+  <Files />
+  <Skins>
+    <Url
+      Source="../../FR_CA/ExecutivePortalHelp/Output/EP_Help/Data/SkinDefault/Skin.xml" />
+    <Url
+      Source="../../FR_CA/ExecutivePortalHelp/Output/EP_Help/Data/SkinEP_Help/Skin.xml" />
+  </Skins>
+</CatapultTargetOutput>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="es" MadCap:ignoredWords="" MadCap:tocPath="Bienvenido al Portal Ejecutivo.|Guía de comienzo rápido|Crear un nuevo tablero" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="es" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Crear tablero 2</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapAll.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#builddash2.htm" style="">Abierto de navegación</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bienvenido al Portal Ejecutivo.</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="quickstartmain.htm">Guía de comienzo rápido</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="builddash1.htm">Crear un nuevo tablero</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Cómo usar la botón Fijar</span>
+        </div>
+        <h1>Cómo usar la botón Fijar</h1>
+        <p>Al hacer clic en el botón <span class="uicontrol">Fijar </span>(<img src="Resources/Images/pin_button.png" title="botón Fijar" alt="botón Fijar" />), se abre el cuadro de diálogo <span class="wintitle">Fijar en el tablero </span>con la opción <span class="wintitle">Añadir a tablero existente </span>como ajuste predeterminado. Puede seleccionar un tablero del menú o hacer clic en <span class="wintitle">Añadir a nuevo tablero </span>para ver las opciones de diseño del tablero.</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildtile9.png" title="Cuadro de diálogo Fijar en el tablero" alt="Cuadro de diálogo Fijar en el tablero" />
+        </p>
+        <h3>Paso siguiente</h3>
+        <p><a href="builddash3.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Paso 2 &gt;</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

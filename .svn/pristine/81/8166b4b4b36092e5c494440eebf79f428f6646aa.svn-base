@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="es" MadCap:ignoredWords="" MadCap:tocPath="Bienvenido al Portal Ejecutivo.|Guía de comienzo rápido|Crear un nuevo mosaico de preguntas abiertas" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="es" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Crear Comentarios 3</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapAll.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#buildopenend4.htm" style="">Abierto de navegación</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bienvenido al Portal Ejecutivo.</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="quickstartmain.htm">Guía de comienzo rápido</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="buildopenend1.htm">Crear un nuevo mosaico de preguntas abiertas</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Crear un nuevo mosaico de preguntas abiertas - Paso 3</span>
+        </div>
+        <h1>Crear un nuevo mosaico de preguntas abiertas - Paso 3</h1>
+        <p>Seleccione el <span class="wintitle">Canal</span> y la <span class="wintitle">Medida</span> deseados. Algunas combinaciones ofrecen filtros que existen en el <span class="wintitle">Portal analítico </span>y que se pueden aplicar si el usuario lo desea. El enlace con forma de doble cheurón abre la página de <span class="wintitle">Filtros </span>del <span class="wintitle">Portal analítico </span>para editar los filtros existentes o crear un filtro nuevo.</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildtile4.png" title="Fijar canal, medida, y filtro." alt="Selección de datos " style="mc-float: center;" />
+        </p>
+        <h3>Paso siguiente</h3>
+        <p><a href="buildopenend5.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Paso 4 &gt;</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

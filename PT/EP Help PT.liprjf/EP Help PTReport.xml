@@ -1,0 +1,1912 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project name="EP Help PT.liprj">
+    <translationMemory name="LingoLocal" local="True" />
+    <summary>
+        <duplicates characters="1712" words="393" segments="83" />
+        <translated characters="48008" words="9944" segments="1402" />
+        <context_Match characters="7033" words="1450" segments="107" />
+        <exact_Match characters="4688" words="1004" segments="162" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="20" words="4" segments="2" Min="50%" Max="74%" />
+        <no_Match characters="81" words="17" segments="6" />
+        <totals characters="61542" words="12812" segments="1762" />
+    </summary>
+    <file location="Source\Project\Advanced\Auto Index Sets\AutoIndexSet.flaix" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="46" words="9" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="46" words="9" segments="2" />
+    </file>
+    <file location="Source\Project\Advanced\Browse Sequences\BrowseSequence.flbrs" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="10" words="2" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="10" words="2" segments="1" />
+    </file>
+    <file location="Source\Project\Advanced\BrowseSequence.flbrs" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="119" words="20" segments="7" />
+        <context_Match characters="0" words="7" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="119" words="20" segments="7" />
+    </file>
+    <file location="Source\Content\c_benchmarks_ww.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="2985" words="592" segments="60" />
+        <context_Match characters="0" words="60" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="2985" words="592" segments="60" />
+    </file>
+    <file location="Source\Content\c_dashboard_manager.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="4714" words="942" segments="106" />
+        <context_Match characters="0" words="106" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="4714" words="942" segments="106" />
+    </file>
+    <file location="Source\Content\c_dashboards_about.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="1191" words="245" segments="45" />
+        <context_Match characters="0" words="45" segments="0" />
+        <exact_Match characters="54" words="10" segments="2" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="1245" words="255" segments="47" />
+    </file>
+    <file location="Source\Content\c_dashboards_about_2.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="927" words="190" segments="39" />
+        <context_Match characters="0" words="39" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="927" words="190" segments="39" />
+    </file>
+    <file location="Source\Content\c_login.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="17" words="4" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="17" words="4" segments="1" />
+    </file>
+    <file location="Source\Content\c_login_2.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="17" words="4" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="17" words="4" segments="1" />
+    </file>
+    <file location="Source\Content\c_openends_ww.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="1444" words="282" segments="31" />
+        <context_Match characters="0" words="31" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="1444" words="282" segments="31" />
+    </file>
+    <file location="Source\Content\c_scores_ww.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="5721" words="1144" segments="126" />
+        <context_Match characters="942" words="126" segments="11" />
+        <exact_Match characters="431" words="92" segments="7" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="7094" words="1434" segments="144" />
+    </file>
+    <file location="Source\Content\c_welcome.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="2682" words="530" segments="58" />
+        <context_Match characters="0" words="58" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="2682" words="530" segments="58" />
+    </file>
+    <file location="Source\Content\cover.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="35" words="6" segments="3" />
+        <context_Match characters="0" words="3" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="35" words="6" segments="3" />
+    </file>
+    <file location="Source\Content\Resources\PageLayouts\Default.flpgl" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="24" words="5" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="24" words="5" segments="1" />
+    </file>
+    <file location="Source\Project\Skins\Default.flskn" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="20" words="5" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="20" words="5" segments="1" />
+    </file>
+    <file location="Source\Project\Skins\EP_Help.flskn" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="85" words="17" segments="9" />
+        <context_Match characters="0" words="9" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="85" words="17" segments="9" />
+    </file>
+    <file location="Source\Project\Glossaries\Glossary.flglo" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="18" words="4" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="18" words="4" segments="2" />
+    </file>
+    <file location="Source\Project\Skins\HTML5.flskn" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="9" words="2" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="9" words="2" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\MasterPages\Main.flmsp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="14" words="5" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="14" words="5" segments="1" />
+    </file>
+    <file location="Source\Project\TOCs\Master.fltoc" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="1279" words="328" segments="60" />
+        <context_Match characters="0" words="60" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="1279" words="328" segments="60" />
+    </file>
+    <file location="Source\Project\Skins\Mobile.flskn" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="10" words="2" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="10" words="2" segments="1" />
+    </file>
+    <file location="Source\Project\Advanced\NewSequence.flbrs" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="10" words="2" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="10" words="2" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\PageLayouts\Print.flpgl" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="24" words="5" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="24" words="5" segments="1" />
+    </file>
+    <file location="Source\Content\r_date.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="2490" words="509" segments="55" />
+        <context_Match characters="0" words="55" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="2490" words="509" segments="55" />
+    </file>
+    <file location="Source\Content\r_toolbar.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="30" words="5" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="30" words="5" segments="1" />
+    </file>
+    <file location="Source\Content\r_toolbar_2.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="30" words="5" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="30" words="5" segments="1" />
+    </file>
+    <file location="Source\Project\Advanced\Search Filters\SearchFilter.flsfs" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="8" words="2" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="8" words="2" segments="1" />
+    </file>
+    <file location="Source\Project\Skins\Snappy.flskn" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="28" words="5" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="28" words="5" segments="2" />
+    </file>
+    <file location="Source\Project\Skins\Snappy1.flskn" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="9" words="2" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="9" words="2" segments="1" />
+    </file>
+    <file location="Source\Project\Skins\Snappy2.flskn" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="28" words="5" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="28" words="5" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Stylesheets\Styles.css" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="53" words="8" segments="4" />
+        <context_Match characters="0" words="4" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="53" words="8" segments="4" />
+    </file>
+    <file location="Source\Content\t_dashboard_new.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="142" words="33" segments="3" />
+        <context_Match characters="0" words="3" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="142" words="33" segments="3" />
+    </file>
+    <file location="Source\Content\t_share.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="704" words="160" segments="16" />
+        <context_Match characters="0" words="16" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="704" words="160" segments="16" />
+    </file>
+    <file location="Source\Content\t_share_2.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="151" words="38" segments="5" />
+        <context_Match characters="0" words="5" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="151" words="38" segments="5" />
+    </file>
+    <file location="Source\Content\toc_creator1.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="2236" words="444" segments="70" />
+        <context_Match characters="0" words="70" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="2236" words="444" segments="70" />
+    </file>
+    <file location="Source\Content\toc_print.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="30" words="6" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="30" words="6" segments="2" />
+    </file>
+    <file location="Source\Content\toc_viewer.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="1100" words="209" segments="26" />
+        <context_Match characters="0" words="26" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="1100" words="209" segments="26" />
+    </file>
+    <file location="Source\Project\VariableSets\Variables.flvar" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="24" words="5" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="24" words="5" segments="2" />
+    </file>
+    <file location="Target\Index.liindexmap" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="305" words="47" segments="37" />
+        <context_Match characters="0" words="37" segments="0" />
+        <exact_Match characters="12" words="2" segments="2" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="317" words="49" segments="39" />
+    </file>
+    <file location="Source\Content\buildbenchmark1.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="242" words="53" segments="12" />
+        <context_Match characters="0" words="12" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="242" words="53" segments="12" />
+    </file>
+    <file location="Source\Content\buildbenchmark2.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="133" words="31" segments="7" />
+        <context_Match characters="0" words="7" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="133" words="31" segments="7" />
+    </file>
+    <file location="Source\Content\buildbenchmark3.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="151" words="40" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="151" words="40" segments="8" />
+    </file>
+    <file location="Source\Content\buildbenchmark4.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="138" words="36" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="138" words="36" segments="8" />
+    </file>
+    <file location="Source\Content\buildbenchmark5.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="257" words="56" segments="12" />
+        <context_Match characters="0" words="12" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="257" words="56" segments="12" />
+    </file>
+    <file location="Source\Content\buildbenchmark6.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="269" words="56" segments="12" />
+        <context_Match characters="0" words="12" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="269" words="56" segments="12" />
+    </file>
+    <file location="Source\Content\buildbenchmark7.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="155" words="38" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="155" words="38" segments="8" />
+    </file>
+    <file location="Source\Content\builddash1.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="186" words="42" segments="9" />
+        <context_Match characters="0" words="9" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="186" words="42" segments="9" />
+    </file>
+    <file location="Source\Content\builddash2.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="136" words="32" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="136" words="32" segments="8" />
+    </file>
+    <file location="Source\Content\builddash3.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="210" words="46" segments="9" />
+        <context_Match characters="0" words="9" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="210" words="46" segments="9" />
+    </file>
+    <file location="Source\Content\builddash4.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="245" words="51" segments="11" />
+        <context_Match characters="0" words="11" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="245" words="51" segments="11" />
+    </file>
+    <file location="Source\Content\builddash5.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="252" words="51" segments="9" />
+        <context_Match characters="0" words="9" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="252" words="51" segments="9" />
+    </file>
+    <file location="Source\Content\buildopenend1.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="226" words="53" segments="12" />
+        <context_Match characters="0" words="12" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="226" words="53" segments="12" />
+    </file>
+    <file location="Source\Content\buildopenend2.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="349" words="83" segments="15" />
+        <context_Match characters="0" words="15" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="349" words="83" segments="15" />
+    </file>
+    <file location="Source\Content\buildopenend3.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="214" words="51" segments="12" />
+        <context_Match characters="0" words="12" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="214" words="51" segments="12" />
+    </file>
+    <file location="Source\Content\buildopenend4.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="146" words="37" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="146" words="37" segments="8" />
+    </file>
+    <file location="Source\Content\buildopenend5.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="135" words="37" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="135" words="37" segments="8" />
+    </file>
+    <file location="Source\Content\buildopenend6.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="122" words="33" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="122" words="33" segments="8" />
+    </file>
+    <file location="Source\Content\buildopenend7.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="135" words="35" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="135" words="35" segments="8" />
+    </file>
+    <file location="Source\Content\buildopenend8.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="152" words="41" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="152" words="41" segments="8" />
+    </file>
+    <file location="Source\Content\buildopenend9.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="178" words="44" segments="10" />
+        <context_Match characters="0" words="10" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="178" words="44" segments="10" />
+    </file>
+    <file location="Source\Content\buildscore1.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="210" words="45" segments="11" />
+        <context_Match characters="0" words="11" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="210" words="45" segments="11" />
+    </file>
+    <file location="Source\Content\buildscore2.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="216" words="50" segments="12" />
+        <context_Match characters="0" words="12" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="216" words="50" segments="12" />
+    </file>
+    <file location="Source\Content\buildscore3.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="274" words="58" segments="13" />
+        <context_Match characters="0" words="13" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="274" words="58" segments="13" />
+    </file>
+    <file location="Source\Content\buildscore4.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="217" words="50" segments="12" />
+        <context_Match characters="0" words="12" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="217" words="50" segments="12" />
+    </file>
+    <file location="Source\Content\buildscore5.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="149" words="36" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="149" words="36" segments="8" />
+    </file>
+    <file location="Source\Content\buildscore6.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="138" words="36" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="138" words="36" segments="8" />
+    </file>
+    <file location="Source\Content\buildscore7.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="125" words="32" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="125" words="32" segments="8" />
+    </file>
+    <file location="Source\Content\buildscore8.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="134" words="34" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="134" words="34" segments="8" />
+    </file>
+    <file location="Source\Content\buildscore9.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="229" words="52" segments="12" />
+        <context_Match characters="0" words="12" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="229" words="52" segments="12" />
+    </file>
+    <file location="Source\Content\c_benchmarks_about.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="2295" words="467" segments="43" />
+        <context_Match characters="0" words="43" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="2295" words="467" segments="43" />
+    </file>
+    <file location="Source\Content\c_openends_about.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="585" words="119" segments="11" />
+        <context_Match characters="0" words="11" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="585" words="119" segments="11" />
+    </file>
+    <file location="Source\Content\c_scores_about.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="3490" words="705" segments="74" />
+        <context_Match characters="0" words="74" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="3490" words="705" segments="74" />
+    </file>
+    <file location="Source\Content\editdash1.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="226" words="48" segments="12" />
+        <context_Match characters="0" words="12" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="226" words="48" segments="12" />
+    </file>
+    <file location="Source\Content\editdash2.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="169" words="39" segments="9" />
+        <context_Match characters="0" words="9" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="169" words="39" segments="9" />
+    </file>
+    <file location="Source\Content\editdash3.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="285" words="59" segments="13" />
+        <context_Match characters="0" words="13" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="285" words="59" segments="13" />
+    </file>
+    <file location="Source\Content\editdash4.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="85" words="19" segments="5" />
+        <context_Match characters="0" words="5" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="85" words="19" segments="5" />
+    </file>
+    <file location="Source\Content\edittile1.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="368" words="79" segments="13" />
+        <context_Match characters="0" words="13" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="368" words="79" segments="13" />
+    </file>
+    <file location="Source\Content\edittile2.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="265" words="66" segments="14" />
+        <context_Match characters="0" words="14" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="265" words="66" segments="14" />
+    </file>
+    <file location="Source\Content\newTileFinal.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="238" words="49" segments="12" />
+        <context_Match characters="0" words="12" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="238" words="49" segments="12" />
+    </file>
+    <file location="Source\Content\quickstartmain.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="593" words="130" segments="22" />
+        <context_Match characters="0" words="22" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="593" words="130" segments="22" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\AddSecOption.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="68" words="11" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="68" words="11" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\BenchmarkSelectCat.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="73" words="15" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="73" words="15" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\BenchmarkSelectScore.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="88" words="13" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="88" words="13" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\BenchmarkSummary.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="50" words="9" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="50" words="9" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\buildbench1.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="170" words="32" segments="5" />
+        <context_Match characters="0" words="5" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="170" words="32" segments="5" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\buildbench2.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="94" words="17" segments="4" />
+        <context_Match characters="0" words="4" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="94" words="17" segments="4" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\buildscore1.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="111" words="22" segments="3" />
+        <context_Match characters="0" words="3" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="111" words="22" segments="3" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\ClickApply.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="96" words="20" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="96" words="20" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\DashboardMgr1.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="227" words="47" segments="6" />
+        <context_Match characters="0" words="6" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="227" words="47" segments="6" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\DashboardMgr2.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="130" words="27" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="130" words="27" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\DashboardProperties.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="464" words="95" segments="9" />
+        <context_Match characters="0" words="9" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="464" words="95" segments="9" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\EditTile.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="182" words="35" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="182" words="35" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\ExpandHeader.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="97" words="18" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="97" words="18" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\keyWordOption.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="101" words="21" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="101" words="21" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\NewDashboardMethods.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="417" words="94" segments="8" />
+        <context_Match characters="0" words="8" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="417" words="94" segments="8" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\OpenEnds2.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="213" words="46" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="213" words="46" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\OpenEndSettings.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="121" words="23" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="121" words="23" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\OpenEndsSummary.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="26" words="4" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="26" words="4" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\Pin2dash.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="212" words="45" segments="4" />
+        <context_Match characters="0" words="4" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="212" words="45" segments="4" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\ResCompDef.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="123" words="26" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="123" words="26" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\ScoreSummary.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="39" words="7" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="39" words="7" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\SelectData.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="211" words="40" segments="3" />
+        <context_Match characters="0" words="3" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="211" words="40" segments="3" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\SelectDateRange.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="17" words="4" segments="1" />
+        <context_Match characters="0" words="1" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="17" words="4" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\SelectSettings.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="91" words="17" segments="4" />
+        <context_Match characters="0" words="4" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="91" words="17" segments="4" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\SelectSettings2.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="74" words="15" segments="2" />
+        <context_Match characters="0" words="2" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="74" words="15" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\SortMenu.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="197" words="38" segments="3" />
+        <context_Match characters="0" words="3" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="197" words="38" segments="3" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\TrendCorDef.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="929" words="194" segments="12" />
+        <context_Match characters="0" words="12" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="929" words="194" segments="12" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\ViewDashBuilder.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="296" words="62" segments="7" />
+        <context_Match characters="0" words="7" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="296" words="62" segments="7" />
+    </file>
+    <file location="Source\Project\Project\Advanced\BrowseSequence.flbrs" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="0" words="0" segments="0" />
+        <exact_Match characters="119" words="20" segments="7" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="119" words="20" segments="7" />
+    </file>
+    <file location="Source\Project\Project\Advanced\NewSequence.flbrs" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="0" words="0" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="10" words="2" segments="1" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="10" words="2" segments="1" />
+    </file>
+    <file location="Source\Project\Project\Advanced\Auto Index Sets\AutoIndexSet.flaix" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="0" words="0" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="46" words="9" segments="2" />
+        <totals characters="46" words="9" segments="2" />
+    </file>
+    <file location="Source\Project\Project\Advanced\Search Filters\SearchFilter.flsfs" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="0" words="0" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="8" words="2" segments="1" />
+        <totals characters="8" words="2" segments="1" />
+    </file>
+    <file location="Source\Project\Project\Glossaries\Glossary.flglo" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="0" words="0" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="18" words="4" segments="2" />
+        <totals characters="18" words="4" segments="2" />
+    </file>
+    <file location="Source\Project\Project\Skins\Default.flskn" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="0" words="0" segments="0" />
+        <exact_Match characters="20" words="5" segments="1" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="20" words="5" segments="1" />
+    </file>
+    <file location="Source\Project\Project\Skins\EP_Help.flskn" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="20" words="5" segments="1" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="15" words="0" segments="1" />
+        <exact_Match characters="50" words="9" segments="7" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="85" words="17" segments="9" />
+    </file>
+    <file location="Source\Project\Project\Skins\HTML5.flskn" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="0" words="0" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="9" words="2" segments="1" />
+        <totals characters="9" words="2" segments="1" />
+    </file>
+    <file location="Source\Project\Project\Skins\Mobile.flskn" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="0" words="0" segments="0" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="10" words="2" segments="1" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="10" words="2" segments="1" />
+    </file>
+    <file location="Source\Project\Project\TOCs\Master.fltoc" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="166" words="29" segments="9" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="20" words="0" segments="1" />
+        <exact_Match characters="1121" words="302" segments="51" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="1307" words="336" segments="61" />
+    </file>
+    <file location="Source\Project\Project\VariableSets\Variables.flvar" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="10" words="0" segments="1" />
+        <exact_Match characters="14" words="2" segments="1" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="24" words="5" segments="2" />
+    </file>
+    <file location="Source\Content\buildbenchmarkDate.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="131" words="34" segments="5" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="31" words="0" segments="2" />
+        <exact_Match characters="68" words="11" segments="5" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="230" words="54" segments="12" />
+    </file>
+    <file location="Source\Content\buildPriorityMap1.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="159" words="37" segments="7" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="36" words="0" segments="2" />
+        <exact_Match characters="52" words="9" segments="3" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="247" words="58" segments="12" />
+    </file>
+    <file location="Source\Content\buildPriorityMap2.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="140" words="31" segments="7" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="0" words="0" segments="0" />
+        <exact_Match characters="129" words="28" segments="5" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="269" words="59" segments="12" />
+    </file>
+    <file location="Source\Content\buildPriorityMap3.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="179" words="40" segments="8" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="36" words="0" segments="2" />
+        <exact_Match characters="85" words="17" segments="3" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="300" words="69" segments="13" />
+    </file>
+    <file location="Source\Content\buildPriorityMap4.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="88" words="23" segments="4" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="36" words="0" segments="2" />
+        <exact_Match characters="42" words="7" segments="2" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="166" words="42" segments="8" />
+    </file>
+    <file location="Source\Content\buildPriorityMap5.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="101" words="25" segments="5" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="36" words="0" segments="2" />
+        <exact_Match characters="19" words="5" segments="1" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="156" words="42" segments="8" />
+    </file>
+    <file location="Source\Content\buildPriorityMap6.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="88" words="23" segments="4" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="92" words="0" segments="4" />
+        <exact_Match characters="21" words="4" segments="3" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="201" words="49" segments="11" />
+    </file>
+    <file location="Source\Content\buildPriorityMap7.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="88" words="23" segments="4" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="36" words="0" segments="2" />
+        <exact_Match characters="51" words="8" segments="3" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="175" words="43" segments="9" />
+    </file>
+    <file location="Source\Content\buildPriorityMap8.htm" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="159" words="37" segments="7" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="48" words="0" segments="2" />
+        <exact_Match characters="53" words="11" segments="3" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="260" words="62" segments="12" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\BarGridSequence.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="154" words="0" segments="1" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="154" words="31" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\Benchmarks.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="75" words="0" segments="1" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="75" words="13" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\carouselDragNdrop.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="74" words="0" segments="1" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="74" words="13" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\CompareMenu.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="132" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="132" words="26" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\dashboardDesc.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="142" words="0" segments="1" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="142" words="25" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\DMdbOpen.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="85" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="85" words="15" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\Fewer.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="143" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="143" words="27" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\FilterLink.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="177" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="177" words="34" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\fullScreenDef.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="135" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="135" words="27" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\JourneyTreeDesc.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="563" words="0" segments="7" />
+        <exact_Match characters="538" words="109" segments="7" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="1101" words="224" segments="14" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\Link2dashDef.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="104" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="104" words="24" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\link2pdfDef.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="182" words="0" segments="3" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="182" words="38" segments="3" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\loginPg.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="538" words="0" segments="9" />
+        <exact_Match characters="807" words="144" segments="23" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="1345" words="245" segments="32" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\NewTileFinal.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="136" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="136" words="32" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\newTileOptions.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="18" words="4" segments="2" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="146" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="164" words="37" segments="4" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\OpenEnds.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="67" words="0" segments="1" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="67" words="12" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\permissions.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="194" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="194" words="34" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\PieChartBasis.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="103" words="0" segments="1" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="103" words="18" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\PriorityMapDef.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="540" words="0" segments="6" />
+        <exact_Match characters="233" words="51" segments="6" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="773" words="152" segments="12" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\PriorityMapTrendNote.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="156" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="156" words="34" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\ScoreDesc.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="82" words="0" segments="1" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="82" words="17" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\SectionShortDesc.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="39" words="0" segments="1" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="39" words="7" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\shareNote.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="187" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="187" words="41" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\shareSteps.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="529" words="0" segments="7" />
+        <exact_Match characters="277" words="57" segments="5" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="806" words="170" segments="12" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\summaryDashboardNew.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="72" words="0" segments="1" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="72" words="16" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\TileDisplaySetBy.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="72" words="0" segments="1" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="72" words="15" segments="1" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\TilesDef.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="0" words="0" segments="0" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="144" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="144" words="29" segments="2" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\toolbarPg.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="37" words="6" segments="3" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="172" words="0" segments="3" />
+        <exact_Match characters="473" words="99" segments="14" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="682" words="138" segments="20" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\Usability.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="200" words="48" segments="8" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="353" words="0" segments="4" />
+        <exact_Match characters="19" words="2" segments="1" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="572" words="123" segments="13" />
+    </file>
+    <file location="Source\Content\Resources\Snippets\viewDash.flsnp" targetLanguage="pt-br" sourceLanguage="en-us">
+        <duplicates characters="63" words="14" segments="3" />
+        <translated characters="0" words="0" segments="0" />
+        <context_Match characters="199" words="0" segments="2" />
+        <exact_Match characters="0" words="0" segments="0" />
+        <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
+        <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
+        <fuzzy_Med2 characters="0" words="0" segments="0" Min="75%" Max="84%" />
+        <fuzzy_Low characters="0" words="0" segments="0" Min="50%" Max="74%" />
+        <no_Match characters="0" words="0" segments="0" />
+        <totals characters="262" words="53" segments="5" />
+    </file>
+</project>

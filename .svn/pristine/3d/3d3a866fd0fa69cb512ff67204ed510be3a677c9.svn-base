@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="619" MadCap:lastWidth="989" xml:lang="fr-ca" xml:space="preserve">
+    <head><title>Build Open End 6</title>
+    </head>
+    <body>
+        <h1>Build a New Open Ends Tile - Step 6</h1>
+		<p>
+        <MadCap:snippetBlock src="Resources/Snippets/keyWordOption.flsnp" />
+        </p>
+		<p>
+            <MadCap:snippetText src="Resources/Snippets/OpenEndSettings.flsnp" />
+        </p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildopenend3.png" title="Select Settings." alt="open ends settings" />
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="buildopenend8.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Step 7 &gt;</a>
+        </p>
+    </body>
+</html>

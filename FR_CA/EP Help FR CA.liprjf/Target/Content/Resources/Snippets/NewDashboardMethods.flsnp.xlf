@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="NewDashboardMethods.flsnp"
+    source-language="en-us"
+    target-language="fr-ca"
+    datatype="x-flsnp">
+    <header>
+      <skl><external-file
+          href="NewDashboardMethods.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">8</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">4</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>pin button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">pin button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">bouton Épingler</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>pin button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">pin button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">bouton Épingler</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Cliquez pour afficher ce sujet d'aide.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-p"
+        phase-name="pretrans"><source>There are two methods of building a new dashboard:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">There are two methods of building a new dashboard:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Il y a deux méthodes pour créer un nouveau tableau de bord :</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-li"
+        phase-name="pretrans"><source>Pin a tile to a new dashboard - Click the <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Pin<ept
+            id="1">&lt;/span&gt;</ept> button (<ph
+            id="1"
+            ctype="image">&lt;img src="../Images/pin_button.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="2" />" MadCap:mediastyle="@media print { width: 29px;height: 32px;max-width: 29px;max-height: 32px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) and select <bpt
+            id="2">&lt;span class="uicontrol"&gt;</bpt>Add to new dashboard<ept
+            id="2">&lt;/span&gt;</ept> in the <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Pin to Dashboard<ept
+            id="3">&lt;/span&gt;</ept> dialog.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Pin a tile to a new dashboard - Click the <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Pin<ept
+              id="1">&lt;/span&gt;</ept> button (<ph
+              id="1"
+              ctype="image">&lt;img src="../Images/pin_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="2" />" MadCap:mediastyle="@media print { width: 29px;height: 32px;max-width: 29px;max-height: 32px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) and select <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Add to new dashboard<ept
+              id="2">&lt;/span&gt;</ept> in the <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Pin to Dashboard<ept
+              id="3">&lt;/span&gt;</ept> dialog.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Épingler une mosaïque à un nouveau tableau de bord - Cliquez sur la touche <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Épingler<ept
+              id="1">&lt;/span&gt;</ept> (<ph
+              id="1"
+              ctype="image">&lt;img src="../Images/pin_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="2" />" MadCap:mediastyle="@media print { width: 29px;height: 32px;max-width: 29px;max-height: 32px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) et sélectionnez <bpt
+              id="2">&lt;span class="uicontrol"&gt;</bpt>Ajouter un nouveau tableau de bord<ept
+              id="2">&lt;/span&gt;</ept> dans la boîte de dialogue <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Épingler au tableau de bord<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-li"
+        phase-name="pretrans"><source>Using the <bpt
+            id="1"
+            ctype="link">&lt;a href="../../c_dashboard_manager.htm#DashMgr" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="3" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="4" />"&gt;</bpt>Dashboard Manager<ept
+            id="1">&lt;/a&gt;</ept> - This method allows you to setup a dashboard shell with no tiles initially. Use this method when setting up a dashboard for another owner, setting user view and edit permissions, or as a placeholder for tiles not yet selected.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Using the <bpt
+              id="1"
+              ctype="link">&lt;a href="../../c_dashboard_manager.htm#DashMgr" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Dashboard Manager<ept
+              id="1">&lt;/a&gt;</ept> - This method allows you to setup a dashboard shell with no tiles initially.</mrk><mrk
+            mtype="seg"
+            mid="2">Use this method when setting up a dashboard for another owner, setting user view and edit permissions, or as a placeholder for tiles not yet selected.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Utiliser le <bpt
+              id="1"
+              ctype="link">&lt;a href="../../c_dashboard_manager.htm#DashMgr" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Gestionnaire de tableau de bord<ept
+              id="1">&lt;/a&gt;</ept> - Cette méthode vous permet de configurer une coquille de tableau de bord sans mosaïque au départ.</mrk><mrk
+            mtype="seg"
+            mid="2">Utilisez cette méthode lorsque vous configurez un tableau de bord d'un autre propriétaire, lorsque vous configurez l'affichage de l'utilisateur et modifiez des permissions ou comme signet pour les mosaïques qui ne sont pas encore sélectionnées.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

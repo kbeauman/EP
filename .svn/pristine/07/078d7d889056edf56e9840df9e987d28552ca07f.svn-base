@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="3281" MadCap:lastWidth="849" xml:lang="pt-br" xml:space="preserve" MadCap:ignoredWords="">
+    <head>
+        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Sobre o Gerenciador de Painéis</title>
+    </head>
+    <body>
+        <h1>Sobre o <MadCap:keyword term="Dashboards:Dashboard Manager" /><MadCap:keyword term="Dashboard Manager;Dashboard Manager:properties;Dashboard Manager:delete dashboard;Dashboards:delete" /><a name="DashMgr"></a>Gerenciador de Painéis</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Resumo: &lt;/i&gt;">Acesse <span class="uicontrol">Ferramentas &gt; Gerenciador de Painéis</span> para acessar informações sobre todos os painéis.</p>
+        <p>
+			<MadCap:snippetBlock src="Resources/Snippets/permissions.flsnp" />
+        </p>
+		<p>
+			<MadCap:snippetBlock src="Resources/Snippets/DashboardMgr1.flsnp" />
+        </p>
+		<p>O <span class="wintitle">Gerenciador de Painéis</span> é uma grade com um recurso de classificação por coluna que pode ser acessado ao clicar no cabeçalho da coluna. A grade é classificada pela coluna selecionada, em ordem crescente. Clique novamente no cabeçalho para inverter a ordem.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>detalhes da grade...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <table style="width: 100%; mc-table-style: url('Resources/TableStyles/Ref2Column.css'); margin-left: auto; margin-right: auto;" class="TableStyle-Ref2Column" cellspacing="0">
+                    <col class="TableStyle-Ref2Column-Column-Column1" />
+                    <col class="TableStyle-Ref2Column-Column-Column2" />
+                    <thead>
+                        <tr class="TableStyle-Ref2Column-Head-Header1">
+                            <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Coluna</th>
+                            <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Descrição</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1"><img src="Resources/Images/viewDBicon.png" title="ícone exibir painel" alt="ícone exibir painel" MadCap:mediastyle="@media print { width: 20px;height: 13px;max-width: 20px;max-height: 13px; }" /> Exibir painel</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>Clique no ícone <span class="wintitle">Exibir</span> para exibir o painel. O link <span class="uicontrol">Voltar</span> é exibido na barra lateral, permitindo fechar o painel e retornar à grade do <span class="wintitle">Gerenciador de Painéis</span>.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Título</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">A etiqueta descritiva atribuída ao painel quando ele foi criado.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Estado</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>Os painéis são visíveis somente quando <span class="systemoutput">Ativados</span>. Desative um painel para colocá-lo off-line sem excluí-lo.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>Para alterar o <span class="wintitle">Status</span>...</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <ol>
+                                            <li>
+                                                <MadCap:snippetText src="Resources/Snippets/DMdbOpen.flsnp" />
+                                            </li>
+                                            <li>Por padrão, o contêiner <span class="wintitle">Geral</span> é expandido. Marque ou desmarque a caixa de seleção <span class="wintitle">Ativado</span>.</li>
+                                            <li>Clique em <span class="uicontrol">Salvar</span>. A caixa de diálogo será fechada e a grade atualizada para mostrar que o <span class="wintitle">Status</span> do painel foi alterado.</li>
+                                        </ol>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Blocos</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">O número de blocos atribuídos ao painel.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Usuários</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>O número de usuários com permissão de visualizar ou editar o painel.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>Para gerenciar atribuições de usuários...</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <ol>
+                                            <li>
+                                                <MadCap:snippetText src="Resources/Snippets/DMdbOpen.flsnp" />
+                                            </li>
+                                            <li>Clique na barra de título <span class="wintitle">Usuários</span>. O contêiner será expandido.</li>
+                                            <li>Examine a grade <span class="wintitle">Usuários atribuídos</span> e marque ou desmarque as caixas <span class="wintitle">Exibir</span> e <span class="wintitle">Editar</span> desejadas. Como alternativa, use o menu <span class="wintitle">Copiar atribuições de usuário de</span> para aplicar as atribuições de outro painel.</li>
+                                            <li>Clique em <span class="uicontrol">Salvar</span>. A caixa de diálogo será fechada e a grade atualizada para refletir as alterações na coluna <span class="wintitle">Usuários</span>.</li>
+                                        </ol>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Proprietário</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">O usuário que tem permissão exclusiva para excluir o painel. O proprietário padrão é o usuário que cria o painel.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Modificado</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Um carimbo de data gerado pelo sistema da revisão mais recente do painel.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Carrossel</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Use a coluna <span class="wintitle">Carrossel</span> para estabelecer a ordem na qual os painéis são exibidos na barra lateral. Por padrão, o primeiro painel carrega quando você acessa o sistema ou navega até a página <span class="wintitle">Painéis</span>. Esta sequência é apenas para o seu perfil de usuário. <MadCap:dropDown><MadCap:dropDownHead><MadCap:dropDownHotspot>A prática recomendada é selecionar um painel de rápido carregamento como número 1 para evitar longos períodos de carregamento ao exibir a página <span class="wintitle">Painéis</span>. </MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><p>Para alterar a sequência do carrossel...</p><ol><li>Clique na caixa de texto do <span class="wintitle">Carrossel</span> desejado. Ao alterar os números no meio da sequência, apenas o painel afetado pela revisão é renumerado. Portanto, se quiser inverter os painéis 1 e 2, você só precisa mudar 1 para 2. O painel 2 atual é então alterado automaticamente para 1 e os demais painéis continuam inalterados. Por outro lado, alterar o número mais alto para 1 faz com que todos os números aumentem em um. </li><li>Pressione a tecla <span class="wintitle">Tab</span> do teclado para aplicar a alteração. A tela é atualizada para mostrar a revisão. </li></ol><p>Só é possível alterar um número de cada vez. Quando você clica em uma segunda caixa de texto, a primeira revisão é aplicada automaticamente.</p></MadCap:dropDownBody></MadCap:dropDown></td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyB-Column1-Body1">Excluir</td>
+                            <td class="TableStyle-Ref2Column-BodyA-Column2-Body1">
+                                <div class="note" MadCap:autonum="&lt;b&gt;NOTA: &lt;/b&gt;">Esta ação resulta na remoção permanente do painel selecionado. Não há como recuperar um painel excluído.</div>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>Para excluir um painel...</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <ol>
+                                            <li>Marque a caixa de seleção na coluna <span class="wintitle">Excluir</span> para o painel. A ação <span class="uicontrol">Excluir painel/painéis</span> aparecerá acima da grade.</li>
+                                            <li>Clique em <span class="uicontrol">Excluir painel/painéis</span>. Uma caixa de diálogo aparecerá solicitando que você confirme a remoção do painel.</li>
+                                            <li>Clique em <span class="uicontrol">OK</span>. A caixa de diálogo será fechada e a tela atualizada para mostrar que a grade já não contém o painel excluído.</li>
+                                        </ol>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Mais informações sobre a caixa de diálogo Gerenciador de painéis...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p><a name="DashboardDetails"></a>A grade contém todos os painéis aos quais você tem acesso, juntamente com algumas informações gerais.</p>
+                <p>Clique em um item de linha para exibir e rever os seguintes detalhes dos painéis:</p>
+                <p>
+                    <img src="Resources/Images/DashMgrPropDB.png" title="Clique para ampliar. Clique novamente para fechar." alt="caixa de diálogo gerenciador de painéis" MadCap:mediastyle="@media print { width: 619px;height: 543px;max-width: 619px;max-height: 543px; }" style="mc-thumbnail: popup;" />
+                </p>
+                <ul>
+                    <li>Geral<ul><li>Título do painel - Um campo de texto para editar o nome do painel. </li><li>Status - Selecione <span class="uicontrol">Ativado</span> (padrão) para que o painel fique ativo. </li><li>Blocos - Uma lista dos blocos atualmente atribuídos ao painel. </li><li>Layout - Altere o modelo de layout se desejado.</li></ul></li>
+                    <li>Usuários<ul><li>Proprietário do painel - Um menu de usuários válidos. Por padrão, o <span class="wintitle">Proprietário do painel</span> tem privilégios de <span class="wintitle">exibição</span> e <span class="wintitle">edição</span>. </li><li>Copiar atribuições de usuário de - Aplique as atribuições de usuário de outro painel. </li><li>Atribuições de usuários - Selecione os privilégios de <span class="wintitle">exibição</span> e <span class="wintitle">edição</span> de cada usuário.</li></ul></li>
+                    <li>Compartilhar<ul><li>Relatórios compartilhados - Veja os nomes dos usuários que compartilharam o painel, além da data e da data de vencimento. Você também pode cancelar o compartilhamento.</li></ul></li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Use o <span class="wintitle">Gerenciador de Painéis</span> para construir um novo painel...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/DashboardMgr2.flsnp" />
+                    </li>
+                    <li>Selecione o modelo de layout desejado, digite o <span class="wintitle">Nome do painel</span> e clique em <span class="uicontrol">Salvar</span>. A caixa de diálogo será fechada para exibir o nome do novo painel no <span class="wintitle">Gerenciador de Painéis</span>.</li>
+                    <li>(Opcional) Clique no novo nome para exibir e editar as propriedades do painel, que incluem os seguintes itens: <ul><li>Status - Ativado por padrão. </li><li>Blocos - Uma lista dos blocos atualmente atribuídos ao painel. </li><li>Layout - Altere o modelo de layout se desejado. </li><li>Proprietário do painel - Um menu de usuários válidos. Por padrão, o <span class="wintitle">Proprietário do painel</span> tem privilégios de <span class="wintitle">exibição</span> e<span class="wintitle">edição</span>. </li><li>Atribuições de usuários - é possível copiar as atribuições de outro painel, ou selecionar os privilégios da lista. </li><li>Relatórios compartilhados - Veja os nomes dos usuários que compartilharam o painel, além da data e da data de vencimento. Você também pode cancelar o compartilhamento. Os painéis compartilhados permanecem no relatório por 60 dias após o vencimento.</li></ul></li>
+                    <li>Selecione o ícone de um <span class="wintitle">Grupo de blocos</span> desejado na navegação lateral e selecione um item de lista. Os grupos de blocos e itens de lista incluem:<ul><li><a href="c_scores_ww.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Pontuações</a> - Resumo de múltiplos canais e Comparação de respostas</li><li><a href="c_openends_ww.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Perguntas abertas</a> - Revisão de comentário</li><li><a href="c_benchmarks_ww.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Parâmetros de referência</a> - Parâmetros de referência padrão</li></ul></li>
+                    <li>Clique no botão <span class="uicontrol">Fixar</span> (<img src="Resources/Images/pin_button.png" title="botão fixar" alt="botão fixar" MadCap:mediastyle="@media print { width: 29px;height: 32px;max-width: 29px;max-height: 32px; }" />) do bloco desejado. A caixa de diálogo <span class="wintitle">Fixar ao painel</span> será exibida.</li>
+                    <li>Selecione o painel desejado e clique em <span class="uicontrol">Aplicar</span>. A caixa de diálogo será fechada para exibir o bloco novamente.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

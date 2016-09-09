@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="863" MadCap:lastWidth="989">
+    <head><title>Dashboard Setup -  Step 2</title>
+    </head>
+    <body>
+        <h1>Dashboard Setup -  Step 2</h1>
+        <p>Make the desired selections:</p>
+        <MadCap:snippetBlock src="Resources/Snippets/DashboardProperties.flsnp" />
+        <p style="text-align: center;">
+            <img src="Resources/Images/DashMgrPropDB.png" title="Dashboard Manager setup." alt="dashboard manager dialog" />
+        </p>
+        <h3>Additional Information</h3>
+        <p><a href="c_dashboard_manager.htm#DashboardDetails" title="Click to view this Help topic." alt="Click to view this Help topic.">About the Dashboard Dialog Box &gt;</a>
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="editdash4.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Dashboard Setup - Save &gt;</a>
+        </p>
+    </body>
+</html>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="580" MadCap:lastWidth="980">
+    <head>
+<!-- Inserted by TRADOS: --><META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8">
+<title>Como trabalhar com perguntas abertas</title>
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Open ends" />Como trabalhar com perguntas abertas</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Exibir coment&aacute;rios de um <span class="wintitle">Canal</span> e <span class="wintitle">Medida</span> espec&iacute;ficos, juntamente com os <span class="wintitle">Elementos</span>, a <span class="wintitle">Pontua&ccedil;&atilde;o de satisfa&ccedil;&atilde;o</span> e os <span class="wintitle">Comportamentos futuros</span> de uma &uacute;nica resposta.</p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/OpenEnds.flsnp" /> Os blocos mostram a <span class="wintitle">Medida</span> e o intervalo de datas no cabe&ccedil;alho, com as <span class="wintitle">Perguntas abertas</span> selecionadas e os <span class="wintitle">Detalhes dos coment&aacute;rios</span> de cada entrevistado em um bloco separado. Uma resposta pode conter at&eacute; tr&ecirc;s <span class="wintitle">Perguntas abertas</span>, at&eacute; cinco <span class="wintitle">Detalhes de coment&aacute;rio</span> e a data da resposta. </p>
+        <MadCap:dropDown><MadCap:dropDownHead><MadCap:dropDownHotspot><MadCap:keyword term="Open ends:new" />Construir um novo bloco de perguntas abertas...</MadCap:dropDownHotspot></MadCap:dropDownHead> <MadCap:dropDownBody>
+                <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Usar <span class="wintitle">Perguntas abertas</span> e <span class="wintitle">Detalhes de coment&aacute;rios</span> dos <span class="wintitle">Canais</span> e<span class="wintitle">Medidas</span> selecionados para construir um bloco.</p>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/permissions.flsnp"></MadCap:snippetText>
+                </p>
+                <p>Para exibir coment&aacute;rios:</p>
+                <ol>
+                    <li>Selecione um <a href="r_date.htm" title="Clique aqui para exibir este t&oacute;pico de Ajuda." alt="Click to view this Help topic.">intervalo de datas</a>.</li>
+                    <li>A barra lateral <span class="wintitle">Sele&ccedil;&atilde;o de dados</span> &eacute; exibida por padr&atilde;o com os menus <span class="wintitle">Canal</span> e <span class="wintitle">Medida</span> configurados para o primeiro item. Selecione os itens de <span class="wintitle">Canal</span> e <span class="wintitle">Medida</span> desejados. Para algumas medidas, um ou mais menus de filtro podem aparecer.</li>
+                    <li>(Opcional) Selecione os crit&eacute;rios de filtragem desejados. Voc&ecirc; tamb&eacute;m pode clicar em <span class="uicontrol">Adicionar nova sele&ccedil;&atilde;o</span> para incorporar outro canal, medida e/ou filtro(s).</li>
+                    <li>Clique no comando <span class="uicontrol">Aplicar</span> que, em seguida, fica desativado at&eacute; que voc&ecirc; fa&ccedil;a revis&otilde;es. </li>
+                    <li>Clique no &iacute;cone <span class="uicontrol">Configura&ccedil;&otilde;es</span> (<img src="Resources/Images/sets_icon.png" title="&iacute;cone configura&ccedil;&otilde;es" alt="&iacute;cone configura&ccedil;&otilde;es" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" />). As barra lateral <span class="wintitle">Configura&ccedil;&otilde;es</span> exibe cada sele&ccedil;&atilde;o separadamente com um campo de texto de busca e uma lista de verifica&ccedil;&atilde;o de etiquetas de perguntas curtas agrupadas por <span class="wintitle">Perguntas abertas</span> e <span class="wintitle">Detalhes de coment&aacute;rio</span>.</li>
+                    <li>(Opcional) Digite uma palavra-chave ou express&atilde;o regular no campo de texto de busca para exibir as respostas que cont&ecirc;m somente a palavra-chave.</li>
+                    <li>Selecione at&eacute; tr&ecirc;s <span class="wintitle">Perguntas abertas</span> e at&eacute; cinco <span class="wintitle">Detalhes de coment&aacute;rio</span>. Cada se&ccedil;&atilde;o &eacute; desativada assim que o m&aacute;ximo de sele&ccedil;&otilde;es permitidas &eacute; alcan&ccedil;ado.</li>
+                    <li>Clique em <span class="uicontrol">Aplicar</span>. Aparece uma barra de progresso ao longo da parte superior da barra de ferramentas enquanto o sistema gera e exibe o bloco. </li>
+                </ol>
+                <p>Com os coment&aacute;rios exibidos, &eacute; poss&iacute;vel alterar as sele&ccedil;&otilde;es, clicar em <span class="uicontrol">Fixar</span> (<img src="Resources/Images/pin_button.png" title="bot&atilde;o fixar" alt="bot&atilde;o fixar" MadCap:mediastyle="@media print { width: 29px;height: 32px;max-width: 29px;max-height: 32px; }" />) para adicionar o bloco a um <a href="t_dashboard_new.htm" title="Clique aqui para exibir este t&oacute;pico de Ajuda." alt="Click to view this Help topic.">painel</a> ou clicar em um coment&aacute;rio para exibir informa&ccedil;&otilde;es adicionais em uma barra lateral.</p>
+            </MadCap:dropDownBody></MadCap:dropDown>
+        <h2>Dados de busca detalhada</h2>
+        <p>Clique em uma resposta para exibir informa&ccedil;&otilde;es detalhadas na barra lateral <span class="wintitle">Revis&atilde;o de coment&aacute;rios de perguntas abertas</span> do entrevistado. Cada bloco de entrevistado est&aacute; limitado a 300 caracteres para um &uacute;nico coment&aacute;rio e 150 caracteres para dois ou tr&ecirc;s coment&aacute;rios. Os coment&aacute;rios que ultrapassam esse limite s&atilde;o recolhidos e exibem o &iacute;cone expandir (<img src="Resources/Images/expand.png" title="expandir" alt="&iacute;cone expandir" MadCap:mediastyle="@media print { width: 13px;height: 11px;max-width: 13px;max-height: 11px; }" />). Clicar no &iacute;cone exibe uma caixa de di&aacute;logo com o texto na &iacute;ntegra.</p>
+    </body>
+</html>

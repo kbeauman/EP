@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="404" MadCap:lastWidth="1041" xml:lang="es" MadCap:ignoredWords="">
+    <head><title>Crear tablero 2</title>
+    </head>
+    <body>
+        <h1>Cómo usar la botón Fijar</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/Pin2dash.flsnp" />
+        </p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildtile9.png" title="Cuadro de diálogo Fijar en el tablero" alt="Cuadro de diálogo Fijar en el tablero" />
+        </p>
+        <h3>Paso siguiente</h3>
+        <p><a href="builddash3.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Paso 2 &gt;</a></p>
+    </body>
+</html>

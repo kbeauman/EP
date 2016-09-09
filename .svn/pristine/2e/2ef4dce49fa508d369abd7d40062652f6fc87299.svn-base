@@ -1,0 +1,508 @@
+/**
+ * US English
+ * @type {Object}
+ */
+_LangSets.en = {
+    /**
+     *  The name of the language
+     */
+    _name: “Español”,
+
+    /*
+     *  Site strings
+     */
+    General: {
+        help: “Ayuda”,
+        logout: “Salir”,
+        cancel: “Cancelar”,
+        submit: “Enviar”,
+        ok: “Ok”
+    },
+
+    Channels : {
+        WEB: "Web",
+        MOBILE: “Móvil”
+    },
+
+    Charts: {
+        focusingOn: “Enfoque en %s”,
+        measure: “Medida”,
+        question: “Pregunta”,
+        score: “Puntuación”
+        date: “Fecha”,
+        ncount: “Encuestados”,
+        notshown: “No se muestra”, 
+        channel: “Canal”, 
+        filter: “Filtro”, 
+        hfilter: “Filtro por jerarquía”,
+        pfilter: “Filtro de páginas”,
+        nodata: “No se encontraron datos para los criterios seleccionados.”,
+        benchmarkLabel: “Su puntuación”
+    },
+
+    Login: {
+        youareloggingin: “Se está conectando a”,
+        appstorepromo: “Haga clic para obtener una descarga para su iPhone en la tienda de aplicaciones de Apple.”,
+        googleplaypromo: “Haga clic para obtener una descarga para su teléfono Android en Google Play.”
+        ad: “Sus datos de ForeSee ya están disponibles para su iPhone o Android.”,
+        whichproduct: “¿A cuál producto desea conectarse?”,
+        ep: “Portal ejecutivo”,
+        aap: “Portal analítico”,
+        feedback: “Comentarios”,
+        webaccesstitle: “Conexión segura”,
+        line2: “Le sugerimos que cambie su contraseña cada 90 días.”,
+        line1: “Conéctese con los datos de ForeSee que se le proporcionaron. Si necesita ayuda, comuníquese con su representante de cuenta o envíe un mensaje a support@foresee.com.”,
+        login: “Ingresar”,
+        usernamedesc:“Nombre de usuario”,
+        passworddesc: “Contraseña”,
+        savesetslabel: “Guardar datos de conexión”,
+        portaltitle: “Portal ejecutivo”,
+        precise:“Medición exacta.”,
+        confident:“Entendimiento con certeza.”,
+        decisive:“Resultados decisivos.”,
+        forgotpw:“¿Olvidó contraseña?”,
+        resetpwtitle:“Restablecer contraseña”,
+        resetpwspiel:“Para restablecer la contraseña, proporcione su correo electrónico y nombre de usuario. Si no recibe las instrucciones por correo electrónico, solicite ayuda en support@foresee.com.”,
+        resetpwsuccess:"Las instrucciones para restablecer su contraseña le fueron enviadas a su correo electrónico.”,
+        resetpwerror:"No se pudo restablecer la contraseña. Solicite ayuda en support@foresee.com”,
+        resetemaillabel:“Dirección de correo electrónico”,
+        resetemailusernamelabel: “Nombre de usuario (opcional)”,
+        emailaddressnotfound:"No se pudo encontrar la dirección de correo electrónico”
+        emailandusernamedontmatch: “correo electrónico y nombre de usuario no coinciden”,
+        invalidusername:“Nombre de usuario inválido”,
+        multipleusersfound: “Se encontraron múltiples usuarios para la dirección de correo electrónico. Indique un usuario”,
+        cancel:"Cancelar”,
+        ok:"Enviar”,
+        loginPageTitle: “El portal ejecutivo de ForeSee - Ingresar
+        invalidemail: (se requiere correo electrónico válido)
+        invalidpw: “(contraseña no válida)
+        badcredentials: Nombre de usuario y/o contraseña inválidos, inténtelo nuevamente. El nombre de usuario y la contraseña distinguen entre mayúsculas y minúsculas.”,
+        locked: “La cuenta ha sido bloqueada. Inténtelo nuevamente en 30 minutos.”,
+        generalfail: Falló la conexión, inténtelo nuevamente.
+        nopermission: “El usuario no tiene permiso para acceder al Portal Ejecutivo”, 
+        noaccess: “Por favor comuníquese con su representante de servicio a clientes de Foresee para habilitar su acceso al Portal Ejecutivo”,
+        clicktoaccessaap: “Haga clic aquí para acceder el Portal analítico avanzado”
+    },
+
+    Hub: {
+        active: “Activo”, 
+        inactive: “Inactivo”,
+        questions: “Preguntas”,
+        details: “Detalles”,
+        loading: “Cargando…”,
+        noviewables: “No hay tableros disponibles”,
+        collapsesb: “Ocultar barra lateral”
+        combinedscore: "Puntuación combinada”,
+        fullscreen: “Pantalla completa”,
+        deletetiletooltip: “Eliminar mosaico”,
+        edittile: Editar copia de mosaico
+        hubPageTitle: “El portal ejecutivo de ForeSee",
+        help: “Ayuda”,
+        logout: “Salir”,
+        profile: “Perfil:”,
+        expandsidebar: “Mostrar barra lateral”,
+        collapsesidebar: “Ocultar la barra lateral”,
+        toggle: “Haga clic para alternar”,
+        when: “Cuando”,
+        settings: “Ajustes”,
+        deletetile: “¿Está seguro que desea eliminar ese mosaico?”,
+        reports: “Mosaicos”,
+        typetosearch: “Escriba para buscar”,
+        expiredDash: “Tablero vencido”,
+        nodata: “Realice una selección usando la barra lateral de la derecha.”,
+        viewing: “Visualizar”,
+        goBack: “Volver”,
+        menuItems: {
+            mydata: “Mis datos”,
+            dashboards: “Tableros”,
+            scores: “Puntuaciones”,
+            openends: “Sin límite”,
+            benchmarks: “Comparaciones”,
+            impactanalysis: “Análisis de impacto”,
+            tools: “Herramientas”,
+            usersgroups: “Usuarios y grupos”,
+            dashmanager: “Administrador del tablero”,
+            dashcontents: “Contenido del tablero a partir del”,
+            dashexp : “El enlace del tablero se vence”,
+        },
+        rightSideBarStrings: {
+            nocombinedscores: “Esta cuenta no tiene puntuaciones combinadas para el rango de fecha actual.”,
+            inactive: “Inactivo”,
+            calshort: “Fecha”,
+            callong: “Selección de fecha”,
+            datashort: “Datos”,
+            settingsshort: “Ajustes”,
+            datalong: “Selección de datos”,
+            settingslong: “Ajustes de informes”,
+            revert: “Cancelar”,
+            revertExplanation: "Cancelar cambios que haya realizado a la selección de datos.”,
+            apply: “Aplicar”,
+            applyExplanation: “Aplicar los cambios que haya hecho al informe actual.”,
+            addSource: “Añadir nueva selección+”,
+            addSourceExplanation: “Añadir una nueva selección de datos al informe actual.”,
+            selection: “Selección”,
+            deletedata: “Eliminar esta selección”,
+            expandselection: “Ampliar y editar esta selección”,
+            chan: “Canal”, 
+            hf: “Filtro por jerarquía”,
+            meas: “Medida”,
+            nomeas: “No hay medidas activas para ciertos clientes.”,
+            mofil: “Filtro de modelos”,
+            pafil: “Filtro de páginas”,
+            ques: “Pregunta”,
+            modelques: “Preguntas Modelo”,
+            custques: “Preguntas Personalizadas”,
+            cppques: "Parámetros del cliente enviados",
+            eppques: "Parámetros externos enviados",
+            latents: “Puntuación”
+            unfiltered: “Sin filtro”
+        }
+    },
+
+    Tools: {
+        tools: “Herramientas”,
+        enabled: “Activado”,
+        disabled: “Desactivado”,
+        dashManager: “Administrador del tablero”,
+        assign: “Asignación de usuario”
+        status: “Condición”
+        view: “Visualizar”,
+        “eliminar”: “Eliminar”,
+        carousel: “Carrusel”,
+        layout: “Diseño”,
+        created: “Creado”,
+        updated: “Actualizado”,
+        showall: “Mostrar todos los tableros”,
+        deletedash: “Eliminar tablero(s)”,
+        createdash: “Crear nuevo tablero”,
+        copyusers: “Copiar asignaciones de usuario desde”,
+        dashboardowner: “Propietario del tablero”,
+        useraccess: “Acceso del usuario”,
+        general: “General”,
+        notiles: “No hay informes relacionados con este tablero”,
+        users: “Usuarios”,
+        share: “Compartir”,
+        dash: “Título”,
+        tiles: “Mosaicos”,
+        creator: “Propietario”,
+        dashboardShare: {
+            days: “DÍAS”,
+            sharedby: “Compartido por”,
+            created: “Creado”,
+            modified: “Modificado”,
+            expires: "Se vence”,
+            confirmcancel: “¿Está seguro que desea cancelar el compartir en este tablero?”,
+            cancelshare: “Cancelar compartir”,
+            views: “Vista(s)”,
+            expired: “Vencido”
+        }
+    },
+
+    Errors:{
+        title: “Error del servidor”,
+        error: “Error”,
+        submit: “Ok”,
+        fourofour: {
+          message: “No nos fue posible procesar la última acción porque no se pudo localizar el recurso. Si se presentan más problemas, solicite ayuda en support@foresee.com.”
+        },
+        fourhundred: {
+          message: “Ocurrió un error al procesar la última acción. Se le desconectará de la aplicación. Se nos ha notificado del problema y lo investigaremos.”
+        },
+        fivehundred: {
+            message: “Ocurrió un error al procesar la última acción. Se nos ha notificado del problema y lo investigaremos.”
+        },
+    },
+
+    Warnings:{
+        title: “Advertencia”,
+        noncompatiblebrowser: "Este navegador o esta versión no son compatibles. Es posible que algunas funciones no funcionen correctamente".
+    },
+
+    Scores: {
+        scores: “Puntuaciones”,
+        menuItems: {
+            multichanname: “Resumen de múltiples canales”,
+            respcompare: “Comparación de respuestas”
+        },
+        chartTypes: {
+            pie: “Gráfico circular”,
+            hbar: “Gráfico en barra horizontal”,
+            vbar: “Gráfico en barra vertical”,
+            line: “Series de tiempo”,
+            table: “Vista tabular”,
+			bchart: "Gráfico de tornado",
+			bulletchart: "Gráfico con viñetas"
+        }
+    },
+
+    Benchmarks: {
+        benchmarks: “Comparaciones”,
+        menuItems: {
+            standard: “Comparaciones estándares”
+        },
+        chartTypes: {
+            vdelta: “Delta vertical”,
+            vquart: “Cuartil vertical”
+        },
+        sidebaritems: {
+            benchmarkscores: “Puntuaciones de comparaciones”
+            categories: “Categorías de comparaciones”
+            maximum: “(Elija hasta 15)”
+        },
+        infomodal: {
+            description: “Descripción”,
+            members: “Miembros”
+        },
+        nodata: “Realice una selección usando la barra lateral de la derecha”,
+        selectionnotvalid: “Los elementos seleccionados no arrojaron información útil. Intente editar los datos en la pestaña de datos.”,
+        yourscore: “Su puntuación”,
+        benchav: “Promedio de comparaciones”,
+        max: “Máximo”
+        min: “Mínimo”,
+        uquart: “Tercer Cuartil”,
+        mquart: “Media”,
+        lquart: “Tercer Cuartil”,
+        members: “Miembros”
+    },
+
+    OpenEnds: {
+        openends: “Comentario”,
+        menuItems: {
+            review: “Revisión de comentarios”
+        },
+        settingsItems: {
+            customQuestions: “Detalles de comentarios”,
+            commentQuestions: “Preguntas abiertas”,
+            customQuestionsNote: “(Elija hasta 5)”,
+            commentQuestionsNone: “(No se encontraron preguntas para el rango de fecha)”,
+            customQuestionsNone: “(No se encontraron detalles para el rango de fecha)”,
+            commentQuestionsNote: “(Elija hasta 3)”
+        },
+        reportHeaderItems: {
+            details: “Detalles”,
+            questions: “Preguntas”,
+            textFilter: “Filtro de texto”
+        },
+        commentDetailItems: {
+            surveyDate: “Fecha de la encuesta”,
+            elements: “Elementos”,
+            satisfaction: “Satisfacción”,
+            futBehaviours: “Comportamientos futuros”,
+            question: “Pregunta”
+        }
+    },
+
+    Widgets: {
+        pin: “Fije este informe en un tablero.”,
+        TableWidget: {
+            name: “Nombre”,
+            qheader: “Opción de pregunta”,
+            dist: “Distribución”,
+            score: “Puntuación”,
+            type: “Tipo”,
+            weighting: “Ponderación”,
+            resp: “Encuestados”,
+            combinedscore: “Puntuación combinada”,
+        },
+        MultiMeasure: {
+            desc: “Descripción”,
+            type: “Tipo”,
+            weightingmethod: “Método de ponderación”,
+            multimeasure: “Multi-medida”,
+            multichannel: “Multi-canal”
+        },
+        ShareDashboard: {
+            sharing: “Compartir”,
+            howtoshare : "¿Cómo desea compartir esto?”,
+            linktodash : “Enlazar al tablero”,
+            linktodl : “Enlazar para descargar PDF”,
+            expire : “Vence en:”,
+            password : “Nombre de usuario (opcional)”,
+            leaveblank : “Deje en blanco si no desea contraseña”,
+            days2: “2 días”,
+            days5: “5 días”,
+            days7: “7 días”,
+            days14: “14 días”,
+            days21: “21 días”,
+            days30: “30 días”,
+            days45: “45 días”,
+            days60: “60 días”,
+            days90: “90 días”,
+            createemail: “Crear correo electrónico”,
+            createemailtitle: “Cree un correo electrónico que se enviará con el widget compartido.”.
+            warnaboutprotectedmode: “Aviso: Crear correo electrónico no funcionará si el navegador está configurado en modo protegido", // Protected mode is an IE security setting.
+            sharedash : “Compartir tablero”,
+            tcpy : “Para copiar este URL, seleccione el libro de texto y presione CTRL+C o CMD+C”,
+            "Cancel" : "Cancelar”,
+            emllnk : “Enviar enlace por correo electrónico”,
+            urlshared : “URL para tablero compartido”
+
+        },
+        DrillDown:{
+            summary:”Resumen”,
+            header: “Comparación de respuestas”,
+            selectedseg: “Segmento seleccionado”,
+            satisfaction: “Satisfacción”,
+            distribution: “Distribución”,
+            answer: “Respuesta”,
+            ncount: “Cuenta n”,
+            trendsat: “Tendencia de 30 días – Satisfacción”,
+            trenddist: “Tendencia de 30 días – Distribución”,
+            weight: “Ponderación”,
+            elements: “Elementos”,
+            futurebehaviors: “Comportamientos futuros”,
+            score: "Puntuación”
+        }
+    },
+
+    Calendar: {
+        nosel: “Sin selección”,
+        custom: “Personalizar”,
+        year: Año
+        month: “Mes”,
+        day: “DÍAS”,
+        week: “Semana”,
+        quarter: “Trimestre”,
+        settings: “Ajustes”,
+        apply: “Aplicar”,
+        revert: “Cancelar”,
+        previous: “Antes”,
+        next: “Después”,
+        change: “Haga clic para cambiar la selección de fecha.”,
+        applydatedesc: “Aplicar esta selección de fecha.”,
+        revertdatedesc: “Cancelar estos cambios.”,
+        compare: “Comparar”,
+        none: "“Ninguno”,
+        prioryear: “Año anterior”,
+
+        Custom: {
+            Start: “Inicio”,
+            End: “Fin”
+        },
+
+        Year: {
+            rtd: “Año en curso hasta ayer”,
+            lastyear: “Año pasado”,
+            previousyears: “Años anteriores”,
+            selectperiod: “Seleccionar año”,
+            verbose: {
+                yeartodate: “A lo largo de este año”,
+                lastyear: “Año pasado”,
+                lastnyears: “Últimos <%= n %> años”
+            }
+        },
+
+        Quarter: {
+            rtd: “Trimestre en curso hasta ayer”,
+            lastquarter: “Trimestre pasado”,
+            previousquarters: “Trimestres anteriores”,
+            exact: {
+                one: “Uno”,
+                two: “Dos”,
+                three: “Tres”,
+                four: “Cuatro”
+            },
+            selectperiod: “Seleccionar trimestre”,
+            priorperiod: “Trimestre anterior”,
+            verbose: {
+                quartertodate: “A lo largo de este trimestre”,
+                lastquarter: “Trimestre pasado”,
+                lastnquarters: “Últimos <%= n %> trimestres”
+            }
+        },
+
+        Month: {
+            rtd: “Mes en curso hasta ayer”,
+            lastmonth: “Mes pasado”,
+            previousmonths: “Meses anteriores”,
+            selectperiod: “Seleccionar mes”,
+            priorperiod: “Mes anterior”,
+            verbose: {
+                monthtodate: “A lo largo de este mes”,
+                lastmonth: “Mes pasado”,
+                lastnmonths: “Últimos <%= n %> meses”
+            }
+        },
+
+        Week: {
+            rtd: “Semana en curso hasta ayer”,
+            lastweek: “Semana pasada”,
+            previousweeks: “Semanas anteriores”,
+            Week: “Semana”,
+            selectperiod: “Seleccionar semana”,
+            priorperiod: "Semana anterior”,
+            verbose: {
+                weektodate: “A lo largo de esta semana”,
+                lastweek: “Semana pasada”,
+                lastnweeks: “Últimas <%= n %> semanas”
+            }
+        },
+
+        Day: {
+            yesterday: “Ayer”,
+            previousdays: “Días anteriores”,
+            selectperiod: “Seleccionar día”,
+            priorperiod: “Día anterior”,
+            verbose: {
+                lastndays: “Últimos <%= n %> días”
+            }
+        },
+
+        Settings: {
+            Calendar: “Calendario”,
+            Gregorian: “Gregoriano”,
+            Fiscal: “Fiscal”,
+            weekstarts: “La semana empieza”,
+            defaultview: “Vista predeterminada”
+        }
+    },
+
+    Carousel: {
+        nodashes: 'No se asignaron tableros al usuario conectado'
+    },
+
+    Dashboard: {
+        welcometo: “Bienvenido a su Portal Ejecutivo.”,
+        welcomeinstr: “A través del Portal Ejecutivo, podrá acceder a todos sus datos en forma ágil y sencilla desde un único lugar. Los tableros se pueden compartir como archivos en formato PDF o se pueden enviar directamente como enlace al sitio web.”,
+        getstarted: “Para comenzar, cree un nuevo mosaico”,
+        isexpired : 'Este tablero se venció y ya no está disponible',
+        anerror : 'Ocurrió un error',
+        tryagain : 'Intente de nuevo más tarde',
+        incpw : 'Contraseña incorrecta',
+        preq : 'Se requiere contraseña',
+        foreseeuses : 'ForeSee usa tecnología confiable y metodología comprobada para medir la satisfacción y entregar información de entendimiento profundo que ayude a las empresas a lograr el máximo impacto comercial',
+        fdash : 'El tablero de ForeSee',
+        foreseedash : 'El tablero de ForeSee: ',
+        hasbeenmade : 'se ha puesto a su disposición mediante',
+        wasexecutedon : 'El informe se efectuó el',
+        linkvalidfor : 'El enlace es válido por',
+        days : 'días',
+        pwproc : 'y está protegido con contraseña',
+        repowner : 'El propietario del informe es',
+        invalidpw : 'Contraseña no válida',
+        rsrcnotfnd: 'No se encontró la fuente'
+    },
+
+    PinToDashboard: {
+        header : Fijar en el tablero
+        title : “Título”,
+        subTitle : “Subtítulo”
+        addToExistingDashboard : “Añadir a tablero existente”,
+        addToNewDashboard : “Añadir a nuevo tablero”,
+        edit: "Editar”,
+        nameOfNewDashboard : “Nombre del nuevo tablero”,
+        createdash: “Crear un nuevo tablero”,
+        dashname: “Nombre del tablero”,
+        savedashbutton: “Guardar”,
+        invalidname: “Nombre no válido.”,
+        choose: "Elija un tablero”,
+        cancel: “Cancelar”,
+        confirmdelete: “¿Está seguro que desea eliminar estos tableros? Esta acción no se podrá revertir.”,
+        userassignment: “Asignación a usuario del tablero”,
+        affecteddashboards: “Tableros afectados”,
+        usersavailable: “Usuarios disponibles para asignarlos”,
+        usersassigned: “Usuarios asignados”,
+        saveuserassigns: “Guardar”,
+        chooselayout: “Elija un diseño”
+    }
+};

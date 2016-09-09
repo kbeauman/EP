@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="3288" MadCap:lastWidth="849" xml:lang="es" xml:space="preserve" MadCap:ignoredWords="">
+    <head>
+        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Acerca del Administrador del tablero</title>
+    </head>
+    <body>
+        <h1>Acerca del <MadCap:keyword term="Tableros:Administrador del tablero" /><MadCap:keyword term="Administrador del tablero;Administrador del tablero:propiedades;Administrador del tablero:eliminar tablero;Tableros:Eliminar" /><a name="DashMgr"></a>Administrador del tablero</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Resumen: &lt;/i&gt;">Ir a <span class="uicontrol">Herramientas &gt; Administrador del tablero</span> para acceder a información sobre todos los tableros.</p>
+        <p>
+			<MadCap:snippetBlock src="Resources/Snippets/permissions.flsnp" />
+        </p>
+		<p>
+			<MadCap:snippetBlock src="Resources/Snippets/DashboardMgr1.flsnp" />
+        </p>
+		<p>El <span class="wintitle">Administrador del tablero</span> es una grilla con la función de ordenar por columna que se invoca al hacer clic en el título de la columna. La grilla está ordenada por la columna seleccionada en orden ascendente. Haga clic sobre el título nuevamente para invertir el orden.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>detalles de la grilla...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <table style="width: 100%; mc-table-style: url('Resources/TableStyles/Ref2Column.css'); margin-left: auto; margin-right: auto;" class="TableStyle-Ref2Column" cellspacing="0">
+                    <col class="TableStyle-Ref2Column-Column-Column1" />
+                    <col class="TableStyle-Ref2Column-Column-Column2" />
+                    <thead>
+                        <tr class="TableStyle-Ref2Column-Head-Header1">
+                            <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Columna</th>
+                            <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Descripción</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1"><img src="Resources/Images/viewDBicon.png" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda." MadCap:mediastyle="@media print { width: 20px;height: 13px;max-width: 20px;max-height: 13px; }" /> Ver Tablero</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>Haga clic en el icono <span class="wintitle">Ver</span> para desplegar el tablero. Aparece el enlace <span class="uicontrol">Volver</span> en la barra lateral, lo cual le permite cerrar el tablero y regresar a la grilla del <span class="wintitle">Administrador del tablero</span>.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Título</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">La etiqueta descriptiva asignada al tablero cuando se lo creó.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Condición</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>Los tableros son visibles solamente cuando están <span class="systemoutput">Activados</span>. Desactive un tablero para que quede fuera de la red sin eliminarlo.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>Para modificar la <span class="wintitle">Condición</span>...</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <ol>
+                                            <li>
+                                                <MadCap:snippetText src="Resources/Snippets/DMdbOpen.flsnp" />
+                                            </li>
+                                            <li>La sección <span class="wintitle">General</span> aparece ampliada en forma predeterminada. Marque o desmarque el cuadro de verificación <span class="wintitle">Activado</span>.</li>
+                                            <li>Haga clic en <span class="uicontrol">Guardar</span>. El cuadro de diálogo se cierra y la grilla se actualiza para indicar que la <span class="wintitle">Condición</span> del tablero se ha modificado.</li>
+                                        </ol>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Mosaicos</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">La cantidad de mosaicos asignados al tablero.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Usuarios</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                                <p>La cantidad de usuarios que tienen permiso para ver o editar el tablero.</p>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>Para administrar asignaciones de usuario...</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <ol>
+                                            <li>
+                                                <MadCap:snippetText src="Resources/Snippets/DMdbOpen.flsnp" />
+                                            </li>
+                                            <li>Haga clic en la barra de título <span class="wintitle">Usuarios</span>. Se amplía la sección.</li>
+                                            <li>Desplácese por la grilla de <span class="wintitle">Usuarios asignados</span> y marque o desmarque los cuadros <span class="wintitle">Ver</span> y <span class="wintitle">Editar</span>. Como alternativa, utilice el menú <span class="wintitle">Copiar asignaciones de usuario desde</span> para aplicar las asignaciones de otro tablero.</li>
+                                            <li>Haga clic en <span class="uicontrol">Guardar</span>. El cuadro de diálogo se cierra y la grilla se actualiza reflejando los cambios efectuados en la columna <span class="wintitle">Usuarios</span>.</li>
+                                        </ol>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Propietario</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">El usuario que tiene permiso exclusivo para eliminar el tablero. El propietario predeterminado es el usuario que creó el tablero.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">Modificado</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">La fecha generada por el sistema correspondiente a la última modificación del tablero.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">Carrusel</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Utilice la columna <span class="wintitle">Carrusel</span> para establecer el orden en el que aparecen los tableros en su barra lateral. Por defecto, el tablero que se carga al ingresar o acceder a la página <span class="wintitle">Tableros</span> es el primero. Esta secuencia es para su perfil de usuario solamente. <MadCap:dropDown><MadCap:dropDownHead><MadCap:dropDownHotspot>La mejor práctica consiste en seleccionar un tablero de carga rápida como número 1 a fin de evitar tiempos de carga prolongados al ver la página de <span class="wintitle">Tableros</span>. </MadCap:dropDownHotspot></MadCap:dropDownHead><MadCap:dropDownBody><p>Para cambiar la secuencia del carrusel...</p><ol><li>Seleccione el cuadro de texto <span class="wintitle">Carrusel</span> que desee. Al cambiar los números en el medio de la secuencia, el sistema reordena la numeración solamente del tablero afectado por su modificación. Por lo tanto, si desea invertir el orden del tablero Nº 1 y Nº 2, sólo deberá cambiar el Nº 1 por el Nº 2. Luego, el actual tablero Nº 2 se transforma automáticamente en el Nº 1 y el resto de los tableros permanecen inalterados. Por el contrario, si cambia el tablero con el número más alto por el Nº 1, todos los números aumentan en uno. </li><li>Presione la tecla <span class="wintitle">Tab</span> de su teclado para aplicar el cambio. La pantalla se actualiza reflejando esta modificación. </li></ol><p>Sólo podrá cambiar un número por vez. Al hacer clic en un segundo cuadro de texto, la primera modificación se aplica en forma automática.</p></MadCap:dropDownBody></MadCap:dropDown></td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyB-Column1-Body1">Eliminar</td>
+                            <td class="TableStyle-Ref2Column-BodyA-Column2-Body1">
+                                <div class="note" MadCap:autonum="&lt;b&gt;NOTA: &lt;/b&gt;">Esta acción genera la eliminación permanente del tablero seleccionado. Un tablero eliminado no se puede recuperar.</div>
+                                <MadCap:dropDown>
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>Para eliminar un tablero...</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <ol>
+                                            <li>Seleccione el cuadro de verificación en la columna <span class="wintitle">Eliminar</span> correspondiente al tablero. La acción <span class="uicontrol">Eliminar tablero(s)</span> aparece arriba de la grilla.</li>
+                                            <li>Haga clic en <span class="uicontrol">Eliminar tablero(s)</span>. Se abre un cuadro de diálogo que le pide que confirme la eliminación del tablero.</li>
+                                            <li>Haga clic en <span class="uicontrol">Aceptar</span>. El cuadro de diálogo se cierra y la pantalla se actualiza mostrando que la grilla ya no contiene el tablero eliminado.</li>
+                                        </ol>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Más información sobre el cuadro de diálogo del Administrador del tablero...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>La grilla contiene todos los tableros a los que tiene acceso, además de cierta información general.<a name="DashboardDetails"></a></p>
+                <p>Haga clic en un concepto para ver y revisar los siguientes detalles del tablero:</p>
+                <p>
+                    <img src="Resources/Images/DashMgrPropDB.png" title="Haga clic para ampliar. Haga clic nuevamente para cerrar." alt="cuadro de diálogo del Administrador del tablero" MadCap:mediastyle="@media print { width: 619px;height: 543px;max-width: 619px;max-height: 543px; }" style="mc-thumbnail: popup;" />
+                </p>
+                <ul>
+                    <li>General<ul><li>Título del tablero - Campo de texto para editar el nombre del tablero. </li><li>Condición - Seleccione <span class="uicontrol">Activado</span> (opción predeterminada) para que el tablero esté activo. </li><li>Mosaicos - Una lista de mosaicos actualmente asignados al tablero. </li><li>Diseño - Cambie el modelo de diseño si así lo desea.</li></ul></li>
+                    <li>Usuarios<ul><li>Propietario del tablero - Un menú de usuarios válidos. Por defecto, el <span class="wintitle">Propietario del tablero</span> tiene privilegios para <span class="wintitle">Ver</span> y <span class="wintitle">Editar</span> el tablero. </li><li>Copiar asignaciones de usuario desde - Aplique las asignaciones de usuario de otro tablero. </li><li>Asignaciones de usuario - Seleccione los privilegios <span class="wintitle">Ver</span> y <span class="wintitle">Editar</span> para cada usuario.</li></ul></li>
+                    <li>Compartir<ul><li>Informes compartidos - Permite ver los nombres de los usuarios que han compartido el tablero, además de la fecha y fecha de vencimiento. También puede cancelar la acción de compartir.</li></ul></li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Utilice el <span class="wintitle">Administrador del tablero</span> para crear un nuevo tablero...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="Resources/Snippets/DashboardMgr2.flsnp" />
+                    </li>
+                    <li>Seleccione el modelo de diseño deseado, escriba el <span class="wintitle">Nombre del tablero</span> y haga clic en <span class="uicontrol">Guardar</span>. El cuadro de diálogo se cierra para mostrar el nombre del nuevo tablero en el <span class="wintitle">Administrador del tablero</span>.</li>
+                    <li>(Opcional) Haga clic en el nuevo nombre para ver y editar las propiedades del tablero, las que incluyen los siguientes elementos: <ul><li>Condición - Activada en forma predeterminada. </li><li>Mosaicos - Una lista de mosaicos actualmente asignados al tablero. </li><li>Diseño - Cambie el modelo de diseño si así lo desea. </li><li>Propietario del tablero - Un menú de usuarios válidos. Por defecto, el <span class="wintitle">Propietario del tablero</span> tiene privilegios para <span class="wintitle">Ver</span> y <span class="wintitle">Editar</span> el tablero. </li><li>Asignaciones de usuario - Puede copiar asignaciones desde otro tablero, o seleccionar privilegios de la lista. </li><li>Informes compartidos - Permite ver los nombres de los usuarios que han compartido el tablero, además de la fecha y fecha de vencimiento. También puede cancelar la acción de compartir. Los tableros compartidos permanecen en este informe durante 60 días después del vencimiento.</li></ul></li>
+					<li>Los Grupos de mosaicos y los elementos de la lista incluyen:<ul><li><a href="c_scores_ww.htm" title="Haga clic para ampliar. Haga clic nuevamente para cerrar." alt="cuadro de diálogo del Administrador del tablero">Puntuaciones</a> - Resumen de múltiples canales y comparación de respuestas</li><li><a href="c_openends_ww.htm" title="Haga clic para ampliar. Haga clic nuevamente para cerrar." alt="cuadro de diálogo del Administrador del tablero">Preguntas abiertas</a> - Revisión de comentarios</li><li><a href="c_benchmarks_ww.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">Comparaciones</a> - Comparaciones estándares</li></ul></li>
+					<li>Haga clic en el botón <span class="uicontrol">Fijar</span> (<img src="Resources/Images/pin_button.png" title="pin button" alt="pin button" MadCap:mediastyle="@media print { width: 29px;height: 32px;max-width: 29px;max-height: 32px; }" />) del mosaico deseado. Se abre el cuadro de diálogo <span class="wintitle">Fijar en el tablero</span>.</li>
+					<li>Seleccione el tablero deseado y haga clic en <span class="uicontrol">Aplicar</span>. El cuadro de diálogo se cierra para mostrar el mosaico nuevamente.</li>
+				</ol>
+		</MadCap:dropDownBody></MadCap:dropDown>
+	</body>
+</html>

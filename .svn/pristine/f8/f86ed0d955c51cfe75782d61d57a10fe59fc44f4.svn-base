@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:tocPath="Welcome to Executive Portal|Quick Start Guides|Build a New Priority Map Tile - Step 1" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="en-us" xml:lang="en-us" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Build a New Priority Map Tile - Step 2</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" MadCap:generated="True" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" MadCap:generated="True" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapAll.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#buildPriorityMap2.htm" style="">Open topic with navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Welcome to Executive Portal</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="quickstartmain.htm">Quick Start Guides</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="buildPriorityMap1.htm">Build a New Priority Map Tile - Step 1</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Build a New Priority Map Tile - Step 2</span>
+        </div>
+        <h1>Build a New Priority Map Tile - Step 2</h1>
+        <p>Click <span class="uicontrol">Priority Map</span> on the <span class="wintitle">Scores</span> sidebar.</p>
+        <p class="center">
+            <img src="Resources/Images/PriorityMap1.png" title="Click Priority Map." alt="scores sidebar - click priority map" />
+        </p>
+        <h3>Additional Information</h3>
+        <p><a href="c_scores_ww.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Working with Scores</a>
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="buildPriorityMap3.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Step 3 &gt;</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer"><span class="feedback"><a href="javascript:emailFeedback()">Feedback</a></span>- © 2015 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript">/*<![CDATA[*/function emailFeedback()
+			{
+			window.location='mailto:jira-portalsupport@foreseeresults.com?subject=EP Help - ' + document.title;
+		}/*]]>*/</script>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

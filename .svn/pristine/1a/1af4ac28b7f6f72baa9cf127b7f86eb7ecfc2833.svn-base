@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="495" MadCap:lastWidth="927" xml:lang="fr-ca">
+    <head>
+    </head>
+    <body>
+        <h1>Créer une nouvelle mosaïque de repères - Étape 2</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/SelectDateRange.flsnp" />
+        </p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildtile3.png" title="Fixer la plage de dates." alt="calendrier" style="mc-float: center;" />
+        </p>
+        <h3>Renseignements supplémentaires</h3>
+        <p><a href="r_date.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Sélection d'une période</a>
+        </p>
+        <h3>Étape suivante</h3>
+        <p><a href="buildbenchmark2.htm" title="Cliquez pour afficher ce sujet d'aide." alt="Cliquez pour afficher ce sujet d'aide.">Étape 3 &gt;</a>
+        </p>
+    </body>
+</html>

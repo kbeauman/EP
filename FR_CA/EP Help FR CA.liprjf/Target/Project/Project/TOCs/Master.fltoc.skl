@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="">
+    <TocEntry Title="砻קยด1ตว融" Link="/Content/cover.htm" BreakType="pageLayout" AutoEndOnLeftPage="disabled" PageType="title" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Cover.flpgl" conditions="Default.PrintOnly" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" />
+    <TocEntry Title="砻קยด2ตว融" Link="/Content/toc_print.htm" conditions="Default.PrintOnly" StartSection="false" BreakType="chapter" AutoEndOnLeftPage="disabled" PageLayout="/Content/Resources/PageLayouts/TOC.flpgl" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="lower-roman" SectionNumberReset="reset" VolumeNumberReset="reset" VolumeNumber="1" VolumeNumberFormat="lower-roman" SectionNumber="1" SectionNumberFormat="lower-roman" PageType="continue" PageNumberReset="reset" PageNumberFormat="lower-roman" PageNumber="1" />
+    <TocEntry Title="砻קยด3ตว融" Link="/Content/c_welcome.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="1" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="decimal" SectionNumberReset="continue" VolumeNumberReset="same" PageNumberFormat="decimal">
+        <TocEntry Title="砻קยด4ตว融" Link="/Content/toc_viewer.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl">
+            <TocEntry Title="砻קยด5ตว融" Link="/Content/c_login.htm">
+            </TocEntry>
+            <TocEntry Title="砻קยด6ตว融" Link="/Content/r_toolbar_2.htm" />
+            <TocEntry Title="砻קยด7ตว融" Link="/Content/c_dashboards_about_2.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" />
+            <TocEntry Title="砻קยด8ตว融" Link="/Content/c_scores_about.htm" />
+            <TocEntry Title="砻קยด9ตว融" Link="/Content/c_openends_about.htm" />
+            <TocEntry Title="砻קยด10ตว融" Link="/Content/c_benchmarks_about.htm" />
+            <TocEntry Title="砻קยด11ตว融" Link="/Content/t_share_2.htm" />
+        </TocEntry>
+        <TocEntry Title="砻קยด12ตว融" Link="/Content/toc_creator1.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl">
+            <TocEntry Title="砻קยด13ตว融" Link="/Content/c_login_2.htm" />
+            <TocEntry Title="砻קยด14ตว融" Link="/Content/r_toolbar.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="decimal" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" SectionNumberReset="continue" VolumeNumberReset="same" />
+            <TocEntry Title="砻קยด15ตว融" Link="/Content/c_dashboards_about.htm" />
+            <TocEntry Title="砻קยด16ตว融" Link="/Content/t_share.htm" />
+            <TocEntry Title="砻קยด17ตว融" Link="/Content/t_dashboard_new.htm" />
+            <TocEntry Title="砻קยด18ตว融" Link="/Content/c_dashboard_manager.htm" />
+            <TocEntry Title="砻קยด19ตว融" Link="/Content/c_scores_ww.htm" />
+            <TocEntry Title="砻קยด20ตว融" Link="/Content/c_openends_ww.htm" />
+            <TocEntry Title="砻קยด21ตว融" Link="/Content/c_benchmarks_ww.htm">
+            </TocEntry>
+            <TocEntry Title="砻קยด22ตว融" Link="/Content/r_date.htm" />
+        </TocEntry>
+        <TocEntry Title="砻קยด23ตว融" Link="/Content/quickstartmain.htm">
+            <TocEntry Title="砻קยด24ตว融" Link="/Content/buildscore1.htm">
+                <TocEntry Title="砻קยด25ตว融" Link="/Content/buildscore2.htm" />
+                <TocEntry Title="砻קยด26ตว融" Link="/Content/buildscore3.htm" />
+                <TocEntry Title="砻קยด27ตว融" Link="/Content/buildscore4.htm" />
+                <TocEntry Title="砻קยด28ตว融" Link="/Content/buildscore5.htm" />
+                <TocEntry Title="砻קยด29ตว融" Link="/Content/buildscore6.htm" />
+                <TocEntry Title="砻קยด30ตว融" Link="/Content/buildscore7.htm" />
+                <TocEntry Title="砻קยด31ตว融" Link="/Content/buildscore8.htm" />
+                <TocEntry Title="砻קยด32ตว融" Link="/Content/buildscore9.htm" />
+            </TocEntry>
+            <TocEntry Title="砻קยด33ตว融" Link="/Content/buildopenend1.htm">
+                <TocEntry Title="砻קยด34ตว融" Link="/Content/buildopenend2.htm" />
+                <TocEntry Title="砻קยด35ตว融" Link="/Content/buildopenend3.htm" />
+                <TocEntry Title="砻קยด36ตว融" Link="/Content/buildopenend4.htm" />
+                <TocEntry Title="砻קยด37ตว融" Link="/Content/buildopenend5.htm" />
+                <TocEntry Title="砻קยด38ตว融" Link="/Content/buildopenend6.htm" />
+                <TocEntry Title="砻קยด39ตว融" Link="/Content/buildopenend7.htm" />
+                <TocEntry Title="砻קยด40ตว融" Link="/Content/buildopenend8.htm" />
+                <TocEntry Title="砻קยด41ตว融" Link="/Content/buildopenend9.htm" />
+            </TocEntry>
+            <TocEntry Title="砻קยด42ตว融" Link="/Content/buildbenchmark1.htm">
+                <TocEntry Title="砻קยด43ตว融" Link="/Content/buildbenchmarkDate.htm" />
+                <TocEntry Title="砻קยด44ตว融" Link="/Content/buildbenchmark2.htm" />
+                <TocEntry Title="砻קยด45ตว融" Link="/Content/buildbenchmark3.htm" />
+                <TocEntry Title="砻קยด46ตว融" Link="/Content/buildbenchmark4.htm" />
+                <TocEntry Title="砻קยด47ตว融" Link="/Content/buildbenchmark5.htm" />
+                <TocEntry Title="砻קยด48ตว融" Link="/Content/buildbenchmark6.htm" />
+                <TocEntry Title="砻קยด49ตว融" Link="/Content/buildbenchmark7.htm" />
+                <TocEntry Title="砻קยด50ตว融" Link="/Content/newTileFinal.htm" />
+            </TocEntry>
+            <TocEntry Title="砻קยด51ตว融" Link="/Content/edittile1.htm">
+                <TocEntry Title="砻קยด52ตว融" Link="/Content/edittile2.htm" />
+            </TocEntry>
+            <TocEntry Title="砻קยด53ตว融" Link="/Content/builddash1.htm">
+                <TocEntry Title="砻קยด54ตว融" Link="/Content/builddash2.htm" />
+                <TocEntry Title="砻קยด55ตว融" Link="/Content/builddash4.htm" />
+                <TocEntry Title="砻קยด56ตว融" Link="/Content/builddash3.htm" />
+                <TocEntry Title="砻קยด57ตว融" Link="/Content/builddash5.htm" />
+            </TocEntry>
+            <TocEntry Title="砻קยด58ตว融" Link="/Content/editdash1.htm">
+                <TocEntry Title="砻קยด59ตว融" Link="/Content/editdash2.htm" />
+                <TocEntry Title="砻קยด60ตว融" Link="/Content/editdash3.htm" />
+                <TocEntry Title="砻קยด61ตว融" Link="/Content/editdash4.htm" />
+            </TocEntry>
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

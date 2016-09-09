@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    xml:space="preserve"
+    original="PriorityMapDef.flsnp"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-flsnp"
+    target-language="fr-ca">
+    <header>
+      <skl><external-file
+          href="PriorityMapDef.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">12</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">2</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V9"
+        tool-name="Lingo"
+        tool-version="9.5.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Sort menu</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Sort menu</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Sort menu</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>sort menu icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">sort menu icon</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">sort menu icon</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Priority Map<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> tile displays a graphical representation of each <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Element<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> in four quadrants based on <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Score<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Impact on Satisfaction<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>. <bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Impacts<ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> are graphed on the x-axis and <bpt
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Scores<ept
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> are graphed on the y-axis. Each quadrant is color-coded from green to red which indicate levels of positive-to-negative results. The default display shows bubbles sized according to <bpt
+            id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Impact<ept
+            id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> with other options on the <bpt
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Sort<ept
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> menu (<ph
+            id="1"
+            ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="../Images/SegArrMenuIcon.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" /&gt;</ph>).</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">The <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Priority Map<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> tile displays a graphical representation of each <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Element<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> in four quadrants based on <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Score<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Impact on Satisfaction<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment=""><bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Impacts<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> are graphed on the x-axis and <bpt
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Scores<ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> are graphed on the y-axis.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            comment="">Each quadrant is color-coded from green to red which indicate levels of positive-to-negative results.</mrk><mrk
+            mtype="seg"
+            mid="4"
+            comment="">The default display shows bubbles sized according to <bpt
+              id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Impact<ept
+              id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> with other options on the <bpt
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Sort<ept
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> menu (<ph
+              id="1"
+              ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="../Images/SegArrMenuIcon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" /&gt;</ph>).</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">The <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Priority Map<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> tile displays a graphical representation of each <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Element<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> in four quadrants based on <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Score<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Impact on Satisfaction<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Impacts<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> are graphed on the x-axis and <bpt
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Scores<ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> are graphed on the y-axis.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Each quadrant is color-coded from green to red which indicate levels of positive-to-negative results.</mrk><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">The default display shows bubbles sized according to <bpt
+              id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Impact<ept
+              id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> with other options on the <bpt
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Sort<ept
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> menu (<ph
+              id="1"
+              ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="../Images/SegArrMenuIcon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="2" />" /&gt;</ph>).</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-h3"
+        phase-name="pretrans"><source>How to read the Priority Map:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">How to read the Priority Map:</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Interprétation d'une carte de priorités :</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-li"
+        phase-name="pretrans"><source>Elements that reside towards the top of the chart have the highest <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Scores<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Elements that reside towards the top of the chart have the highest <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Scores<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Les éléments qui occupent le haut du tableau présentent les <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Scores<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> les plus élevés.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-li"
+        phase-name="pretrans"><source>Elements that reside towards the right side of the chart have higher impacts. The size of the circle is proportioned to the <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Impact<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Elements that reside towards the right side of the chart have higher impacts.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">The size of the circle is proportioned to the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Impact<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Les éléments qui occupent le côté droit du tableau présentent les impacts les plus importants.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Le diamètre du cercle est proportionnel aux <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Impacts<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-li"
+        phase-name="pretrans"><source>Top-priority elements reside in the lower right quadrant and have high <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Impact<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> combined with low <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Score<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>. These are the elements that are most likely to give the best return on investment for applying resources to improve <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Satisfaction<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Future Behaviors<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Top-priority elements reside in the lower right quadrant and have high <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Impact<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> combined with low <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Score<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">These are the elements that are most likely to give the best return on investment for applying resources to improve <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Satisfaction<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Future Behaviors<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Les éléments les plus importants se trouvent dans le quadrant inférieur droit. Ils présentent un <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Impact<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> élevé de même qu'un <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Score<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> bas.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Ceux-ci sont les plus susceptibles de fournir le meilleur retour sur investissement si des ressources sont consacrées à l'amélioration de la <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Satisfaction<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> et des <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Comportements futurs<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

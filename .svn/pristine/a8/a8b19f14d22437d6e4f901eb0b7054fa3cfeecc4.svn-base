@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" DescendantCount="20">
+    <TocEntry Title="Bienvenue au Portail exécutif" Link="/Content/c_welcome.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="1" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="decimal" SectionNumberReset="continue" VolumeNumberReset="same" PageNumberFormat="decimal" ComputedResetPageLayout="true" ComputedFirstTopic="true" DescendantCount="19">
+        <TocEntry Title="Visiteur de tableaux de bord" Link="/Content/toc_viewer.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" ComputedResetPageLayout="true" ComputedFirstTopic="false" DescendantCount="7">
+            <TocEntry Title="Utilisation de la page de connexion" Link="/Content/c_login.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="La barre d'outils du Portail exécutif" Link="/Content/r_toolbar_2.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="Consultation des tableaux de bord" Link="/Content/c_dashboards_about_2.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" ComputedResetPageLayout="true" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="À propos des résultats" Link="/Content/c_scores_about.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="À propos des résultats ouverts" Link="/Content/c_openends_about.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="À propos des repères" Link="/Content/c_benchmarks_about.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="Partager un tableau de bord" Link="/Content/t_share_2.htm" ComputedFirstTopic="false" DescendantCount="0" />
+        </TocEntry>
+        <TocEntry Title="Créateur de tableaux de bord" Link="/Content/toc_creator1.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" ComputedResetPageLayout="true" ComputedFirstTopic="false" DescendantCount="10">
+            <TocEntry Title="Utilisation de la page de connexion" Link="/Content/c_login_2.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="La barre d'outils du Portail exécutif" Link="/Content/r_toolbar.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="decimal" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" SectionNumberReset="continue" VolumeNumberReset="same" ComputedResetPageLayout="true" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="Utilisation des tableaux de bord" Link="/Content/c_dashboards_about.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="Partager un tableau de bord" Link="/Content/t_share.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="Ajouter un tableau de bord" Link="/Content/t_dashboard_new.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="Au sujet du Gestionnaire de tableaux de bord" Link="/Content/c_dashboard_manager.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="Utilisation des résultats" Link="/Content/c_scores_ww.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="Utiliser les questions ouvertes" Link="/Content/c_openends_ww.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="Utilisation des repères" Link="/Content/c_benchmarks_ww.htm" ComputedFirstTopic="false" DescendantCount="0" />
+            <TocEntry Title="Sélection d'une période" Link="/Content/r_date.htm" ComputedFirstTopic="false" DescendantCount="0" />
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

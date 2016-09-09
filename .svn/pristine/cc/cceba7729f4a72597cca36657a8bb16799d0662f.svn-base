@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="975" MadCap:lastWidth="901" xml:lang="es" MadCap:ignoredWords="">
+    <head>
+        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Visualización de tableros</title>
+    </head>
+    <body>
+        <h1>Cómo trabajar con <MadCap:keyword term="Tableros:Cómo trabajar con" />tableros</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Resumen: &lt;/i&gt;">Genere vistas previas de los tableros desde la perspectiva del <span class="wintitle">Visor de tableros</span>.</p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/dashboardDesc.flsnp" /> Puede haber cualquier cantidad de mosaicos en un tablero, y cualquier cantidad de tableros.</p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/ViewDashBuilder.flsnp" />
+        </p>
+        <h2>Mosaicos del <MadCap:keyword term="Mosaicos" />tablero</h2>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/TilesDef.flsnp" />
+        </p>
+        <ul>
+            <li><a href="c_scores_ww.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Puntuaciones</a> - <MadCap:snippetText src="Resources/Snippets/ScoreDesc.flsnp" /></li>
+            <li><a href="c_benchmarks_ww.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Comparaciones</a> - <MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" /></li>
+            <li><a href="c_openends_ww.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Preguntas abiertas</a> - <MadCap:snippetText src="Resources/Snippets/OpenEnds.flsnp" /></li>
+        </ul>
+        <h2>Cómo organizar mosaicos</h2>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/permissions.flsnp" />
+        </p>
+        <p>Para reorganizar los mosaicos sobre el <span class="wintitle">tablero </span> se puede arrastrar y colocar cada uno en el sitio deseado.  A medida que arrastre cada mosaico a un sitio válido, aparecerá un mensaje para informarle dónde se puede colocar el mosaico:</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/DashboardDragNDrop.png" alt="arrastrar y colocar sobre el tablero" style="mc-thumbnail: popup;" title="Haga clic para ampliar. Haga clic nuevamente para cerrar." />
+        </p>
+        <p>La nueva organización se guarda automáticamente al salir de la página.</p>
+        <h2 style="page-break-before: always;">
+            <MadCap:keyword term="Opciones del tablero" />Opciones del tablero</h2>
+        <p>Al visualizar un tablero, están disponibles las siguientes opciones:</p>
+        <table style="width: 100%; mc-table-style: url('Resources/TableStyles/Ref2Column.css'); margin-left: auto; margin-right: auto;" class="TableStyle-Ref2Column" cellspacing="0">
+            <col class="TableStyle-Ref2Column-Column-Column1" />
+            <col class="TableStyle-Ref2Column-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-Ref2Column-Head-Header1">
+                    <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Opción</th>
+                    <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Descripción</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                        <img src="Resources/Images/expand.png" title="icono pantalla completa" alt="compartir" MadCap:mediastyle="@media print { width: 13px;height: 11px;max-width: 13px;max-height: 11px; }" /> Ampliar metadatos</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Haga clic en el signo más para ver información adicional sobre los datos del mosaico. Al hacer clic en el cheurón ubicado arriba del mosaico se puede acceder a más metadatos.</td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body2">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">
+                        <img src="Resources/Images/fullScreen.png" title="icono compartir" alt="Hacer clic para ver este tema de Ayuda." MadCap:mediastyle="@media print { width: 25px;height: 18px;max-width: 25px;max-height: 18px; }" /> Pantalla completa</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">
+                        <MadCap:snippetBlock src="Resources/Snippets/fullScreenDef.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                        <img src="Resources/Images/edit.png" MadCap:mediastyle="@media print { width: 22px;height: 18px;max-width: 22px;max-height: 18px; }" /> Editar</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                        <MadCap:snippetText src="Resources/Snippets/EditTile.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body2">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">
+                        <img src="Resources/Images/delete.png" MadCap:mediastyle="@media print { width: 19px;height: 18px;max-width: 19px;max-height: 18px; }" /> Eliminar</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Desplace el mouse sobre el mosaico para ver el icono que le permite eliminar el mosaico del tablero.</td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyB-Column1-Body1">
+                        <img src="Resources/Images/share.png" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda." MadCap:mediastyle="@media print { width: 22px;height: 16px;max-width: 22px;max-height: 16px; }" />
+                         <MadCap:keyword term="compartir" />Compartir</td>
+                    <td class="TableStyle-Ref2Column-BodyA-Column2-Body1">Haga clic para ver la barra lateral <span class="wintitle">Compartir</span>, desde donde puede invitar a otros usuarios a ver el tablero. Ver <a href="t_share.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Compartir un tablero</a> para recibir instrucciones.</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Tema relacionado:</h3>
+        <p><a href="t_dashboard_new.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Crear un nuevo tablero</a> - <MadCap:snippetText src="Resources/Snippets/summaryDashboardNew.flsnp" /></p>
+    </body>
+</html>

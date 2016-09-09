@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:tocPath="Welcome to Executive Portal|Dashboard Creator" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="en-us" xml:lang="en-us" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="EP Help.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Working With Open Ends</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js">
+        </script>
+        <script src="SkinSupport/MadCapAll.js">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../EP Help_CSH.htm#c_openends_ww.htm" style="">Open topic with navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix"> </span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Welcome to Executive Portal</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="toc_creator1.htm">Dashboard Creator</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Working with Open Ends</span>
+        </div>
+        <h1><a name="kanchor39"></a>Working with Open Ends</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;"><span class="autonumber"><span><i>Summary: </i></span></span>View comments for a specific <span class="wintitle">Channel</span> and <span class="wintitle">Measure</span>, along with <span class="wintitle">Elements</span>, <span class="wintitle">Satisfaction Score</span>, and <span class="wintitle">Future Behaviors</span> for a single response.</p>
+        <p><span class="wintitle">Open ends</span> is a category of responses comprised of narratives from respondents. Tiles show <span class="wintitle">Measure</span> and date range in the header, with the selected <span class="wintitle">Open End Questions</span> and <span class="wintitle">Comment Details</span> of each respondent in a separate block. A response may contain up to three <span class="wintitle">Open End Questions</span>, up to five <span class="wintitle">Comment Details</span>, and the date of the response. </p>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_3228099729_0" onclick="FMCDropDown( this ); return false;" name="kanchor40"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" />Build A New Open Ends Tile...</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_3228099729_0" style="display: none;">
+                <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;"><span class="autonumber"><span><i>Summary: </i></span></span>Use <span class="wintitle">Open End Questions</span> and <span class="wintitle">Comment Details</span> for selected <span class="wintitle">Channels</span> and <span class="wintitle">Measures</span> to build a tile.</p>
+                <p><b>Role-based content:</b> This section contains information and/or instructions requiring role-based features. If you do not see a feature described in this section, you may not have the necessary user profile to perform these tasks. </p>
+                <p>To display comments:</p>
+                <ol>
+                    <li value="1">Select a <a href="r_date.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">date range</a>.</li>
+                    <li value="2">The <span class="wintitle">Data Selection</span> sidebar displays by default with the <span class="wintitle">Channel</span> and <span class="wintitle">Measure</span> menus set to the first item. Select the desired <span class="wintitle">Channel</span> and <span class="wintitle">Measure</span> items. For some measures, one or more filter menus may appear.</li>
+                    <li value="3">(Optional) Select any desired filter criteria. You may also click <span class="uicontrol">Add New Selection</span> to incorporate another channel, measure, and/or filter(s).</li>
+                    <li value="4">Click <span class="uicontrol">Apply</span>, which then becomes disabled until you perform any revisions. </li>
+                    <li value="5">Click the <span class="uicontrol">Settings</span> icon (<img src="Resources/Images/sets_icon.png" title="settings icon" alt="settings icon" />). The <span class="wintitle">Settings</span> sidebar displays each selection separately with a search text field and a checklist of short question labels grouped by <span class="wintitle">Open End Questions</span> and <span class="wintitle">Comment Details</span>.</li>
+                    <li value="6">(Optional) Type a key word or regular expression in the search text field to view responses containing only the key word.</li>
+                    <li value="7">Select up to three <span class="wintitle">Open End Questions</span>, up to five <span class="wintitle">Comment Details</span>, and two <span class="wintitle">Scores</span>. Each section becomes disabled when you reach the maximum allowed selections.</li>
+                    <li value="8">Click <span class="uicontrol">Apply</span>. A progress bar displays along the top of the toolbar while the system generates and displays the tile. </li>
+                </ol>
+                <p>With the comments displayed, you may change your selections, click <span class="uicontrol">Pin</span> (<img src="Resources/Images/pin_button.png" title="pin button" alt="pin button" />)&#160;to add the tile to a <a href="t_dashboard_new.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">dashboard</a>, or click a comment to view additional information in a sidebar.</p>
+            </div>
+        </div>
+        <h2>Drill-Down Data</h2>
+        <p>Click on a response to view drill-down information on the <span class="wintitle">Open Ends Comment Review</span> sidebar for the individual respondent. Each respondent block is limited to 300 characters for a single comment and 150 for two or three comments. Comments exceeding this limit are collapsed and display and expand icon (<img src="Resources/Images/expand.png" title="expand" alt="expand icon" />). Clicking the icon displays a dialog box with the complete narrative.</p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Welcome to Executive Portal" Link="/Content/c_welcome.htm" />
+    <TocEntry Title="Dashboard Viewer" Link="/Content/toc_viewer.htm">
+    </TocEntry>
+    <TocEntry Title="Sobre a página de acesso" Link="/Content/c_login.htm" />
+    <TocEntry Title="Sobre a barra de ferramentas" Link="/Content/r_toolbar.htm" />
+    <TocEntry Title="Viewing Dashboards" Link="/Content/c_dashboards_about.htm" />
+    <TocEntry Title="Share A Dashboard" Link="/Content/t_share.htm" />
+    <TocEntry Title="Dashboard Creator" Link="/Content/toc_creator1.htm" />
+</CatapultToc>

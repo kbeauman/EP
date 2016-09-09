@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="526" MadCap:lastWidth="912">
+    <head><title>Build Score 2</title>
+    </head>
+    <body>
+        <h1>Build a new Response Score Tile - Step 2</h1>
+        <p>Click <span class="uicontrol">Response Comparison</span> on the <span class="wintitle">Scores</span> sidebar.</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildtile2.png" title="Click Response Comparison." alt="Scores Sidebar" style="mc-float: center;" />
+        </p>
+        <h3>Additional Information</h3>
+        <p><a href="c_scores_ww.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Working with Scores</a>
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="buildscore4.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Step 3 &gt;</a>
+        </p>
+    </body>
+</html>

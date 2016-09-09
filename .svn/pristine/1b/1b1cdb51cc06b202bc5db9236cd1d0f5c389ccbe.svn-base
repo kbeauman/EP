@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="325" MadCap:lastWidth="927" xml:lang="fr-ca">
+    <body>
+        <ol>
+            <li>L'icône <span class="uicontrol">Partager</span> est située dans coin inférieur droit de la fenêtre de votre navigateur lorsque vous consultez un tableau de bord. Cliquez sur l'icône pour afficher la barre latérale <span class="wintitle">Partage</span>.</li>
+            <li>Sélectionnez l'option souhaitée:<ul><li><span class="wintitle">Lien pour le tableau de bord</span> - <MadCap:snippetText src="Link2dashDef.flsnp" /></li><li><span class="wintitle">Lien pour télécharger le PDF</span> - <MadCap:snippetText src="link2pdfDef.flsnp" /></li></ul></li>
+            <li>Sélectionnez la période d'expiration du tableau de bord.</li>
+            <li>(Optionnel) Saisissez un mot de passe dans le champ de texte pour empêcher l'accès à la page Web ou au PDF aux visiteurs non autorisés. Ce mot de passe n'est pas inclus dans le courriel et peut être transmis à un destinataire si vous le souhaitez.</li>
+            <li>Cliquez sur <span class="uicontrol">Partager un tableau de bord</span>. La barre latérale se ferme est une boîte de dialogue apparaît avec deux options:<ul><li>Copier l'URL - Mettez en évidence la chaîne entière dans la zone texte et copiez (cliquez avec le bouton droit de la souris sur le texte mis en évidence et sélectionnez <span class="uicontrol">Copier</span> dans le menu contextuel ou appuyez à la fois sur les touches <span class="uicontrol">Ctrl</span> et <span class="uicontrol">C</span>). Vous pouvez coller le lien souhaité. </li><li>Créer un courriel - Cliquez sur <span class="uicontrol">Créer un courriel</span> pour que votre application de courriel par défaut affiche une note contenant l'URL. Saisissez l'adresse du destinataire et modifiez la note si nécessaire avant de l'envoyer.</li></ul></li>
+            <li>Pour fermer la boîte de dialogue, cliquez sur <span class="uicontrol">Annuler</span>.</li>
+        </ol>
+    </body>
+</html>

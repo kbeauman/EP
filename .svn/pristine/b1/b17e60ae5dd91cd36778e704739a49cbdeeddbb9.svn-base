@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="es" MadCap:ignoredWords="" MadCap:tocPath="Bienvenido al Portal Ejecutivo.|Visor de tableros" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="es" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Cómo usar la página Ingresar</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js">
+        </script>
+        <script src="SkinSupport/MadCapAll.js">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#c_login.htm" style="">Abierto de navegación</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix"> </span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Bienvenido al Portal Ejecutivo.</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="toc_viewer.htm">Visor de tableros</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Cómo usar la página Ingresar</span>
+        </div>
+        <h1><a name="kanchor4"></a>Cómo usar la página Ingresar</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Resumen: &lt;/i&gt;"><span class="autonumber"><span><i>Resumen: </i></span></span>&#160;</p>
+        <ul>
+            <li value="1">Acceda al <span class="wintitle">Portal ejecutivo</span> o al <span class="wintitle">Portal analítico</span></li>
+            <li value="2">Cambie su contraseña</li>
+            <li value="3">Cambie el idioma de la interfaz del usuario</li>
+            <li value="4">Envíe los comentarios</li>
+        </ul>
+        <p><span class="wintitle">El Portal ejecutivo</span> incluye una función de conexión segura que está sincronizada con el <span class="wintitle">Portal analítico</span> para facilitar una única conexión para ambos entornos. Su sesión se cierra automáticamente después de 30 segundos de inactividad.</p>
+        <div class="note" MadCap:autonum="&lt;b&gt;NOTA: &lt;/b&gt;"><span class="autonumber"><span><b>NOTA: </b></span></span>Si se aleja de su computadora durante la sesión, cualquier persona con acceso al equipo podrá ver sus datos. Recuerde cerrar sesión o bien bloquear el equipo si va a permanecer lejos de éste por períodos prolongados.</div>
+        <p>La pantalla <span class="wintitle">Ingresar</span> le permite seleccionar qué portal desea visualizar inicialmente. Se puede navegar entre los distintos portales iniciando sesión una única vez.</p>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_3165570456_0" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" />Para ingresar...</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_3165570456_0" style="display: none;">
+                <ol>
+                    <li value="1">Seleccione el portal deseado del menú.</li>
+                    <li value="2">Escriba su nombre de usuario y contraseña.</li>
+                    <li value="3">Puede optar por seleccionar el idioma deseado del menú. El <span class="wintitle">Portal ejecutivo</span> se puede presentar en los idiomas enumerados. Sin embargo, el <span class="wintitle">Portal analítico</span> está disponible en inglés solamente.</li>
+                    <li value="4">Haga clic en <span class="uicontrol">Ingresar</span>. Aparece en pantalla la página <span class="wintitle">Tableros</span>.</li>
+                </ol>
+            </div>
+        </div>
+        <div class="tip" MadCap:autonum="&lt;b&gt;Consejo: &lt;/b&gt;"><span class="autonumber"><span><b>Consejo: </b></span></span>Se recomienda cambiar su contraseña periódicamente para optimizar la seguridad.</div>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_3165570456_1" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" />Para cambiar o restablecer su contraseña...</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_3165570456_1" style="display: none;">
+                <ol>
+                    <li value="1">Haga clic en <span class="uicontrol">¿Olvidó contraseña?</span>. Se abre el cuadro de diálogo <span class="wintitle">Restablecer contraseña</span>.</li>
+                    <li value="2">Escriba su dirección de correo electrónico y nombre de usuario y haga clic en <span class="uicontrol">Enviar</span>. El cuadro de diálogo se cierra y se envía un mensaje de correo electrónico a la dirección consignada con más instrucciones.</li>
+                </ol>
+            </div>
+        </div>
+        <div class="MCDropDown">
+            <div class="MCDropDownHead_0"><a class="MCDropDownHotSpot_0" href="javascript:void(0);" id="MCDropDownHotSpot_3165570456_2" onclick="FMCDropDown( this ); return false;"><img style="border: none;margin-right: 5px;" src="SkinSupport/verticalshow_icon.png" MadCap:altsrc="SkinSupport/verticalhide_icon.png" onload="if ( typeof( FMCPreloadImage ) == 'function' ) { FMCPreloadImage( 'SkinSupport/verticalhide_icon.png' ); }" alt="Closed" MadCap:alt2="Open" class="MCDropDownIcon" />Otras de las funciones disponibles en la página <span class="wintitle">Ingresar</span> incluyen...</a>
+            </div>
+            <div class="MCDropDownBody_0" id="MCDropDownBody_3165570456_2" style="display: none;">
+                <table style="width: 100%;margin-left: auto;margin-right: auto;mc-table-style: url('Resources/TableStyles/Ref2Column.css');" class="TableStyle-Ref2Column" cellspacing="0">
+                    <col class="TableStyle-Ref2Column-Column-Column1" />
+                    <col class="TableStyle-Ref2Column-Column-Column2" />
+                    <thead>
+                        <tr class="TableStyle-Ref2Column-Head-Header1">
+                            <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Función</th>
+                            <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Descripción</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Ref2Column-Body-Body1">
+                            <td class="TableStyle-Ref2Column-BodyE-Column1-Body1"><a name="kanchor5"></a>Menú de Idiomas</td>
+                            <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Configure el <span class="wintitle">Portal ejecutivo</span> para visualizarlo en uno de los dialectos disponibles.</td>
+                        </tr>
+                        <tr class="TableStyle-Ref2Column-Body-Body2">
+                            <td class="TableStyle-Ref2Column-BodyB-Column1-Body2"><a name="kanchor6"></a>Comentarios</td>
+                            <td class="TableStyle-Ref2Column-BodyA-Column2-Body2">Muestra un mensaje de correo electrónico con una dirección preestablecida para informar un problema con la aplicación o hacer sugerencias para futuras versiones.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

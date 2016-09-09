@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="">
+    <TocEntry Title="Bienvenue au Portail exécutif" Link="/Content/c_welcome.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="1" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="decimal" SectionNumberReset="continue" VolumeNumberReset="same" PageNumberFormat="decimal">
+        <TocEntry Title="Visiteur de tableaux de bord" Link="/Content/toc_viewer.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl">
+            <TocEntry Title="Utilisation de la page de connexion" Link="/Content/c_login.htm" />
+            <TocEntry Title="La barre d'outils du Portail exécutif" Link="/Content/r_toolbar_2.htm" />
+            <TocEntry Title="Consultation des tableaux de bord" Link="/Content/c_dashboards_about_2.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" />
+            <TocEntry Title="À propos des résultats" Link="/Content/c_scores_about.htm" />
+            <TocEntry Title="À propos des résultats ouverts" Link="/Content/c_openends_about.htm" />
+            <TocEntry Title="À propos des repères" Link="/Content/c_benchmarks_about.htm" />
+            <TocEntry Title="Partager un tableau de bord" Link="/Content/t_share_2.htm" />
+        </TocEntry>
+        <TocEntry Title="Créateur de tableaux de bord" Link="/Content/toc_creator1.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl">
+            <TocEntry Title="Utilisation de la page de connexion" Link="/Content/c_login_2.htm" />
+            <TocEntry Title="La barre d'outils du Portail exécutif" Link="/Content/r_toolbar.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="decimal" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" SectionNumberReset="continue" VolumeNumberReset="same" />
+            <TocEntry Title="Utilisation des tableaux de bord" Link="/Content/c_dashboards_about.htm" />
+            <TocEntry Title="Partager un tableau de bord" Link="/Content/t_share.htm" />
+            <TocEntry Title="Ajouter un tableau de bord" Link="/Content/t_dashboard_new.htm" />
+            <TocEntry Title="Au sujet du Gestionnaire de tableaux de bord" Link="/Content/c_dashboard_manager.htm" />
+            <TocEntry Title="Utilisation des résultats" Link="/Content/c_scores_ww.htm" />
+            <TocEntry Title="Utiliser les questions ouvertes" Link="/Content/c_openends_ww.htm" />
+            <TocEntry Title="Utilisation des repères" Link="/Content/c_benchmarks_ww.htm" />
+            <TocEntry Title="Sélection d'une période" Link="/Content/r_date.htm" />
+        </TocEntry>
+        <TocEntry Title="Guide de démarrage rapide" Link="/Content/quickstartmain.htm">
+            <TocEntry Title="Créer une nouvelle mosaïque de résultats" Link="/Content/buildscore1.htm">
+                <TocEntry Title="Créer une nouvelle mosaïque de résultats - Étape 1" Link="/Content/buildscore2.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de résultats - Étape 2" Link="/Content/buildscore3.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de résultats - Étape 3" Link="/Content/buildscore4.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de résultats - Étape 4" Link="/Content/buildscore5.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de résultats - Étape 5" Link="/Content/buildscore6.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de résultats - Étape 6" Link="/Content/buildscore7.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de résultats - Étape 7" Link="/Content/buildscore8.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de résultats - Étape 8" Link="/Content/buildscore9.htm" />
+            </TocEntry>
+            <TocEntry Title="Créer une nouvelle mosaïque de questions ouvertes" Link="/Content/buildopenend1.htm">
+                <TocEntry Title="Créer une nouvelle mosaïque de questions ouvertes - Étape 1" Link="/Content/buildopenend2.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de questions ouvertes - Étape 2" Link="/Content/buildopenend3.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de questions ouvertes - Étape 3" Link="/Content/buildopenend4.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de questions ouvertes - Étape 4" Link="/Content/buildopenend5.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de questions ouvertes - Étape 5" Link="/Content/buildopenend6.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de questions ouvertes - Étape 6" Link="/Content/buildopenend7.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de questions ouvertes - Étape 7" Link="/Content/buildopenend8.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de questions ouvertes - Étape 8" Link="/Content/buildopenend9.htm" />
+            </TocEntry>
+            <TocEntry Title="Créer une nouvelle mosaïque de repères" Link="/Content/buildbenchmark1.htm">
+                <TocEntry Title="Créer une nouvelle mosaïque de repères - Étape 2" Link="/Content/buildbenchmark2.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de repères - Étape 3" Link="/Content/buildbenchmark3.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de repères - Étape 4" Link="/Content/buildbenchmark4.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de repères - Étape 5" Link="/Content/buildbenchmark5.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de repères - Étape 6" Link="/Content/buildbenchmark6.htm" />
+                <TocEntry Title="Créer une nouvelle mosaïque de repères - Étape 7" Link="/Content/buildbenchmark7.htm" />
+                <TocEntry Title="Options d’affichage des rapports" Link="/Content/newTileFinal.htm" />
+            </TocEntry>
+            <TocEntry Title="Modifier un rapport existant" Link="/Content/edittile1.htm">
+                <TocEntry Title="Modifier un rapport existant - Étape 1" Link="/Content/edittile2.htm" />
+            </TocEntry>
+            <TocEntry Title="Créer un nouveau tableau de bord " Link="/Content/builddash1.htm">
+                <TocEntry Title="À l'aide du Épingler bouton " Link="/Content/builddash2.htm" />
+                <TocEntry Title="À l'aide du Gestionnaire de tableaux de bord" Link="/Content/builddash4.htm" />
+                <TocEntry Title="Créer un nouveau tableau de bord - Étape 2 " Link="/Content/builddash3.htm" />
+                <TocEntry Title="Créer un nouveau tableau de bord - Étape 3 " Link="/Content/builddash5.htm" />
+            </TocEntry>
+            <TocEntry Title="Réglages de la tableaux de bord" Link="/Content/editdash1.htm">
+                <TocEntry Title="Réglages de la tableaux de bord - Étape 1" Link="/Content/editdash2.htm" />
+                <TocEntry Title="Réglages de la tableaux de bord - Étape 2 " Link="/Content/editdash3.htm" />
+                <TocEntry Title="Réglages de la tableaux de bord - Étape 3 " Link="/Content/editdash4.htm" />
+            </TocEntry>
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

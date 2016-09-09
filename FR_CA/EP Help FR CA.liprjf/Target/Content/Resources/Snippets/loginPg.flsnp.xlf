@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    xml:space="preserve"
+    original="loginPg.flsnp"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-flsnp"
+    target-language="fr-ca">
+    <header>
+      <skl><external-file
+          href="loginPg.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">34</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">2</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V9"
+        tool-name="Lingo"
+        tool-version="9.5.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Login:how to;Password:change;Set Language;Password:reset</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Login:how to</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">Password:change</mrk><mrk
+            mtype="seg"
+            mid="3"
+            comment="">Set Language</mrk><mrk
+            mtype="seg"
+            mid="4"
+            comment="">Password:reset</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Login:how to</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Password:change</mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Set Language</mrk><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Password:reset</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Language</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Language</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Language</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-h1"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Using the Login Page</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Using the Login Page</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Utilisation de la page de connexion</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-li"
+        phase-name="pretrans"><source>Access <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> or <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Feedback<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Access <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> or <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Feedback<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New"
+            comment="" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-li"
+        phase-name="pretrans"><source>Change your password</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Change your password</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Modifier le mot de passe</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-li"
+        phase-name="pretrans"><source>Change the language of the user interface</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Change the language of the user interface</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Modifier la langue de l'interface utilisateur</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-li"
+        phase-name="pretrans"><source>Preview upcoming events, products, and services</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Preview upcoming events, products, and services</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New"
+            comment="" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> offers a secure login feature which is synchronized with the <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Feedback<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> to facilitate a single login for each product. Your session closes automatically after 30 minutes of inactivity.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> offers a secure login feature which is synchronized with the <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Feedback<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> to facilitate a single login for each product.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">Your session closes automatically after 30 minutes of inactivity.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="FuzzyMatch"
+            MadCap:matchPercent="80"
+            MadCap:diff="ContentChanged"
+            comment="" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Votre session se ferme automatiquement après 30 minutes d'inactivité.</mrk></target><alt-trans
+          match-quality="80"
+          origin="previous-version"><seg-source><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> offers a secure login feature which is synchronized with the <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> to facilitate a single login for both environments.</seg-source><target>Le <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Portail exécutif<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> offre une fonction de connexion sécurisée qui est synchronisée avec le <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Portail analytique<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> afin de faciliter une seule connexion pour les deux environnements.</target></alt-trans></trans-unit><trans-unit
+        id="9"
+        restype="x-div"
+        phase-name="pretrans"><source>Leaving your session unattended allows anyone with access to your device to view your data. Remember to either logout of the session or lock your device while away for extended periods.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Leaving your session unattended allows anyone with access to your device to view your data.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">Remember to either logout of the session or lock your device while away for extended periods.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Laisser votre session sans surveillance permet à n'importe qui d'accéder à votre appareil pour consulter vos données.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">N'oubliez pas de fermer votre session ou de verrouiller votre appareil lorsque vous vous absentez durant de longues périodes.</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Login<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> screen allows you to select which portal to view initially. Navigating between portals is available in a single login session.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">The <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Login<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> screen allows you to select which portal to view initially.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">Navigating between portals is available in a single login session.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">L'écran <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Connexion<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> vous permet de sélectionner le portail que vous souhaitez consulter en premier.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">La navigation entre les portails est disponible sur une seule session de connexion.</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>To login...</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">To login...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Pour se connecter...</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-li"
+        phase-name="pretrans"><source>Select the desired portal from the menu.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Select the desired portal from the menu.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Sélectionnez le portail souhaité dans le menu.</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-li"
+        phase-name="pretrans"><source>Type your<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt> User Name<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Password<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Type your<bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt> User Name<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Password<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="needs-review-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="FuzzyMatch"
+            MadCap:matchPercent="81"
+            MadCap:diff="ContentChanged"
+            comment="" /></target><alt-trans
+          match-quality="81"
+          origin="previous-version"><seg-source>Type your Username and password.</seg-source><target>Saisissez votre nom d'utilisateur et votre mot de passe.</target></alt-trans></trans-unit><trans-unit
+        id="14"
+        restype="x-li"
+        phase-name="pretrans"><source>Optionally, select the desired language from the menu. You can display <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> in any of the languages listed. However, <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Feedback<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> are only available in English.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Optionally, select the desired language from the menu.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">You can display <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> in any of the languages listed.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            comment="">However, <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Feedback<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> are only available in English.</mrk></seg-source><target
+          state="needs-review-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="FuzzyMatch"
+            MadCap:matchPercent="89"
+            comment=""
+            MadCap:diff="ContentChanged">Si vous le souhaitez, sélectionnez la langue de votre choix dans le menu.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="FuzzyMatch"
+            MadCap:matchPercent="75"
+            MadCap:diff="ContentChanged"
+            comment="" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="FuzzyMatch"
+            MadCap:matchPercent="75"
+            MadCap:diff="ContentChanged"
+            comment="" /></target><alt-trans
+          mid="1"
+          match-quality="89"
+          origin="previous-version"><seg-source>You can display <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> in the languages listed.</seg-source><target>Vous pouvez afficher le <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Portail exécutif<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> dans les différentes langues indiquées.</target></alt-trans><alt-trans
+          mid="2"
+          match-quality="75"
+          origin="previous-version"><seg-source>However, <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Analytics Portal<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> is only available in English.</seg-source><target>Cependant, le <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Portail analytique<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> est seulement disponible en anglais.</target></alt-trans></trans-unit><trans-unit
+        id="15"
+        restype="x-li"
+        phase-name="pretrans"><source>Click <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Log in<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>. The <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> page displays.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Log in<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">The <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> page displays.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Cliquez sur <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Ouvrir une session<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">La page <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Tableaux de bord<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> s'affiche.</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-div"
+        phase-name="pretrans"><source>As of January 18, 2015, passwords will expire every 60 days.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">As of January 18, 2015, passwords will expire every 60 days.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New"
+            comment="" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>To change or reset your password...</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">To change or reset your password...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Pour modifier ou réinitialiser votre mot de passe...</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-li"
+        phase-name="pretrans"><source>Click <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Forgot password/Retrieve User Name<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>. The <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Reset Password<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> dialog displays.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Forgot password/Retrieve User Name<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">The <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Reset Password<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> dialog displays.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="FuzzyMatch"
+            MadCap:matchPercent="55"
+            MadCap:diff="ContentChanged"
+            comment="" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">La boîte de dialogue <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Réinitialiser le mot de passe<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> s'affiche.</mrk></target><alt-trans
+          match-quality="55"
+          origin="previous-version"><seg-source>Click <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Forgot password<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</seg-source><target>Cliquez sur <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Mot de passe oublié<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</target></alt-trans></trans-unit><trans-unit
+        id="19"
+        restype="x-li"
+        phase-name="pretrans"><source>Type your email address and login user name (if known) and click <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Submit<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>. The dialog closes and an email message is sent to the entered address with further instructions.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Type your email address and login user name (if known) and click <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Submit<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">The dialog closes and an email message is sent to the entered address with further instructions.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="FuzzyMatch"
+            MadCap:matchPercent="85"
+            MadCap:diff="ContentChanged"
+            comment="" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">La boîte de dialogue se ferme et un courriel est envoyé à l'adresse saisie avec de plus amples instructions.</mrk></target><alt-trans
+          match-quality="85"
+          origin="previous-version"><seg-source>Type your email address and login user name and click <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Submit<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</seg-source><target>Saisissez votre adresse électronique et connectez-vous avec votre nom d'utilisateur puis cliquez sur <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Soumettre<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</target></alt-trans></trans-unit><trans-unit
+        id="20"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>Other features available on the <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Login<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> page include...</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Other features available on the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Login<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> page include...</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Les autres fonctions disponibles dans la page <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Connexion<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> comprennent...</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-th"
+        phase-name="pretrans"><source>Feature</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Feature</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Fonction</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-th"
+        phase-name="pretrans"><source>Description</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Description</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Description</mrk></target></trans-unit><trans-unit
+        id="23"
+        restype="x-td"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Language Menu</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Language Menu</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Menu Langues</mrk></target></trans-unit><trans-unit
+        id="24"
+        restype="x-td"
+        phase-name="pretrans"><source>Set <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> to display in an available dialect.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Set <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> to display in an available dialect.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"
+            comment="">Réglez le <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Portail exécutif<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> pour l'afficher dans un dialecte disponible.</mrk></target></trans-unit><trans-unit
+        id="25"
+        restype="x-td"
+        phase-name="pretrans"><source>Marketing Carousel</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Marketing Carousel</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New"
+            comment="" /></target></trans-unit><trans-unit
+        id="26"
+        restype="x-td"
+        phase-name="pretrans"><source>Preview webinars, upcoming events, and access <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> product information.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Preview webinars, upcoming events, and access <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> product information.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New"
+            comment="" /></target></trans-unit><trans-unit
+        id="27"
+        restype="x-td"
+        phase-name="pretrans"><source>Privacy Policy</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Privacy Policy</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New"
+            comment="" /></target></trans-unit><trans-unit
+        id="28"
+        restype="x-td"
+        phase-name="pretrans"><source>Click the link to view <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee's<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> policy on protecting your data.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click the link to view <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee's<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> policy on protecting your data.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New"
+            comment="" /></target></trans-unit></body>
+  </file>
+</xliff>

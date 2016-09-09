@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Benchmarks</Key>
+  <OldValue>Benchmarks</OldValue>
+  <NewValue>Benchmarks</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>new</Key>
+  <OldValue>new</OldValue>
+  <NewValue>new</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Categories</Key>
+  <OldValue>Categories</OldValue>
+  <NewValue>Categories</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Compare</Key>
+  <OldValue>Compare</OldValue>
+  <NewValue>Compare</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Dashboard Manager</Key>
+  <OldValue>Dashboard Manager</OldValue>
+  <NewValue>Dashboard Manager</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>delete dashboard</Key>
+  <OldValue>delete dashboard</OldValue>
+  <NewValue>delete dashboard</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>properties</Key>
+  <OldValue>properties</OldValue>
+  <NewValue>properties</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Dashboard Options</Key>
+  <OldValue>Dashboard Options</OldValue>
+  <NewValue>Dashboard Options</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Dashboards</Key>
+  <OldValue>Dashboards</OldValue>
+  <NewValue>Dashboards</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>delete</Key>
+  <OldValue>delete</OldValue>
+  <NewValue>delete</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Viewing</Key>
+  <OldValue>Viewing</OldValue>
+  <NewValue>Viewing</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Working with</Key>
+  <OldValue>Working with</OldValue>
+  <NewValue>Working with</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Date Range</Key>
+  <OldValue>Date Range</OldValue>
+  <NewValue>Date Range</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Feedback</Key>
+  <OldValue>Feedback</OldValue>
+  <NewValue>Feedback</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Help</Key>
+  <OldValue>Help</OldValue>
+  <NewValue>Help</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>about</Key>
+  <OldValue>about</OldValue>
+  <NewValue>about</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Language</Key>
+  <OldValue>Language</OldValue>
+  <NewValue>Language</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Login</Key>
+  <OldValue>Login</OldValue>
+  <NewValue>Login</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>how to</Key>
+  <OldValue>how to</OldValue>
+  <NewValue>how to</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Logout</Key>
+  <OldValue>Logout</OldValue>
+  <NewValue>Logout</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Navigation</Key>
+  <OldValue>Navigation</OldValue>
+  <NewValue>Navigation</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Open ends</Key>
+  <OldValue>Open ends</OldValue>
+  <NewValue>Open ends</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Password</Key>
+  <OldValue>Password</OldValue>
+  <NewValue>Password</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>change</Key>
+  <OldValue>change</OldValue>
+  <NewValue>change</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>reset</Key>
+  <OldValue>reset</OldValue>
+  <NewValue>reset</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Quartiles</Key>
+  <OldValue>Quartiles</OldValue>
+  <NewValue>Quartiles</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Role-based Usability</Key>
+  <OldValue>Role-based Usability</OldValue>
+  <NewValue>Role-based Usability</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Scores</Key>
+  <OldValue>Scores</OldValue>
+  <NewValue>Scores</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Set Language</Key>
+  <OldValue>Set Language</OldValue>
+  <NewValue>Set Language</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Share</Key>
+  <OldValue>Share</OldValue>
+  <NewValue>Share</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>cancel</Key>
+  <OldValue>cancel</OldValue>
+  <NewValue>cancel</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>report</Key>
+  <OldValue>report</OldValue>
+  <NewValue>report</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Show</Key>
+  <OldValue>Show</OldValue>
+  <NewValue>Show</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Side Navigation</Key>
+  <OldValue>Side Navigation</OldValue>
+  <NewValue>Side Navigation</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Menu</Key>
+  <OldValue>Menu</OldValue>
+  <NewValue>Menu</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Tiles</Key>
+  <OldValue>Tiles</OldValue>
+  <NewValue>Tiles</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Toolbar</Key>
+  <OldValue>Toolbar</OldValue>
+  <NewValue>Toolbar</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Tools</Key>
+  <OldValue>Tools</OldValue>
+  <NewValue>Tools</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Username</Key>
+  <OldValue>Username</OldValue>
+  <NewValue>Username</NewValue>
+</Entry>
+</StringMap>

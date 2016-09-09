@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="925" MadCap:lastWidth="901" xml:lang="pt-br">
+    <head>
+        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Como exibir painéis</title>
+    </head>
+    <body>
+        <h1>Como trabalhar com <MadCap:keyword term="Dashboards:Working with" />painéis</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Resumo: &lt;/i&gt;">Visualizar os painéis a partir da perspectiva do <span class="wintitle">Visualizador de painéis</span>.</p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/dashboardDesc.flsnp" /> Pode haver qualquer número de blocos em um painel, e qualquer número de painéis.</p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/ViewDashBuilder.flsnp" />
+        </p>
+        <h2>Blocos de <MadCap:keyword term="Tiles" />painéis</h2>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/TilesDef.flsnp" />
+        </p>
+        <ul>
+            <li><a href="c_scores_ww.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Pontuações</a> - <MadCap:snippetText src="Resources/Snippets/ScoreDesc.flsnp" /></li>
+            <li><a href="c_benchmarks_ww.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Parâmetros de referência</a> - <MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" /></li>
+            <li><a href="c_openends_ww.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Perguntas abertas</a> - <MadCap:snippetText src="Resources/Snippets/OpenEnds.flsnp" /></li>
+        </ul>
+        <h2>Organização dos blocos</h2>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/permissions.flsnp" />
+        </p>
+        <p>Basta arrastar e soltar cada bloco no <span class="wintitle">Painel</span> para reorganizá-los como desejar. À medida que um bloco é arrastado para um local válido, uma mensagem é exibida para informar onde ele pode ser colocado:</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/DashboardDragNDrop.png" alt="dashboard drag and drop" style="mc-thumbnail: popup;" title="Clique para ampliar. Clique novamente para fechar." />
+        </p>
+        <p>A nova organização é salva automaticamente quando você sai da página.</p>
+        <h2 style="page-break-before: always;">
+            <MadCap:keyword term="Dashboard Options" />Opções dos painéis</h2>
+        <p>As seguintes opções estão disponíveis durante a exibição de um painel:</p>
+        <table style="width: 100%; mc-table-style: url('Resources/TableStyles/Ref2Column.css'); margin-left: auto; margin-right: auto;" class="TableStyle-Ref2Column" cellspacing="0">
+            <col class="TableStyle-Ref2Column-Column-Column1" />
+            <col class="TableStyle-Ref2Column-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-Ref2Column-Head-Header1">
+                    <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Opção</th>
+                    <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Descrição</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                        <img src="Resources/Images/expand.png" title="ícone tela inteira" alt="compartilhar" MadCap:mediastyle="@media print { width: 13px;height: 11px;max-width: 13px;max-height: 11px; }" /> Expandir metadados</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Clique no sinal de mais para exibir mais informações sobre os dados do bloco. Para acessar mais metadados ainda, basta clicar na divisa acima do bloco.</td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body2">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">
+                        <img src="Resources/Images/fullScreen.png" title="ícone compartilhar" alt="Clique aqui para exibir este tópico de Ajuda." MadCap:mediastyle="@media print { width: 25px;height: 18px;max-width: 25px;max-height: 18px; }" /> Tela inteira</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">
+                        <MadCap:snippetBlock src="Resources/Snippets/fullScreenDef.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                        <img src="Resources/Images/edit.png" MadCap:mediastyle="@media print { width: 22px;height: 18px;max-width: 22px;max-height: 18px; }" /> Editar</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">
+                        <MadCap:snippetText src="Resources/Snippets/EditTile.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body2">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">
+                        <img src="Resources/Images/delete.png" MadCap:mediastyle="@media print { width: 19px;height: 18px;max-width: 19px;max-height: 18px; }" /> Excluir</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">Passe o ponteiro do mouse sobre o bloco para exibir este ícone, que permite remover o bloco do painel.</td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyB-Column1-Body1">
+                        <img src="Resources/Images/share.png" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda." MadCap:mediastyle="@media print { width: 22px;height: 16px;max-width: 22px;max-height: 16px; }" />
+                         <MadCap:keyword term="Share" />Compartilhar</td>
+                    <td class="TableStyle-Ref2Column-BodyA-Column2-Body1">Veja <a href="t_share.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Compartilhar um painel</a> para obter instruções. See <a href="t_share.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Share A Dashboard</a> for instructions.</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Tópico relacionado:</h3>
+        <p><a href="t_dashboard_new.htm" title="Clique aqui para exibir este tópico de Ajuda." alt="Clique aqui para exibir este tópico de Ajuda.">Construir um novo painel</a> - <MadCap:snippetText src="Resources/Snippets/summaryDashboardNew.flsnp" /></p>
+    </body>
+</html>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="906" MadCap:lastWidth="912" xml:lang="pt-br" xml:space="preserve" MadCap:ignoredWords="">
+    <head><title>砻קยด7ตว融</title>
+    </head>
+    <body>
+        <h1>砻קยด8ตว融</h1>
+        <MadCap:snippetBlock src="Resources/Snippets/BenchmarkSummary.flsnp" />
+        <p>砻קยด9ตว融</p>
+        <h2>砻קยด10ตว融</h2>
+        <p>砻קยด11ตว融</p>
+        <h2>砻קยด12ตว融</h2>
+        <p>砻קยด13ตว融</p>
+        <h3>砻קยด14ตว融</h3>
+        <p>砻קยด15ตว融</p>
+        <h3>砻קยด16ตว融</h3>
+        <p>砻קยด17ตว融</p>
+        <ul>
+            <li>砻קยด18ตว融</li>
+            <li>砻קยด19ตว融</li>
+            <li>砻קยด20ตว融</li>
+            <li>砻קยด21ตว融</li>
+            <li>砻קยด22ตว融</li>
+        </ul>
+        <p>砻קยด23ตว融</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด24ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด25ตว融</p>
+                <p>
+                    <img src="Resources/Images/BulletGraphicExample4.png" alt="砻קยด5ตว融" title="砻קยด6ตว融" style="mc-thumbnail: popup;" MadCap:mediastyle="@media print { width: 512px;height: 350px;max-width: 512px;max-height: 350px; }" />
+                </p>
+                <p>砻קยด26ตว融</p>
+                <ol>
+                    <li>砻קยด27ตว融</li>
+                    <li>砻קยด28ตว融</li>
+                    <li>砻קยด29ตว融</li>
+                    <li>砻קยด30ตว融</li>
+                    <li>砻קยด31ตว融</li>
+                    <li>砻קยด32ตว融</li>
+                    <li>砻קยด33ตว融</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

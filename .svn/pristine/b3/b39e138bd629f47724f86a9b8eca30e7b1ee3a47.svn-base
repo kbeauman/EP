@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="580" MadCap:lastWidth="980">
+    <head>
+<!-- Inserted by TRADOS: --><META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8"></META>
+<title>C&oacute;mo trabajar con preguntas abiertas</title>
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Open ends" />C&oacute;mo trabajar con preguntas abiertas</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Ver comentarios para un <span class="wintitle">Canal</span> y una <span class="wintitle">Medida</span> espec&iacute;ficos, adem&aacute;s de <span class="wintitle">Elementos</span>, <span class="wintitle">Puntuaci&oacute;n de satisfacci&oacute;n</span> y <span class="wintitle">Comportamientos futuros</span> para una &uacute;nica respuesta.</p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/OpenEnds.flsnp" /> Los mosaicos muestran la <span class="wintitle">Medida</span> y el rango de fecha en el encabezado, con las <span class="wintitle">Preguntas abiertas</span> y los <span class="wintitle">Detalles de comentarios</span> seleccionados de cada encuestado en un bloque distinto. Una respuesta puede contener hasta tres <span class="wintitle">Preguntas abiertas</span>, hasta cinco <span class="wintitle">Detalles de comentarios</span> y la fecha de la respuesta. </p>
+        <MadCap:dropDown><MadCap:dropDownHead><MadCap:dropDownHotspot><MadCap:keyword term="Open ends:new" />Crear un nuevo mosaico de preguntas abiertas...</MadCap:dropDownHotspot></MadCap:dropDownHead> <MadCap:dropDownBody>
+                <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">Utilice <span class="wintitle">Preguntas abiertas</span> y <span class="wintitle">Detalles de comentarios</span> para los <span class="wintitle">Canales</span> y las <span class="wintitle">Medidas</span> seleccionados para crear un mosaico.</p>
+                <p>
+                    <MadCap:snippetText src="Resources/Snippets/permissions.flsnp"></MadCap:snippetText>
+                </p>
+                <p>Para ver los comentarios:</p>
+                <ol>
+                    <li>Seleccione un <a href="r_date.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">rango de fecha</a>.</li>
+                    <li>La barra lateral <span class="wintitle">Selecci&oacute;n de datos</span> aparece en forma predeterminada con los men&uacute;s <span class="wintitle">Canal</span> y <span class="wintitle">Medida</span> configurados para el primer elemento. Seleccione los elementos de <span class="wintitle">Canal</span> y <span class="wintitle">Medida</span> deseados. Para algunas medidas, puede que aparezcan uno o varios men&uacute;s de filtros.</li>
+                    <li>(Opcional) Seleccione los criterios deseados para los filtros. Tambi&eacute;n puede hacer clic en <span class="uicontrol">A&ntilde;adir nueva selecci&oacute;n</span> para incorporar otro canal, medida y/o filtro.</li>
+                    <li>Haga clic en <span class="uicontrol">Aplicar</span>, opci&oacute;n que luego se desactivar&aacute; hasta que realice sus modificaciones. </li>
+                    <li>Haga clic en el icono <span class="uicontrol">Ajustes</span> (<img src="Resources/Images/sets_icon.png" title="settings icon" alt="settings icon" MadCap:mediastyle="@media print { width: 12px;height: 11px;max-width: 12px;max-height: 11px; }" />). La barra lateral de <span class="wintitle">Ajustes</span> muestra cada selecci&oacute;n por separado, con un campo de texto de b&uacute;squeda y una lista de verificaci&oacute;n de etiquetas de preguntas breves agrupadas por <span class="wintitle">Preguntas abiertas</span> y <span class="wintitle">Detalles de comentarios</span>.</li>
+                    <li>(Opcional) Escriba una palabra clave o una expresi&oacute;n habitual en el campo de texto de b&uacute;squeda para ver respuestas que contengan solamente la palabra clave.</li>
+                    <li>Seleccione hasta tres <span class="wintitle">Preguntas abiertas</span> y hasta cinco <span class="wintitle">Detalles de comentarios</span>. Cada secci&oacute;n se desactiva al alcanzar la cantidad m&aacute;xima de selecciones permitidas.</li>
+                    <li>Haga clic en <span class="uicontrol">Aplicar</span>. Aparece una barra de progreso en la parte superior de la barra de herramientas mientras el sistema genera y muestra el mosaico. </li>
+                </ol>
+                <p>Con los comentarios en pantalla, podr&aacute; cambiar sus selecciones, hacer clic en <span class="uicontrol">Fijar</span> (<img src="Resources/Images/pin_button.png" title="pin button" alt="pin button" MadCap:mediastyle="@media print { width: 29px;height: 32px;max-width: 29px;max-height: 32px; }" />)&nbsp;para a&ntilde;adir el mosaico a un <a href="t_dashboard_new.htm" title="Hacer clic para ver este tema de Ayuda." alt="Click to view this Help topic.">tablero</a>, o hacer clic sobre un comentario para ver informaci&oacute;n adicional en una barra lateral.</p>
+            </MadCap:dropDownBody></MadCap:dropDown>
+        <h2>Datos detallados</h2>
+        <p>Haga clic en una respuesta para ver informaci&oacute;n detallada en la barra lateral <span class="wintitle">Revisi&oacute;n de comentarios a preguntas abiertas</span> para el encuestado individual. Cada bloque de encuestados se limita a 300 caracteres para un &uacute;nico comentario y a 150 caracteres para dos o tres comentarios. Los comentarios que excedan este l&iacute;mite se ocultan y muestran el icono ampliar (<img src="Resources/Images/expand.png" title="expand" alt="expand icon" MadCap:mediastyle="@media print { width: 13px;height: 11px;max-width: 13px;max-height: 11px; }" />). Al hacer clic en el icono se abre un cuadro de di&aacute;logo con la narrativa completa.</p>
+    </body>
+</html>

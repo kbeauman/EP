@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="647" MadCap:lastWidth="989" xml:lang="es" MadCap:ignoredWords="">
+    <head><title>Crear puntuaciones 7</title>
+    </head>
+    <body>
+        <h1>Crear un nuevo mosaico de puntuaciones respuestas - Paso 7</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/SelectSettings2.flsnp" />
+        </p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildtile7.png" title="Fijar Pregunta y Puntuación" alt="Ajustes" style="mc-float: center;" />
+        </p>
+        <h3>Paso siguiente</h3>
+        <p><a href="buildscore9.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Paso 8 &gt;</a></p>
+    </body>
+</html>

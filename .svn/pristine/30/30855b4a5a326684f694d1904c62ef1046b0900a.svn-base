@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="190" MadCap:lastWidth="1015" xml:lang="es" MadCap:ignoredWords="">
+    <head><title>Comienzo rápido</title>
+    </head>
+    <body>
+        <h1>Guía de comienzo rápido</h1>
+        <p>Esta sección de la <span class="wintitle">Ayuda </span>consta de tutoriales con ilustraciones sobre las tareas más básicas que se realizan en el <span class="wintitle">Portal Ejecutivo</span>.  Se pueden consultar las siguientes <span class="wintitle">Guías de comienzo rápido</span>:</p>
+        <ul>
+            <li><a href="buildscore1.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Crear un nuevo mosaico de puntuaciones respuestas</a></li>
+            <li><a href="buildbenchmark1.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Crear un nuevo mosaico de comparación</a></li>
+            <li><a href="buildopenend1.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Crear un nuevo mosaico de preguntas abiertas</a></li>
+            <li><a href="edittile1.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Editar un mosaico existente</a></li>
+            <li><a href="builddash1.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Crear un nuevo tablero</a></li>
+            <li><a href="editdash1.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Configuración del tablero</a></li>
+        </ul>
+    </body>
+</html>

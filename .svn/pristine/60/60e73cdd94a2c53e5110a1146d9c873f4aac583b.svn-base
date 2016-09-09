@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="es" MadCap:ignoredWords="">
+    <body>
+        <p>Hay dos métodos para crear un nuevo tablero:</p>
+        <ul>
+            <li>Fijar un mosaico en un nuevo tablero - Haga clic en el botón <span class="uicontrol">Fijar</span> (<img src="../Images/pin_button.png" title="botón Fijar" alt="botón Fijar" MadCap:mediastyle="@media print { width: 29px;height: 32px;max-width: 29px;max-height: 32px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />) y seleccione <span class="uicontrol">Añadir un nuevo tablero</span> en el cuadro de diálogo <span class="wintitle">Fijar en un tablero</span>.</li>
+            <li>Mediante el <a href="../../c_dashboard_manager.htm#DashMgr" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Administrador del tablero</a> - Este método le permite configurar la estructura de un tablero sin mosaicos inicialmente. Utilice este método al configurar un tablero para otro propietario, configurar los permisos para ver y editar del usuario o como un marcador de posición de los mosaicos que no han sido seleccionados aún.</li>
+        </ul>
+    </body>
+</html>

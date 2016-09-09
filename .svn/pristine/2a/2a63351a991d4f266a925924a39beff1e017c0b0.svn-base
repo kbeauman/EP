@@ -1,0 +1,361 @@
+/*<meta />*/
+
+body
+{
+	font-family: Arial;
+}
+
+h1
+{
+	font-size: 18pt;
+	font-weight: normal;
+	color: #777777;
+}
+
+h2
+{
+	font-size: 14pt;
+	font-weight: normal;
+	color: #777777;
+}
+
+h3
+{
+	font-style: italic;
+	font-size: 12pt;
+	font-weight: normal;
+	color: #777777;
+}
+
+h4
+{
+	font-weight: normal;
+	font-style: italic;
+	color: #777777;
+	font-size: 11pt;
+	margin-bottom: 1.0em;
+	margin-top: 1.50em;
+	margin: 1.12em;
+	margin-left: 0em;
+	margin-right: 0em;
+}
+
+h5
+{
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+
+h6
+{
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+
+p
+{
+	margin-bottom: 0pt;
+	margin: 0;
+	margin-top: 6pt;
+	font-size: 10pt;
+}
+
+ol,
+ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+img
+{
+	border: none;
+	margin: 3px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+a.Popup
+{
+	
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #0000ff;
+}
+
+MadCap|expandingBody
+{
+	font-style: normal;
+	color: #000000;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	text-decoration: none;
+	font-size: 10pt;
+	background-image: none;
+	color: #0000ff;
+	font-style: italic;
+	font-weight: bold;
+}
+
+span.wintitle
+{
+	font-weight: bold;
+}
+
+span.uicontrol
+{
+	font-weight: bold;
+	font-style: italic;
+}
+
+ul
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+}
+
+ol
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+}
+
+div.note
+{
+	font-size: 10pt;
+	margin: 18pt;
+	border-color: #696969;
+	mc-auto-number-format: '{b}NOTA: {/b}';
+	background-color: #d9d9d9;
+	border: solid 0px;
+	padding: 5px;
+	padding-left: 10px;
+}
+
+div.example
+{
+	font-size: 10pt;
+	margin: 18pt;
+	border-color: #696969;
+	padding: 3px;
+	mc-auto-number-format: '{b}Ejemplo: {/b}';
+	background-color: #d9d9d9;
+	border: solid 0px;
+}
+
+span.systemoutput
+{
+	font-style: italic;
+}
+
+MadCap|breadcrumbsProxy
+{
+	font-size: 10pt;
+	background-image: url('../Images/breadcrumb_bg.png');
+	border-bottom-color: #ffffff;
+	margin-bottom: 0px;
+	color: #000000;
+	mc-breadcrumbs-prefix: ' ';
+	margin: 0px;
+	padding: 6px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	height: 26px;
+	padding-top: 11px;
+}
+
+MadCap|dropDown
+{
+	mc-closed-image: url('../Images/verticalshow_icon.png');
+	mc-open-image: url('../Images/verticalhide_icon.png');
+}
+
+MadCap|expanding
+{
+	mc-closed-image: url('../Images/verticalshow_icon.png');
+	mc-open-image: url('../Images/verticalhide_icon.png');
+}
+
+MadCap|dropDownBody
+{
+	color: #000000;
+	font-size: 10pt;
+	font-style: normal;
+}
+
+li
+{
+	font-size: 10pt;
+}
+
+a:visited
+{
+	color: #6495ed;
+}
+
+div.tip
+{
+	font-size: 10pt;
+	margin: 18pt;
+	border-color: #696969;
+	mc-auto-number-format: '{b}Consejo: {/b}';
+	background-color: #d9d9d9;
+	border: solid 0px;
+	padding: 5px;
+	padding-left: 10px;
+}
+
+div.stepresult
+{
+	font-size: 10pt;
+}
+
+p.shortdesc
+{
+	mc-auto-number-format: '{i}Resumen: {/i}';
+}
+
+a.MCBreadcrumbsLink:visited
+{
+	color: #6495ed;
+}
+
+MadCap|pageFooter
+{
+	border-top: solid 1px;
+	border-top-color: #000000;
+	margin-top: 6pt;
+	padding-top: 3px;
+	font-size: 8pt;
+	background-color: #d9d9d9;
+	padding-bottom: 3px;
+}
+
+p.footer
+{
+	text-align: center;
+	padding: 3px;
+	font-size: 8pt;
+	background-color: #d9d9d9;
+}
+
+ol.substeps
+{
+	list-style-type: lower-alpha;
+}
+
+span.term
+{
+	font-style: italic;
+}
+
+span.userinput
+{
+	font-style: italic;
+	background-color: #d9d9d9;
+}
+
+@media print
+{
+	p.title
+	{
+		font-family: Calibri;
+		font-weight: bold;
+		text-align: center;
+		font-size: 24pt;
+	}
+
+	p.subtitle
+	{
+		text-align: center;
+		font-family: Calibri;
+		font-weight: bold;
+		color: #777777;
+		font-style: italic;
+		font-size: 14pt;
+	}
+
+	MadCap|dropDownHotspot
+	{
+		color: #000000;
+	}
+
+	a:active
+	{
+		
+	}
+
+	h1
+	{
+		margin-bottom: 0.5em;
+		margin: 0;
+		margin-top: 18pt;
+	}
+
+	h2
+	{
+		margin-bottom: 0.45em;
+		margin: 0;
+		margin-top: 14pt;
+	}
+
+	h3
+	{
+		margin-bottom: 0.60em;
+		margin: 0;
+		margin-top: 12pt;
+	}
+
+	h4
+	{
+		margin-bottom: 80em;
+		margin: 0em;
+		margin-top: 11pt;
+	}
+
+	h5
+	{
+		color: #777777;
+		margin-bottom: 1.0em;
+		margin: 0;
+		margin-top: 10pt;
+	}
+}
+
+p.MiniTOC1
+{
+	color: #0000ff;
+	font-weight: normal;
+	text-decoration: underline;
+	list-style-type: disc;
+	display: block;
+}
+
+MadCap|miniTocProxy
+{
+	color: #0000ff;
+}
+
+p.tocPgNb
+{
+	margin-bottom: 0pt;
+	margin: 0;
+	margin-top: 6pt;
+	font-size: 10pt;
+	text-align: center;
+}
+
+p.center
+{
+	text-align: center;
+}
+

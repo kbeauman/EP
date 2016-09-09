@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="DashboardProperties.flsnp"
+    source-language="en-us"
+    target-language="fr-ca"
+    datatype="x-flsnp">
+    <header>
+      <skl><external-file
+          href="DashboardProperties.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">9</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-li"
+        phase-name="pretrans"><source>Status - Enabled by default.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Status - Enabled by default.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">État - Activé par défaut.</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-li"
+        phase-name="pretrans"><source>Tiles - A list of tiles currently assigned to the dashboard.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Tiles - A list of tiles currently assigned to the dashboard.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Mosaïques - Une liste de mosaïques présentement attribuées au tableau de bord.</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-li"
+        phase-name="pretrans"><source>Layout - Change layout template if desired.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Layout - Change layout template if desired.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Disposition - Modifiez le modèle de disposition au besoin.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-li"
+        phase-name="pretrans"><source>Dashboard Owner - A menu of valid users. By default, the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Dashboard Owner<ept
+            id="1">&lt;/span&gt;</ept> has both <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>View<ept
+            id="2">&lt;/span&gt;</ept> and <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Edit<ept
+            id="3">&lt;/span&gt;</ept> privileges.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Dashboard Owner - A menu of valid users.</mrk><mrk
+            mtype="seg"
+            mid="2">By default, the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Dashboard Owner<ept
+              id="1">&lt;/span&gt;</ept> has both <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>View<ept
+              id="2">&lt;/span&gt;</ept> and <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Edit<ept
+              id="3">&lt;/span&gt;</ept> privileges.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Propriétaire du tableau de bord - Un menu d'utilisateurs valides.</mrk><mrk
+            mtype="seg"
+            mid="2">Par défaut, le <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Propriétaire du tableau de bord<ept
+              id="1">&lt;/span&gt;</ept> a deux privilèges : <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Consulter<ept
+              id="2">&lt;/span&gt;</ept> et <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Modifier<ept
+              id="3">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-li"
+        phase-name="pretrans"><source>User Assignments - You may copy assignments from another dashboard, or select privileges from the list.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">User Assignments - You may copy assignments from another dashboard, or select privileges from the list.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Attributions d'utilisateurs - Vous pouvez copier les attributions provenant d'un autre tableau de bord ou sélectionnez des privilèges dans la liste.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-li"
+        phase-name="pretrans"><source>Shared Reports - View the names of users who have shared the dashboard along with the date and expiration date. You may also cancel the share. Shared dashboards remain on this report for 60 days after expiration.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Shared Reports - View the names of users who have shared the dashboard along with the date and expiration date.</mrk><mrk
+            mtype="seg"
+            mid="2">You may also cancel the share.</mrk><mrk
+            mtype="seg"
+            mid="3">Shared dashboards remain on this report for 60 days after expiration.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Rapports partagés - Consultez les noms des utilisateurs qui ont partagé le tableau de bord ainsi que la date et la date d'expiration.</mrk><mrk
+            mtype="seg"
+            mid="2">Vous pouvez également annuler le partage.</mrk><mrk
+            mtype="seg"
+            mid="3">Les tableaux de bord partagés demeurent dans ce rapport pendant 60 jours après l'expiration.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

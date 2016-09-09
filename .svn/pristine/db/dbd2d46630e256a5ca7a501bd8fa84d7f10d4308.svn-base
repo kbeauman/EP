@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="863" MadCap:lastWidth="989" xml:lang="es" MadCap:ignoredWords="">
+    <head><title>Configuración del tablero - Paso 2</title>
+    </head>
+    <body>
+        <h1>Configuración del tablero - Paso 2</h1>
+        <p>Seleccione las opciones deseadas:</p>
+        <MadCap:snippetBlock src="Resources/Snippets/DashboardProperties.flsnp" />
+        <p style="text-align: center;">
+            <img src="Resources/Images/DashMgrPropDB.png" title="Configuración del Administrador del tablero." alt="cuadro de diálogo del Administrador del tablero" />
+        </p>
+        <h3>Información adicional</h3>
+        <p><a href="c_dashboard_manager.htm#DashboardDetails" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Acerca del cuadro de diálogo del Tablero &gt;</a></p>
+        <h3>Paso siguiente</h3>
+        <p><a href="editdash4.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Configuración del tablero - Guardar &gt;</a></p>
+    </body>
+</html>

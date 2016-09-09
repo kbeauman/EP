@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Build Score 4"
+  FileLanguage="fr-ca"
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Snippets/SelectData.flsnp" />
+    <Link
+      Url="Content/Resources/Images/buildtile4.png" />
+    <Link
+      Url="Content/buildscore6.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Snippets/SelectData.flsnp" />
+    <Link
+      Url="Content/Resources/Images/buildtile4.png" />
+    <Link
+      Url="Content/buildscore6.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

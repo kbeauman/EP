@@ -1,0 +1,984 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    xml:space="preserve"
+    original="c_benchmarks_ww.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="en-gb">
+    <header>
+      <skl><external-file
+          href="c_benchmarks_ww.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">59</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">16</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V9"
+        tool-name="Lingo"
+        tool-version="9.5.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Benchmarks</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Benchmarks</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Benchmarks</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Categories</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Categories</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Categories</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Benchmarks:new</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Benchmarks:new</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Benchmarks:new</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Quartiles</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Quartiles</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Quartiles</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Jump to this section of this page.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Jump to this section of this page.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="100"
+            comment="">Jump to this section of this page.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Jump to this section of this page.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Jump to this section of this page.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="100"
+            comment="">Jump to this section of this page.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Jump to this section of this topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Jump to this section of this topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Jump to this section of this topic.</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Jump to this section of this topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Jump to this section of this topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="100"
+            comment="">Jump to this section of this topic.</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>information icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">information icon</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">information icon</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>information icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">information icon</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="100"
+            comment="">information icon</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>tornado chart</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">tornado chart</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">tornado chart</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>tornado chart button</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">tornado chart button</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">tornado chart button</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>bullet graph</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">bullet graph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">bullet graph</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>bullet graph button</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">bullet graph button</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">bullet graph button</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>bullet graph example</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">bullet graph example</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">bullet graph example</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Click to enlarge. Click again to close.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click to enlarge.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">Click again to close.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click to enlarge.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click again to close.</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-title"
+        phase-name="pretrans"><source>Working With Benchmarks</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Working With Benchmarks</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Working With Benchmarks</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-h1"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Working with Benchmarks</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Working with Benchmarks</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Working with Benchmarks</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-p"
+        phase-name="pretrans"><source>Use the score averages of selected market categories to compare with your own.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Use the score averages of selected market categories to compare with your own.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Use the score averages of selected market categories to compare with your own.</mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-p"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Benchmark tiles allow you to compare your measures against the <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> database of measures from clients. You can view who these clients are, but you cannot access a specific client's data.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Benchmark tiles allow you to compare your measures against the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> database of measures from clients.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">You can view who these clients are, but you cannot access a specific client's data.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> Benchmark tiles allow you to compare your measures against the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> database of measures from clients.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">You can view who these clients are, but you cannot access a specific client's data.</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-h2"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Benchmark Math</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Benchmark Math</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Benchmark Math</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-p"
+        phase-name="pretrans"><source>Benchmark members are grouped by market venues consisting of five or more members which make up a <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Category<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>. A <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Category<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> score is derived from averaging the scores of its members. When a category has fewer than five members, the measure is omitted from the tile graphic and listed in the pull-down section of the tile header. For quartiles to appear in the  <bpt
+            id="3"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="#Bullet" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="5" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="6" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Bullet Graph<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept>, the minimum number is 20 members. Categories with fewer members display <bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="systemoutput"&gt;</bpt>N/A<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> in the <bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Details<ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> section of the sidebar (which opens when you click a category in the graph).</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Benchmark members are grouped by market venues consisting of five or more members which make up a <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Category<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">A <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Category<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> score is derived from averaging the scores of its members.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            comment="">When a category has fewer than five members, the measure is omitted from the tile graphic and listed in the pull-down section of the tile header.</mrk><mrk
+            mtype="seg"
+            mid="4"
+            comment="">For quartiles to appear in the <bpt
+              id="3"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="#Bullet" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="5" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="6" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Bullet Graph<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept>, the minimum number is 20 members.</mrk><mrk
+            mtype="seg"
+            mid="5"
+            comment="">Categories with fewer members display <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="systemoutput"&gt;</bpt>N/A<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> in the <bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Details<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> section of the sidebar (which opens when you click a category in the graph).</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Benchmark members are grouped by market venues consisting of five or more members which make up a <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Category<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">A <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Category<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> score is derived from averaging the scores of its members.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">When a category has fewer than five members, the measure is omitted from the tile graphic and listed in the pull-down section of the tile header.</mrk><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">For quartiles to appear in the <bpt
+              id="3"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="#Bullet" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="5" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="6" />"&gt;</bpt>Bullet Graph<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept>, the minimum number is 20 members.</mrk><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Categories with fewer members display <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="systemoutput"&gt;</bpt>N/A<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> in the <bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Details<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> section of the sidebar (which opens when you click a category in the graph).</mrk></target></trans-unit><trans-unit
+        id="23"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Build A New Benchmark Tile...</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Build A New Benchmark Tile...</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="3" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Build A New Benchmark Tile...</mrk></target></trans-unit><trans-unit
+        id="24"
+        restype="x-p"
+        phase-name="pretrans"><source>Select various benchmark category scores for selected <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Channels<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Measures<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Select various benchmark category scores for selected <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Channels<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Measures<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Select various benchmark category scores for selected <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Channels<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Measures<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="25"
+        restype="x-li"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/SelectSettings.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> The <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> sidebar displays with any <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Benchmark Categories<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> your company belongs to selected. See <bpt
+            id="3"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="#Benchmar" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="7" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="8" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Benchmark Categories Selection<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> for additional information on category members.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/SelectSettings.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> The <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> sidebar displays with any <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Benchmark Categories<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> your company belongs to selected.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">See <bpt
+              id="3"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="#Benchmar" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="7" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="8" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Benchmark Categories Selection<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> for additional information on category members.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/SelectSettings.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> The <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> sidebar displays with any <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Benchmark Categories<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> your company belongs to selected.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New"
+            comment="" /></target></trans-unit><trans-unit
+        id="26"
+        restype="x-h2"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a name="Benchmar" /&gt;</ph>Benchmark Categories Selection</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a name="Benchmar" /&gt;</ph>Benchmark Categories Selection</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a name="Benchmar" /&gt;</ph>Benchmark Categories Selection</mrk></target></trans-unit><trans-unit
+        id="27"
+        restype="x-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> sidebar contains a list of groups with check boxes for you to include in your tile. Each of these groups, or categories has a corresponding <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Information<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> icon (<ph
+            id="1"
+            ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="Resources/Images/info.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="9" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="10" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" MadCap:mediastyle="@media print { width: 16px;height: 16px;max-width: 16px;max-height: 16px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) to open a dialog listing the category's members. You may select up to 15 categories to be included in the tile. Categories your company belongs to are automatically selected.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">The <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> sidebar contains a list of groups with check boxes for you to include in your tile.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">Each of these groups, or categories has a corresponding <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Information<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="Resources/Images/info.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="9" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="10" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" MadCap:mediastyle="@media print { width: 16px;height: 16px;max-width: 16px;max-height: 16px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) to open a dialog listing the category's members.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            comment="">You may select up to 15 categories to be included in the tile.</mrk><mrk
+            mtype="seg"
+            mid="4"
+            comment="">Categories your company belongs to are automatically selected.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">The <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Settings<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> sidebar contains a list of groups with check boxes for you to include in your tile.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New"
+            comment="" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">You may select up to 15 categories to be included in the tile.</mrk><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Categories your company belongs to are automatically selected.</mrk></target></trans-unit><trans-unit
+        id="28"
+        restype="x-p"
+        phase-name="pretrans"><source>Data is displayed in interactive charts which allow you to drill-down into the data for specific information.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Data is displayed in interactive charts which allow you to drill-down into the data for specific information.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Data is displayed in interactive charts which allow you to drill-down into the data for specific information.</mrk></target></trans-unit><trans-unit
+        id="29"
+        restype="x-h3"
+        phase-name="pretrans"><source>Tornado Chart <ph
+            id="1"
+            ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="Resources/Images/benchmarkChart.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="11" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="12" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Tornado Chart <ph
+              id="1"
+              ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="Resources/Images/benchmarkChart.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="11" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="12" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New"
+            comment="" /></target></trans-unit><trans-unit
+        id="30"
+        restype="x-p"
+        phase-name="pretrans"><source>Your measure is the pivot point of this bar chart, where lower measures extend to the left and higher measures to the right. Each selected <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Benchmark Category<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> is labeled and (when clicked) displays a summary of the category, details of how your score compares, and a list of category members. <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Your measure is the pivot point of this bar chart, where lower measures extend to the left and higher measures to the right.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">Each selected <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Benchmark Category<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> is labeled and (when clicked) displays a summary of the category, details of how your score compares, and a list of category members. <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Your measure is the pivot point of this bar chart, where lower measures extend to the left and higher measures to the right.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Each selected <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Benchmark Category<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> is labeled and (when clicked) displays a summary of the category, details of how your score compares, and a list of category members. <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="31"
+        restype="x-h3"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a name="Bullet" /&gt;</ph>Bullet Graph <ph
+            id="2"
+            ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="Resources/Images/bullet.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="13" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="14" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a name="Bullet" /&gt;</ph>Bullet Graph <ph
+              id="2"
+              ctype="image" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;img src="Resources/Images/bullet.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="13" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="14" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" MadCap:mediastyle="@media print { width: 32px;height: 31px;max-width: 32px;max-height: 31px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New"
+            comment="" /></target></trans-unit><trans-unit
+        id="32"
+        restype="x-p"
+        phase-name="pretrans"><source>This graph has the following features:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">This graph has the following features:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">This graph has the following features:</mrk></target></trans-unit><trans-unit
+        id="33"
+        restype="x-li"
+        phase-name="pretrans"><source>Your score - Displays in the top margin with a reference line to visually compare with each category.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Your score - Displays in the top margin with a reference line to visually compare with each category.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Your score - Displays in the top margin with a reference line to visually compare with each category.</mrk></target></trans-unit><trans-unit
+        id="34"
+        restype="x-li"
+        phase-name="pretrans"><source>Categories - Each category is positioned horizontally with a label and quantitative scale. <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Categories - Each category is positioned horizontally with a label and quantitative scale. <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Categories - Each category is positioned horizontally with a label and quantitative scale. <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk></target></trans-unit><trans-unit
+        id="35"
+        restype="x-li"
+        phase-name="pretrans"><source>Mean - The average score for each category is displayed on the right of each category and represented in the scale.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Mean - The average score for each category is displayed on the right of each category and represented in the scale.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Mean - The average score for each category is displayed on the right of each category and represented in the scale.</mrk></target></trans-unit><trans-unit
+        id="36"
+        restype="x-li"
+        phase-name="pretrans"><source>Maximum and Minimum Ratings - Each category's highest and lowest scores.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Maximum and Minimum Ratings - Each category's highest and lowest scores.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Maximum and Minimum Ratings - Each category's highest and lowest scores.</mrk></target></trans-unit><trans-unit
+        id="37"
+        restype="x-li"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="4" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Quartiles - The scale represents how category members scored in quartered (25%) segments. This feature requires a minimum of 20 members.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="4" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Quartiles - The scale represents how category members scored in quartered (25%) segments.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">This feature requires a minimum of 20 members.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="4" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Quartiles - The scale represents how category members scored in quartered (25%) segments.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">This feature requires a minimum of 20 members.</mrk></target></trans-unit><trans-unit
+        id="38"
+        restype="x-p"
+        phase-name="pretrans"><source>Click anywhere along a category's label, scale, or average score to view details on a sidebar.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click anywhere along a category's label, scale, or average score to view details on a sidebar.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click anywhere along a category's label, scale, or average score to view details on a sidebar.</mrk></target></trans-unit><trans-unit
+        id="39"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>More about Bullet Graphs...</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">More about Bullet Graphs...</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">More about Bullet Graphs...</mrk></target></trans-unit><trans-unit
+        id="40"
+        restype="x-p"
+        phase-name="pretrans"><source>In <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, quartiles are the quartered divisions of a range to show 25th, 50th, and 75th percentiles. Using the illustration that follows, the first (lower) quartile is set at 71, which means 25% of this category's members scored below 71 with the minimum (or lowest) score of 54. Your score of 80 falls in the 50th percentile, or median of the group, which is set at 77. As previously mentioned, when you click on this scale a sidebar displays with these descriptions and values.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">In <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, quartiles are the quartered divisions of a range to show 25th, 50th, and 75th percentiles.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">Using the illustration that follows, the first (lower) quartile is set at 71, which means 25% of this category's members scored below 71 with the minimum (or lowest) score of 54.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            comment="">Your score of 80 falls in the 50th percentile, or median of the group, which is set at 77.</mrk><mrk
+            mtype="seg"
+            mid="4"
+            comment="">As previously mentioned, when you click on this scale a sidebar displays with these descriptions and values.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">In <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, quartiles are the quartered divisions of a range to show 25th, 50th, and 75th percentiles.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Using the illustration that follows, the first (lower) quartile is set at 71, which means 25% of this category's members scored below 71 with the minimum (or lowest) score of 54.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Your score of 80 falls in the 50th percentile, or median of the group, which is set at 77.</mrk><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">As previously mentioned, when you click on this scale a sidebar displays with these descriptions and values.</mrk></target></trans-unit><trans-unit
+        id="41"
+        restype="x-p"
+        phase-name="pretrans"><source>In this illustration:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">In this illustration:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">In this illustration:</mrk></target></trans-unit><trans-unit
+        id="42"
+        restype="x-li"
+        phase-name="pretrans"><source>Your Score = 80</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Your Score = 80</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Your Score = 80</mrk></target></trans-unit><trans-unit
+        id="43"
+        restype="x-li"
+        phase-name="pretrans"><source>Mean = 75</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Mean = 75</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Mean = 75</mrk></target></trans-unit><trans-unit
+        id="44"
+        restype="x-li"
+        phase-name="pretrans"><source>Maximum = 85</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Maximum = 85</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Maximum = 85</mrk></target></trans-unit><trans-unit
+        id="45"
+        restype="x-li"
+        phase-name="pretrans"><source>Third Quartile = 81</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Third Quartile = 81</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Third Quartile = 81</mrk></target></trans-unit><trans-unit
+        id="46"
+        restype="x-li"
+        phase-name="pretrans"><source>Median = 77</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Median = 77</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Median = 77</mrk></target></trans-unit><trans-unit
+        id="47"
+        restype="x-li"
+        phase-name="pretrans"><source>First Quartile = 71</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">First Quartile = 71</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">First Quartile = 71</mrk></target></trans-unit><trans-unit
+        id="48"
+        restype="x-li"
+        phase-name="pretrans"><source>Minimum = 54</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Minimum = 54</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Minimum = 54</mrk></target></trans-unit></body>
+  </file>
+</xliff>

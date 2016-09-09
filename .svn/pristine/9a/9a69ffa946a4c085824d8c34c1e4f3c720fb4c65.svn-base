@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="Pin2dash.flsnp"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="x-flsnp">
+    <header>
+      <skl><external-file
+          href="Pin2dash.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">4</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">2</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Pin button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Pin button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">botão fixar</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>pin button</source><seg-source><mrk
+            mtype="seg"
+            mid="1">pin button</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">botão fixar</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-body"
+        phase-name="pretrans"><source>When you click the <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Pin<ept
+            id="1">&lt;/span&gt;</ept> button (<ph
+            id="1"
+            ctype="image">&lt;img src="../Images/pin_button.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="2" />" /&gt;</ph>), the <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Pin to Dashboard<ept
+            id="2">&lt;/span&gt;</ept> dialog displays with the default setting of  <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Add to existing dashboard<ept
+            id="3">&lt;/span&gt;</ept>. You can select a dashboard from the menu, or click <bpt
+            id="4">&lt;span class="wintitle"&gt;</bpt>Add to new dashboard<ept
+            id="4">&lt;/span&gt;</ept> to display dashboard layout options.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">When you click the <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Pin<ept
+              id="1">&lt;/span&gt;</ept> button (<ph
+              id="1"
+              ctype="image">&lt;img src="../Images/pin_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="2" />" /&gt;</ph>), the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Pin to Dashboard<ept
+              id="2">&lt;/span&gt;</ept> dialog displays with the default setting of <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Add to existing dashboard<ept
+              id="3">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">You can select a dashboard from the menu, or click <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Add to new dashboard<ept
+              id="4">&lt;/span&gt;</ept> to display dashboard layout options.</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1">Quando você clica no botão <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Fixar<ept
+              id="1">&lt;/span&gt;</ept> (<ph
+              id="1"
+              ctype="image">&lt;img src="../Images/pin_button.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="2" />" /&gt;</ph>), a caixa de diálogo <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Fixar ao painel<ept
+              id="2">&lt;/span&gt;</ept> é exibida com a configuração padrão de <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Adicionar a painel existente<ept
+              id="3">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2">Você pode selecionar um painel no menu ou clicar em <bpt
+              id="4">&lt;span class="wintitle"&gt;</bpt>Adicionar a novo painel<ept
+              id="4">&lt;/span&gt;</ept> para exibir as opções de layout do painel.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="ViewDashBuilder.flsnp"
+    source-language="en-us"
+    target-language="en-gb"
+    datatype="x-flsnp">
+    <header>
+      <skl><external-file
+          href="ViewDashBuilder.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">7</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">5</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>dashboard icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">dashboard icon</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">dashboard icon</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>dashboard icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">dashboard icon</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">dashboard icon</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>view dashboard icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1">view dashboard icon</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">view dashboard icon</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-body"
+        phase-name="pretrans"><source>To view a dashboard, click the <bpt
+            id="1">&lt;span class="uicontrol"&gt;</bpt>Dashboard<ept
+            id="1">&lt;/span&gt;</ept> icon (<ph
+            id="1"
+            ctype="image">&lt;img src="../Images/Dashboard_icon.png" title="<sub
+              ctype="x-xhtml-img-title"
+              datatype="xhtml"
+              xid="1" />" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="2" />" MadCap:mediastyle="@media print { height: 24px;width: 24px;max-width: 24px;max-height: 24px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) on the side navigation and then click the dashboard title on the <bpt
+            id="2">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+            id="2">&lt;/span&gt;</ept> sidebar. Users having access to <bpt
+            id="3">&lt;span class="wintitle"&gt;</bpt>Tools<ept
+            id="3">&lt;/span&gt;</ept> may also view a dashboard from the <bpt
+            id="4"
+            ctype="link">&lt;a href="../../t_dashboard_new.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="3" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="4" />"&gt;</bpt>Dashboard Manager<ept
+            id="4">&lt;/a&gt;</ept> by clicking the <bpt
+            id="5">&lt;span class="wintitle"&gt;</bpt>View<ept
+            id="5">&lt;/span&gt;</ept> icon (<ph
+            id="2"
+            ctype="image">&lt;img src="../Images/viewDBicon.png" alt="<sub
+              ctype="x-xhtml-img-alt"
+              datatype="xhtml"
+              xid="5" />" MadCap:mediastyle="@media print { width: 20px;height: 13px;max-width: 20px;max-height: 13px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</source><seg-source><mrk
+            mtype="seg"
+            mid="1">To view a dashboard, click the <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Dashboard<ept
+              id="1">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image">&lt;img src="../Images/Dashboard_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="2" />" MadCap:mediastyle="@media print { height: 24px;width: 24px;max-width: 24px;max-height: 24px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) on the side navigation and then click the dashboard title on the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+              id="2">&lt;/span&gt;</ept> sidebar.</mrk><mrk
+            mtype="seg"
+            mid="2">Users having access to <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Tools<ept
+              id="3">&lt;/span&gt;</ept> may also view a dashboard from the <bpt
+              id="4"
+              ctype="link">&lt;a href="../../t_dashboard_new.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Dashboard Manager<ept
+              id="4">&lt;/a&gt;</ept> by clicking the <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>View<ept
+              id="5">&lt;/span&gt;</ept> icon (<ph
+              id="2"
+              ctype="image">&lt;img src="../Images/viewDBicon.png" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="5" />" MadCap:mediastyle="@media print { width: 20px;height: 13px;max-width: 20px;max-height: 13px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">To view a dashboard, click the <bpt
+              id="1">&lt;span class="uicontrol"&gt;</bpt>Dashboard<ept
+              id="1">&lt;/span&gt;</ept> icon (<ph
+              id="1"
+              ctype="image">&lt;img src="../Images/Dashboard_icon.png" title="<sub
+                ctype="x-xhtml-img-title"
+                datatype="xhtml"
+                xid="1" />" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="2" />" MadCap:mediastyle="@media print { height: 24px;width: 24px;max-width: 24px;max-height: 24px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>) on the side navigation and then click the dashboard title on the <bpt
+              id="2">&lt;span class="wintitle"&gt;</bpt>Dashboards<ept
+              id="2">&lt;/span&gt;</ept> sidebar.</mrk><mrk
+            mtype="seg"
+            mid="2">Users having access to <bpt
+              id="3">&lt;span class="wintitle"&gt;</bpt>Tools<ept
+              id="3">&lt;/span&gt;</ept> may also view a dashboard from the <bpt
+              id="4"
+              ctype="link">&lt;a href="../../t_dashboard_new.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="3" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="4" />"&gt;</bpt>Dashboard Manager<ept
+              id="4">&lt;/a&gt;</ept> by clicking the <bpt
+              id="5">&lt;span class="wintitle"&gt;</bpt>View<ept
+              id="5">&lt;/span&gt;</ept> icon (<ph
+              id="2"
+              ctype="image">&lt;img src="../Images/viewDBicon.png" alt="<sub
+                ctype="x-xhtml-img-alt"
+                datatype="xhtml"
+                xid="5" />" MadCap:mediastyle="@media print { width: 20px;height: 13px;max-width: 20px;max-height: 13px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>).</mrk></target></trans-unit></body>
+  </file>
+</xliff>

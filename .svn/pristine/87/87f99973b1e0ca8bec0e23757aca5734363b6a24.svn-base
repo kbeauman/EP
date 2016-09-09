@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Build a New Open Ends Tile - Step 8"
+  FileLanguage="fr-ca"
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Snippets/NewTileFinal.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/newTileOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Images/buildtile8.png" />
+    <Link
+      Url="Content/c_dashboards_about.htm" />
+    <Link
+      Url="Content/builddash2.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Snippets/NewTileFinal.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/newTileOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Images/buildtile8.png" />
+    <Link
+      Url="Content/c_dashboards_about.htm" />
+    <Link
+      Url="Content/builddash2.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

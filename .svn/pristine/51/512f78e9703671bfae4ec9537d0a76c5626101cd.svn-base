@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="557" MadCap:lastWidth="927" xml:lang="es" MadCap:ignoredWords="">
+    <head><title>Crear un nuevo mosaico de preguntas abiertas - Paso 8</title>
+    </head>
+    <body>
+        <h1>Crear un nuevo mosaico de preguntas abiertas - Paso 8</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/NewTileFinal.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="Resources/Snippets/newTileOptions.flsnp" />
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildtile8.png" title="Vista y el fijar." alt="diseños" style="mc-float: center;" />
+        </p>
+        <h3>Información adicional</h3>
+        <p><a href="c_dashboards_about.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Cómo trabajar con tableros</a>
+        </p>
+        <h3>Paso siguiente</h3>
+        <p><a href="builddash2.htm" title="Hacer clic para ver este tema de Ayuda." alt="Hacer clic para ver este tema de Ayuda.">Cómo usar la botón Fijar</a> &gt;</p>
+    </body>
+</html>

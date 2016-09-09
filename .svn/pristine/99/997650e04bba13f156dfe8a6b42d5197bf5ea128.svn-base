@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:tocPath="Welcome to Executive Portal|Quick Start Guides" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="en-us" xml:lang="en-us" MadCap:PathToHelpSystem="../" MadCap:HelpSystemFileName="Default.xml" MadCap:SearchType="Stem">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Edit an Existing Tile</title>
+        <link href="SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" />
+        <script src="SkinSupport/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapAll.js" type="text/javascript">
+        </script>
+        <script src="SkinSupport/MadCapTopicAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../Default_CSH.htm#edittile1.htm" style="">Open topic with navigation</a>
+        </p>
+        <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">  <![CDATA[ ]]></span><a class="MCBreadcrumbsLink" href="c_welcome.htm">Welcome to Executive Portal</a><span class="MCBreadcrumbsDivider"> &gt; </span><a class="MCBreadcrumbsLink" href="quickstartmain.htm">Quick Start Guides</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">Edit an Existing Tile</span>
+        </div>
+        <h1>Edit an Existing Tile</h1>
+        <p>Tiles set for a generic time frame, such as <span class="wintitle">Last Month</span> or <span class="wintitle">Last Year</span>, update automatically. However, there may be occasion to add or remove parameters of a given tile which currently displays on a dashboard. </p>
+        <div class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;"><span class="autonumber"><span><b>NOTE: </b></span></span>When you edit a tile, you are actually cloning the selected tile into the work environment it was built in where you can make the desired revisions. The selected tile remains on the dashboard.</div>
+        <p>To view a dashboard, click the <span class="uicontrol">Dashboard</span> icon (<img src="Resources/Images/Dashboard_icon.png" title="dashboard icon" alt="dashboard icon" />) on the side navigation and then click the dashboard title on the <span class="wintitle">Dashboards</span> sidebar. Users having access to <span class="wintitle">Tools</span> may also view a dashboard from the <a href="t_dashboard_new.htm#DashMgr" title="Click to view this Help topic." alt="Click to view this Help topic.">Dashboard Manager</a> by clicking the <span class="wintitle">View</span> icon (<img src="Resources/Images/viewDBicon.png" alt="view dashboard icon" />).</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/DashboardGo2.png" title="Go to Dashboards" alt="dashboard navigation" />
+        </p>
+        <h3>Additional Information</h3>
+        <p><a href="c_dashboards_about.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Working with Dashboards</a>
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="edittile2.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Step 1 &gt;</a>
+        </p>
+        <p>
+            <MadCap:pageFooter>
+                <p class="footer">- © 2014 ForeSee -</p>
+            </MadCap:pageFooter>
+        </p>
+        <script type="text/javascript" src="SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="239" MadCap:lastWidth="912" xml:lang="fr-ca" MadCap:ignoredWords="">
+    <head><title>À propos des résultats ouverts</title>
+    </head>
+    <body>
+        <h1>À propos des rapports ouverts</h1>
+        <MadCap:snippetBlock src="Resources/Snippets/OpenEndsSummary.flsnp" />
+        <p><MadCap:snippetText src="Resources/Snippets/OpenEnds.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> Os blocos mostram a <span class="wintitle">Medida</span> e o intervalo de datas no cabeçalho, com as <span class="wintitle">Perguntas abertas</span> selecionadas e os <span class="wintitle">Detalhes dos comentários</span> de cada entrevistado em um bloco separado. Uma resposta pode conter até três <span class="wintitle">Perguntas abertas</span>, até cinco <span class="wintitle">Detalhes de comentário</span> e a data da resposta.</p>
+        <h2>Dados de busca detalhada</h2>
+        <p>Clique em uma resposta para exibir informações detalhadas na barra lateral <span class="wintitle">Revisão de comentários de perguntas abertas</span> do entrevistado. Cada bloco de entrevistado está limitado a 300 caracteres para um único comentário e 150 caracteres para dois ou três comentários. Commentaires dépassant cette limite sont réduites et affichent une icône <span class="uicontrol">Développer</span> (<img src="Resources/Images/expand.png" title="expandir" alt="ícone expandir" MadCap:mediastyle="@media print { width: 13px;height: 11px;max-width: 13px;max-height: 11px; }" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />). Clicar no ícone exibe uma caixa de diálogo com o texto na íntegra.</p>
+    </body>
+</html>

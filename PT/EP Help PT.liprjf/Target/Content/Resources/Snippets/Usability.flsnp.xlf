@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+  version="1.2"
+  xml:space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    original="Usability.flsnp"
+    source-language="en-us"
+    target-language="pt-br"
+    datatype="x-flsnp">
+    <header>
+      <skl><external-file
+          href="Usability.flsnp.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">13</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">9</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V7"
+        tool-name="Lingo"
+        tool-version="7.0.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Role-based Usability</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Role-based Usability</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Role-based Usability</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-h2"
+        phase-name="pretrans"><source><ph
+            id="1">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Role-based Usability</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Role-based Usability</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Role-based Usability</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-p"
+        phase-name="pretrans"><source>Features and functionality of the <bpt
+            id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1">&lt;/span&gt;</ept> are governed by each user's role settings. For example, in order to move about in the system, you may see a <bpt
+            id="2"
+            ctype="link">&lt;a href="../../toc_viewer.htm#Dashboard" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" />"&gt;</bpt>navigation carousel<ept
+            id="2">&lt;/a&gt;</ept> along the top of a page or a <bpt
+            id="3"
+            ctype="link">&lt;a href="../../toc_creator1.htm#Side" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" />"&gt;</bpt>navigation bar<ept
+            id="3">&lt;/a&gt;</ept> along the left side. Also, some users have the ability to <bpt
+            id="4"
+            ctype="link">&lt;a href="../../t_share_2.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" />"&gt;</bpt>share a dashboard<ept
+            id="4">&lt;/a&gt;</ept>, and some have access to the <bpt
+            id="5"
+            ctype="link">&lt;a href="../../t_dashboard_new.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" />"&gt;</bpt>Dashboard Manager<ept
+            id="5">&lt;/a&gt;</ept>. Whenever possible, these role-based features are indicated in each <bpt
+            id="6">&lt;span class="wintitle"&gt;</bpt>Help<ept
+            id="6">&lt;/span&gt;</ept> topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Features and functionality of the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept> are governed by each user's role settings.</mrk><mrk
+            mtype="seg"
+            mid="2">For example, in order to move about in the system, you may see a <bpt
+              id="2"
+              ctype="link">&lt;a href="../../toc_viewer.htm#Dashboard" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>navigation carousel<ept
+              id="2">&lt;/a&gt;</ept> along the top of a page or a <bpt
+              id="3"
+              ctype="link">&lt;a href="../../toc_creator1.htm#Side" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>navigation bar<ept
+              id="3">&lt;/a&gt;</ept> along the left side.</mrk><mrk
+            mtype="seg"
+            mid="3">Also, some users have the ability to <bpt
+              id="4"
+              ctype="link">&lt;a href="../../t_share_2.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>share a dashboard<ept
+              id="4">&lt;/a&gt;</ept>, and some have access to the <bpt
+              id="5"
+              ctype="link">&lt;a href="../../t_dashboard_new.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Dashboard Manager<ept
+              id="5">&lt;/a&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="4">Whenever possible, these role-based features are indicated in each <bpt
+              id="6">&lt;span class="wintitle"&gt;</bpt>Help<ept
+              id="6">&lt;/span&gt;</ept> topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1">Features and functionality of the <bpt
+              id="1">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1">&lt;/span&gt;</ept> are governed by each user's role settings.</mrk><mrk
+            mtype="seg"
+            mid="2">For example, in order to move about in the system, you may see a <bpt
+              id="2"
+              ctype="link">&lt;a href="../../toc_viewer.htm#Dashboard" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>navigation carousel<ept
+              id="2">&lt;/a&gt;</ept> along the top of a page or a <bpt
+              id="3"
+              ctype="link">&lt;a href="../../toc_creator1.htm#Side" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>navigation bar<ept
+              id="3">&lt;/a&gt;</ept> along the left side.</mrk><mrk
+            mtype="seg"
+            mid="3">Also, some users have the ability to <bpt
+              id="4"
+              ctype="link">&lt;a href="../../t_share_2.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>share a dashboard<ept
+              id="4">&lt;/a&gt;</ept>, and some have access to the <bpt
+              id="5"
+              ctype="link">&lt;a href="../../t_dashboard_new.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Dashboard Manager<ept
+              id="5">&lt;/a&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="4">Whenever possible, these role-based features are indicated in each <bpt
+              id="6">&lt;span class="wintitle"&gt;</bpt>Help<ept
+              id="6">&lt;/span&gt;</ept> topic.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

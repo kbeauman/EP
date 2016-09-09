@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="262" MadCap:lastWidth="989" xml:lang="en-us" xml:space="preserve">
+    <head><title>Edit an Existing Tile</title>
+    </head>
+    <body>
+        <h1>Edit an Existing Tile</h1>
+        <p>Tiles set for a generic time frame, such as <span class="wintitle">Last Month</span> or <span class="wintitle">Last Year</span>, update automatically. However, there may be occasion to add or remove parameters of a given tile which currently displays on a dashboard. <MadCap:snippetText src="Resources/Snippets/ViewDashBuilder.flsnp" /></p>
+        <p style="text-align: center;">image</p>
+        <h3>Additional Information</h3>
+        <p><a href="c_dashboards_about.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Working with Dashboards</a>
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="edittile2.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Step 1 &gt;</a>
+        </p>
+    </body>
+</html>

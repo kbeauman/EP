@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>Priority Map</Term>
+    </Terms>
+    <Definition
+      Link="">A graphical representation of each Element in four quadrants based on Score and Impact on Satisfaction. Implacts are graphed on the x-acis and Element Scores are graphed on the y-axis.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>n Count</Term>
+    </Terms>
+    <Definition
+      Link="">The number of respondents.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>Open End</Term>
+    </Terms>
+    <Definition
+      Link="">An open ended question, i.e., a question which is expected to be answered with a narrative as opposed to a static yes/no, true/false, or 0-10 rating.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>Future Behavior</Term>
+    </Terms>
+    <Definition
+      Link="">The likelihood of site visitors to exhibit, or exhibit more often, a certain action as a result of a positive experience, such as returning to or referring others to a website, store, or call center.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>Benchmark</Term>
+    </Terms>
+    <Definition
+      Link="">An average of scores collected from five or more similar organizations to be used as a standard for comparing a score against peers or competitors. Benchmark data also includes top scores for comparison to best-in-class.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>Dashboard</Term>
+    </Terms>
+    <Definition
+      Link="">A collection of widgets called Tiles, which display a rating based on selected data types, such as demographics, environment, or customer satisfaction. There can be any number of tiles in a dashboard, and any number of dashboards.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>Journey Tree</Term>
+    </Terms>
+    <Definition
+      Link="">Custom question data which is graphically displayed in a hierarchical form. A score is branched for each selected question with each branch representing a selected response. For example, the question of Age is selected for a score, with the four youngest age groups selected. The result is a Journey Tree with four branches with scores and n Counts for each age. If another question is added with three answers selected, each of the four Age branches is divided into three, and so on.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>Trend Correlation</Term>
+    </Terms>
+    <Definition
+      Link="">Two to five scores displayed over a selected time span in a line chart. This tile illustrates how changes in one score may or may not impact other scores.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    TermClass="Popup">
+    <Terms>
+      <Term>drill-down</Term>
+    </Terms>
+    <Definition
+      Link="">To display data in greater granularity, i.e., to view the details of which data is comprised of.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="759" MadCap:lastWidth="776">
+    <head><title>Build a New Benchmark Tile - Step 6</title>
+    </head>
+    <body>
+        <h1>Build a New Benchmark Tile - Step 6</h1>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/BenchmarkSelectCat.flsnp" />
+        </p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/buildbench4.png" title="Select Benchmark Categories" alt="Benchmark Category settings" />
+        </p>
+        <h3>Additional Information</h3>
+        <p><a href="c_benchmarks_ww.htm#Benchmar" title="Click to view this Help topic." alt="Click to view this Help topic.">Benchmark Categories Selection</a>
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="buildbenchmark7.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Step 7 &gt;</a>
+        </p>
+    </body>
+</html>

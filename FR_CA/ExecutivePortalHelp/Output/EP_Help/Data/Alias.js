@@ -1,0 +1,12 @@
+var xmlAliasData = "";
+xmlAliasData += '<?xml version=\"1.0\" encoding=\"utf-8\"?>';
+xmlAliasData += '<CatapultAliasFile DefaultSkinName=\"EP_Help\">';
+xmlAliasData += '    <Map Name=\"login\" Link=\"c_login.htm\" ResolvedId=\"1009\" />';
+xmlAliasData += '    <Map Name=\"dashboards\" Link=\"c_dashboards_about.htm\" ResolvedId=\"1000\" />';
+xmlAliasData += '    <Map Name=\"dates\" Link=\"r_date.htm\" ResolvedId=\"1005\" />';
+xmlAliasData += '    <Map Name=\"share\" Link=\"t_share.htm\" ResolvedId=\"1006\" />';
+xmlAliasData += '    <Map Name=\"benchmarks\" Link=\"c_benchmarks_ww.htm\" ResolvedId=\"1003\" />';
+xmlAliasData += '    <Map Name=\"openends\" Link=\"c_openends_ww.htm\" ResolvedId=\"1002\" />';
+xmlAliasData += '    <Map Name=\"scores\" Link=\"c_scores_ww.htm\" ResolvedId=\"1001\" />';
+xmlAliasData += '</CatapultAliasFile>';
+CMCXmlParser._FilePathToXmlStringMap.Add('Alias', xmlAliasData);

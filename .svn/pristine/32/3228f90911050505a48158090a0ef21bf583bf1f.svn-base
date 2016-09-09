@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="224" MadCap:lastWidth="1002" xml:lang="pt-br" xml:space="preserve">
+    <head><title>Build Score Main</title>
+    </head>
+    <body>
+        <h1>Build a new Response Score Tile</h1>
+        <h2>Response Comparison</h2>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/ResCompDef.flsnp" />
+        </p>
+        <h3>Additional Information</h3>
+        <p><a href="c_scores_ww.htm" target="_parent" title="Click to view this Help topic." alt="Click to view this Help topic.">Working with Scores</a>
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="buildscore2.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Step 1 &gt;</a>
+        </p>
+    </body>
+</html>

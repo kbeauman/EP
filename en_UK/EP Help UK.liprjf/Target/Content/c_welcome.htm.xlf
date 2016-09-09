@@ -1,0 +1,990 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    xml:space="preserve"
+    original="c_welcome.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="en-gb">
+    <header>
+      <skl><external-file
+          href="c_welcome.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">58</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">14</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V9"
+        tool-name="Lingo"
+        tool-version="9.5.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Help:about</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Help:about</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Help:about</mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>dashboard viewer icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">dashboard viewer icon</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">dashboard viewer icon</mrk></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>dashboard creator icon</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">dashboard creator icon</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">dashboard creator icon</mrk></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>foresee logo</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">foresee logo</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">foresee logo</mrk></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xhtml-a-title"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xhtml-a-alt"
+        phase-name="pretrans"><source>Click to view this Help topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click to view this Help topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click to view this Help topic.</mrk></target></trans-unit><trans-unit
+        id="15"
+        restype="x-h1"
+        phase-name="pretrans"><source>Welcome to Executive Portal</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Welcome to Executive Portal</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Welcome to Executive Portal</mrk></target></trans-unit><trans-unit
+        id="16"
+        restype="x-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> is a web based application designed specifically for top level management to organize and view multichannel and multi-measure information provided by <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">The <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> is a web based application designed specifically for top level management to organize and view multichannel and multi-measure information provided by <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">The <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> is a web based application designed specifically for top level management to organize and view multichannel and multi-measure information provided by <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="17"
+        restype="x-p"
+        phase-name="pretrans"><source>This is accomplished through customizable dashboards which present your data in a variety of interactive graphics that clearly identify important outliers for decision makers. These graphics also enable you to drill down into data with a single click.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">This is accomplished through customizable dashboards which present your data in a variety of interactive graphics that clearly identify important outliers for decision makers.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">These graphics also enable you to drill down into data with a single click.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">This is accomplished through customizable dashboards which present your data in a variety of interactive graphics that clearly identify important outliers for decision makers.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">These graphics also enable you to drill down into data with a single click.</mrk></target></trans-unit><trans-unit
+        id="18"
+        restype="x-th"
+        phase-name="pretrans"><source>Dashboard Viewer</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Dashboard Viewer</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Dashboard Viewer</mrk></target></trans-unit><trans-unit
+        id="19"
+        restype="x-th"
+        phase-name="pretrans"><source>Dashboard Creator</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Dashboard Creator</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Dashboard Creator</mrk></target></trans-unit><trans-unit
+        id="20"
+        restype="x-td"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="toc_viewer.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Dashboard Viewer<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> - The consumer or recipient of dashboards who  analyzes the charts, grids, and Open Ends.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="toc_viewer.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Dashboard Viewer<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> - The consumer or recipient of dashboards who analyzes the charts, grids, and Open Ends.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="toc_viewer.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Dashboard Viewer<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> - The consumer or recipient of dashboards who analyzes the charts, grids, and Open Ends.</mrk></target></trans-unit><trans-unit
+        id="21"
+        restype="x-td"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="toc_creator1.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Dashboard Creator<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> -  Develops and arranges customized tiles into dashboards for the purpose of presenting data.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="toc_creator1.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Dashboard Creator<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> - Develops and arranges customized tiles into dashboards for the purpose of presenting data.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="toc_creator1.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Dashboard Creator<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> - Develops and arranges customized tiles into dashboards for the purpose of presenting data.</mrk></target></trans-unit><trans-unit
+        id="22"
+        restype="x-h2"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Getting Help</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Getting Help</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Getting Help</mrk></target></trans-unit><trans-unit
+        id="23"
+        restype="x-p"
+        phase-name="pretrans"><source>Information on using this <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Help<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> feature.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Information on using this <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Help<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> feature.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Information on using this <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Help<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> feature.</mrk></target></trans-unit><trans-unit
+        id="24"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> may be viewed at any time during your login session by clicking <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Help<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> at the top of the web page.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> may be viewed at any time during your login session by clicking <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Help<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> at the top of the web page.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> may be viewed at any time during your login session by clicking <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Help<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> at the top of the web page.</mrk></target></trans-unit><trans-unit
+        id="25"
+        restype="x-h3"
+        phase-name="pretrans"><source>Drop-down Text</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Drop-down Text</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Drop-down Text</mrk></target></trans-unit><trans-unit
+        id="26"
+        restype="x-p"
+        phase-name="pretrans"><source>Some topics may show links like this:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Some topics may show links like this:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Some topics may show links like this:</mrk></target></trans-unit><trans-unit
+        id="27"
+        restype="x-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>Click to view something important...</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click to view something important...</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click to view something important...</mrk></target></trans-unit><trans-unit
+        id="28"
+        restype="x-p"
+        phase-name="pretrans"><source>Click the link again to close this section of text. Generally, the drop-down text feature is used for topics with several paragraphs or multiple step-by-step procedures to offer access to desired information quickly without having to scroll down the page. Drop-down text is expanded (opened) automatically when you print a topic.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click the link again to close this section of text.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">Generally, the drop-down text feature is used for topics with several paragraphs or multiple step-by-step procedures to offer access to desired information quickly without having to scroll down the page.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            comment="">Drop-down text is expanded (opened) automatically when you print a topic.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click the link again to close this section of text.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Generally, the drop-down text feature is used for topics with several paragraphs or multiple step-by-step procedures to offer access to desired information quickly without having to scroll down the page.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Drop-down text is expanded (opened) automatically when you print a topic.</mrk></target></trans-unit><trans-unit
+        id="29"
+        restype="x-h3"
+        phase-name="pretrans"><source>Labels and Actions</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Labels and Actions</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Labels and Actions</mrk></target></trans-unit><trans-unit
+        id="30"
+        restype="x-p"
+        phase-name="pretrans"><source>As you view <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> you may notice items in <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>bold<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>bold-italic<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>. This is to help you identify <bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Labels<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, such as a text field label, and <bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Actions<ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, as in a graphical user interface button or link.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">As you view <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> you may notice items in <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>bold<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>bold-italic<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">This is to help you identify <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Labels<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, such as a text field label, and <bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Actions<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, as in a graphical user interface button or link.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">As you view <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> you may notice items in <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>bold<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> and <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>bold-italic<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">This is to help you identify <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Labels<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, such as a text field label, and <bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Actions<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, as in a graphical user interface button or link.</mrk></target></trans-unit><trans-unit
+        id="31"
+        restype="x-h3"
+        phase-name="pretrans"><source>Help Toolbar</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Help Toolbar</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Help Toolbar</mrk></target></trans-unit><trans-unit
+        id="32"
+        restype="x-p"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> offers the following features at the top of the web page:</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> offers the following features at the top of the web page:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Executive Portal Help<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> offers the following features at the top of the web page:</mrk></target></trans-unit><trans-unit
+        id="33"
+        restype="x-th"
+        phase-name="pretrans"><source>Feature</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Feature</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Feature</mrk></target></trans-unit><trans-unit
+        id="34"
+        restype="x-th"
+        phase-name="pretrans"><source>Description</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Description</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Description</mrk></target></trans-unit><trans-unit
+        id="35"
+        restype="x-td"
+        phase-name="pretrans"><source>Click the <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>ForeSee<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> logo to display the <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> web page in a new tab.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Click the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>ForeSee<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> logo to display the <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> web page in a new tab.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>ForeSee<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> logo to display the <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>ForeSee<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> web page in a new tab.</mrk></target></trans-unit><trans-unit
+        id="36"
+        restype="x-td"
+        phase-name="pretrans"><source>Show or hide the left sidebar, which contains the <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Search<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, and <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Index<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> for <bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Help<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Show or hide the left sidebar, which contains the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Search<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, and <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Index<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> for <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Help<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Show or hide the left sidebar, which contains the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Search<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>, and <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Index<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> for <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Help<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk></target></trans-unit><trans-unit
+        id="37"
+        restype="x-td"
+        phase-name="pretrans"><source>Previous</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Previous</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Previous</mrk></target></trans-unit><trans-unit
+        id="38"
+        restype="x-td"
+        phase-name="pretrans"><source>Step backwards through the 
+					<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> to view each topic in reverse order (not to be confused with the <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Back<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> button of your web browser).</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Step backwards through the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> to view each topic in reverse order (not to be confused with the <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Back<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> button of your web browser).</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Step backwards through the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> to view each topic in reverse order (not to be confused with the <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Back<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> button of your web browser).</mrk></target></trans-unit><trans-unit
+        id="39"
+        restype="x-td"
+        phase-name="pretrans"><source>Next</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Next</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Next</mrk></target></trans-unit><trans-unit
+        id="40"
+        restype="x-td"
+        phase-name="pretrans"><source>Step through the 
+						<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> to view each topic sequentially as you would when reading a
+					book.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Step through the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> to view each topic sequentially as you would when reading a book.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Step through the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> to view each topic sequentially as you would when reading a book.</mrk></target></trans-unit><trans-unit
+        id="41"
+        restype="x-td"
+        phase-name="pretrans"><source>TOC</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">TOC</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">TOC</mrk></target></trans-unit><trans-unit
+        id="42"
+        restype="x-td"
+        phase-name="pretrans"><source>Display the 
+					<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> in the left sidebar.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Display the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> in the left sidebar.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Display the <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="wintitle"&gt;</bpt>Table of Contents<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> in the left sidebar.</mrk></target></trans-unit><trans-unit
+        id="43"
+        restype="x-td"
+        phase-name="pretrans"><source>Search</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Search</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Search</mrk></target></trans-unit><trans-unit
+        id="44"
+        restype="x-td"
+        phase-name="pretrans"><source>Display a free-form text field in the left sidebar to enter all or part of a specific word. You can also enter word strings in quotations, e.g., <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="userinput"&gt;</bpt>"Open Ends"<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>. The
+						corresponding 
+						<bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Search<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> button returns all topics containing your
+						entry. Click on each topic to view the page with your search criteria
+					highlighted.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Display a free-form text field in the left sidebar to enter all or part of a specific word.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">You can also enter word strings in quotations, e.g., <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="userinput"&gt;</bpt>"Open Ends"<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            comment="">The corresponding <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Search<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> button returns all topics containing your entry.</mrk><mrk
+            mtype="seg"
+            mid="4"
+            comment="">Click on each topic to view the page with your search criteria highlighted.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Display a free-form text field in the left sidebar to enter all or part of a specific word.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">You can also enter word strings in quotations, e.g., <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="userinput"&gt;</bpt>"Open Ends"<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept>.</mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">The corresponding <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span class="uicontrol"&gt;</bpt>Search<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept> button returns all topics containing your entry.</mrk><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Click on each topic to view the page with your search criteria highlighted.</mrk></target></trans-unit><trans-unit
+        id="45"
+        restype="x-td"
+        phase-name="pretrans"><source>Index</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Index</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Index</mrk></target></trans-unit><trans-unit
+        id="46"
+        restype="x-td"
+        phase-name="pretrans"><source>Display a list of terms which are linked to topics containing the most descriptive information the term.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Display a list of terms which are linked to topics containing the most descriptive information the term.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Display a list of terms which are linked to topics containing the most descriptive information the term.</mrk></target></trans-unit><trans-unit
+        id="47"
+        restype="x-td"
+        phase-name="pretrans"><source>Print</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Print</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Print</mrk></target></trans-unit><trans-unit
+        id="48"
+        restype="x-td"
+        phase-name="pretrans"><source>Sends the current 
+					topic to your default printer. For pages with drop-down sections, all sections are expanded automatically.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Sends the current topic to your default printer.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            comment="">For pages with drop-down sections, all sections are expanded automatically.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Sends the current topic to your default printer.</mrk><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">For pages with drop-down sections, all sections are expanded automatically.</mrk></target></trans-unit><trans-unit
+        id="49"
+        restype="x-td"
+        phase-name="pretrans"><source>Breadcrumb</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Breadcrumb</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Breadcrumb</mrk></target></trans-unit><trans-unit
+        id="50"
+        restype="x-p"
+        phase-name="pretrans"><source>Between the toolbar and topic, a breadcrumb displays with links to parent topics.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment="">Between the toolbar and topic, a breadcrumb displays with links to parent topics.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment="">Between the toolbar and topic, a breadcrumb displays with links to parent topics.</mrk></target></trans-unit><trans-unit
+        id="51"
+        restype="x-div"
+        phase-name="pretrans"><source><bpt
+            id="1"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="c_welcome.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Welcome to Executive Portal<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> &gt; <bpt
+            id="2"
+            ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="toc_viewer.htm" title="<sub
+              ctype="x-xhtml-a-title"
+              datatype="xhtml"
+              xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+              ctype="x-xhtml-a-alt"
+              datatype="xhtml"
+              xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Dashboard Viewer<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> &gt; About the Login Page.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            comment=""><bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="c_welcome.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Welcome to Executive Portal<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> &gt; <bpt
+              id="2"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="toc_viewer.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />"&gt;</bpt>Dashboard Viewer<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> &gt; About the Login Page.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            comment=""><bpt
+              id="1"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="c_welcome.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Welcome to Executive Portal<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> &gt; <bpt
+              id="2"
+              ctype="link" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;a href="toc_viewer.htm" title="<sub
+                ctype="x-xhtml-a-title"
+                datatype="xhtml"
+                xid="2" />" alt="<sub
+                ctype="x-xhtml-a-alt"
+                datatype="xhtml"
+                xid="3" />"&gt;</bpt>Dashboard Viewer<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/a&gt;</ept> &gt; About the Login Page.</mrk></target></trans-unit></body>
+  </file>
+</xliff>

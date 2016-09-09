@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="906" MadCap:lastWidth="912" xml:lang="fr-ca" xml:space="preserve">
+    <head><title>About Benckmarks</title>
+    </head>
+    <body>
+        <h1>About Benchmark Tiles</h1>
+        <MadCap:snippetBlock src="Resources/Snippets/BenchmarkSummary.flsnp" />
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" /> Benchmark tiles allow you to compare your measures against the <span class="wintitle">ForeSee</span> database of measures from clients. You can view who these clients are, but you cannot access a specific client's data. </p>
+        <h2>
+            <MadCap:keyword term="Categories" />Benchmark Math</h2>
+        <p>Benchmark members are grouped by market venues consisting of five or more members which make up a <span class="wintitle">Category</span>. A <span class="wintitle">Category</span> score is derived from averaging the scores of its members. When a category has fewer than five members, the measure is omitted from the tile graphic and listed in the pull-down section of the tile header. For quartiles to appear in the  <a href="#Bullet" title="Jump to this section of this page." alt="Jump to this section of this page.">Bullet Graph</a>, the minimum number is 20 members. Categories with fewer members display <span class="systemoutput">N/A</span> in the <span class="wintitle">Details</span> section of the sidebar (which opens when you click a category in the graph).</p>
+        <h2><a name="Benchmar"></a>Benchmark Categories Selection</h2>
+        <p>Data is displayed in the following interactive chart layouts which allow you to drill-down into the data for specific information. These charts are organized by score, with the lowest score at the top. <MadCap:snippetText src="Resources/Snippets/SortMenu.flsnp" /></p>
+        <h3>Tornado Chart </h3>
+        <p>Your measure is the pivot point of this bar chart, where lower measures extend to the left and higher measures to the right. Each selected <span class="wintitle">Benchmark Category</span> is labeled and (when clicked) displays a summary of the category, details of how your score compares, and a list of category members. <MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" /></p>
+        <h3><a name="Bullet"></a>Bullet Graph </h3>
+        <p>This graph has the following features:</p>
+        <ul>
+            <li>Your score - Displays in the top margin with a reference line to visually compare with each category.</li>
+            <li>Categories - Each category is positioned horizontally with a label and quantitative scale. <MadCap:snippetText src="Resources/Snippets/Fewer.flsnp" /></li>
+            <li>Mean - The average score for each category is displayed on the right of each category and represented in the scale.</li>
+            <li>Maximum and Minimum Ratings - Each category's highest and lowest scores.</li>
+            <li>
+                <MadCap:keyword term="Quartiles" />Quartiles - The scale represents how category members scored in quartered (25%) segments. This feature requires a minimum of 20 members. </li>
+        </ul>
+        <p>Click anywhere along a category's label, scale, or average score to view details on a sidebar. </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>More about Bullet Graphs...</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>In <span class="wintitle">Executive Portal</span>, quartiles are the quartered divisions of a range to show 25th, 50th, and 75th percentiles. Using the illustration that follows, the first (lower) quartile is set at 71, which means 25% of this category's members scored below 71 with the minimum (or lowest) score of 54. Your score of 80 falls in the 50th percentile, or median of the group, which is set at 77. As previously mentioned, when you click on this scale a sidebar displays with these descriptions and values. </p>
+                <p>
+                    <img src="Resources/Images/BulletGraphicExample4.png" alt="bullet graph example" title="Click to enlarge. Click again to close." style="mc-thumbnail: popup;" MadCap:mediastyle="@media print { width: 512px;height: 350px;max-width: 512px;max-height: 350px; }" />
+                </p>
+                <p>In this illustration:</p>
+                <ol>
+                    <li>Your Score = 80</li>
+                    <li>Mean = 75</li>
+                    <li>Maximum = 85</li>
+                    <li>Third Quartile = 81</li>
+                    <li>Median = 77</li>
+                    <li>First Quartile = 71</li>
+                    <li>Minimum = 54</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

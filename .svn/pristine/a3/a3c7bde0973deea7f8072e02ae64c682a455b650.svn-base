@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="258" MadCap:lastWidth="927" xml:lang="es" MadCap:ignoredWords="">
+    <head><title>Acerca de Comentarios </title>
+    </head>
+    <body>
+        <h1>Acerca de mosaicos de comentarios</h1>
+        <MadCap:snippetBlock src="Resources/Snippets/OpenEndsSummary.flsnp" />
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/OpenEnds.flsnp" /> Los mosaicos muestran la <span class="wintitle">Medida</span> y el rango de fecha en el encabezado, con las <span class="wintitle">Preguntas abiertas</span> y los <span class="wintitle">Detalles de comentarios</span> seleccionados de cada encuestado en un bloque distinto. Una respuesta puede contener hasta tres <span class="wintitle">Preguntas abiertas</span>, hasta cinco <span class="wintitle">Detalles de comentarios</span> y la fecha de la respuesta.</p>
+        <h2>Datos detallados</h2>
+        <p>Haga clic en una respuesta para ver información detallada en la barra lateral <span class="wintitle">Revisión de comentarios a preguntas abiertas</span> para el encuestado individual. Cada bloque de encuestados se limita a 300 caracteres para un único comentario y a 150 caracteres para dos o tres comentarios. Los comentarios que excedan este límite se ocultan y muestran el icono <span class="uicontrol">Ampliar</span> (<img src="Resources/Images/expand.png" title="ampliar" alt="icono ampliar" MadCap:mediastyle="@media print { width: 13px;height: 11px;max-width: 13px;max-height: 11px; }" />). Al hacer clic en el icono se abre un cuadro de diálogo con la narrativa completa.</p>
+    </body>
+</html>

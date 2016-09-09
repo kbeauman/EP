@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="538" MadCap:lastWidth="954" xml:lang="es" xml:space="preserve">
+    <head>
+        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Viewing Dashboards</title>
+    </head>
+    <body>
+        <h1>Viewing <MadCap:keyword term="Dashboards:Viewing" />Dashboards</h1>
+        <p class="shortdesc" MadCap:autonum="&lt;i&gt;Summary: &lt;/i&gt;">View reports based on a theme, such as cross-channel satisfaction. </p>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/dashboardDesc.flsnp" /> There can be any number of tiles in a dashboard, and any number of dashboards. </p>
+        <p>To view a specific dashboard, click the dashboard name in the <a href="toc_viewer.htm#Dashboard" title="Click to view this Help topic." alt="Click to view this Help topic.">navigation carousel</a> along the top of the page.</p>
+        <h2>Dashboard <MadCap:keyword term="Tiles" />Tiles</h2>
+        <p>
+            <MadCap:snippetText src="Resources/Snippets/TilesDef.flsnp" />
+        </p>
+        <ul>
+            <li><a href="c_scores_ww.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Scores</a> - <MadCap:snippetText src="Resources/Snippets/ScoreDesc.flsnp" /> </li>
+            <li><a href="c_benchmarks_ww.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Benchmarks</a> - <MadCap:snippetText src="Resources/Snippets/Benchmarks.flsnp" /> </li>
+            <li><a href="c_openends_ww.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Open Ends</a> - <MadCap:snippetText src="Resources/Snippets/OpenEnds.flsnp" /> </li>
+        </ul>
+        <h2>
+            <MadCap:keyword term="Dashboard Options" />Dashboard Options</h2>
+        <p>While viewing a dashboard, the following options are available:</p>
+        <table style="width: 100%; mc-table-style: url('Resources/TableStyles/Ref2Column.css'); margin-left: auto; margin-right: auto;" class="TableStyle-Ref2Column" cellspacing="0">
+            <col class="TableStyle-Ref2Column-Column-Column1" />
+            <col class="TableStyle-Ref2Column-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-Ref2Column-Head-Header1">
+                    <th class="TableStyle-Ref2Column-HeadE-Column1-Header1">Option</th>
+                    <th class="TableStyle-Ref2Column-HeadD-Column2-Header1">Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body1">
+                        <img src="Resources/Images/expand.png" title="expand" alt="expand icon" MadCap:mediastyle="@media print { width: 13px;height: 11px;max-width: 13px;max-height: 11px; }" /> Expand metadata</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body1">Click the plus sign to display additional information on tile data. </td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body2">
+                    <td class="TableStyle-Ref2Column-BodyE-Column1-Body2">
+                        <img src="Resources/Images/fullScreen.png" title="full screen" alt="full screen icon" MadCap:mediastyle="@media print { width: 25px;height: 18px;max-width: 25px;max-height: 18px; }" /> Full screen</td>
+                    <td class="TableStyle-Ref2Column-BodyD-Column2-Body2">
+                        <MadCap:snippetBlock src="Resources/Snippets/fullScreenDef.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Ref2Column-Body-Body1">
+                    <td class="TableStyle-Ref2Column-BodyB-Column1-Body1">
+                        <img src="Resources/Images/share.png" title="share" alt="share icon" MadCap:mediastyle="@media print { width: 22px;height: 16px;max-width: 22px;max-height: 16px; }" /> <MadCap:keyword term="Share" />Share</td>
+                    <td class="TableStyle-Ref2Column-BodyA-Column2-Body1">Click to display the <span class="wintitle">Sharing</span> sidebar, where you can invite others to view the dashboard. See <a href="t_share_2.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Share A Dashboard</a> for instructions.</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

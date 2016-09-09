@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="517" MadCap:lastWidth="951" xml:lang="en-gb" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1>Build a New Priority Map Tile - Step 2</h1>
+        <p>Click <span class="uicontrol">Priority Map</span> on the <span class="wintitle">Scores</span> sidebar.</p>
+        <p class="center">
+            <img src="Resources/Images/PriorityMap1.png" title="Click Priority Map." alt="scores sidebar - click priority map" />
+        </p>
+        <h3>Additional Information</h3>
+        <p><a href="c_scores_ww.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Working with Scores</a>
+        </p>
+        <h3>Next Step</h3>
+        <p><a href="buildPriorityMap3.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Step 3 &gt;</a>
+        </p>
+    </body>
+</html>

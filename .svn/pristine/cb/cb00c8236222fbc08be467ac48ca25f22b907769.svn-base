@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="fr-ca" MadCap:ignoredWords="">
+    <body>
+        <ul>
+            <li>État - Activé par défaut.</li>
+            <li>Mosaïques - Une liste de mosaïques présentement attribuées au tableau de bord.</li>
+            <li>Disposition - Modifiez le modèle de disposition au besoin.</li>
+            <li>Propriétaire du tableau de bord - Un menu d'utilisateurs valides. Par défaut, le <span class="wintitle">Propriétaire du tableau de bord</span> a deux privilèges: <span class="wintitle">Consulter</span> et <span class="wintitle">Modifier</span>.</li>
+            <li>Attributions d'utilisateurs - Vous pouvez copier les attributions provenant d'un autre tableau de bord ou sélectionnez des privilèges dans la liste.</li>
+            <li>Rapports partagés - Consultez les noms des utilisateurs qui ont partagé le tableau de bord ainsi que la date et la date d'expiration. Vous pouvez également annuler le partage. Les tableaux de bord partagés demeurent dans ce rapport pendant 60 jours après l'expiration.</li>
+        </ul>
+    </body>
+</html>
