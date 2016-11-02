@@ -5,7 +5,9 @@
     <Medium
       Name="print" />
     <Medium
-      Name="non-print" />
+      Name="tablet" />
+    <Medium
+      Name="mobile" />
   </Media>
   <Map>
     <Tag
@@ -174,6 +176,28 @@
       <Class
         Name="userinput" />
       <Class
+        Name="SearchHighlight" />
+      <Class
+        Name="SearchHighlight1" />
+      <Class
+        Name="SearchHighlight2" />
+      <Class
+        Name="SearchHighlight3" />
+      <Class
+        Name="SearchHighlight4" />
+      <Class
+        Name="SearchHighlight5" />
+      <Class
+        Name="SearchHighlight6" />
+      <Class
+        Name="SearchHighlight7" />
+      <Class
+        Name="SearchHighlight8" />
+      <Class
+        Name="SearchHighlight9" />
+      <Class
+        Name="SearchHighlight10" />
+      <Class
         Name="SeeAlsoIndex" />
       <Class
         Name="SeeAlsoIndexTerms" />
@@ -204,6 +228,12 @@
         Name="GlossaryPageDefinition" />
       <Class
         Name="GlossaryPageHeading" />
+      <Class
+        Name="Row-4-4-4" />
+      <Class
+        Name="Row-6-6" />
+      <Class
+        Name="Row-8-4" />
     </Tag>
     <Tag
       Name="MadCap|breadcrumbsProxy" />
@@ -270,6 +300,8 @@
     <Tag
       Name="td" />
     <Tag
+      Name="section" />
+    <Tag
       Name="caption" />
     <Tag
       Name="address" />
@@ -316,8 +348,6 @@
     <Tag
       Name="u" />
     <Tag
-      Name="o" />
-    <Tag
       Name="samp" />
     <Tag
       Name="strike" />
@@ -331,6 +361,30 @@
       Name="tt" />
     <Tag
       Name="var" />
+    <Tag
+      Name="article" />
+    <Tag
+      Name="aside" />
+    <Tag
+      Name="canvas" />
+    <Tag
+      Name="footer" />
+    <Tag
+      Name="header" />
+    <Tag
+      Name="nav" />
+    <Tag
+      Name="q" />
+    <Tag
+      Name="datalist" />
+    <Tag
+      Name="label" />
+    <Tag
+      Name="optgroup" />
+    <Tag
+      Name="option" />
+    <Tag
+      Name="legend" />
     <Tag
       Name="col" />
     <Tag
@@ -372,6 +426,8 @@
     <Tag
       Name="MadCap|bodyProxy" />
     <Tag
+      Name="MadCap|pageBreak" />
+    <Tag
       Name="MadCap|topicToolbarProxy" />
     <Tag
       Name="MadCap|tocProxy" />
@@ -398,6 +454,12 @@
       Name="MadCap|relationshipsItem" />
     <Tag
       Name="MadCap|endnotesProxy" />
+    <Tag
+      Name="MadCap|searchBarProxy" />
+    <Tag
+      Name="MadCap|menuProxy" />
+    <Tag
+      Name="MadCap|searchResultsProxy" />
     <Tag
       Name="MadCap|snippetText" />
     <Tag
@@ -435,6 +497,8 @@
         Name="active" />
     </Tag>
     <Tag
+      Name="MadCap|model3D" />
+    <Tag
       Name="MadCap|conditionalText" />
     <Tag
       Name="MadCap|section" />
@@ -458,6 +522,8 @@
         Name="IndexPageNumber" />
       <Class
         Name="ListOfPageNumber" />
+      <Class
+        Name="RelLinkPageNumber" />
     </Tag>
     <Tag
       Name="MadCap|annotation" />
@@ -519,10 +585,10 @@
     <Url
       Source="Resources/TableStyles/Test.css" />
     <Url
-      Source="../../../../../../Program Files (x86)/MadCap Software/MadCap Flare V10/Flare.app/Resources/Schemas/xhtml.css" />
+      Source="../../../../../../Program Files/MadCap Software/MadCap Flare 12/Flare.app/Resources/Schemas/xhtml.css" />
     <Url
-      Source="../../../../../../Program Files (x86)/MadCap Software/MadCap Flare V10/Flare.app/Resources/Schemas/MadCapEditor.css" />
+      Source="../../../../../../Program Files/MadCap Software/MadCap Flare 12/Flare.app/Resources/Schemas/MadCapEditor.css" />
     <Url
-      Source="../../../../../../Program Files (x86)/MadCap Software/MadCap Flare V10/Flare.app/Resources/Schemas/MadCapEditorFlare.css" />
+      Source="../../../../../../Program Files/MadCap Software/MadCap Flare 12/Flare.app/Resources/Schemas/MadCapEditorFlare.css" />
   </SourceUrls>
 </CatapultGlobalStyleCache>

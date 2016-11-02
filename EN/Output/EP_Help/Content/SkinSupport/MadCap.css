@@ -5,7 +5,7 @@
  * http://www.madcapsoftware.com/
  * Unlicensed use is strictly prohibited
  *
- * v11.0.0.0
+ * v12.0.0.0
  */
 
 .MCDropDown
@@ -528,15 +528,5 @@ img.MCPopupThumbnail_0
 	margin: 3px;
 	margin-bottom: 0px;
 	margin-top: 0px;
-}
-
-div.MCGlossaryProxy_0
-{
-	border-top-width: 1px;
-	border-top-style: solid;
-	border-top-color: black;
-	padding-top: 10px;
-	margin-top: 10px;
-	padding-left: 20px;
 }
 

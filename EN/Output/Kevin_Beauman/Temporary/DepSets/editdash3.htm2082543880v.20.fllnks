@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Dashboard Setup -  Step 2"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Snippets/DashboardProperties.flsnp" />
+    <Link
+      Url="Content/Resources/Images/DashMgrPropDB.png" />
+    <Link
+      Url="Content/c_dashboard_manager.htm" />
+    <Link
+      Url="Content/editdash4.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Snippets/DashboardProperties.flsnp" />
+    <Link
+      Url="Content/Resources/Images/DashMgrPropDB.png" />
+    <Link
+      Url="Content/c_dashboard_manager.htm#DashboardDetails" />
+    <Link
+      Url="Content/editdash4.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
