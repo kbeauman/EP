@@ -396,6 +396,30 @@
                         <Property Name="Color">#000000</Property>
                     </Properties>
                 </StyleClass>
+                <StyleClass Name="SelectLanguage">
+                    <Properties>
+                        <Property Name="ControlType">SelectLanguage</Property>
+                        <Property Name="Icon">url('blankTb.png')</Property>
+                        <Property Name="PressedIcon">url('blankTb.png')</Property>
+                        <Property Name="HoverIcon">url('blankTb.png')</Property>
+                        <Property Name="FontFamily">Calibri</Property>
+                        <Property Name="FontSize">12pt</Property>
+                        <Property Name="FontWeight">normal</Property>
+                        <Property Name="Color">#000000</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="SelectSkin">
+                    <Properties>
+                        <Property Name="ControlType">SelectSkin</Property>
+                        <Property Name="Icon">url('blankTb.png')</Property>
+                        <Property Name="PressedIcon">url('blankTb.png')</Property>
+                        <Property Name="HoverIcon">url('blankTb.png')</Property>
+                        <Property Name="FontFamily">Calibri</Property>
+                        <Property Name="FontSize">12pt</Property>
+                        <Property Name="FontWeight">normal</Property>
+                        <Property Name="Color">#000000</Property>
+                    </Properties>
+                </StyleClass>
             </Classes>
             <Properties>
                 <Property Name="Icon">url('blankTb.png')</Property>
@@ -741,177 +765,6 @@
                 <Property Name="SeeAlsoReference">Ver também:</Property>
             </Properties>
         </Style>
-        <Style Name="FeedbackUserProfileItem">
-            <Classes>
-                <StyleClass Name="Username">
-                    <Properties>
-                        <Property Name="Label">Nome do usuário:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="EmailAddress">
-                    <Properties>
-                        <Property Name="Label">Endereço de e-mail:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="FirstName">
-                    <Properties>
-                        <Property Name="Label">Nome:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="MiddleName">
-                    <Properties>
-                        <Property Name="Label">Segundo nome:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="LastName">
-                    <Properties>
-                        <Property Name="Label">Sobrenome:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Address1">
-                    <Properties>
-                        <Property Name="Label">Endereço:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Address2">
-                    <Properties>
-                        <Property Name="Label">Endereço 2:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Address3">
-                    <Properties>
-                        <Property Name="Label">Endereço 3:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Address4">
-                    <Properties>
-                        <Property Name="Label">Endereço 4:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="City">
-                    <Properties>
-                        <Property Name="Label">Cidade:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="State">
-                    <Properties>
-                        <Property Name="Label">Estado:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="PostalCode">
-                    <Properties>
-                        <Property Name="Label">Código de endereçamento postal:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Country">
-                    <Properties>
-                        <Property Name="Label">País:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Gender">
-                    <Properties>
-                        <Property Name="Label">Gênero:</Property>
-                        <Property Name="GenderFemaleName">F</Property>
-                        <Property Name="GenderMaleName">M</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Phone1">
-                    <Properties>
-                        <Property Name="Label">Telefone:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Phone2">
-                    <Properties>
-                        <Property Name="Label">Telefone 2:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Phone3">
-                    <Properties>
-                        <Property Name="Label">Telefone 3:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Fax">
-                    <Properties>
-                        <Property Name="Label">Fax:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Birthdate">
-                    <Properties>
-                        <Property Name="Label">Data de nascimento:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Date">
-                    <Properties>
-                        <Property Name="Label">Dia:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Employer">
-                    <Properties>
-                        <Property Name="Label">Empregador:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Occupation">
-                    <Properties>
-                        <Property Name="Label">Profissão:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Department">
-                    <Properties>
-                        <Property Name="Label">Departamento:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Custom1">
-                    <Properties>
-                        <Property Name="Label">À escolha:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Custom2">
-                    <Properties>
-                        <Property Name="Label">À escolha 2:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Custom3">
-                    <Properties>
-                        <Property Name="Label">À escolha 3:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Custom4">
-                    <Properties>
-                        <Property Name="Label">À escolha 4:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Custom5">
-                    <Properties>
-                        <Property Name="Label">À escolha 5:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Custom6">
-                    <Properties>
-                        <Property Name="Label">À escolha 6:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Custom7">
-                    <Properties>
-                        <Property Name="Label">À escolha 7:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Custom8">
-                    <Properties>
-                        <Property Name="Label">À escolha 8:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Custom9">
-                    <Properties>
-                        <Property Name="Label">À escolha 9:</Property>
-                    </Properties>
-                </StyleClass>
-                <StyleClass Name="Custom10">
-                    <Properties>
-                        <Property Name="Label">À escolha 10:</Property>
-                    </Properties>
-                </StyleClass>
-            </Classes>
-        </Style>
         <Style Name="Control">
             <Classes>
                 <StyleClass Name="SearchButton">
@@ -1103,6 +956,204 @@
                         <Property Name="CommentReplyNotificationLabel">houver uma resposta a algum de meus comentários</Property>
                         <Property Name="CommentSameTopicNotificationLabel">houver um comentário a respeito de um tema que tenha comentado</Property>
                         <Property Name="CommentSameHelpSystemNotificationLabel">houver um comentário referente a qualquer tema no sistema de ajuda.</Property>
+                    </Properties>
+                </StyleClass>
+            </Classes>
+        </Style>
+        <Style Name="FeedbackUserProfileItem">
+            <Classes>
+                <StyleClass Name="Username">
+                    <Properties>
+                        <Property Name="Required">true</Property>
+                        <Property Name="Label">Username</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="EmailAddress">
+                    <Properties>
+                        <Property Name="Required">true</Property>
+                        <Property Name="Label">Email Address</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="FirstName">
+                    <Properties>
+                        <Property Name="Label">First Name</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="MiddleName">
+                    <Properties>
+                        <Property Name="Label">Middle Name</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="LastName">
+                    <Properties>
+                        <Property Name="Label">Last Name</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Address1">
+                    <Properties>
+                        <Property Name="Label">Address</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Address2">
+                    <Properties>
+                        <Property Name="Label">Address2</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Address3">
+                    <Properties>
+                        <Property Name="Label">Address3</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Address4">
+                    <Properties>
+                        <Property Name="Label">Address4</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="City">
+                    <Properties>
+                        <Property Name="Label">City</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="State">
+                    <Properties>
+                        <Property Name="Label">State</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="PostalCode">
+                    <Properties>
+                        <Property Name="Label">Postal Code</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Country">
+                    <Properties>
+                        <Property Name="Label">Country</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Gender">
+                    <Properties>
+                        <Property Name="Label">Gender</Property>
+                        <Property Name="GenderFemaleName">Female</Property>
+                        <Property Name="GenderMaleName">Male</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Phone1">
+                    <Properties>
+                        <Property Name="Label">Home Phone</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Phone2">
+                    <Properties>
+                        <Property Name="Label">Work Phone</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Phone3">
+                    <Properties>
+                        <Property Name="Label">Mobile Phone</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Fax">
+                    <Properties>
+                        <Property Name="Label">Fax</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Birthdate">
+                    <Properties>
+                        <Property Name="Label">Birthdate</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Date">
+                    <Properties>
+                        <Property Name="Label">Date</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Employer">
+                    <Properties>
+                        <Property Name="Label">Employer</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Occupation">
+                    <Properties>
+                        <Property Name="Label">Occupation</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Department">
+                    <Properties>
+                        <Property Name="Label">Department</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Custom1">
+                    <Properties>
+                        <Property Name="Label">Custom1</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Custom2">
+                    <Properties>
+                        <Property Name="Label">Custom2</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Custom3">
+                    <Properties>
+                        <Property Name="Label">Custom3</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Custom4">
+                    <Properties>
+                        <Property Name="Label">Custom4</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Custom5">
+                    <Properties>
+                        <Property Name="Label">Custom5</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Custom6">
+                    <Properties>
+                        <Property Name="Label">Custom6</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Custom7">
+                    <Properties>
+                        <Property Name="Label">Custom7</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Custom8">
+                    <Properties>
+                        <Property Name="Label">Custom8</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Custom9">
+                    <Properties>
+                        <Property Name="Label">Custom9</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="Custom10">
+                    <Properties>
+                        <Property Name="Label">Custom10</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="EmailNotificationsGroup">
+                    <Properties>
+                        <Property Name="Label">Email Notifications</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="EmailNotificationsHeading">
+                    <Properties>
+                        <Property Name="Label">I want to receive an email when...</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="CommentReplyNotification">
+                    <Properties>
+                        <Property Name="Label">a reply is left to one of my comments</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="CommentSameTopicNotification">
+                    <Properties>
+                        <Property Name="Label">a comment is left on a topic that I commented on</Property>
+                    </Properties>
+                </StyleClass>
+                <StyleClass Name="CommentSameHelpSystemNotification">
+                    <Properties>
+                        <Property Name="Label">a comment is left on any topic in the Help system</Property>
                     </Properties>
                 </StyleClass>
             </Classes>

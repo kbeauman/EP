@@ -1,7 +1,7 @@
 // {{MadCap}} //////////////////////////////////////////////////////////////////
 // Copyright: MadCap Software, Inc - www.madcapsoftware.com ////////////////////
 ////////////////////////////////////////////////////////////////////////////////
-// <version>11.0.0.0</version>
+// <version>12.0.0.0</version>
 ////////////////////////////////////////////////////////////////////////////////
 
 //    Syntax:
@@ -543,6 +543,7 @@ function CMCHelpSystem( parentSubsystem, parentPath, xmlFile, tocPath, browseSeq
 	this.UseCustomTopicFileExtension	= false;
 	this.CustomTopicFileExtension = null;
 	this.PreventExternalUrls = false;
+	this.LanguageName = null;
 	
 	this.GlossaryUrl					= null;
 	this.SearchFilterSetUrls = null;
@@ -587,6 +588,7 @@ function CMCHelpSystem( parentSubsystem, parentPath, xmlFile, tocPath, browseSeq
 	        mSelf.InPreviewMode = FMCGetAttributeBool(xmlDoc.documentElement, "InPreviewMode", false);
 	        mSelf.LiveHelpOutputId = xmlDoc.documentElement.getAttribute("LiveHelpOutputId");
 	        mSelf.LiveHelpServer = xmlDoc.documentElement.getAttribute("LiveHelpServer");
+	        mSelf.LanguageName = xmlDoc.documentElement.getAttribute("LanguageName");
 	        mSelf.LiveHelpEnabled = mSelf.LiveHelpOutputId != null;
             mSelf.IsWebHelpPlus = mSelf.TargetType == "WebHelpPlus" && document.location.protocol.StartsWith("http", false);
 

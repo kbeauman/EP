@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<UrlList xml:lang="fr-ca" xml:space="preserve">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
     <Url Source="Resources/Snippets/SectionShortDesc.flsnp" />
     <Url Source="Resources/Snippets/DMdbOpen.flsnp" />
     <Url Source="Resources/Snippets/fullScreenDef.flsnp" />
