@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Añadir un tablero"
+  FileLanguage="es"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Snippets/summaryDashboardNew.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/permissions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/dashboardDesc.flsnp" />
+    <Link
+      Url="Content/Resources/Images/pin_button.png" />
+    <Link
+      Url="Content/c_dashboard_manager.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Snippets/summaryDashboardNew.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/permissions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/dashboardDesc.flsnp" />
+    <Link
+      Url="Content/Resources/Images/pin_button.png" />
+    <Link
+      Url="Content/c_dashboard_manager.htm#DashMgr" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Tableros:nuevo"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Início Rápido"
+  FileLanguage="pt-br"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/buildscore1.htm" />
+    <Link
+      Url="Content/buildbenchmark1.htm" />
+    <Link
+      Url="Content/buildopenend1.htm" />
+    <Link
+      Url="Content/edittile1.htm" />
+    <Link
+      Url="Content/builddash1.htm" />
+    <Link
+      Url="Content/editdash1.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/buildscore1.htm" />
+    <Link
+      Url="Content/buildbenchmark1.htm" />
+    <Link
+      Url="Content/buildopenend1.htm" />
+    <Link
+      Url="Content/edittile1.htm" />
+    <Link
+      Url="Content/builddash1.htm" />
+    <Link
+      Url="Content/editdash1.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

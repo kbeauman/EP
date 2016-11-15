@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="">
+    <TocEntry Title="tapa" Link="/Content/cover.htm" BreakType="pageLayout" AutoEndOnLeftPage="disabled" PageType="title" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Cover.flpgl" conditions="Default.PrintOnly" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" />
+    <TocEntry Title="Tabla de Contenidos" Link="/Content/toc_print.htm" conditions="Default.PrintOnly" StartSection="false" BreakType="chapter" AutoEndOnLeftPage="disabled" PageLayout="/Content/Resources/PageLayouts/TOC.flpgl" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="lower-roman" SectionNumberReset="reset" VolumeNumberReset="reset" VolumeNumber="1" VolumeNumberFormat="lower-roman" SectionNumber="1" SectionNumberFormat="lower-roman" PageType="continue" PageNumberReset="reset" PageNumberFormat="lower-roman" PageNumber="1" />
+    <TocEntry Title="Bienvenido al Portal Ejecutivo." Link="/Content/c_welcome.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="1" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="decimal" SectionNumberReset="continue" VolumeNumberReset="same" PageNumberFormat="decimal">
+        <TocEntry Title="Visor de tableros" Link="/Content/toc_viewer.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl">
+            <TocEntry Title="Cómo usar la página Ingresar" Link="/Content/c_login.htm">
+            </TocEntry>
+            <TocEntry Title="La barra de herramientas del Portal ejecutivo" Link="/Content/r_toolbar_2.htm" />
+            <TocEntry Title="Visualización de tableros" Link="/Content/c_dashboards_about_2.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" />
+            <TocEntry Title="Compartir un tablero" Link="/Content/t_share_2.htm" />
+        </TocEntry>
+        <TocEntry Title="Creador de tableros" Link="/Content/toc_creator1.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Print.flpgl">
+            <TocEntry Title="Cómo usar la página Ingresar" Link="/Content/c_login_2.htm" />
+            <TocEntry Title="La barra de herramientas del Portal ejecutivo" Link="/Content/r_toolbar.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="decimal" PageLayout="/Content/Resources/PageLayouts/Print.flpgl" SectionNumberReset="continue" VolumeNumberReset="same" />
+            <TocEntry Title="Cómo trabajar con tableros" Link="/Content/c_dashboards_about.htm" />
+            <TocEntry Title="Share A Dashboard" Link="/Content/t_share.htm" />
+            <TocEntry Title="Añadir un tablero" Link="/Content/t_dashboard_new.htm" />
+            <TocEntry Title="Acerca del Administrador del tablero" Link="/Content/c_dashboard_manager.htm" />
+            <TocEntry Title="Cómo trabajar con puntuaciones" Link="/Content/c_scores_ww.htm" />
+            <TocEntry Title="Cómo trabajar con preguntas abiertas" Link="/Content/c_openends_ww.htm" />
+            <TocEntry Title="Cómo trabajar con comparaciones" Link="/Content/c_benchmarks_ww.htm">
+            </TocEntry>
+            <TocEntry Title="Selección del rango de fecha" Link="/Content/r_date.htm" />
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

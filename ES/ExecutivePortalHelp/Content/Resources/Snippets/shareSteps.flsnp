@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="275" MadCap:lastWidth="878" xml:lang="es">
+    <body>
+        <ol>
+            <li>El icono <span class="uicontrol">Compartir</span> aparece en el extremo inferior derecho de la ventana de su navegador cuando está visualizando un tablero. Haga clic sobre el icono para ver la barra lateral <span class="wintitle">Compartir</span>.</li>
+            <li>Seleccione la opción deseada:<ul><li><span class="wintitle">Enlazar al tablero</span> - <MadCap:snippetText src="Link2dashDef.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></li><li><span class="wintitle">Enlazar para descargar PDF</span> - <MadCap:snippetText src="link2pdfDef.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></li></ul></li>
+            <li>Seleccione el período de vencimiento para el tablero</li>
+            <li>(Opcional) Escriba una contraseña en el cuadro de texto para proteger la página web o el archivo de PDF de usuarios no autorizados. La contraseña no está incluida en el correo electrónico y se la podrá comunicar a un destinatario del modo que usted desee.</li>
+            <li>Haga clic en <span class="uicontrol">Compartir tablero</span>. La barra lateral se cierra y se abre un cuadro de diálogo con dos opciones:<ul><li>Copiar el URL - Resalte toda la secuencia en el cuadro de texto y cópiela (haga clic con el botón derecho del mouse sobre el texto resaltado y seleccione <span class="uicontrol">Copiar</span> en el menú contextual, o mantenga presionada la tecla <span class="uicontrol">Ctrl</span> y presione la tecla <span class="uicontrol">C</span>). Puede pegar el enlace del modo que desee. </li><li>Crear un correo electrónico - Haga clic en <span class="uicontrol">Crear correo electrónico</span> y su aplicación de correo electrónico predeterminada generará un mensaje con el URL. Escriba la dirección del destinatario y edite el mensaje del modo deseado antes de enviarlo.</li></ul></li>
+            <li>Para cerrar el diálogo, haga clic en <span class="uicontrol">Cancelar</span>.</li>
+        </ol>
+    </body>
+</html>

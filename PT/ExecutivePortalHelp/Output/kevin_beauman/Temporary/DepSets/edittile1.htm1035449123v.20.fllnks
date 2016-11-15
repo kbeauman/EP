@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Editar um bloco existente"
+  FileLanguage="pt-br"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Snippets/ViewDashBuilder.flsnp" />
+    <Link
+      Url="Content/c_dashboards_about.htm" />
+    <Link
+      Url="Content/edittile2.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Snippets/ViewDashBuilder.flsnp" />
+    <Link
+      Url="Content/c_dashboards_about.htm" />
+    <Link
+      Url="Content/edittile2.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
