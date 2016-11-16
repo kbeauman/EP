@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="9" MadCap:lastHeight="673" MadCap:lastWidth="839" xml:lang="pt-br" MadCap:ignoredWords="">
-    <head>
-        <link href="Resources/TableStyles/Ref2Column.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Como usar a página de acesso</title>
-    </head>
-    <body>
-        <MadCap:snippetBlock src="Resources/Snippets/loginPg.flsnp" />
-    </body>
-</html>

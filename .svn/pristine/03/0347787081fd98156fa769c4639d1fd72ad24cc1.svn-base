@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="es" xml:space="preserve">
-    <body>
-        <div class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;">When you share a dashboard the recipient sees a virtual copy containing data which is frozen at the moment you click the <span class="uicontrol">Share</span> icon. The web page version of a shared dashboard is still interactive, but the data does not change.</div>
-    </body>
-</html>

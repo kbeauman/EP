@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RecentLinks xml:lang="fr-ca" xml:space="preserve">
-    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
-        <Link Value="Z:\ExecutivePortalHelp\Content\toc_creator1.htm" />
-    </Dialog>
-    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="Z:\ExecutivePortalHelp\Content\Resources\Images\sets_icon.png" />
-    </Dialog>
-</RecentLinks>

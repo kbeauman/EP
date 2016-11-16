@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="90" MadCap:lastWidth="1032" MadCap:conditions="Default.PrintOnly" xml:lang="es" MadCap:ignoredWords="">
-    <head><title>Tabla de Contenidos</title>
-    </head>
-    <body>
-        <p class="subtitle">Tabla de Contenidos</p>
-        <MadCap:tocProxy />
-    </body>
-</html>
